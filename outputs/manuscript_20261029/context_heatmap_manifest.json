@@ -1,0 +1,54 @@
+[
+  {
+    "id": "evaluation_dimensions_by_design_domain",
+    "appendix_label": "D1",
+    "caption": "Evaluation dimensions across design domains. Cell labels show record counts. Color shows the share of all dimension-mapped records within each domain.",
+    "files": {
+      "png": "figures/evaluation_dimensions_by_design_domain.png",
+      "pdf": "figures/evaluation_dimensions_by_design_domain.pdf"
+    },
+    "source_files": [
+      "04_RQ1/rq1_domain_stage_by_dimension_indicator_tool.csv"
+    ],
+    "aspect_ratio": 1.8823529411764708
+  },
+  {
+    "id": "subjective_indicators_ACD_by_design_domain",
+    "appendix_label": "D2",
+    "caption": "Subjective indicators across design domains. Cell labels show record counts. Color shows the share of all indicator-mapped records within each domain. The rows show all indicators in dimensions A, C, and D.",
+    "files": {
+      "png": "figures/subjective_indicators_ACD_by_design_domain.png",
+      "pdf": "figures/subjective_indicators_ACD_by_design_domain.pdf"
+    },
+    "source_files": [
+      "04_RQ1/rq1_domain_stage_by_dimension_indicator_tool.csv"
+    ],
+    "aspect_ratio": 0.927536231884058
+  },
+  {
+    "id": "evaluation_dimensions_by_design_stage",
+    "appendix_label": "D3",
+    "caption": "Evaluation dimensions across design stages. Cell labels show record counts. Color shows the share of all dimension-mapped records within each stage.",
+    "files": {
+      "png": "figures/evaluation_dimensions_by_design_stage.png",
+      "pdf": "figures/evaluation_dimensions_by_design_stage.pdf"
+    },
+    "source_files": [
+      "04_RQ1/rq1_domain_stage_by_dimension_indicator_tool.csv"
+    ],
+    "aspect_ratio": 1.8823529411764708
+  },
+  {
+    "id": "subjective_indicators_ACD_by_design_stage",
+    "appendix_label": "D4",
+    "caption": "Subjective indicators across design stages. Cell labels show record counts. Color shows the share of all indicator-mapped records within each stage. The rows show all indicators in dimensions A, C, and D.",
+    "files": {
+      "png": "figures/subjective_indicators_ACD_by_design_stage.png",
+      "pdf": "figures/subjective_indicators_ACD_by_design_stage.pdf"
+    },
+    "source_files": [
+      "04_RQ1/rq1_domain_stage_by_dimension_indicator_tool.csv"
+    ],
+    "aspect_ratio": 0.927536231884058
+  }
+]

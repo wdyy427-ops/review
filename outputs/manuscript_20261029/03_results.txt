@@ -30,13 +30,33 @@ Figure 3 shows annual composition rather than plotting raw counts alone. Outcome
 
 The original analytical year field yields 11, 11, 20, 27, and 56 papers, whereas the screening catalogue yields 11, 13, 27, 35, and 39. All three classifications concentrate the corpus in recent years, but they differ materially in the apparent size of the 2026 increase. We therefore avoid interpreting the annual series as an estimate of the field’s growth rate. Publication-date sensitivity and partial coverage of the final calendar year further limit temporal inference. The supplementary source tables preserve the alternative annual classifications and the indicator-level series.
 
-### 4.4 Domain and stage patterns suggest contextual diversity
+### 4.4 Usage patterns across design domains and stages
 
-Industrial and product design contributes the largest number of domain-tagged mapped records: 306, of which 104 (34.0%) concern outcome quality. Visual communication contributes 116 records, with designers’ cognition, affect, and abilities the largest category (33; 28.4%). The corresponding category is also largest in UI/UX design (22/67; 32.8%). Human–AI interaction experience is the largest category in fashion design (18/61; 29.5%). Service design has only 16 domain-tagged records, making its apparently larger share of social and contextual value (5; 31.3%) particularly uncertain. These are overlapping domain-tagged counts; they must not be added to estimate the number of distinct records.
+#### 4.4.1 Usage patterns across design domains
 
-Tool distributions also vary. Bespoke structured ratings account for 165/435 classified instances in industrial and product design (37.9%), whereas qualitative verbal elicitation accounts for 40/81 in fashion design (49.4%). Non-scale structured judgments account for 16/29 instances in interior design (55.2%). This variation is consistent with different evaluative tasks and forms of available evidence, although the review cannot establish that the domain itself causes a particular tool choice.
+Design outcome quality was the most frequent dimension in industrial and product design (104/306, 34.0%) and interior design (10/30, 33.3%). Designers’ cognition, affect, and abilities accounted for the largest share in visual communication design (33/116, 28.4%) and UI/UX design (22/67, 32.8%). Human–AI interaction experience was most frequent in fashion design (18/61, 29.5%), and social and contextual value accounted for the largest share in service design (5/16, 31.3%). Figure D1 shows the full dimension distribution.
 
-Across design stages, outcome quality remains the largest dimension: 79/267 research-tagged records (29.6%), 122/361 ideation-tagged records (33.8%), 65/199 prototyping-and-testing records (32.7%), and 81/253 implementation-tagged records (32.0%). Social and contextual value represents 17.6% of research-tagged records and 18.1% of prototyping-and-testing records, compared with 9.9% of implementation-tagged records. Since a paper or case can receive several stage codes, these patterns describe contextual membership rather than evidence gathered exclusively at that stage. In particular, an implementation label does not establish longitudinal deployment. Figure 4 presents the dimension and tool distributions across domains and stages.
+The indicator analysis focused on the three dimensions with the most mapped records overall: design outcome quality (A), designers’ cognition, affect, and abilities (C), and human–AI interaction experience (D). Together they accounted for 351 of 460 dimension-mapped records (76.3%). Figure D2 shows all 22 indicators in these dimensions, with percentages based on all indicator-mapped records within each domain.
+
+Within design outcome quality, novelty was the most frequent indicator in industrial and product design (27/300, 9.0%) and fashion design (4/61, 6.6%). Suitability led in visual communication design (10/116, 8.6%), interior design (4/30, 13.3%), and UI/UX design (8/67, 11.9%). Service design contributed only three outcome-quality records, two for fidelity and one for novelty.
+
+Within designers’ cognition, affect, and abilities, enjoyment was the most frequent indicator in visual communication design (10/116, 8.6%), industrial and product design (17/300, 5.7%), and UI/UX design (7/67, 10.4%). Knowledge acquisition led in fashion design (5/61, 8.2%). In interior design, inspiration, enjoyment, and capability expansion were tied at two records each. The four records in service design were evenly divided between enjoyment and reflection.
+
+Within human–AI interaction experience, communication, coordination, conflict, and shared understanding was the most frequent category in visual communication design (9/116, 7.8%) and UI/UX design (5/67, 7.5%). Ease of use led in industrial and product design (16/300, 5.3%) and trust led in fashion design (6/61, 9.8%). Sense of control and the communication category were tied at two records each in both interior and service design. These two domains had the smallest mapped record totals.
+
+#### 4.4.2 Usage patterns across design stages
+
+Design outcome quality was the most frequent dimension at all four stages (Figure D3). It accounted for 29.6% of dimension-mapped records in research (79/267), 33.8% in ideation (122/361), 32.7% in prototyping and testing (65/199), and 32.0% in implementation (81/253). Designers’ cognition, affect, and abilities ranked second in research (23.6%), ideation (23.3%), and implementation (25.7%). Human–AI interaction experience ranked second in prototyping and testing (22.6%). Social and contextual value represented a larger share in research (17.6%) and prototyping and testing (18.1%) than in implementation (9.9%).
+
+Figure D4 shows the indicators in the same three dimensions (A, C, and D). Within design outcome quality, novelty and suitability were jointly most frequent in research (19/265, 7.2% each). Suitability led in ideation (35/355, 9.9%) and prototyping and testing (18/195, 9.2%). Feasibility ranked second in prototyping and testing (15/195, 7.7%). In implementation, novelty led (26/253, 10.3%), followed by suitability (20/253, 7.9%).
+
+Enjoyment was the most frequent indicator within designers’ cognition, affect, and abilities at all four stages (5.3–6.8%). Knowledge acquisition ranked second in research (12/265, 4.5%) and prototyping and testing (9/195, 4.6%), and inspiration ranked second in ideation (16/355, 4.5%) and implementation (11/253, 4.3%).
+
+Within human–AI interaction experience, communication, coordination, conflict, and shared understanding led in research (14/265, 5.3%), ideation (18/355, 5.1%), and prototyping and testing (14/195, 7.2%). In implementation, sense of control led (16/253, 6.3%), followed by ease of use and the communication category (9/253, 3.6% each). Records with multiple stage labels contribute to overlapping groups. The distributions therefore describe stage membership, and the implementation label alone provides no evidence of longitudinal deployment.
+
+#### 4.4.3 Tool distributions across domains and stages
+
+Figure 4 presents the tool distributions alongside the dimension distributions. Bespoke structured ratings account for 165 of 435 classified instances in industrial and product design (37.9%). Qualitative verbal elicitation accounts for 40 of 81 in fashion design (49.4%). Non-scale structured judgments account for 16 of 29 in interior design (55.2%).
 
 [FIGURE:fig04_context_distributions]
 

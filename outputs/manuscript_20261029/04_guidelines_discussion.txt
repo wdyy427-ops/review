@@ -111,3 +111,13 @@ The recorded search design connected an AI concept block with a professional-des
 EC1 excluded non-English publications, ineligible publication formats, secondary research, and studies whose focus was not the presentation or construction of an AI-Assisted Design Workflow. Ineligible formats included patents, preprints, technical reports, white papers, datasets, theses, editorials, reviews of books, posters, demonstrations, extended abstracts, and workshop summaries.
 
 EC2 excluded studies outside the six selected professional design domains. EC3 excluded studies in which machine-learning-driven AI was absent, peripheral, or mentioned only as background. EC4 excluded studies principally concerned with designing AI systems, interfaces, datasets, or frameworks unless these were explicitly applied to support a professional design task within the selected domains.
+
+## Appendix D Distributions Across Design Domains and Stages
+
+[FIGURE:evaluation_dimensions_by_design_domain]
+
+[FIGURE:subjective_indicators_ACD_by_design_domain]
+
+[FIGURE:evaluation_dimensions_by_design_stage]
+
+[FIGURE:subjective_indicators_ACD_by_design_stage]

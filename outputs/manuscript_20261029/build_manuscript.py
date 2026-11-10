@@ -14,6 +14,8 @@ OUT = BASE / 'Subjective_Evaluation_Manuscript.docx'
 refs = {r['key']: r for r in json.loads((BASE/'references_verified.json').read_text(encoding='utf-8'))}
 tables = json.loads((BASE/'manuscript_tables.json').read_text(encoding='utf-8'))
 figs = {f['id']: f for f in json.loads((BASE/'figure_manifest.json').read_text(encoding='utf-8'))}
+context_figures = json.loads((BASE/'context_heatmap_manifest.json').read_text(encoding='utf-8'))
+figs.update({f['id']: f for f in context_figures})
 tables['audit']['note']='S: sufficient support under the operational coding; P: partial support; C: explicit concern; NR: not reported or indeterminate; NA: not applicable. Every row totals 514. These codes concern the retained evidence record and do not certify the underlying study.'
 tables['audit']['caption']='Criterion-level reporting-support classifications across 514 candidate evidence records.'
 tables['screening']['note']='The 585 records advancing to further assessment comprise 82 provisional includes and 503 unclear records. The 55 additional duplicates comprise 54 title duplicates and one DOI duplicate.'
@@ -87,7 +89,7 @@ def add_link(p,text,url):
  sz=OxmlElement('w:sz');sz.set(qn('w:val'),'19');pr.append(sz)
  run.append(pr);t=OxmlElement('w:t');t.text=text;run.append(t);hyperlink.append(run);p._p.append(hyperlink)
 
-table_count=0;figure_count=0
+table_count=0;figure_count=0;appendix_figure_count=0
 def make_table(key):
  global table_count
  v=tables[key]
@@ -130,13 +132,20 @@ def make_table(key):
  else: doc.add_paragraph().paragraph_format.space_after=Pt(2)
 
 def make_figure(key):
- global figure_count
- figure_count+=1; f=figs[key]
+ global figure_count, appendix_figure_count
+ f=figs[key]
+ if f.get('appendix_label'):
+  appendix_figure_count+=1
+  label=f['appendix_label']
+ else:
+  figure_count+=1
+  label=str(figure_count)
  p=doc.add_paragraph();p.alignment=WD_ALIGN_PARAGRAPH.CENTER
  p.paragraph_format.space_before=Pt(6);p.paragraph_format.space_after=Pt(4);p.paragraph_format.keep_with_next=True
  width=min(6.5,6.5*f['aspect_ratio'])
- p.add_run().add_picture(str(BASE/'figures'/Path(f['files']['png']).name),width=Inches(width))
- cap=doc.add_paragraph(f'Figure {figure_count}. {f["caption"]}','Caption')
+ image_name=Path(f['files']['png'].replace('\\','/')).name
+ p.add_run().add_picture(str(BASE/'figures'/image_name),width=Inches(width))
+ cap=doc.add_paragraph(f'Figure {label}. {f["caption"]}','Caption')
  cap.paragraph_format.keep_together=True
 
 def parse(text):
@@ -145,6 +154,7 @@ def parse(text):
   if not block:continue
   if block.startswith('[FIGURE:'):make_figure(block[8:-1]);continue
   if block.startswith('[TABLE:'):make_table(block[7:-1]);continue
+  if block.startswith('#### '):doc.add_paragraph(block[5:],'Heading 3');continue
   if block.startswith('### '):doc.add_paragraph(block[4:],'Heading 2');continue
   if block.startswith('## '):doc.add_paragraph(block[3:],'Heading 1');continue
   if re.match(r'^\d+\. ',block):
@@ -189,6 +199,6 @@ for k in keys:
  bib.append('@'+typ+'{'+k+',\n'+',\n'.join('  '+n+' = {'+str(v).replace('&','\\&')+'}' for n,v in fields.items() if v)+'\n}')
 (BASE/'references.bib').write_text('\n\n'.join(bib),encoding='utf-8')
 (BASE/'manuscript_full_text.txt').write_text(TITLE+'\n\n'+body,encoding='utf-8')
-qa={'title':TITLE,'words_excluding_tables_and_references':len(re.findall(r"\b[\w’'-]+\b",body)),'references':len(keys),'figures':figure_count,'tables':table_count,'unresolved_citations':re.findall(r'\[cite:[^\]]+\]',body),'figure_count_expected':7,'output':str(OUT)}
+qa={'title':TITLE,'words_excluding_tables_and_references':len(re.findall(r"\b[\w’'-]+\b",body)),'references':len(keys),'figures':figure_count,'appendix_figures':appendix_figure_count,'tables':table_count,'unresolved_citations':re.findall(r'\[cite:[^\]]+\]',body),'figure_count_expected':7,'output':OUT.name}
 (BASE/'manuscript_build_report.json').write_text(json.dumps(qa,indent=2),encoding='utf-8')
 print(json.dumps(qa,indent=2))

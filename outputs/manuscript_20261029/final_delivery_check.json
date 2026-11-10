@@ -1,9 +1,8 @@
 {
-  "pdf_pages": 29,
-  "docx_images": 7,
+  "pdf_pages": 34,
+  "docx_images": 11,
   "docx_tables": 7,
   "unresolved_tokens": false,
-  "zip_error": null,
-  "zip_entries": 172,
-  "qa": "All manuscript pages and scientific figures visually inspected; affected tables and references rechecked after layout repairs."
+  "docx_zip_error": null,
+  "qa": "Reviewed the rendered manuscript layout and checked the new sections and Appendix D figures. All 270 heatmap cells and their denominators were reconciled against the enhanced evidence records."
 }

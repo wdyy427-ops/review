@@ -5,6 +5,7 @@ ROOT=Path(__file__).resolve().parent
 DEST=ROOT/'Submission_Reference_Package';DEST.mkdir(exist_ok=True)
 SOURCE=ROOT.parent/'rq_review_20261024'/'supplement_enhanced_v2'
 files=['Subjective_Evaluation_Manuscript.docx','Subjective_Evaluation_Manuscript.pdf','manuscript_full_text.txt','00_abstract.txt','01_introduction.txt','02_methods.txt','03_results.txt','04_guidelines_discussion.txt','build_manuscript.py','export_docx.ps1','references.bib','references_verified.json','manuscript_tables.json','figure_manifest.json','manuscript_build_report.json','reviewed_corpus_catalogue.csv','publication_year_sensitivity.csv','Author_Verification_Notes.txt']
+files += ['build_context_heatmaps.py', 'context_heatmap_manifest.json']
 for name in files:shutil.copy2(ROOT/name,DEST/name)
 for folder in ['figure_data','corrective_analysis']:
  for src in (ROOT/folder).rglob('*'):
@@ -36,10 +37,10 @@ Subjective_Evaluation_Manuscript.pdf：已核对版式的阅读版本。
 Author_Verification_Notes.txt：独立于论文正文的作者核查说明。本文是依据现有材料完成的写作参考，并不代表其中所有研究判断已获得重新人工验证。
 
 论文内容
-摘要；Introduction；Conceptual Background and Related Work；Review Method；RQ1评价证据分布；RQ2报告支持；RQ3情境关联与预测分析；RQ4评价建议与渐进式推荐器；Discussion；Limitations and Future Work；Conclusion；Data and Materials Availability；28篇引用文献；3个附录。共7幅主图和7张表（含附录A1）。
+摘要；Introduction；Conceptual Background and Related Work；Review Method；RQ1评价证据分布；RQ2报告支持；RQ3情境关联与预测分析；RQ4评价建议与渐进式推荐器；Discussion；Limitations and Future Work；Conclusion；Data and Materials Availability；28篇引用文献；4个附录。共7幅主图、4幅附录热力图和7张表（含附录A1）。
 
 图件
-figures/包含7幅主图与3幅补充图，均提供SVG、矢量PDF和320dpi PNG。figS01为完整指标分布，figS02为补充材料扩充敏感性，figS03为条件预测贡献。figure_data/保留绘图源数据。图形使用一致的色彩、字体、面板标记和白色背景。
+figures/包含主图、补充图和附录D的四幅热力图。附录热力图提供PNG和矢量PDF。figS01为完整指标分布，figS02为补充材料扩充敏感性，figS03为条件预测贡献。figure_data/保留其他图件的绘图数据，附录热力图使用source_data/04_RQ1/的交叉统计表。
 
 证据与分析
 reviewed_corpus_catalogue.csv：125篇文献与DOI、原编码年份、筛选年份、Crossref日期对照。
@@ -48,7 +49,7 @@ corrective_analysis/：正文使用的固定模型、按论文分组的重复验
 verification/：筛选、一致性、文献元数据及评价标签核查资料；不属于论文正文。
 
 重新生成
-Python环境依赖记录在requirements.txt。运行python build_figures.py重建全部图件（脚本另外输出一个明确标注为历史诊断的S04图）；运行python corrective_analysis/run_corrective_analysis.py重算模型；运行python build_manuscript.py重建Word文件。图形脚本已改用本包source_data相对路径，模型脚本亦使用包内数据。
+Python环境依赖记录在requirements.txt。运行python build_figures.py重建主图与补充图（脚本另外输出一个明确标注为历史诊断的S04图），运行python build_context_heatmaps.py重建附录D热力图，运行python corrective_analysis/run_corrective_analysis.py重算模型，运行python build_manuscript.py重建Word文件。绘图和模型脚本使用包内source_data数据。
 在安装Microsoft Word的Windows上，可运行export_docx.ps1并指定InputPath与OutputPath导出PDF。正文来源为00至04的txt文件，采用清晰的章节标记，便于全文修改；references.bib供文献管理或LaTeX转稿使用。
 
 使用边界
