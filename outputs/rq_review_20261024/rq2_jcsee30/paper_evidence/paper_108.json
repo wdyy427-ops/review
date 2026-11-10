@@ -1,0 +1,269 @@
+{
+  "paper_id": 108,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "method": "transparent_fulltext_rule_scan",
+  "standards": {
+    "U1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U5": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U6": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U7": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U8": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P1": {
+      "status": "S",
+      "page": 4,
+      "quote": "s an important way for designers to understand the design scheme. Iden- tification of the demographic is necessary in order to customize a statement to their objectives, degree of comprehension, emotions, and convictions. It is crucial to keep the aud",
+      "reason": "全文命中2类可观察报告成分",
+      "quote_validated": 1,
+      "components": 2
+    },
+    "P2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P5": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P6": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P7": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A5": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A6": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A7": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A8": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "E1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "E2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "E3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    }
+  }
+}

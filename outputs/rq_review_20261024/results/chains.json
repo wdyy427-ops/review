@@ -1,0 +1,4077 @@
+[
+  {
+    "legacy_rows": [
+      2,
+      3
+    ],
+    "claim_quote": "participants awarded high ratings to both overall innovativeness and breakthrough aspects in the chair’s structure",
+    "claim_summary": "椅子方案新颖性与结构突破获得较高评分",
+    "claim_type": "C1",
+    "construct_raw": "Novelty",
+    "indicator_raw": "Novelty",
+    "item_quote": "Overall Novelty Evaluation; Structural Breakthrough",
+    "dimension_code": "A",
+    "indicator_code": "A1",
+    "instrument_raw": "自编7点Likert问卷；Table 2",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+    "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+    "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+    "result_quote": "1 Overall Novelty Evaluation 5.3 1.18; 2 Structural Breakthrough 5.1 1.35",
+    "effect_direction": "描述性",
+    "pages": [
+      16,
+      17
+    ],
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      4
+    ],
+    "claim_quote": "the innovative elements of the design were markedly well recognized",
+    "claim_summary": "有限元与人体工学整合有效性评分5.6",
+    "claim_type": "C1",
+    "construct_raw": "Effectiveness of FEA and Ergonomics Integration",
+    "indicator_raw": "Effectiveness of FEA and Ergonomics Integration",
+    "item_quote": "Effectiveness of FEA and Ergonomics Integration",
+    "dimension_code": "UNMAPPED",
+    "indicator_code": "UNMAPPED",
+    "instrument_raw": "自编7点Likert问卷；Table 2",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+    "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+    "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+    "result_quote": "Effectiveness of FEA and Ergonomics Integration 5.6 1.02",
+    "effect_direction": "描述性",
+    "pages": [
+      16,
+      17
+    ],
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C02",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      5
+    ],
+    "claim_quote": "the innovative elements of the design were markedly well recognized",
+    "claim_summary": "创新与安全平衡评分5.0",
+    "claim_type": "C1",
+    "construct_raw": "Novelty and Safety Balance",
+    "indicator_raw": "Novelty and Safety Balance",
+    "item_quote": "Novelty and Safety Balance",
+    "dimension_code": "A",
+    "indicator_code": "UNMAPPED",
+    "instrument_raw": "自编7点Likert问卷；Table 2",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+    "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+    "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+    "result_quote": "Novelty and Safety Balance 5.0 1.24",
+    "effect_direction": "描述性",
+    "pages": [
+      16,
+      17
+    ],
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C03",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      6,
+      7,
+      9
+    ],
+    "claim_quote": "manufacturing feasibility and material cost evaluations were relatively neutral",
+    "claim_summary": "制造可行性和成本评价接近中性，生产可行性4.7",
+    "claim_type": "C1",
+    "construct_raw": "Manufacturing process and feasibility",
+    "indicator_raw": "Manufacturing process and feasibility",
+    "item_quote": "Manufacturing Process Feasibility; Material and Cost Consideration; Production Feasibility",
+    "dimension_code": "A",
+    "indicator_code": "A4",
+    "instrument_raw": "自编7点Likert问卷；Table 2",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+    "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+    "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+    "result_quote": "Manufacturing Process Feasibility 4.4 1.37; Material and Cost Consideration 4.2 1.41; Production Feasibility 4.7 1.11",
+    "effect_direction": "描述性",
+    "pages": [
+      16,
+      17
+    ],
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C04",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      8
+    ],
+    "claim_quote": "participants perceived the optimized structural design as offering enhanced safety and robustness",
+    "claim_summary": "结构稳定性感知评分5.1；提升并未经对照验证",
+    "claim_type": "C1",
+    "construct_raw": "Structural Stability",
+    "indicator_raw": "Structural Stability",
+    "item_quote": "Structural Stability",
+    "dimension_code": "A",
+    "indicator_code": "A3",
+    "instrument_raw": "自编7点Likert问卷；Table 2",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+    "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+    "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+    "result_quote": "Structural Stability 5.1 1.17",
+    "effect_direction": "描述性",
+    "pages": [
+      16,
+      17
+    ],
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C05",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      10
+    ],
+    "claim_quote": "participants held a generally balanced view of the AI-generated chair’s overall performance",
+    "claim_summary": "设计与功能平衡评分4.8",
+    "claim_type": "C1",
+    "construct_raw": "Design and Functionality Balance",
+    "indicator_raw": "Design and Functionality Balance",
+    "item_quote": "Design and Functionality Balance",
+    "dimension_code": "A",
+    "indicator_code": "UNMAPPED",
+    "instrument_raw": "自编7点Likert问卷；Table 2",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+    "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+    "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+    "result_quote": "Design and Functionality Balance 4.8 1.20",
+    "effect_direction": "描述性",
+    "pages": [
+      17
+    ],
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C06",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      11,
+      14,
+      15
+    ],
+    "claim_quote": "The analysis of consumer acceptance (items 9–12) shows a rather reserved attitude of the participants.",
+    "claim_summary": "购买意愿偏低，预期体验与满意度相对较高；保留不同题项结果",
+    "claim_type": "C1",
+    "construct_raw": "Consumer acceptance / overall satisfaction",
+    "indicator_raw": "Consumer acceptance / overall satisfaction",
+    "item_quote": "Purchase Intention; Usage Experience Expectation; Overall Satisfaction",
+    "dimension_code": "E",
+    "indicator_code": "E1",
+    "instrument_raw": "自编7点Likert问卷；Table 2",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+    "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+    "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+    "result_quote": "Purchase Intention 3.9 1.53; Usage Experience Expectation 4.6 1.33; Overall Satisfaction 4.7 1.29",
+    "effect_direction": "混合",
+    "pages": [
+      16,
+      17
+    ],
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C07",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      12
+    ],
+    "claim_quote": "the purchase intention and price sensitivity scores were slightly lower than the rest",
+    "claim_summary": "价格敏感性评分3.7，题目方向不明不可解释为良好市场价值",
+    "claim_type": "C1",
+    "construct_raw": "Price Sensitivity",
+    "indicator_raw": "Price Sensitivity",
+    "item_quote": "Price Sensitivity",
+    "dimension_code": "E",
+    "indicator_code": "E7",
+    "instrument_raw": "自编7点Likert问卷；Table 2",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+    "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+    "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+    "result_quote": "Price Sensitivity 3.7 1.65",
+    "effect_direction": "方向不明",
+    "pages": [
+      16,
+      17
+    ],
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C08",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      13
+    ],
+    "claim_quote": "the ratings for aesthetic appeal and the expected user experience were relatively high",
+    "claim_summary": "审美认可均值4.4",
+    "claim_type": "C1",
+    "construct_raw": "Aesthetic appeal",
+    "indicator_raw": "Aesthetic appeal",
+    "item_quote": "Aesthetic Approval",
+    "dimension_code": "A",
+    "indicator_code": "A2",
+    "instrument_raw": "自编7点Likert问卷；Table 2",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+    "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+    "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+    "result_quote": "Aesthetic Approval 4.4 1.48",
+    "effect_direction": "描述性",
+    "pages": [
+      16,
+      17
+    ],
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C09",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "Technological 0.85; Sporty 0.83; Modern 0.82; Retro 0.80",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C4",
+    "construct_raw": "Kansei imagery match",
+    "indicator_raw": "Kansei imagery match",
+    "item_quote": "Does this imagery adjective represent your affective expectations for an electric motorcycle?",
+    "dimension_code": "E",
+    "indicator_code": "E2",
+    "instrument_raw": "自编感性评分问卷",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "0–1连续评分；取均值；锚点文字NR",
+    "validity_evidence": "Does this imagery adjective represent your affective expectations for an electric motorcycle?",
+    "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+    "result_quote": "Technological 0.85; Sporty 0.83; Modern 0.82; Retro 0.80",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      15
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E1",
+    "chain_id": "002-E1-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      16
+    ],
+    "claim_quote": "TShape_9 0.823; TShape_17 0.799; TShape_16 0.786",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Kansei imagery match",
+    "indicator_raw": "Kansei imagery match",
+    "item_quote": "Does this shape match your expectations for a technological electric motorcycle?",
+    "dimension_code": "E",
+    "indicator_code": "E2",
+    "instrument_raw": "自编感性评分问卷",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "0–1连续评分；取均值；锚点文字NR",
+    "validity_evidence": "Does this shape match your expectations for a technological electric motorcycle?",
+    "reliability_evidence": "Cronbach’s α exceeded 0.7, indicating acceptable reliability.",
+    "result_quote": "TShape_9 0.823; TShape_17 0.799; TShape_16 0.786",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      16
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E2",
+    "chain_id": "002-E2-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Kansei match",
+    "indicator_raw": "Kansei match",
+    "item_quote": "Does the shape exhibit a technological aesthetic?",
+    "dimension_code": "E",
+    "indicator_code": "E2",
+    "instrument_raw": "0–1专家评分＋Grey Relational Analysis (GRA)",
+    "tool_family_codes": [
+      "M6"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "六准则评分均值，灰关联选择前四外形",
+    "validity_evidence": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+    "result_quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      16,
+      17
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "002-E3-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Aesthetic appeal",
+    "indicator_raw": "Aesthetic appeal",
+    "item_quote": "Does the shape possess aesthetic appeal?",
+    "dimension_code": "A",
+    "indicator_code": "A2",
+    "instrument_raw": "0–1专家评分＋Grey Relational Analysis (GRA)",
+    "tool_family_codes": [
+      "M6"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "六准则评分均值，灰关联选择前四外形",
+    "validity_evidence": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+    "result_quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      16,
+      17
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "002-E3-C02",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Ergonomics and dimensions",
+    "indicator_raw": "Ergonomics and dimensions",
+    "item_quote": "Is the seating ergonomically designed?; Are the dimensions reasonable?",
+    "dimension_code": "A",
+    "indicator_code": "A3",
+    "instrument_raw": "0–1专家评分＋Grey Relational Analysis (GRA)",
+    "tool_family_codes": [
+      "M6"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "六准则评分均值，灰关联选择前四外形",
+    "validity_evidence": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+    "result_quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      16,
+      17
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "002-E3-C03",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Manufacturing and replaceability",
+    "indicator_raw": "Manufacturing and replaceability",
+    "item_quote": "Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "dimension_code": "A",
+    "indicator_code": "A4",
+    "instrument_raw": "0–1专家评分＋Grey Relational Analysis (GRA)",
+    "tool_family_codes": [
+      "M6"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "六准则评分均值，灰关联选择前四外形",
+    "validity_evidence": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+    "result_quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      16,
+      17
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "002-E3-C04",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "F > H > L > R > W; λmax = 5.015, C.R. = 0.0036 < 0.1",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Kansei imagery match",
+    "indicator_raw": "Kansei imagery match",
+    "item_quote": "Relative to each pair, which element contributes more to a technological aesthetic?",
+    "dimension_code": "E",
+    "indicator_code": "E2",
+    "instrument_raw": "感性问卷结合M6",
+    "tool_family_codes": [
+      "M6"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "Saaty 1–9成对比较；几何均值与归一化权重；报告汇总矩阵CR",
+    "validity_evidence": "Relative to each pair, which element contributes more to a technological aesthetic?",
+    "reliability_evidence": "With a consistency ratio (C.R.) below 0.1, the judgments were acceptable.",
+    "result_quote": "F > H > L > R > W; λmax = 5.015, C.R. = 0.0036 < 0.1",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      16,
+      18
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E4",
+    "chain_id": "002-E4-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "Table 7: normalised fuzzy memberships; Front fairing Type_1 0.269, Type_2 0.237, Type_3 0.232, Type_4 0.262",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Kansei imagery match",
+    "indicator_raw": "Kansei imagery match",
+    "item_quote": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type",
+    "dimension_code": "E",
+    "indicator_code": "E2",
+    "instrument_raw": "感性问卷结合M6",
+    "tool_family_codes": [
+      "M6"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "归一化隶属度，原始作答量尺NR",
+    "validity_evidence": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type",
+    "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+    "result_quote": "Table 7: normalised fuzzy memberships; Front fairing Type_1 0.269, Type_2 0.237, Type_3 0.232, Type_4 0.262",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      17,
+      18
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E5",
+    "chain_id": "002-E5-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "Table 8: Alternative_1 69.3; Alternative_2 65.7; Alternative_3 59.2; Alternative_4 52.9",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Kansei imagery match",
+    "indicator_raw": "Kansei imagery match",
+    "item_quote": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions",
+    "dimension_code": "E",
+    "indicator_code": "E2",
+    "instrument_raw": "自编感性评分问卷",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "正文0–1；表8用约50–70数值，可能×100但作者未说明；FCE排名与问卷一致",
+    "validity_evidence": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions",
+    "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+    "result_quote": "Table 8: Alternative_1 69.3; Alternative_2 65.7; Alternative_3 59.2; Alternative_4 52.9",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      20
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E6",
+    "chain_id": "002-E6-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "TColor_4 81.4; TColor_3 77.5; TColor_8 72.3",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Kansei imagery match",
+    "indicator_raw": "Kansei imagery match",
+    "item_quote": "NR；rated the eight color schemes on a 0–1 scale",
+    "dimension_code": "E",
+    "indicator_code": "E2",
+    "instrument_raw": "自编感性评分问卷",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "正文0–1；表10约55–82，缩放NR",
+    "validity_evidence": "NR；rated the eight color schemes on a 0–1 scale",
+    "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+    "result_quote": "TColor_4 81.4; TColor_3 77.5; TColor_8 72.3",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      20,
+      22
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E7",
+    "chain_id": "002-E7-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "TColor_4 > TColor_3 > TColor_8; C.R. = 0.001",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Kansei imagery match",
+    "indicator_raw": "Kansei imagery match",
+    "item_quote": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?",
+    "dimension_code": "E",
+    "indicator_code": "E2",
+    "instrument_raw": "感性问卷结合M6",
+    "tool_family_codes": [
+      "M6"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "AHP成对比较、几何均值权重；CR0.001",
+    "validity_evidence": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?",
+    "reliability_evidence": "with C.R. < 0.1, the results are acceptable.",
+    "result_quote": "TColor_4 > TColor_3 > TColor_8; C.R. = 0.001",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      20,
+      22
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E8",
+    "chain_id": "002-E8-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "SShape_15 0.824; SShape_19 0.803; SShape_17 0.793",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Kansei imagery match",
+    "indicator_raw": "Kansei imagery match",
+    "item_quote": "Does this shape match your expectations for a sporty electric motorcycle?",
+    "dimension_code": "E",
+    "indicator_code": "E2",
+    "instrument_raw": "自编感性评分问卷",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "0–1连续评分；取均值；锚点文字NR",
+    "validity_evidence": "Does this shape match your expectations for a sporty electric motorcycle?",
+    "reliability_evidence": "Cronbach’s α exceeded 0.7, indicating acceptable reliability.",
+    "result_quote": "SShape_15 0.824; SShape_19 0.803; SShape_17 0.793",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      22,
+      23
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E9",
+    "chain_id": "002-E9-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Kansei match",
+    "indicator_raw": "Kansei match",
+    "item_quote": "Does the shape exhibit a sporty aesthetic?",
+    "dimension_code": "E",
+    "indicator_code": "E2",
+    "instrument_raw": "0–1专家评分＋Grey Relational Analysis (GRA)",
+    "tool_family_codes": [
+      "M6"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "六准则评分均值，灰关联选择前四外形",
+    "validity_evidence": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+    "result_quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      23,
+      24
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "002-E10-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Aesthetic appeal",
+    "indicator_raw": "Aesthetic appeal",
+    "item_quote": "Does the shape possess aesthetic appeal?",
+    "dimension_code": "A",
+    "indicator_code": "A2",
+    "instrument_raw": "0–1专家评分＋Grey Relational Analysis (GRA)",
+    "tool_family_codes": [
+      "M6"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "六准则评分均值，灰关联选择前四外形",
+    "validity_evidence": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+    "result_quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      23,
+      24
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "002-E10-C02",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Ergonomics and dimensions",
+    "indicator_raw": "Ergonomics and dimensions",
+    "item_quote": "Is the seating ergonomically designed?; Are the dimensions reasonable?",
+    "dimension_code": "A",
+    "indicator_code": "A3",
+    "instrument_raw": "0–1专家评分＋Grey Relational Analysis (GRA)",
+    "tool_family_codes": [
+      "M6"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "六准则评分均值，灰关联选择前四外形",
+    "validity_evidence": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+    "result_quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      23,
+      24
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "002-E10-C03",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Manufacturing and replaceability",
+    "indicator_raw": "Manufacturing and replaceability",
+    "item_quote": "Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "dimension_code": "A",
+    "indicator_code": "A4",
+    "instrument_raw": "0–1专家评分＋Grey Relational Analysis (GRA)",
+    "tool_family_codes": [
+      "M6"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "六准则评分均值，灰关联选择前四外形",
+    "validity_evidence": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+    "result_quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      23,
+      24
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "002-E10-C04",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "Table 13: Front fairing Type_1 0.268; Type_2 0.231; Type_3 0.239; Type_4 0.262",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Kansei imagery match",
+    "indicator_raw": "Kansei imagery match",
+    "item_quote": "NR；completed a Kansei questionnaire to obtain the fuzzy membership",
+    "dimension_code": "E",
+    "indicator_code": "E2",
+    "instrument_raw": "感性问卷结合M6",
+    "tool_family_codes": [
+      "M6"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "归一化隶属度；借用科技感AHP权重，未为运动感重新引出",
+    "validity_evidence": "NR；completed a Kansei questionnaire to obtain the fuzzy membership",
+    "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+    "result_quote": "Table 13: Front fairing Type_1 0.268; Type_2 0.231; Type_3 0.239; Type_4 0.262",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      25
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E11",
+    "chain_id": "002-E11-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "Table 14: Alternative_1 64.9; Alternative_2 62.4; Alternative_3 57.2; Alternative_4 55.8",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Kansei imagery match",
+    "indicator_raw": "Kansei imagery match",
+    "item_quote": "NR；rated the four alternatives on a 0–1 scale",
+    "dimension_code": "E",
+    "indicator_code": "E2",
+    "instrument_raw": "自编感性评分问卷",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "正文0–1；表14约55–65，缩放NR；FCE同序",
+    "validity_evidence": "NR；rated the four alternatives on a 0–1 scale",
+    "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+    "result_quote": "Table 14: Alternative_1 64.9; Alternative_2 62.4; Alternative_3 57.2; Alternative_4 55.8",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      26
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E12",
+    "chain_id": "002-E12-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "SColor_3 74.5; SColor_4 72.7; SColor_2 71.4",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Kansei imagery match",
+    "indicator_raw": "Kansei imagery match",
+    "item_quote": "NR；rated the eight color schemes on a 0–1 scale",
+    "dimension_code": "E",
+    "indicator_code": "E2",
+    "instrument_raw": "自编感性评分问卷",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "正文0–1；表16约55–75，缩放NR",
+    "validity_evidence": "NR；rated the eight color schemes on a 0–1 scale",
+    "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+    "result_quote": "SColor_3 74.5; SColor_4 72.7; SColor_2 71.4",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      28
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E13",
+    "chain_id": "002-E13-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "P",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "SColor_3 > SColor_2 > SColor_4; C.R. = 0.0005",
+    "claim_summary": "按目标意象选择候选方案",
+    "claim_type": "C2",
+    "construct_raw": "Kansei imagery match",
+    "indicator_raw": "Kansei imagery match",
+    "item_quote": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?",
+    "dimension_code": "E",
+    "indicator_code": "E2",
+    "instrument_raw": "感性问卷结合M6",
+    "tool_family_codes": [
+      "M6"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR；非具名心理量表",
+    "response_scoring": "AHP成对比较和权重；CR0.0005",
+    "validity_evidence": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?",
+    "reliability_evidence": "with C.R. < 0.1, the judgments were acceptably consistent.",
+    "result_quote": "SColor_3 > SColor_2 > SColor_4; C.R. = 0.0005",
+    "effect_direction": "候选方案排序",
+    "pages": [
+      28
+    ],
+    "paper_id": 2,
+    "eval_id": "002-E14",
+    "chain_id": "002-E14-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "The Emotional Intensity indicator Iv measures emotional shifts in demand, calculated as the difference between the proportion of positive comments and the proportion of negative comments.",
+    "claim_summary": "从既有评论的正负情绪比例估计各需求的满意/不满",
+    "claim_type": "C1",
+    "construct_raw": "Emotional Intensity",
+    "indicator_raw": "Emotional Intensity",
+    "item_quote": "NR；既有用户评论，无研究者施测题项",
+    "dimension_code": "E",
+    "indicator_code": "E1",
+    "instrument_raw": "LLM评论情绪抽取＋(正面评论数−负面评论数)/(两者之和+epsilon)",
+    "tool_family_codes": [
+      "M7"
+    ],
+    "tool_origin_code": "T5",
+    "adaptation": "原始评论清洗、纠错、分词、LLM抽取",
+    "response_scoring": "情绪强度[-1,1]；按需求与时间窗聚合",
+    "validity_evidence": "引用期望不确认理论解释满意度；文本示例存在；未报告情绪分类单独准确率",
+    "reliability_evidence": "实体/关系标注Kappa0.81和抽取F1不直接检验情绪测量可靠性",
+    "result_quote": "Battery Life −0.61; AI Photography 0.82; Screen Eye Protection −0.68; Housing Material 0.89",
+    "effect_direction": "需求间混合",
+    "pages": [
+      15,
+      18,
+      23,
+      24
+    ],
+    "paper_id": 3,
+    "eval_id": "003-E1",
+    "chain_id": "003-E1-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "S",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      18
+    ],
+    "claim_quote": "The experts were asked to pair-wise compare the five indicators using a standard 1–9 point scale.",
+    "claim_summary": "专家给注意、未来注意、新颖、演化、情绪五指标赋权",
+    "claim_type": "C4",
+    "construct_raw": "Relative importance of opportunity indicators",
+    "indicator_raw": "Relative importance of opportunity indicators",
+    "item_quote": "NR；只报告五指标成对比较任务",
+    "dimension_code": "E",
+    "indicator_code": "UNMAPPED",
+    "instrument_raw": "Analytic Hierarchy Process (AHP), Saaty 1–9",
+    "tool_family_codes": [
+      "M6"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "为本研究五指标建AHP",
+    "response_scoring": "每专家判断矩阵；几何平均聚合、权重与CR",
+    "validity_evidence": "构建五维机会指标体系，专家至少5年相关经验",
+    "reliability_evidence": "汇总矩阵CR0.072；未报告评价者间一致性",
+    "result_quote": "ωH = 0.1, ωP = 0.25, ωN = 0.2, ωS = 0.3 and ωI = 0.15; CR = 0.072",
+    "effect_direction": "描述性",
+    "pages": [
+      16,
+      24
+    ],
+    "paper_id": 3,
+    "eval_id": "003-E2",
+    "chain_id": "003-E2-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      17
+    ],
+    "claim_quote": "the same panel of experts is invited to score the innovation value of each sample, taking into account the individual indicators and the relationships between them.",
+    "claim_summary": "专家需求创新价值评分作为XGBoost校准标签，原始评分结果未逐项公开",
+    "claim_type": "C1",
+    "construct_raw": "Innovation value of demand",
+    "indicator_raw": "Innovation value of demand",
+    "item_quote": "NR；无原始评分题干或锚点",
+    "dimension_code": "UNMAPPED",
+    "indicator_code": "UNMAPPED",
+    "instrument_raw": "专家综合评分（量尺NR）＋XGBoost校准",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "自编评分",
+    "response_scoring": "100需求节点；评分量尺与5专家分数合并规则NR；训练验证7:3",
+    "validity_evidence": "专家≥5年经验，综合考虑五指标与关系",
+    "reliability_evidence": "没有创新价值评分的评分者一致性；0.81 Kappa属于实体标注",
+    "result_quote": "专家原始分数NR；模型校准RMSE0.042±0.006，不是感知均值",
+    "effect_direction": "描述性",
+    "pages": [
+      16,
+      24
+    ],
+    "paper_id": 3,
+    "eval_id": "003-E3",
+    "chain_id": "003-E3-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "P",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      19
+    ],
+    "claim_quote": "Experts provided pairwise comparisons using triangular fuzzy numbers, which effectively capture the imprecise nature of human judgment.",
+    "claim_summary": "专家判断构建交互奖励，未测量AI工作流造成的主观改善",
+    "claim_type": "C1",
+    "construct_raw": "Material compatibility",
+    "indicator_raw": "Material compatibility",
+    "item_quote": "The component materials are clearly compatible with each other. / There is no known conflict between the two component materials. / There are some risks that need attention. / Two component materials are contraindicated as they may undergo chemical reactions or fail rapidly.",
+    "dimension_code": "A",
+    "indicator_code": "A4",
+    "instrument_raw": "Fuzzy Analytic Hierarchy Process (FAHP)",
+    "tool_family_codes": [
+      "M6"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "三角模糊数及extent analysis；缺原始量尺说明",
+    "response_scoring": "成对比较、模糊优先向量、去模糊；最终3/1/−1/−3规则等级",
+    "validity_evidence": "具体材料适配和工况协同定义及等级",
+    "reliability_evidence": "NR；代理拟合ρ0.81不作评分可靠性",
+    "result_quote": "Table 5: scores 3, 1, −1, −3",
+    "effect_direction": "用于模型构建，无效果方向",
+    "pages": [
+      20,
+      34
+    ],
+    "paper_id": 4,
+    "eval_id": "004-E1",
+    "chain_id": "004-E1-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "P",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      20
+    ],
+    "claim_quote": "Experts provided pairwise comparisons using triangular fuzzy numbers, which effectively capture the imprecise nature of human judgment.",
+    "claim_summary": "专家判断构建交互奖励，未测量AI工作流造成的主观改善",
+    "claim_type": "C1",
+    "construct_raw": "Operational condition synergy",
+    "indicator_raw": "Operational condition synergy",
+    "item_quote": "The applicable working conditions among the component specifications are highly the same. / There is some overlap among the component specifications, or they can complement each other. / There are obvious differences among the component specifications, and one component specification cannot adapt to the working conditions applicable to another component. / The applicable working conditions among the component specifications are completely opposite.",
+    "dimension_code": "A",
+    "indicator_code": "A3",
+    "instrument_raw": "Fuzzy Analytic Hierarchy Process (FAHP)",
+    "tool_family_codes": [
+      "M6"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "三角模糊数及extent analysis；缺原始量尺说明",
+    "response_scoring": "成对比较、模糊优先向量、去模糊；最终3/1/−1/−3规则等级",
+    "validity_evidence": "具体材料适配和工况协同定义及等级",
+    "reliability_evidence": "NR；代理拟合ρ0.81不作评分可靠性",
+    "result_quote": "Table 6: scores 3, 1, −1, −3",
+    "effect_direction": "用于模型构建，无效果方向",
+    "pages": [
+      20,
+      34
+    ],
+    "paper_id": 4,
+    "eval_id": "004-E1",
+    "chain_id": "004-E1-C02",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "P",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      222
+    ],
+    "claim_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "claim_summary": "DM-CAM生成图像获更高专家评价",
+    "claim_type": "C2",
+    "construct_raw": "Visual Integrity",
+    "indicator_raw": "Visual Integrity",
+    "item_quote": "H1.1 Is the image sufficiently clear? H1.2 Does the image contain rich and detailed visual elements? H1.3 Is the composition harmonious and aesthetically pleasing?",
+    "dimension_code": "A",
+    "indicator_code": "A6",
+    "instrument_raw": "自编15题七点评分",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "1=very poor,7=very good；五个维度各3题；聚合细节NR",
+    "validity_evidence": "提供五维各3题的内容操作化；缺工具来源与独立效度依据",
+    "reliability_evidence": "Cronbach alpha=0.87；Kendall W=0.79(p<.001)；部分样本重测相关=.82；未说明重测人数/间隔",
+    "result_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "effect_direction": "正向",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 0
+  },
+  {
+    "legacy_rows": [
+      223
+    ],
+    "claim_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "claim_summary": "DM-CAM生成图像获更高专家评价",
+    "claim_type": "C2",
+    "construct_raw": "Functional Compatibility",
+    "indicator_raw": "Functional Compatibility",
+    "item_quote": "H2.1 Does the image accurately reflect the functional requirements described in the text? H2.2 Is the function appropriately presented? H2.3 Is the usage scenario conveyed?",
+    "dimension_code": "A",
+    "indicator_code": "A3",
+    "instrument_raw": "自编15题七点评分",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "1=very poor,7=very good；五个维度各3题；聚合细节NR",
+    "validity_evidence": "提供五维各3题的内容操作化；缺工具来源与独立效度依据",
+    "reliability_evidence": "Cronbach alpha=0.87；Kendall W=0.79(p<.001)；部分样本重测相关=.82；未说明重测人数/间隔",
+    "result_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "effect_direction": "正向",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C02",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 0
+  },
+  {
+    "legacy_rows": [
+      224
+    ],
+    "claim_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "claim_summary": "DM-CAM生成图像获更高专家评价",
+    "claim_type": "C2",
+    "construct_raw": "Design Innovation",
+    "indicator_raw": "Design Innovation",
+    "item_quote": "H3.1 Is the appearance novel and distinctive? H3.2 Is the functional design unique? H3.3 Does the design demonstrate breakthrough creativity?",
+    "dimension_code": "A",
+    "indicator_code": "A1",
+    "instrument_raw": "自编15题七点评分",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "1=very poor,7=very good；五个维度各3题；聚合细节NR",
+    "validity_evidence": "提供五维各3题的内容操作化；缺工具来源与独立效度依据",
+    "reliability_evidence": "Cronbach alpha=0.87；Kendall W=0.79(p<.001)；部分样本重测相关=.82；未说明重测人数/间隔",
+    "result_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "effect_direction": "正向",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C03",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 0
+  },
+  {
+    "legacy_rows": [
+      225
+    ],
+    "claim_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "claim_summary": "DM-CAM生成图像获更高专家评价",
+    "claim_type": "C2",
+    "construct_raw": "User Comprehensibility",
+    "indicator_raw": "User Comprehensibility",
+    "item_quote": "H4.1 Is the design intent communicated through the image? H4.2 Is the design purpose easy to understand? H4.3 Does the design meet user expectations?",
+    "dimension_code": "A",
+    "indicator_code": "UNMAPPED",
+    "instrument_raw": "自编15题七点评分",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "1=very poor,7=very good；五个维度各3题；聚合细节NR",
+    "validity_evidence": "提供五维各3题的内容操作化；缺工具来源与独立效度依据",
+    "reliability_evidence": "Cronbach alpha=0.87；Kendall W=0.79(p<.001)；部分样本重测相关=.82；未说明重测人数/间隔",
+    "result_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "effect_direction": "正向",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C04",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 0
+  },
+  {
+    "legacy_rows": [
+      226
+    ],
+    "claim_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "claim_summary": "DM-CAM生成图像获更高专家评价",
+    "claim_type": "C2",
+    "construct_raw": "Overall Appeal",
+    "indicator_raw": "Overall Appeal",
+    "item_quote": "H5.1 Are the color and style visually attractive? H5.2 Does the image evoke positive emotional resonance? H5.3 Is the design memorable or distinctive?",
+    "dimension_code": "A",
+    "indicator_code": "A2",
+    "instrument_raw": "自编15题七点评分",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "1=very poor,7=very good；五个维度各3题；聚合细节NR",
+    "validity_evidence": "提供五维各3题的内容操作化；缺工具来源与独立效度依据",
+    "reliability_evidence": "Cronbach alpha=0.87；Kendall W=0.79(p<.001)；部分样本重测相关=.82；未说明重测人数/间隔",
+    "result_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "effect_direction": "正向",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C05",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 0
+  },
+  {
+    "legacy_rows": [
+      228
+    ],
+    "claim_quote": "the difference was not significant (p = 0.226, r = 0.217).",
+    "claim_summary": "比较AI协助与传统设计的专家感知评分（非临床疗效）",
+    "claim_type": "C2",
+    "construct_raw": "Creativity",
+    "indicator_raw": "Creativity",
+    "item_quote": "The novelty of this solution relative to current technologies/designs, or technologies/designs that solve similar problems.",
+    "dimension_code": "A",
+    "indicator_code": "A1",
+    "instrument_raw": "专家5点Likert单项准则评分",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "NR",
+    "response_scoring": "1–5分高为更好；每构念5名对应专业专家均分",
+    "validity_evidence": "表3定义；创造力据Gomes等2022，可行性据Douglas等2006；心理指标依BAT核心过程并由心理专家评价",
+    "reliability_evidence": "平均测量ICC(3,k)=0.561；盲化+随机呈现",
+    "result_quote": "the difference was not significant (p = 0.226, r = 0.217).",
+    "effect_direction": "无显著差异",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "S",
+      "A4": "P",
+      "A6": "P",
+      "A7": "P",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      229
+    ],
+    "claim_quote": "the score of the AI-assisted process on the feasibility dimension was lower than that of the traditional process, but the difference was not significant (p = 0.077, r = 0.317).",
+    "claim_summary": "比较AI协助与传统设计的专家感知评分（非临床疗效）",
+    "claim_type": "C2",
+    "construct_raw": "Feasibility",
+    "indicator_raw": "Feasibility",
+    "item_quote": "The extent to which this solution is achievable and socially/legally/politically/morally acceptable.",
+    "dimension_code": "A",
+    "indicator_code": "A4",
+    "instrument_raw": "专家5点Likert单项准则评分",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "NR",
+    "response_scoring": "1–5分高为更好；每构念5名对应专业专家均分",
+    "validity_evidence": "表3定义；创造力据Gomes等2022，可行性据Douglas等2006；心理指标依BAT核心过程并由心理专家评价",
+    "reliability_evidence": "平均测量ICC(3,k)=0.595；盲化+随机呈现",
+    "result_quote": "the score of the AI-assisted process on the feasibility dimension was lower than that of the traditional process, but the difference was not significant (p = 0.077, r = 0.317).",
+    "effect_direction": "无显著差异（数值负向）",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C02",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "S",
+      "A4": "P",
+      "A6": "P",
+      "A7": "P",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      230
+    ],
+    "claim_quote": "AI-assisted processes were associated with higher effectiveness (p = 0.001, r = 0.578)",
+    "claim_summary": "比较AI协助与传统设计的专家感知评分（非临床疗效）",
+    "claim_type": "C2",
+    "construct_raw": "Effectiveness",
+    "indicator_raw": "Effectiveness",
+    "item_quote": "This solution can increase the level of positive emotions of target users.",
+    "dimension_code": "A",
+    "indicator_code": "A3",
+    "instrument_raw": "专家5点Likert单项准则评分",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "1–5分高为更好；每构念5名对应专业专家均分",
+    "validity_evidence": "表3定义；创造力据Gomes等2022，可行性据Douglas等2006；心理指标依BAT核心过程并由心理专家评价",
+    "reliability_evidence": "平均测量ICC(3,k)=0.623；盲化+随机呈现",
+    "result_quote": "AI-assisted processes were associated with higher effectiveness (p = 0.001, r = 0.578)",
+    "effect_direction": "正向",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C03",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "S",
+      "A4": "P",
+      "A6": "P",
+      "A7": "P",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      231
+    ],
+    "claim_quote": "greater integrity in design outcomes, with a medium effect size (r = 0.448).",
+    "claim_summary": "比较AI协助与传统设计的专家感知评分（非临床疗效）",
+    "claim_type": "C2",
+    "construct_raw": "Completeness",
+    "indicator_raw": "Completeness",
+    "item_quote": "The extent to which this solution covers the core processes of BAT.",
+    "dimension_code": "A",
+    "indicator_code": "A6",
+    "instrument_raw": "专家5点Likert单项准则评分",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "1–5分高为更好；每构念5名对应专业专家均分",
+    "validity_evidence": "表3定义；创造力据Gomes等2022，可行性据Douglas等2006；心理指标依BAT核心过程并由心理专家评价",
+    "reliability_evidence": "平均测量ICC(3,k)=0.587；盲化+随机呈现",
+    "result_quote": "greater integrity in design outcomes, with a medium effect size (r = 0.448).",
+    "effect_direction": "正向",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C04",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "S",
+      "A4": "P",
+      "A6": "P",
+      "A7": "P",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      232
+    ],
+    "claim_quote": "higher applicability in design outcomes, with a medium effect size (r = 0.448).",
+    "claim_summary": "比较AI协助与传统设计的专家感知评分（非临床疗效）",
+    "claim_type": "C2",
+    "construct_raw": "Applicability",
+    "indicator_raw": "Applicability",
+    "item_quote": "This solution is tailored to the degree of the student suffering from anxiety/depression.",
+    "dimension_code": "E",
+    "indicator_code": "E2",
+    "instrument_raw": "专家5点Likert单项准则评分",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "1–5分高为更好；每构念5名对应专业专家均分",
+    "validity_evidence": "表3定义；创造力据Gomes等2022，可行性据Douglas等2006；心理指标依BAT核心过程并由心理专家评价",
+    "reliability_evidence": "平均测量ICC(3,k)=0.609；盲化+随机呈现",
+    "result_quote": "higher applicability in design outcomes, with a medium effect size (r = 0.448).",
+    "effect_direction": "正向",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C05",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "S",
+      "A4": "P",
+      "A6": "P",
+      "A7": "P",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      233
+    ],
+    "claim_quote": "Its strong reasoning and well-supported arguments compensate for my gaps in behavioral activation knowledge.",
+    "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+    "claim_type": "C1",
+    "construct_raw": "knowledge gaps",
+    "indicator_raw": "knowledge gaps",
+    "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "dimension_code": "C",
+    "indicator_code": "C2",
+    "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+    "tool_family_codes": [
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+    "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+    "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+    "result_quote": "Its strong reasoning and well-supported arguments compensate for my gaps in behavioral activation knowledge.",
+    "effect_direction": "正向",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      234
+    ],
+    "claim_quote": "AI experts lacked aesthetic sensibility (P14) and could not support designers in making high-quality decisions (P12, P13, P17, P30)",
+    "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+    "claim_type": "C1",
+    "construct_raw": "decision support",
+    "indicator_raw": "decision support",
+    "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "dimension_code": "B",
+    "indicator_code": "B4",
+    "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+    "tool_family_codes": [
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+    "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+    "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+    "result_quote": "AI experts lacked aesthetic sensibility (P14) and could not support designers in making high-quality decisions (P12, P13, P17, P30)",
+    "effect_direction": "混合",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C02",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      235
+    ],
+    "claim_quote": "they primarily served to integrate information, optimize details, and provide directional guidance.",
+    "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+    "claim_type": "C1",
+    "construct_raw": "detail optimization",
+    "indicator_raw": "detail optimization",
+    "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "dimension_code": "B",
+    "indicator_code": "B3",
+    "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+    "tool_family_codes": [
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+    "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+    "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+    "result_quote": "they primarily served to integrate information, optimize details, and provide directional guidance.",
+    "effect_direction": "正向（支持细化，未测迭代速率）",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C03",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      236
+    ],
+    "claim_quote": "Overuse of technical jargon was the primary issue reported",
+    "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+    "claim_type": "C1",
+    "construct_raw": "ease of use / communication difficulty",
+    "indicator_raw": "ease of use / communication difficulty",
+    "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "dimension_code": "D",
+    "indicator_code": "D1",
+    "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+    "tool_family_codes": [
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+    "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+    "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+    "result_quote": "Overuse of technical jargon was the primary issue reported",
+    "effect_direction": "混合",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C04",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "Most participants also believed AI experts saved design time",
+    "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+    "claim_type": "C1",
+    "construct_raw": "design efficiency",
+    "indicator_raw": "design efficiency",
+    "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "dimension_code": "B",
+    "indicator_code": "B1",
+    "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+    "tool_family_codes": [
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+    "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+    "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+    "result_quote": "Most participants also believed AI experts saved design time",
+    "effect_direction": "正向",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C05",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "It encourages more divergent thinking and generates novel ideas",
+    "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+    "claim_type": "C1",
+    "construct_raw": "creative inspiration / divergent thinking",
+    "indicator_raw": "creative inspiration / divergent thinking",
+    "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "dimension_code": "C",
+    "indicator_code": "C1",
+    "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+    "tool_family_codes": [
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+    "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+    "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+    "result_quote": "It encourages more divergent thinking and generates novel ideas",
+    "effect_direction": "混合",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C06",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "Just don’t over-rely on AI―use it moderately",
+    "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+    "claim_type": "C1",
+    "construct_raw": "over-reliance / homogeneity",
+    "indicator_raw": "over-reliance / homogeneity",
+    "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "dimension_code": "C",
+    "indicator_code": "C7",
+    "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+    "tool_family_codes": [
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+    "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+    "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+    "result_quote": "Just don’t over-rely on AI―use it moderately",
+    "effect_direction": "风险/条件性",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C07",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "designers retaining responsibility for decision-making and creative direction",
+    "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+    "claim_type": "C1",
+    "construct_raw": "designer agency",
+    "indicator_raw": "designer agency",
+    "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "dimension_code": "D",
+    "indicator_code": "D6",
+    "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+    "tool_family_codes": [
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+    "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+    "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+    "result_quote": "designers retaining responsibility for decision-making and creative direction",
+    "effect_direction": "条件性",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C08",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "This approach expanded designers’ perspectives and enhanced their design and interdisciplinary capabilities.",
+    "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+    "claim_type": "C1",
+    "construct_raw": "interdisciplinary capabilities",
+    "indicator_raw": "interdisciplinary capabilities",
+    "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "dimension_code": "C",
+    "indicator_code": "C8",
+    "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+    "tool_family_codes": [
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+    "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+    "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+    "result_quote": "This approach expanded designers’ perspectives and enhanced their design and interdisciplinary capabilities.",
+    "effect_direction": "正向",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C09",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "Felt overly clinical, with uncomfortably sharp questioning",
+    "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+    "claim_type": "C1",
+    "construct_raw": "communication experience",
+    "indicator_raw": "communication experience",
+    "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "dimension_code": "D",
+    "indicator_code": "D8",
+    "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+    "tool_family_codes": [
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+    "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+    "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+    "result_quote": "Felt overly clinical, with uncomfortably sharp questioning",
+    "effect_direction": "负向",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C10",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      237,
+      239
+    ],
+    "claim_quote": "This allows richer conversations and their voices to be heard.",
+    "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+    "claim_type": "C4",
+    "construct_raw": "rich / space-aware conversations",
+    "indicator_raw": "rich / space-aware conversations",
+    "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "dimension_code": "D",
+    "indicator_code": "D8",
+    "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+    "tool_family_codes": [
+      "M4",
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+    "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+    "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+    "result_quote": "This allows richer conversations and their voices to be heard.",
+    "effect_direction": "条件性正向",
+    "pages": [
+      8,
+      9,
+      12,
+      13
+    ],
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      238
+    ],
+    "claim_quote": "I do remember my mom talking a lot about murals back where she is from",
+    "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+    "claim_type": "C4",
+    "construct_raw": "memories and cultural values",
+    "indicator_raw": "memories and cultural values",
+    "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "dimension_code": "E",
+    "indicator_code": "E4",
+    "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+    "tool_family_codes": [
+      "M4",
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+    "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+    "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+    "result_quote": "I do remember my mom talking a lot about murals back where she is from",
+    "effect_direction": "条件性正向",
+    "pages": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C02",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      240
+    ],
+    "claim_quote": "It was exactly like this one",
+    "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+    "claim_type": "C4",
+    "construct_raw": "image alignment and satisfaction",
+    "indicator_raw": "image alignment and satisfaction",
+    "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "dimension_code": "A",
+    "indicator_code": "A5",
+    "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+    "tool_family_codes": [
+      "M4",
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+    "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+    "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+    "result_quote": "It was exactly like this one",
+    "effect_direction": "混合（满意可能终止探索）",
+    "pages": [
+      8,
+      9,
+      15,
+      16
+    ],
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C03",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      241
+    ],
+    "claim_quote": "Images without a starting point seem idealized and US-looking.",
+    "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+    "claim_type": "C4",
+    "construct_raw": "cultural biases / stereotypes",
+    "indicator_raw": "cultural biases / stereotypes",
+    "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "dimension_code": "E",
+    "indicator_code": "E5",
+    "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+    "tool_family_codes": [
+      "M4",
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+    "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+    "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+    "result_quote": "Images without a starting point seem idealized and US-looking.",
+    "effect_direction": "风险/条件性",
+    "pages": [
+      8,
+      9,
+      17
+    ],
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C04",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "Whimsical unrealistic images can be generative in helping participants to think more creatively",
+    "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+    "claim_type": "C4",
+    "construct_raw": "creative inspiration",
+    "indicator_raw": "creative inspiration",
+    "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "dimension_code": "C",
+    "indicator_code": "C1",
+    "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+    "tool_family_codes": [
+      "M4",
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+    "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+    "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+    "result_quote": "Whimsical unrealistic images can be generative in helping participants to think more creatively",
+    "effect_direction": "正向",
+    "pages": [
+      8,
+      9,
+      12
+    ],
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C05",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "It helped the interviewees to engage with the questions and reduced resistance",
+    "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+    "claim_type": "C4",
+    "construct_raw": "engagement",
+    "indicator_raw": "engagement",
+    "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "dimension_code": "C",
+    "indicator_code": "C4",
+    "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+    "tool_family_codes": [
+      "M4",
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+    "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+    "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+    "result_quote": "It helped the interviewees to engage with the questions and reduced resistance",
+    "effect_direction": "正向",
+    "pages": [
+      8,
+      9,
+      14
+    ],
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C06",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "engagement with the participants increased since they could feel ownership of what we were thinking and designing",
+    "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+    "claim_type": "C4",
+    "construct_raw": "ownership",
+    "indicator_raw": "ownership",
+    "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "dimension_code": "D",
+    "indicator_code": "D6",
+    "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+    "tool_family_codes": [
+      "M4",
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+    "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+    "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+    "result_quote": "engagement with the participants increased since they could feel ownership of what we were thinking and designing",
+    "effect_direction": "正向",
+    "pages": [
+      8,
+      9,
+      14
+    ],
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C07",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "We don’t know if the AI is driving too much",
+    "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+    "claim_type": "C4",
+    "construct_raw": "AI opacity",
+    "indicator_raw": "AI opacity",
+    "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "dimension_code": "D",
+    "indicator_code": "D4",
+    "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+    "tool_family_codes": [
+      "M4",
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+    "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+    "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+    "result_quote": "We don’t know if the AI is driving too much",
+    "effect_direction": "负向",
+    "pages": [
+      8,
+      9,
+      17
+    ],
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C08",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "The use of partial arrangements on a chosen reference image perhaps limited the possibilities to unveil imaginaries",
+    "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+    "claim_type": "C4",
+    "construct_raw": "anchoring expectations",
+    "indicator_raw": "anchoring expectations",
+    "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "dimension_code": "C",
+    "indicator_code": "C7",
+    "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+    "tool_family_codes": [
+      "M4",
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+    "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+    "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+    "result_quote": "The use of partial arrangements on a chosen reference image perhaps limited the possibilities to unveil imaginaries",
+    "effect_direction": "风险/条件性",
+    "pages": [
+      8,
+      9,
+      17
+    ],
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C09",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      242
+    ],
+    "claim_quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+    "claim_summary": "MAP-Elites与随机画廊的主观比较意见混合",
+    "claim_type": "C2",
+    "construct_raw": "Subjective Accuracy",
+    "indicator_raw": "Subjective Accuracy",
+    "item_quote": "Which presented better solutions? Which allowed you to select more optimal recommendations? Which showed too many poor recommendations?",
+    "dimension_code": "A",
+    "indicator_code": "A3",
+    "instrument_raw": "基于Knijnenburg等推荐系统评价框架的条件偏好选择题",
+    "tool_family_codes": [
+      "M3"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "NR",
+    "response_scoring": "12个题分别选择Insights1/Insights2/neither；揭盲转MAP-Elites/control/neither",
+    "validity_evidence": "采用用户中心推荐系统框架；题项公开但转为二选一/无偏好后无当前构念效度验证",
+    "reliability_evidence": "未报告",
+    "result_quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+    "effect_direction": "无明确差异",
+    "pages": [
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "S",
+      "A6": "P",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      243
+    ],
+    "claim_quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+    "claim_summary": "MAP-Elites与随机画廊的主观比较意见混合",
+    "claim_type": "C2",
+    "construct_raw": "Subjective Diversity",
+    "indicator_raw": "Subjective Diversity",
+    "item_quote": "Which presented a variety of choices? Which showed a bigger difference in recommendations?",
+    "dimension_code": "A",
+    "indicator_code": "UNMAPPED",
+    "instrument_raw": "基于Knijnenburg等推荐系统评价框架的条件偏好选择题",
+    "tool_family_codes": [
+      "M3"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "NR",
+    "response_scoring": "12个题分别选择Insights1/Insights2/neither；揭盲转MAP-Elites/control/neither",
+    "validity_evidence": "采用用户中心推荐系统框架；题项公开但转为二选一/无偏好后无当前构念效度验证",
+    "reliability_evidence": "未报告",
+    "result_quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+    "effect_direction": "无明确差异",
+    "pages": [
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C02",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "S",
+      "A6": "P",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      244
+    ],
+    "claim_quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+    "claim_summary": "MAP-Elites与随机画廊的主观比较意见混合",
+    "claim_type": "C2",
+    "construct_raw": "Subjective Satisfaction",
+    "indicator_raw": "Subjective Satisfaction",
+    "item_quote": "Which list was more valuable with respect to your time? Which had more satisfying recommendations? Which would you trust more to provide you with recommendations? Which made finding a new solution easier?",
+    "dimension_code": "D",
+    "indicator_code": "UNMAPPED",
+    "instrument_raw": "基于Knijnenburg等推荐系统评价框架的条件偏好选择题",
+    "tool_family_codes": [
+      "M3"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "NR",
+    "response_scoring": "12个题分别选择Insights1/Insights2/neither；揭盲转MAP-Elites/control/neither",
+    "validity_evidence": "采用用户中心推荐系统框架；题项公开但转为二选一/无偏好后无当前构念效度验证",
+    "reliability_evidence": "未报告",
+    "result_quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+    "effect_direction": "无明确差异",
+    "pages": [
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C03",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "S",
+      "A6": "P",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      245
+    ],
+    "claim_quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+    "claim_summary": "MAP-Elites与随机画廊的主观比较意见混合",
+    "claim_type": "C2",
+    "construct_raw": "Subjective Novelty",
+    "indicator_raw": "Subjective Novelty",
+    "item_quote": "Which gave you more recommendations you would not expect? Which gave you recommendations you would not have thought of yourself? Which allowed you to explore new ideas better?",
+    "dimension_code": "A",
+    "indicator_code": "A1",
+    "instrument_raw": "基于Knijnenburg等推荐系统评价框架的条件偏好选择题",
+    "tool_family_codes": [
+      "M3"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "NR",
+    "response_scoring": "12个题分别选择Insights1/Insights2/neither；揭盲转MAP-Elites/control/neither",
+    "validity_evidence": "采用用户中心推荐系统框架；题项公开但转为二选一/无偏好后无当前构念效度验证",
+    "reliability_evidence": "未报告",
+    "result_quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+    "effect_direction": "无明确差异",
+    "pages": [
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C04",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "S",
+      "A6": "P",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      246
+    ],
+    "claim_quote": "Most (58%) participants found the genetic car designer easy to use",
+    "claim_summary": "实验后开放回答中的使用体验",
+    "claim_type": "C1",
+    "construct_raw": "ease of use",
+    "indicator_raw": "ease of use",
+    "item_quote": "How easy or difficult was the car designer to use?",
+    "dimension_code": "D",
+    "indicator_code": "D1",
+    "instrument_raw": "实验后开放回答+演绎式质性内容分析",
+    "tool_family_codes": [
+      "M5"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "NR",
+    "response_scoring": "公开代码本及逐人逐题编码表；按主题报告人数",
+    "validity_evidence": "基于Knijnenburg等框架；操作性主题定义和原文案例公开",
+    "reliability_evidence": "两研究者独立初始编码、协商代码本、再次独立编码、讨论分歧直至共识",
+    "result_quote": "Most (58%) participants found the genetic car designer easy to use",
+    "effect_direction": "多数正向/个别困难",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C05",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "S",
+      "A4": "S",
+      "A6": "P",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      247
+    ],
+    "claim_quote": "The scoring system helped make the decisions much easier.",
+    "claim_summary": "实验后开放回答中的使用体验",
+    "claim_type": "C1",
+    "construct_raw": "decision difficulty",
+    "indicator_raw": "decision difficulty",
+    "item_quote": "How easy or difficult was it to make a decision from the lists?",
+    "dimension_code": "B",
+    "indicator_code": "B4",
+    "instrument_raw": "实验后开放回答+演绎式质性内容分析",
+    "tool_family_codes": [
+      "M5"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "NR",
+    "response_scoring": "公开代码本及逐人逐题编码表；按主题报告人数",
+    "validity_evidence": "基于Knijnenburg等框架；操作性主题定义和原文案例公开",
+    "reliability_evidence": "两研究者独立初始编码、协商代码本、再次独立编码、讨论分歧直至共识",
+    "result_quote": "The scoring system helped make the decisions much easier.",
+    "effect_direction": "混合",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C06",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "S",
+      "A4": "S",
+      "A6": "P",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      248
+    ],
+    "claim_quote": "The majority (75%) of participants reported that the decision process was not made frustrating by the insights.",
+    "claim_summary": "实验后开放回答中的使用体验",
+    "claim_type": "C1",
+    "construct_raw": "frustration and effort",
+    "indicator_raw": "frustration and effort",
+    "item_quote": "Was the decision process frustrating for insights 1 or 2? How much effort did you need to invest while using insights 1 and 2?",
+    "dimension_code": "B",
+    "indicator_code": "B2",
+    "instrument_raw": "实验后开放回答+演绎式质性内容分析",
+    "tool_family_codes": [
+      "M5"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "NR",
+    "response_scoring": "公开代码本及逐人逐题编码表；按主题报告人数",
+    "validity_evidence": "基于Knijnenburg等框架；操作性主题定义和原文案例公开",
+    "reliability_evidence": "两研究者独立初始编码、协商代码本、再次独立编码、讨论分歧直至共识",
+    "result_quote": "The majority (75%) of participants reported that the decision process was not made frustrating by the insights.",
+    "effect_direction": "多数低负担/个别负向",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C07",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "S",
+      "A4": "S",
+      "A6": "P",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      249
+    ],
+    "claim_quote": "Most (75%) of the participants reported that they trusted the results from the car designer.",
+    "claim_summary": "实验后开放回答中的使用体验",
+    "claim_type": "C1",
+    "construct_raw": "trust",
+    "indicator_raw": "trust",
+    "item_quote": "Do you trust the results from the car designer?",
+    "dimension_code": "D",
+    "indicator_code": "D5",
+    "instrument_raw": "实验后开放回答+演绎式质性内容分析",
+    "tool_family_codes": [
+      "M5"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "NR",
+    "response_scoring": "公开代码本及逐人逐题编码表；按主题报告人数",
+    "validity_evidence": "基于Knijnenburg等框架；操作性主题定义和原文案例公开",
+    "reliability_evidence": "两研究者独立初始编码、协商代码本、再次独立编码、讨论分歧直至共识",
+    "result_quote": "Most (75%) of the participants reported that they trusted the results from the car designer.",
+    "effect_direction": "多数正向",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C08",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "S",
+      "A4": "S",
+      "A6": "P",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "it wasn’t obvious what insights 1 and 2 represented.",
+    "claim_summary": "实验后开放回答中的使用体验",
+    "claim_type": "C1",
+    "construct_raw": "understanding the insights",
+    "indicator_raw": "understanding the insights",
+    "item_quote": "NR",
+    "dimension_code": "D",
+    "indicator_code": "D4",
+    "instrument_raw": "实验后开放回答+演绎式质性内容分析",
+    "tool_family_codes": [
+      "M5"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "NR",
+    "response_scoring": "公开代码本及逐人逐题编码表；按主题报告人数",
+    "validity_evidence": "基于Knijnenburg等框架；操作性主题定义和原文案例公开",
+    "reliability_evidence": "两研究者独立初始编码、协商代码本、再次独立编码、讨论分歧直至共识",
+    "result_quote": "it wasn’t obvious what insights 1 and 2 represented.",
+    "effect_direction": "负向/混合",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C09",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "S",
+      "A4": "S",
+      "A6": "P",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      426,
+      427
+    ],
+    "claim_quote": "Most participants found our viewpoint suggestion features useful (RQ1) and the image modifiers easy to use to visualize textual comments (RQ2).",
+    "claim_summary": "反馈制作及视点定位更容易",
+    "claim_type": "C2",
+    "construct_raw": "Navigating the Viewpoint; Creating Reference Images",
+    "indicator_raw": "Q1; Q2",
+    "item_quote": "it was easy to locate the viewpoint and/or target objects while creating feedback. | it was easy to create reference images with the image modifiers for my textual comments.",
+    "dimension_code": "D",
+    "indicator_code": "D1",
+    "instrument_raw": "自编Q1/Q2 5级同意评分；半结构访谈",
+    "tool_family_codes": [
+      "M1",
+      "M4"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "Q2基线条件改为with the method(s) I chose.",
+    "response_scoring": "5点；>3为正向；分别报告单题人数，不合总分。",
+    "validity_evidence": "与具体任务面对对应；未报告独立效度。",
+    "reliability_evidence": "评分稳定性未报告；访谈独立读稿与迭代代码本。",
+    "result_quote": "More participants positively believed that it was easy to locate the viewpoints and target objects with MemoVis, compared to the baseline (13 vs. 4, Figure9(a)).",
+    "effect_direction": "正向",
+    "pages": [
+      17,
+      18,
+      19
+    ],
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "85-E1-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      428
+    ],
+    "claim_quote": "Most participants also believed the reference images created with MemoVis could easily and explicitly convey the gist of 3D design feedback.",
+    "claim_summary": "图像帮助明确传达设计反馈",
+    "claim_type": "C2",
+    "construct_raw": "Explicitness of the Reference Images",
+    "indicator_raw": "Q3",
+    "item_quote": "the reference images easily and explicitly conveyed the gist of my design comments.",
+    "dimension_code": "D",
+    "indicator_code": "D8",
+    "instrument_raw": "自编Q3 5级同意评分；半结构访谈",
+    "tool_family_codes": [
+      "M1",
+      "M4"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "5点；>3正向。",
+    "validity_evidence": "明确指向反馈传达，不等同于可解释AI内部推理。",
+    "reliability_evidence": "NR（量表）；主题分析步骤公开。",
+    "result_quote": "explicitness of the images (10 vs. 4 for Q3)",
+    "effect_direction": "正向但有失败个案",
+    "pages": [
+      17,
+      19,
+      21,
+      22,
+      18
+    ],
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "85-E1-C02",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      429
+    ],
+    "claim_quote": "Most participants recognized the benefits of MemoVis for inspiring new ideas",
+    "claim_summary": "参考图启发新问题与新想法",
+    "claim_type": "C2",
+    "construct_raw": "Creativity Support",
+    "indicator_raw": "Q4",
+    "item_quote": "the reference images helped me discover more potential design problems and new ideas.",
+    "dimension_code": "C",
+    "indicator_code": "C1",
+    "instrument_raw": "自编Q4 5级同意评分；访谈（不是CSI）",
+    "tool_family_codes": [
+      "M1",
+      "M4"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "5点；>3正向。",
+    "validity_evidence": "题项测灵感启发；未以创造力支持具名指数操作化。",
+    "reliability_evidence": "NR（量表）；质性主题有步骤。",
+    "result_quote": "creativity support (13 vs. 3 for Q4)",
+    "effect_direction": "正向",
+    "pages": [
+      17,
+      19,
+      20
+    ],
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "85-E1-C03",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "S"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      430
+    ],
+    "claim_quote": "participants liked the explicitness of the generated reference images",
+    "claim_summary": "独立评价者认为生成图更明确传达文字意图",
+    "claim_type": "C2",
+    "construct_raw": "gist of the textual comment / explicitness",
+    "indicator_raw": "5-point rating of reference-image correspondence",
+    "item_quote": "NR（文中给出测量内容：how well the reference image can convey the gist of the textual comment）",
+    "dimension_code": "A",
+    "indicator_code": "A5",
+    "instrument_raw": "自编5级图文对应评价及文字理由",
+    "tool_family_codes": [
+      "M1",
+      "M5"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "1强烈不同意–5强烈同意；>3正向。",
+    "validity_evidence": "内容面向图文对应而非最终产品审美；未报告效度检验。",
+    "reliability_evidence": "每图1人；未报告评分一致性。",
+    "result_quote": "around66.67% of the reference images created by MemoVis were rated positively, versus only around38.64%",
+    "effect_direction": "正向但并非全部图",
+    "pages": [
+      22,
+      23,
+      24
+    ],
+    "paper_id": 85,
+    "eval_id": "85-E2",
+    "chain_id": "85-E2-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "S",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      431
+    ],
+    "claim_quote": "Record the subjective ratings of k participants on i samples in j affective image dimensions",
+    "claim_summary": "列车造型的Science-fiction感性意象评分供模型训练",
+    "claim_type": "C1",
+    "construct_raw": "Science-fiction",
+    "indicator_raw": "Science-fiction",
+    "item_quote": "Science-fiction",
+    "dimension_code": "UNMAPPED",
+    "indicator_code": "UNMAPPED",
+    "instrument_raw": "感性工学自编语义一致性7级评分（作者称7-point Likert）",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "基于SD方法构建词项；不是原标准量表。",
+    "response_scoring": "-3不一致到3一致，转换1–7，每图25人均值。",
+    "validity_evidence": "50人筛词、20人聚类及代表词选择；KMO>0.75只为因子适用性信息。",
+    "reliability_evidence": "报告alpha>0.85，计算项目构成不详。",
+    "result_quote": "the evaluation scores of the 5-dimensional affective image of each subway train form sample",
+    "effect_direction": "描述性/输入标签",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "P",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      432
+    ],
+    "claim_quote": "Record the subjective ratings of k participants on i samples in j affective image dimensions",
+    "claim_summary": "列车造型的Humanistic感性意象评分供模型训练",
+    "claim_type": "C1",
+    "construct_raw": "Humanistic",
+    "indicator_raw": "Humanistic",
+    "item_quote": "Humanistic",
+    "dimension_code": "UNMAPPED",
+    "indicator_code": "UNMAPPED",
+    "instrument_raw": "感性工学自编语义一致性7级评分（作者称7-point Likert）",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "基于SD方法构建词项；不是原标准量表。",
+    "response_scoring": "-3不一致到3一致，转换1–7，每图25人均值。",
+    "validity_evidence": "50人筛词、20人聚类及代表词选择；KMO>0.75只为因子适用性信息。",
+    "reliability_evidence": "报告alpha>0.85，计算项目构成不详。",
+    "result_quote": "the evaluation scores of the 5-dimensional affective image of each subway train form sample",
+    "effect_direction": "描述性/输入标签",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C02",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "P",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      433
+    ],
+    "claim_quote": "Record the subjective ratings of k participants on i samples in j affective image dimensions",
+    "claim_summary": "列车造型的Exquisite感性意象评分供模型训练",
+    "claim_type": "C1",
+    "construct_raw": "Exquisite",
+    "indicator_raw": "Exquisite",
+    "item_quote": "Exquisite",
+    "dimension_code": "A",
+    "indicator_code": "A2",
+    "instrument_raw": "感性工学自编语义一致性7级评分（作者称7-point Likert）",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "基于SD方法构建词项；不是原标准量表。",
+    "response_scoring": "-3不一致到3一致，转换1–7，每图25人均值。",
+    "validity_evidence": "50人筛词、20人聚类及代表词选择；KMO>0.75只为因子适用性信息。",
+    "reliability_evidence": "报告alpha>0.85，计算项目构成不详。",
+    "result_quote": "the evaluation scores of the 5-dimensional affective image of each subway train form sample",
+    "effect_direction": "描述性/输入标签",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C03",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "P",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      434
+    ],
+    "claim_quote": "Record the subjective ratings of k participants on i samples in j affective image dimensions",
+    "claim_summary": "列车造型的Grand感性意象评分供模型训练",
+    "claim_type": "C1",
+    "construct_raw": "Grand",
+    "indicator_raw": "Grand",
+    "item_quote": "Grand",
+    "dimension_code": "UNMAPPED",
+    "indicator_code": "UNMAPPED",
+    "instrument_raw": "感性工学自编语义一致性7级评分（作者称7-point Likert）",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "基于SD方法构建词项；不是原标准量表。",
+    "response_scoring": "-3不一致到3一致，转换1–7，每图25人均值。",
+    "validity_evidence": "50人筛词、20人聚类及代表词选择；KMO>0.75只为因子适用性信息。",
+    "reliability_evidence": "报告alpha>0.85，计算项目构成不详。",
+    "result_quote": "the evaluation scores of the 5-dimensional affective image of each subway train form sample",
+    "effect_direction": "描述性/输入标签",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C04",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "P",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [
+      435
+    ],
+    "claim_quote": "Record the subjective ratings of k participants on i samples in j affective image dimensions",
+    "claim_summary": "列车造型的Efficient感性意象评分供模型训练",
+    "claim_type": "C1",
+    "construct_raw": "Efficient",
+    "indicator_raw": "Efficient",
+    "item_quote": "Efficient",
+    "dimension_code": "UNMAPPED",
+    "indicator_code": "UNMAPPED",
+    "instrument_raw": "感性工学自编语义一致性7级评分（作者称7-point Likert）",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "基于SD方法构建词项；不是原标准量表。",
+    "response_scoring": "-3不一致到3一致，转换1–7，每图25人均值。",
+    "validity_evidence": "50人筛词、20人聚类及代表词选择；KMO>0.75只为因子适用性信息。",
+    "reliability_evidence": "报告alpha>0.85，计算项目构成不详。",
+    "result_quote": "the evaluation scores of the 5-dimensional affective image of each subway train form sample",
+    "effect_direction": "描述性/输入标签",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C05",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "P",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "In the two affective image dimensions of ‘efficient’ and ‘exquisite’, there have been varying degrees of optimization and improvement",
+    "claim_summary": "优化方案Efficient评分与既有样本均值对照",
+    "claim_type": "C2",
+    "construct_raw": "Efficient",
+    "indicator_raw": "Efficient",
+    "item_quote": "Efficient",
+    "dimension_code": "UNMAPPED",
+    "indicator_code": "UNMAPPED",
+    "instrument_raw": "沿用7级感性语义评分",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "沿用前述自编词项。",
+    "response_scoring": "1–7；16人均值与原样本总体均值对照。",
+    "validity_evidence": "线稿预处理及沿用内容选择。",
+    "reliability_evidence": "NR",
+    "result_quote": "图8数值（人工核对页图）：Efficient 4.7/4.4; Exquisite 4.6/4.2; Grand 4.3/4.3",
+    "effect_direction": "描述性正向",
+    "pages": [
+      20,
+      21,
+      23
+    ],
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "86-E2-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 0
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "In the two affective image dimensions of ‘efficient’ and ‘exquisite’, there have been varying degrees of optimization and improvement",
+    "claim_summary": "优化方案Exquisite评分与既有样本均值对照",
+    "claim_type": "C2",
+    "construct_raw": "Exquisite",
+    "indicator_raw": "Exquisite",
+    "item_quote": "Exquisite",
+    "dimension_code": "A",
+    "indicator_code": "A2",
+    "instrument_raw": "沿用7级感性语义评分",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "沿用前述自编词项。",
+    "response_scoring": "1–7；16人均值与原样本总体均值对照。",
+    "validity_evidence": "线稿预处理及沿用内容选择。",
+    "reliability_evidence": "NR",
+    "result_quote": "图8数值（人工核对页图）：Efficient 4.7/4.4; Exquisite 4.6/4.2; Grand 4.3/4.3",
+    "effect_direction": "描述性正向",
+    "pages": [
+      20,
+      21,
+      23
+    ],
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "86-E2-C02",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 0
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "In the two affective image dimensions of ‘efficient’ and ‘exquisite’, there have been varying degrees of optimization and improvement",
+    "claim_summary": "优化方案Grand评分与既有样本均值对照",
+    "claim_type": "C2",
+    "construct_raw": "Grand",
+    "indicator_raw": "Grand",
+    "item_quote": "Grand",
+    "dimension_code": "UNMAPPED",
+    "indicator_code": "UNMAPPED",
+    "instrument_raw": "沿用7级感性语义评分",
+    "tool_family_codes": [
+      "M1"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "沿用前述自编词项。",
+    "response_scoring": "1–7；16人均值与原样本总体均值对照。",
+    "validity_evidence": "线稿预处理及沿用内容选择。",
+    "reliability_evidence": "NR",
+    "result_quote": "图8数值（人工核对页图）：Efficient 4.7/4.4; Exquisite 4.6/4.2; Grand 4.3/4.3",
+    "effect_direction": "无差异",
+    "pages": [
+      20,
+      21,
+      23
+    ],
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "86-E2-C03",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 0
+  },
+  {
+    "legacy_rows": [
+      436
+    ],
+    "claim_quote": "the CSI score for the Sketchar condition is significantly higher than that under the control baseline condition",
+    "claim_summary": "Sketchar总创造力支持评分高于常规流程",
+    "claim_type": "C2",
+    "construct_raw": "Creativity Support Index",
+    "indicator_raw": "CSI total",
+    "item_quote": "12项包括Collaboration, Enjoyment, Exploration, Expressiveness, Immersion, Results Worth Effort；原题见分链。",
+    "dimension_code": "UNMAPPED",
+    "indicator_code": "UNMAPPED",
+    "instrument_raw": "Creativity Support Index (Cherry & Latulipe 2014)，改编语境",
+    "tool_family_codes": [
+      "M2"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "基线system/tool→process；协作指想象与潜在画师合作。",
+    "response_scoring": "12题0–10；文中总分算法及因子权重未详细复述。",
+    "validity_evidence": "具名原量表引用，改编适切性未验证。",
+    "reliability_evidence": "每因子alpha>0.7。",
+    "result_quote": "p = .028",
+    "effect_direction": "正向",
+    "pages": [
+      13,
+      14,
+      16,
+      17,
+      28
+    ],
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "S",
+      "A4": "S",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 0
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "Sketchar scored higher than baseline control, especially in the Collaboration dimension.",
+    "claim_summary": "CSI Collaboration的条件/背景差异",
+    "claim_type": "C2",
+    "construct_raw": "Collaboration",
+    "indicator_raw": "Collaboration",
+    "item_quote": "The system or tool allowed other people to work with me easily. | It was really easy to share ideas and designs with other people inside this system or tool.",
+    "dimension_code": "D",
+    "indicator_code": "D8",
+    "instrument_raw": "CSI Collaboration分量表",
+    "tool_family_codes": [
+      "M2"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "同总量表语境修改。",
+    "response_scoring": "每题0–10；每因子两项；作者直接比较因子。",
+    "validity_evidence": "具名来源；修改后的效度未验证。",
+    "reliability_evidence": "该因子alpha>0.7（未列精确值）。",
+    "result_quote": "Sketchar scored higher than baseline control, especially in the Collaboration dimension.",
+    "effect_direction": "正向（描述性；显著性表述矛盾）",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C02",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "S",
+      "A4": "S",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 0
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "On all dimensions except enjoyment, Sketchar scored higher than baseline control",
+    "claim_summary": "CSI Enjoyment的条件/背景差异",
+    "claim_type": "C2",
+    "construct_raw": "Enjoyment",
+    "indicator_raw": "Enjoyment",
+    "item_quote": "I would be happy to use this system or tool on a regular basis. | I enjoyed using the system or tool.",
+    "dimension_code": "C",
+    "indicator_code": "C5",
+    "instrument_raw": "CSI Enjoyment分量表",
+    "tool_family_codes": [
+      "M2"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "同总量表语境修改。",
+    "response_scoring": "每题0–10；每因子两项；作者直接比较因子。",
+    "validity_evidence": "具名来源；修改后的效度未验证。",
+    "reliability_evidence": "该因子alpha>0.7（未列精确值）。",
+    "result_quote": "On all dimensions except enjoyment, Sketchar scored higher than baseline control",
+    "effect_direction": "负向（描述性）",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C03",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "S",
+      "A4": "S",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 0
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "The Exploration and Result-Worth-Effort subscores in the CSI results exceeded scores in the baseline control.",
+    "claim_summary": "CSI Exploration的条件/背景差异",
+    "claim_type": "C2",
+    "construct_raw": "Exploration",
+    "indicator_raw": "Exploration",
+    "item_quote": "It was easy for me to explore many different ideas, options, designs, or outcomes, using this system or tool. | The system or tool was helpful in allowing me to track different ideas, outcomes, or possibilities.",
+    "dimension_code": "C",
+    "indicator_code": "C1",
+    "instrument_raw": "CSI Exploration分量表",
+    "tool_family_codes": [
+      "M2"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "同总量表语境修改。",
+    "response_scoring": "每题0–10；每因子两项；作者直接比较因子。",
+    "validity_evidence": "具名来源；修改后的效度未验证。",
+    "reliability_evidence": "该因子alpha>0.7（未列精确值）。",
+    "result_quote": "The Exploration and Result-Worth-Effort subscores in the CSI results exceeded scores in the baseline control.",
+    "effect_direction": "正向（描述性）",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C04",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "S",
+      "A4": "S",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 0
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "Large differences in factor scores were observed, particularly in the dimensions of Expressiveness and Results Worth Effort.",
+    "claim_summary": "CSI Expressiveness的条件/背景差异",
+    "claim_type": "C2",
+    "construct_raw": "Expressiveness",
+    "indicator_raw": "Expressiveness",
+    "item_quote": "I was able to be very creative while doing the activity inside this system or tool. | The system or tool allowed me to be very expressive.",
+    "dimension_code": "C",
+    "indicator_code": "C8",
+    "instrument_raw": "CSI Expressiveness分量表",
+    "tool_family_codes": [
+      "M2"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "同总量表语境修改。",
+    "response_scoring": "每题0–10；每因子两项；作者直接比较因子。",
+    "validity_evidence": "具名来源；修改后的效度未验证。",
+    "reliability_evidence": "该因子alpha>0.7（未列精确值）。",
+    "result_quote": "Large differences in factor scores were observed, particularly in the dimensions of Expressiveness and Results Worth Effort.",
+    "effect_direction": "无艺术背景组更高（描述性）",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C05",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "S",
+      "A4": "S",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 0
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "On all dimensions except enjoyment, Sketchar scored higher than baseline control",
+    "claim_summary": "CSI Immersion的条件/背景差异",
+    "claim_type": "C2",
+    "construct_raw": "Immersion",
+    "indicator_raw": "Immersion",
+    "item_quote": "My attention was fully tuned to the activity, and I forgot about the system or tool that I was using. | I became so absorbed in the activity that I forgot about the system or tool that I was using.",
+    "dimension_code": "C",
+    "indicator_code": "C4",
+    "instrument_raw": "CSI Immersion分量表",
+    "tool_family_codes": [
+      "M2"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "同总量表语境修改。",
+    "response_scoring": "每题0–10；每因子两项；作者直接比较因子。",
+    "validity_evidence": "具名来源；修改后的效度未验证。",
+    "reliability_evidence": "该因子alpha>0.7（未列精确值）。",
+    "result_quote": "On all dimensions except enjoyment, Sketchar scored higher than baseline control",
+    "effect_direction": "正向（描述性）",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C06",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "S",
+      "A4": "S",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 0
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "The Exploration and Result-Worth-Effort subscores in the CSI results exceeded scores in the baseline control.",
+    "claim_summary": "CSI Results Worth Effort的条件/背景差异",
+    "claim_type": "C2",
+    "construct_raw": "Results Worth Effort",
+    "indicator_raw": "Results Worth Effort",
+    "item_quote": "I was satisfied with what I got out of the system or tool. | What I was able to produce was worth the effort I had to exert to produce it.",
+    "dimension_code": "UNMAPPED",
+    "indicator_code": "UNMAPPED",
+    "instrument_raw": "CSI Results Worth Effort分量表",
+    "tool_family_codes": [
+      "M2"
+    ],
+    "tool_origin_code": "T2",
+    "adaptation": "同总量表语境修改。",
+    "response_scoring": "每题0–10；每因子两项；作者直接比较因子。",
+    "validity_evidence": "具名来源；修改后的效度未验证。",
+    "reliability_evidence": "该因子alpha>0.7（未列精确值）。",
+    "result_quote": "The Exploration and Result-Worth-Effort subscores in the CSI results exceeded scores in the baseline control.",
+    "effect_direction": "正向（描述性）",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C07",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "S",
+      "A4": "S",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 0
+  },
+  {
+    "legacy_rows": [
+      437
+    ],
+    "claim_quote": "The generated reference images provided assistance in visually expressing design requirements.",
+    "claim_summary": "生成图帮助表达设计要求，真实沟通尚未测试",
+    "claim_type": "C1",
+    "construct_raw": "visual expression / communication",
+    "indicator_raw": "KF3",
+    "item_quote": "NR（后测访谈具体逐字题干未给）",
+    "dimension_code": "D",
+    "indicator_code": "D8",
+    "instrument_raw": "半结构访谈与观察主题分析",
+    "tool_family_codes": [
+      "M4",
+      "M5"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "非数值；按KF主题解释，保留艺术背景差异。",
+    "validity_evidence": "任务后实际体验与原话支撑。",
+    "reliability_evidence": "三研究者共识，更多措施未报告。",
+    "result_quote": "I can inform the illustrator that I desire the face and hairstyle depicted in this picture",
+    "effect_direction": "正向但以预期合作为限",
+    "pages": [
+      13,
+      14,
+      15,
+      16,
+      23
+    ],
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "87-E2-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "Classifying and expanding character design concepts through GenAI assists game designers in expressing creative ideas, fostering refinement of design details.",
+    "claim_summary": "生成的世界观和档案启发后续构思",
+    "claim_type": "C1",
+    "construct_raw": "inspiration",
+    "indicator_raw": "KF2",
+    "item_quote": "NR",
+    "dimension_code": "C",
+    "indicator_code": "C1",
+    "instrument_raw": "半结构访谈",
+    "tool_family_codes": [
+      "M4"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "主题分析。",
+    "validity_evidence": "参与者P2原话。",
+    "reliability_evidence": "三研究者共识。",
+    "result_quote": "the expanded generation of the character’s worldview by this tool can also inspire me to think about the whole character’s setting",
+    "effect_direction": "正向",
+    "pages": [
+      15
+    ],
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "87-E2-C02",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "Artistic participant backgrounds lead to a higher demand for details of game character design.",
+    "claim_summary": "专业艺术背景影响对结果工作适用性的判断",
+    "claim_type": "C1",
+    "construct_raw": "practical workflow applicability",
+    "indicator_raw": "KF1",
+    "item_quote": "NR",
+    "dimension_code": "E",
+    "indicator_code": "E3",
+    "instrument_raw": "半结构访谈",
+    "tool_family_codes": [
+      "M4"
+    ],
+    "tool_origin_code": "T4",
+    "adaptation": "NR",
+    "response_scoring": "背景分组定性比较。",
+    "validity_evidence": "有背景信息及正反引文。",
+    "reliability_evidence": "三研究者共识。",
+    "result_quote": "is hard to utilize in pragmatic workflows",
+    "effect_direction": "混合/条件性",
+    "pages": [
+      14,
+      15
+    ],
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "87-E2-C03",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  },
+  {
+    "legacy_rows": [],
+    "claim_quote": "The experts identified an average of 6.84 images per set (ten) as relevant valuable references for game character artists.",
+    "claim_summary": "专家认为多数输出可用作实际设计参考",
+    "claim_type": "C1",
+    "construct_raw": "practical utility",
+    "indicator_raw": "number of qualified reference images",
+    "item_quote": "useful for further character development in your workflow.",
+    "dimension_code": "A",
+    "indicator_code": "A3",
+    "instrument_raw": "专家排序并筛选合格参考图",
+    "tool_family_codes": [
+      "M3"
+    ],
+    "tool_origin_code": "T3",
+    "adaptation": "NR",
+    "response_scoring": "每组10图选可用图并计数均值。",
+    "validity_evidence": "专家工作相关内容标准。",
+    "reliability_evidence": "NR",
+    "result_quote": "an average of 6.84 images per set (ten)",
+    "effect_direction": "正向描述性",
+    "pages": [
+      16,
+      17
+    ],
+    "paper_id": 87,
+    "eval_id": "87-E3",
+    "chain_id": "87-E3-C01",
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "strict_eligible": 0,
+    "sensitivity_eligible": 1
+  }
+]

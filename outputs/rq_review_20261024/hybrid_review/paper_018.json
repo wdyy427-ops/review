@@ -1,0 +1,56 @@
+{
+  "paper_id": 18,
+  "title": "Generative AI for interdisciplinary collaborative design: an agent-based workflow orchestration framework guided by R³ invariants",
+  "doi": "10.1080/09544828.2026.2629762",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    9,
+    11,
+    12,
+    14,
+    17,
+    18,
+    19,
+    21,
+    22,
+    24,
+    25,
+    27,
+    28,
+    31,
+    32,
+    34
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S2",
+    "S3",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F4",
+    "F5"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U5",
+    "U1"
+  ],
+  "context_summary": "This paper proposes an agent-based workflow orchestration framework for generative AI in interdisciplinary collaborative design, guided by R³ invariants (Representation, Reasoning, Realisation). It addresses challenges in engineering feasibility, reliability, and compliance through a closed-loop process of generation, validation, and governance.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\18.pdf"
+}

@@ -1,0 +1,230 @@
+{
+  "paper_id": 7,
+  "title": "An intelligent knowledge-driven module division framework for complex products",
+  "doi": "10.1080/09544828.2026.2680616",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    8,
+    9,
+    10,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    19,
+    21,
+    22,
+    23,
+    24
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2",
+    "D5"
+  ],
+  "stage_codes": [
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F5"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U5",
+    "U1"
+  ],
+  "context_summary": "The paper proposes an intelligent framework for modular design of complex products using CAD tools, LLM, and graph clustering. It includes a case study on a bogie system and discusses limitations and future work.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "007-E1",
+      "purpose_codes": [
+        "P1",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O7"
+      ],
+      "evaluator_codes": [
+        "V1"
+      ],
+      "source_codes": [
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G7",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K4",
+        "K5",
+        "K6"
+      ],
+      "constraint_codes": [],
+      "sample_n": 20,
+      "sample_description": "A group of domain experts with experience in bogie design and maintenance independently reviewed the functional affiliations of 20 components and assigned corresponding functional nodes based on engineering knowledge.",
+      "recruitment": "",
+      "task": "In the heavy-haul freight scenario, the bogie is required to sustain higher axle loads and",
+      "comparator": "then embedded into a semantic vector space and compared with the corresponding",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 16,
+          "quote": "A group of domain experts with experience in bogie design and maintenance independently reviewed the functional affiliations of 20 components and assigned corresponding functional nodes based on engineering knowledge."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "A group of domain experts with experience in bogie design and maintenance independently reviewed the functional affiliations of 20 components and assigned corresponding functional nodes based on engineering knowledge.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "A group of domain experts with experience in bogie design and maintenance independently reviewed the functional affiliations of 20 components and assigned corresponding functional nodes based on engineering knowledge.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "A comparison between the expert ratings and the LLM-generated sim-",
+          "tool_family_codes": [
+            "UNMAPPED"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            16
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": "tion of document lengths in the knowledge base, measured in token counts, is shown in"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": "ensuring stable and reliable force transmission."
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": "tion of document lengths in the knowledge base, measured in token counts, is shown in"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\7.pdf"
+}

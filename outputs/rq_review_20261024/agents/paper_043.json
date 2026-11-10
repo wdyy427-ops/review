@@ -1,0 +1,366 @@
+{
+  "paper_id": 43,
+  "title_match": true,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37
+  ],
+  "scope_note": "全文1–37页核查。微博主题热度属于需求背景而非已测AI感知效应；客观IQA/准确率不建感知链。H4设计意图可理解性不等同系统可解释性；保留UNMAPPED。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2"
+  ],
+  "ai_function_codes": [
+    "F1",
+    "F3",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R1",
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "从24003条微博抽取吹风机需求，文本-图像扩散生成并用CAM优化；研究与构思阶段。",
+  "context_evidence": [
+    {
+      "page": 4,
+      "quote": "user demand extraction from UGC; (2) diffusion-based image generation; and (3) interpretability enhancement via CAM"
+    }
+  ],
+  "evaluations": [
+    {
+      "eval_id": "43-R1",
+      "legacy_eval_ids": [
+        "43-评价1"
+      ],
+      "purpose_codes": [
+        "P4"
+      ],
+      "object_codes": [
+        "O1"
+      ],
+      "evaluator_codes": [
+        "V1"
+      ],
+      "source_codes": [
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G2",
+      "evaluation_stage_codes": [
+        "S3"
+      ],
+      "sample_n": 20,
+      "sample_description": "14高校设计研究者+6行业设计师；均龄29.25±3.11；8产品/5UX/3HCI/2服务/2产品开发",
+      "recruitment": "NR",
+      "task": "评价吹风机等AI生成设计图片",
+      "task_codes": [
+        "K1",
+        "K2",
+        "K5"
+      ],
+      "constraint_codes": [
+        "NR"
+      ],
+      "constraints_raw": "未报告明确影响测量选择的可行条件",
+      "comparator": "文本、文本+图像、文本+图像+DM-CAM",
+      "procedure": "20名专家用五维15题7点量表比较生成方案；顺序/盲法NR",
+      "analysis": "均值图示；alpha、Kendall W与重测相关；主观差异检验NR",
+      "actual_results": "DM-CAM五维图示最高；整体均分6.2；具体各维数值仅图示",
+      "limitations": "用户语义噪声、跨模态对齐、图像功能逻辑覆盖不足；未真实任务验证用户体验",
+      "ethics": "NR",
+      "evidence": [
+        {
+          "field": "sample",
+          "page": 22,
+          "quote": "14 were researchers in design disciplines at universities"
+        },
+        {
+          "field": "results",
+          "page": 23,
+          "quote": "the average satisfaction of participants with the overall generation effect is 6.2"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "明确比较生成方案的可行性/设计表现并收集五维评分",
+          "reason": "感知信息与设计比较目的相符",
+          "pages": [
+            22,
+            23
+          ],
+          "quote": "To further validate the effectiveness and feasibility of the proposed method in design practice"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "五维15题完整公开；未说明建构来源或内容/结构验证",
+          "reason": "题项表面相关但部分维度混合多种构念",
+          "pages": [
+            23
+          ],
+          "quote": "five subjective evaluation dimensions were further refined into three specific sub-indicators"
+        },
+        {
+          "standard": "A3",
+          "status": "P",
+          "facts": "Cronbach alpha=0.87；Kendall W=0.79(p<.001)；部分样本重测相关=.82；未说明重测人数/间隔",
+          "reason": "有一致性与重测依据，但alpha覆盖何种聚合和重测设计欠清晰",
+          "pages": [
+            23
+          ],
+          "quote": "Cronbach’s alpha coefficient was 0.87"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "20名专家年龄、身份和产品图像说明；招募、呈现顺序和研究环境NR",
+          "reason": "基本背景可理解，评分暴露条件不完整",
+          "pages": [
+            18,
+            22,
+            23
+          ],
+          "quote": "a total of 20 evaluators with backgrounds in industrial design"
+        },
+        {
+          "standard": "A6",
+          "status": "P",
+          "facts": "均值/图示比较并称significantly；未报告主观组间比较检验、差异区间或顺序控制",
+          "reason": "可支持描述性差异，推断比较依据不完整",
+          "pages": [
+            21,
+            23,
+            25
+          ],
+          "quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2"
+        },
+        {
+          "standard": "A7",
+          "status": "C",
+          "facts": "把总体均值6.2转述为超过88%受访者认为显著改善",
+          "reason": "均值除以量尺上限不能推出受访者比例，明确推理错误",
+          "pages": [
+            23
+          ],
+          "quote": "the average satisfaction of participants with the overall generation effect is 6.2, i.e. more than 88% of respondents believe"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "提供15题、锚点、样本与图示；逐条件评分/离散程度、呈现与汇总程序不足",
+          "reason": "可部分复核，不能重建统计比较",
+          "pages": [
+            22,
+            23,
+            25
+          ],
+          "quote": "a seven-point Likert scale (1 = very poor, 7 = very good)"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [
+            222
+          ],
+          "claim_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+          "claim_summary": "DM-CAM生成图像获更高专家评价",
+          "claim_type": "C2",
+          "construct_raw": "Visual Integrity",
+          "indicator_raw": "Visual Integrity",
+          "item_quote": "H1.1 Is the image sufficiently clear? H1.2 Does the image contain rich and detailed visual elements? H1.3 Is the composition harmonious and aesthetically pleasing?",
+          "dimension_code": "A",
+          "indicator_code": "A6",
+          "instrument_raw": "自编15题七点评分",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "1=very poor,7=very good；五个维度各3题；聚合细节NR",
+          "validity_evidence": "提供五维各3题的内容操作化；缺工具来源与独立效度依据",
+          "reliability_evidence": "Cronbach alpha=0.87；Kendall W=0.79(p<.001)；部分样本重测相关=.82；未说明重测人数/间隔",
+          "result_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+          "effect_direction": "正向",
+          "pages": [
+            22,
+            23,
+            25
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            223
+          ],
+          "claim_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+          "claim_summary": "DM-CAM生成图像获更高专家评价",
+          "claim_type": "C2",
+          "construct_raw": "Functional Compatibility",
+          "indicator_raw": "Functional Compatibility",
+          "item_quote": "H2.1 Does the image accurately reflect the functional requirements described in the text? H2.2 Is the function appropriately presented? H2.3 Is the usage scenario conveyed?",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "自编15题七点评分",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "1=very poor,7=very good；五个维度各3题；聚合细节NR",
+          "validity_evidence": "提供五维各3题的内容操作化；缺工具来源与独立效度依据",
+          "reliability_evidence": "Cronbach alpha=0.87；Kendall W=0.79(p<.001)；部分样本重测相关=.82；未说明重测人数/间隔",
+          "result_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+          "effect_direction": "正向",
+          "pages": [
+            22,
+            23,
+            25
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            224
+          ],
+          "claim_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+          "claim_summary": "DM-CAM生成图像获更高专家评价",
+          "claim_type": "C2",
+          "construct_raw": "Design Innovation",
+          "indicator_raw": "Design Innovation",
+          "item_quote": "H3.1 Is the appearance novel and distinctive? H3.2 Is the functional design unique? H3.3 Does the design demonstrate breakthrough creativity?",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "自编15题七点评分",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "1=very poor,7=very good；五个维度各3题；聚合细节NR",
+          "validity_evidence": "提供五维各3题的内容操作化；缺工具来源与独立效度依据",
+          "reliability_evidence": "Cronbach alpha=0.87；Kendall W=0.79(p<.001)；部分样本重测相关=.82；未说明重测人数/间隔",
+          "result_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+          "effect_direction": "正向",
+          "pages": [
+            22,
+            23,
+            25
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            225
+          ],
+          "claim_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+          "claim_summary": "DM-CAM生成图像获更高专家评价",
+          "claim_type": "C2",
+          "construct_raw": "User Comprehensibility",
+          "indicator_raw": "User Comprehensibility",
+          "item_quote": "H4.1 Is the design intent communicated through the image? H4.2 Is the design purpose easy to understand? H4.3 Does the design meet user expectations?",
+          "dimension_code": "A",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "自编15题七点评分",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "1=very poor,7=very good；五个维度各3题；聚合细节NR",
+          "validity_evidence": "提供五维各3题的内容操作化；缺工具来源与独立效度依据",
+          "reliability_evidence": "Cronbach alpha=0.87；Kendall W=0.79(p<.001)；部分样本重测相关=.82；未说明重测人数/间隔",
+          "result_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+          "effect_direction": "正向",
+          "pages": [
+            22,
+            23,
+            25
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            226
+          ],
+          "claim_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+          "claim_summary": "DM-CAM生成图像获更高专家评价",
+          "claim_type": "C2",
+          "construct_raw": "Overall Appeal",
+          "indicator_raw": "Overall Appeal",
+          "item_quote": "H5.1 Are the color and style visually attractive? H5.2 Does the image evoke positive emotional resonance? H5.3 Is the design memorable or distinctive?",
+          "dimension_code": "A",
+          "indicator_code": "A2",
+          "instrument_raw": "自编15题七点评分",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "1=very poor,7=very good；五个维度各3题；聚合细节NR",
+          "validity_evidence": "提供五维各3题的内容操作化；缺工具来源与独立效度依据",
+          "reliability_evidence": "Cronbach alpha=0.87；Kendall W=0.79(p<.001)；部分样本重测相关=.82；未说明重测人数/间隔",
+          "result_quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+          "effect_direction": "正向",
+          "pages": [
+            22,
+            23,
+            25
+          ],
+          "audit_overrides": []
+        }
+      ]
+    }
+  ],
+  "excluded_legacy_rows": [],
+  "added_evidence_notes": "全文1–37页核查。微博主题热度属于需求背景而非已测AI感知效应；客观IQA/准确率不建感知链。H4设计意图可理解性不等同系统可解释性；保留UNMAPPED。",
+  "category_gaps": [
+    "H4 User Comprehensibility组合设计意图理解与期待匹配，既定A类无准确单一指标；H1和H5也为混合构念。"
+  ],
+  "metadata_corrections": {
+    "year_note": "在线2025-08-01，卷期2026；原表2026并非明显错误，年代分析应统一采用online-first 2025"
+  }
+}

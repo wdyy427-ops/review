@@ -1,0 +1,104 @@
+{
+  "papers": 125,
+  "evaluation_cases": 159,
+  "candidate_chains": 514,
+  "dimension_mapped": 460,
+  "indicator_mapped": 454,
+  "tool_instances": 624,
+  "tool_instances_classified": 608,
+  "dimension_counts": {
+    "A": 144,
+    "UNMAPPED": 54,
+    "E": 66,
+    "D": 97,
+    "B": 43,
+    "C": 110
+  },
+  "tool_counts": {
+    "M2": 193,
+    "M4": 115,
+    "M5": 65,
+    "M3": 138,
+    "UNMAPPED": 16,
+    "M1": 97
+  },
+  "quality_tiers": {
+    "Q3": 445,
+    "Q2": 44,
+    "Q1": 19,
+    "EXCLUDE": 6
+  },
+  "audit_statuses": {
+    "U5": {
+      "S": 446,
+      "NR": 62,
+      "P": 6
+    },
+    "A2": {
+      "P": 405,
+      "NR": 65,
+      "S": 44
+    },
+    "A3": {
+      "NR": 262,
+      "S": 205,
+      "NA": 40,
+      "P": 7
+    },
+    "A4": {
+      "P": 407,
+      "S": 60,
+      "NR": 47
+    },
+    "A6": {
+      "S": 191,
+      "NR": 292,
+      "P": 25,
+      "C": 6
+    },
+    "A7": {
+      "S": 214,
+      "NR": 292,
+      "P": 2,
+      "C": 6
+    },
+    "E1": {
+      "S": 152,
+      "P": 345,
+      "NR": 17
+    }
+  },
+  "coding_year_counts": {
+    "2026": 56,
+    "2025": 27,
+    "2024": 20,
+    "2023": 11,
+    "2022": 11
+  },
+  "screening_year_counts": {
+    "2026": 39,
+    "2025": 35,
+    "2024": 27,
+    "2023": 13,
+    "2022": 11
+  },
+  "year_mismatches": 32,
+  "doi_mismatches": 2,
+  "candidate_record_papers": 95,
+  "dimension_mapped_papers": 71,
+  "only_unmapped_papers": 24,
+  "no_candidate_record_papers": 30,
+  "papers_with_some_unmapped_records": 34,
+  "main": {
+    "chains": 63,
+    "papers": 22,
+    "tool_instances": 69,
+    "tool_papers": 22
+  },
+  "expanded": {
+    "chains": 183,
+    "papers": 43,
+    "tool_instances": 210,
+    "tool_papers": 43
+  }
+}

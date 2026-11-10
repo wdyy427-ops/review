@@ -1,0 +1,101 @@
+## 4 RQ1: Distribution of Evaluation Evidence
+
+### 4.1 Perceived effects span outcomes, designers, interaction, and context
+
+Design outcome quality is the largest dimension, accounting for 144 of 460 mapped records (31.3%). Designers’ cognition, affect, and abilities account for 110 records (23.9%), followed by human–AI interaction experience with 97 (21.1%), social and contextual value with 66 (14.3%), and design process quality with 43 (9.3%). Thus, although outcome quality is the largest single category, most mapped records concern other aspects of the workflow. Subjective evaluation of perceived effects cannot be adequately represented by artifact quality alone.
+
+At the indicator level, suitability is most frequent (39/454; 8.6%), followed by novelty (35; 7.7%) and enjoyment (29; 6.4%). Communication, coordination, conflict, and shared understanding account for 25 records (5.5%); feasibility for 23 (5.1%); and aesthetic quality for 21 (4.6%). Inspiration and sense of control each occur in 20 records (4.4%). These results show that frequent indicators concern both the properties of design outcomes and the experience of producing them. Figure 2 presents the overall distributions and the most frequent indicators.
+
+Coverage is uneven within dimensions. Professional and organizational fit and environmental or sustainability value each occur in three mapped records; long-term use, governance, and responsibility occur in one. Handover efficiency, one of the 36 predefined indicator categories, has no mapped record. These are gaps in the coded corpus, rather than evidence that the corresponding perceived effects are unimportant or absent from AI-Assisted Design Workflows. They identify areas in which the present evidence map provides little empirical guidance.
+
+Corpus examples illustrate why preserving the judgment’s referent matters. Wu and Li’s study of generative AI for knitted textile design examines human judgments of design attributes such as aesthetics, style, and fashionability [cite:wu2024]. Haisor uses judgments of rendered indoor scenes, including rationality and human affordance [cite:sun2024]. Such judgments concern representations of proposed outcomes; they do not establish the lived experience of using the eventual product or inhabiting the resulting space. In contrast, the study of hidden costs in AI-assisted ideation includes task-specific judgments concerning creative confidence [cite:krajcer2026]. These indicators address the designer and require a different interpretation from external ratings of the generated artifacts.
+
+### 4.2 Tools combine structured judgments and interpretive evidence
+
+Among 608 classified tool instances, bespoke structured ratings are most common (193; 31.7%), followed by qualitative verbal elicitation (138; 22.7%), non-scale structured judgments (115; 18.9%), named scales (97; 16.0%), and analysis of existing perceptual material (65; 10.7%). Sixteen additional instances could not be assigned to a tool class. Because a record can combine tools, these proportions describe instances rather than mutually exclusive study designs.
+
+The distribution indicates that named scales are one component of a broader methodological repertoire. Qualitative elicitation can establish what participants mean by an experience and why an evaluation criterion matters; structured ratings can represent judgments on explicitly specified response dimensions; and comparisons or rankings can reveal preferences among alternatives. These tools address different inferential needs. A combination can be productive when each component has a defined role, such as using interviews to interpret divergent ratings rather than treating all favorable comments as confirmation of a quantitative result.
+
+[FIGURE:fig02_evidence_distributions]
+
+For example, MemoVis examines feedback provision and interpretation in 3D design, distinguishing feedback providers from recipients with relevant design experience [cite:chen2024]. The evaluation context therefore includes more than one perspective on the same system-mediated exchange. Reference-based sketch extraction uses comparisons involving resemblance to a specified reference style [cite:ashtari2022]. Such a choice can support a fidelity-related interpretation, but should not be generalized to overall liking, creative value, or ease of use. The AiLoupe evaluation further illustrates the relevance of qualitative accounts for understanding designers’ interpretations of AI-supported activity [cite:hatfield2025].
+
+### 4.3 Annual distributions reflect a concentrated contemporary corpus
+
+Using harmonized publication years, the corpus contains 11 papers from 2022, 11 from 2023, 28 from 2024, 33 from 2025, and 42 from 2026. The corresponding dimension-mapped record counts are 11, 8, 131, 89, and 221; classified tool-instance counts are 14, 10, 151, 121, and 312. The difference between paper counts and record counts reflects both the presence of unmapped papers and variation in how many evaluative constructs each paper contributes.
+
+Figure 3 shows annual composition rather than plotting raw counts alone. Outcome quality is the largest dimension in 2024 (43/131; 32.8%) and 2026 (70/221; 31.7%); in 2025, it is tied with human–AI interaction experience (25/89 each; 28.1%). The leading tool class also changes across the three later years: qualitative verbal elicitation in 2024 (43/151; 28.5%), non-scale structured judgments in 2025 (38/121; 31.4%), and bespoke structured ratings in 2026 (119/312; 38.1%). These distributions do not establish a simple monotonic shift in evaluation practice. The much smaller denominators in 2022 and 2023 make comparisons with the later years particularly sensitive to individual studies.
+
+[FIGURE:fig03_temporal_composition]
+
+The original analytical year field yields 11, 11, 20, 27, and 56 papers, whereas the screening catalogue yields 11, 13, 27, 35, and 39. All three classifications concentrate the corpus in recent years, but they differ materially in the apparent size of the 2026 increase. We therefore avoid interpreting the annual series as an estimate of the field’s growth rate. Publication-date sensitivity and partial coverage of the final calendar year further limit temporal inference. The supplementary source tables preserve the alternative annual classifications and the indicator-level series.
+
+### 4.4 Domain and stage patterns suggest contextual diversity
+
+Industrial and product design contributes the largest number of domain-tagged mapped records: 306, of which 104 (34.0%) concern outcome quality. Visual communication contributes 116 records, with designers’ cognition, affect, and abilities the largest category (33; 28.4%). The corresponding category is also largest in UI/UX design (22/67; 32.8%). Human–AI interaction experience is the largest category in fashion design (18/61; 29.5%). Service design has only 16 domain-tagged records, making its apparently larger share of social and contextual value (5; 31.3%) particularly uncertain. These are overlapping domain-tagged counts; they must not be added to estimate the number of distinct records.
+
+Tool distributions also vary. Bespoke structured ratings account for 165/435 classified instances in industrial and product design (37.9%), whereas qualitative verbal elicitation accounts for 40/81 in fashion design (49.4%). Non-scale structured judgments account for 16/29 instances in interior design (55.2%). This variation is consistent with different evaluative tasks and forms of available evidence, although the review cannot establish that the domain itself causes a particular tool choice.
+
+Across design stages, outcome quality remains the largest dimension: 79/267 research-tagged records (29.6%), 122/361 ideation-tagged records (33.8%), 65/199 prototyping-and-testing records (32.7%), and 81/253 implementation-tagged records (32.0%). Social and contextual value represents 17.6% of research-tagged records and 18.1% of prototyping-and-testing records, compared with 9.9% of implementation-tagged records. Since a paper or case can receive several stage codes, these patterns describe contextual membership rather than evidence gathered exclusively at that stage. In particular, an implementation label does not establish longitudinal deployment. Figure 4 presents the dimension and tool distributions across domains and stages.
+
+[FIGURE:fig04_context_distributions]
+
+### 4.5 Sensitivity to supplementary evidence
+
+Evidence enrichment increased the mapped dimension count from 432 to 460, the mapped indicator count from 426 to 454, and classified tool instances from 584 to 608. Aggregate proportions changed little: the largest absolute change was 0.53 percentage points for a dimension, 0.44 for an indicator, and 0.92 for a tool class. Dimension and tool ranks were unchanged, while the indicator-rank correlation was .995. The broad descriptive profile is therefore comparatively stable under this enrichment. This result concerns marginal distributions; it does not establish stability of record-level judgments, eligibility assignments, or contextual models.
+
+## 5 RQ2: Reported Support for Subjective Evaluation
+
+### 5.1 Reporting-support profiles differ across standards
+
+The seven-standard assessment produces 3,598 criterion labels across 514 candidate records. Figure 5 and Table 4 summarize the recorded statuses. U5 contains the largest S category, with 446 records (86.8%), whereas A2 contains 44 S records (8.6%) and 405 P records (78.8%). A4 similarly contains substantially more P than S labels: 407 (79.2%) and 60 (11.7%), respectively. Thus, the operational classifications assign more complete support to relevance than to measurement interpretation or contextual specification.
+
+[FIGURE:fig05_reported_evaluation_quality]
+
+[TABLE:audit]
+
+A3 includes 205 S, seven P, 262 NR, and 40 NA labels. Preserving NA is necessary: a procedure can be inapplicable to a given form of evidence, and this status should not be silently converted into missing data. For A6 and A7, 292 records (56.8%) receive NR on each criterion. Six records receive C on each, and these belong to a single paper rather than six independent publications. E1 includes 152 S (29.6%), 345 P (67.1%), and 17 NR (3.3%) labels. These counts describe the operational assessment categories and should not be interpreted as the prevalence of validated or invalid studies.
+
+### 5.2 Evidential adequacy depends on the intended interpretation
+
+The practical issue underlying the assessment is whether a reader can reconstruct the path from a judgment to a claim. Relevance alone is insufficient: asking about trust is relevant to an AI-assisted workflow, but the interpretation of a trust score still depends on the item wording, the object of trust, the timing of elicitation, and the conditions under which participants used the system. Similarly, a feasibility judgment requires a specified standard and an evaluator with an appropriate basis for making the judgment.
+
+Validity and reliability require distinct evidence. A familiar instrument name can establish provenance while leaving open whether the instrument covers the intended perceived effects in a new task. Agreement among expert artifact raters addresses a different source of consistency from internal consistency among scale items. A reliability statistic for model annotations or extraction accuracy does not directly establish the reliability of a participant’s subjective indicator. The appropriate question is therefore whether the reported evidence supports the particular measurement interpretation, rather than whether a publication contains a general reference to validity or reliability [cite:cronbach1955] [cite:flake2020].
+
+The same specificity applies to qualitative evidence. An interview can illuminate why participants experience a tool as supportive or constraining, but readers need to understand participant selection, elicitation, analysis, and the basis for the presented interpretation. Documentation is especially important when the same excerpts support several perceived-effect categories. Adequate reporting makes the relationship among those categories inspectable rather than treating each coded occurrence as independent confirmation.
+
+### 5.3 Analytical eligibility narrows the available evidence
+
+The strict eligibility rules retain 63 records from 22 papers, corresponding to 12.3% of the 514 candidate records. The expanded rules retain 183 records from 43 papers (35.6%). The strict subset comprises 19 records in the most restrictive tier and 44 in the next tier. The remaining records include 445 in a broader descriptive tier and six excluded by explicit concern codes. These tiers are study-specific selection devices and should not be interpreted as a standardized hierarchy of research quality.
+
+The retained evidence is also concentrated. One paper contributes 15 of the 63 strict-subset records (23.8%), while the 19 records in the most restrictive tier come from only four papers. Consequently, filtering records cannot substitute for attention to the number and diversity of independent publications. This concentration motivates paper-grouped validation and the equal-paper-weight sensitivity analysis used for RQ3. It also limits the extent to which selected examples can support a general recommendation for a new design context.
+
+## 6 RQ3: Contextual Associations and Predictive Contributions
+
+### 6.1 Predicting evidence categories from context
+
+The expanded subset supports three prediction tasks after class-support filtering: five perceived-effect dimensions across 183 records from 43 papers; 13 subjective indicators across 124 records from 31 papers; and five tool classes across 210 instances from 43 papers. The strict subset supports dimension and tool prediction, but does not provide enough retained indicator records to meet the minimum task size. Figure 6 and Table 5 summarize the expanded-subset models.
+
+[FIGURE:fig06_corrective_model_performance]
+
+[TABLE:models]
+
+For perceived-effect dimensions, context-only prediction achieves a mean macro-F1 of .180 (partition SD .016), compared with .102 for the frequency baseline. Its top-two accuracy is .465, below the baseline’s .515. Context therefore improves macro-averaged classification performance while reducing the proportion of observations for which the recorded category appears within the two highest-ranked choices. The distinction matters for a recommender: improved macro-F1 does not automatically establish improved shortlisting performance.
+
+For subjective indicators, context alone yields macro-F1 .084 (SD .018). The known-dimension-only model yields .315 (SD .014), and combining the known dimension with context yields .364 (SD .009). Top-two accuracy is .672 with known dimension alone and .745 with the combined specification. Much of the gain depends on supplying the preceding evidence component. Since indicators are nested within dimension categories in the codebook, this result is partly a consequence of the evidence hierarchy rather than independent validation of its theoretical structure.
+
+For tools, context alone yields macro-F1 .326 (SD .015), compared with .261 (SD .012) for known dimension and indicator and .300 (SD .012) for their combination with context. Adding known evidence therefore does not consistently improve the context-only model. The combined model’s top-two accuracy is .561, compared with .586 for the frequency baseline. These results motivate a design that makes tool candidates and their supporting records available for comparison; they do not establish that a learned ranking identifies an appropriate measurement tool for a new study.
+
+### 6.2 Contributions vary across evidence layers
+
+Paired group ablations show that contextual information contributes differently across tasks. In the expanded indicator model, retaining design domain (G2) improves macro-F1 by .026 on average, with a positive difference in all 10 repetitions. For tools, evaluation purpose (G1) contributes .040 on average, also positive in all repetitions; design stage (G3) contributes .019, positive in nine repetitions. For dimensions, the original evaluator group (G5) contributes .022, positive in eight repetitions. These results indicate model-specific complementarity between the target being predicted and the context supplied.
+
+Several group contributions are negative. Removing AI function (G7), for example, improves macro-F1 in each of the three expanded-subset tasks under the specified model. This does not show that AI function is irrelevant to subjective evaluation. Sparse categories, correlated context fields, limited sample size, and variation among papers can make a conceptually important feature unhelpful for a particular predictive model. Likewise, the excluded G4 field remains central to specifying what is being judged, even though its dependence on the coded target prevents a separate predictive interpretation. The ablations are therefore retained as signed conditional differences rather than converted into percentages of causal influence.
+
+### 6.3 Dependence on sample selection and publication weighting
+
+The strict-subset dimension model yields macro-F1 .183 (SD .027), using 61 records from 21 papers after class filtering. Its tool model yields .493 (SD .032) with context alone and .367 (SD .017) with context plus known evidence, using 66 instances from 22 papers. These values are not directly comparable with the expanded models as evidence of better generalization: the retained classes, sample composition, and number of papers differ.
+
+Equal-paper-weight scoring further qualifies the apparent benefit of contextual predictors. In expanded indicator prediction, the combined model’s macro-F1 changes from .364 under record-weighted scoring to .305 under equal-paper weighting. The known-dimension model scores .321 under equal-paper weighting, reversing the combined model’s apparent advantage. For tools, the equal-paper-weight scores of context alone and the combined model are almost identical (.267 and .265). A result that appears advantageous when records are equally weighted may therefore reflect publications that contribute many records.
+
+Taken together, RQ3 supports a restrained interpretation. Context and previously specified evidence components can help organize candidate choices, but their value differs across evidence layers and is sensitive to corpus composition. The analysis does not establish stable universal influence weights, an optimal order of all contextual questions, or validated recommendations. It provides empirical grounds for a guided selection process in which the user confirms the perceived effects and examines the supporting records before choosing an indicator or tool.

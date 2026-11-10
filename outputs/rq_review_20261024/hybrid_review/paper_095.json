@@ -1,0 +1,57 @@
+{
+  "paper_id": 95,
+  "title": "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design",
+  "doi": "10.1145/3643542",
+  "year": 2024,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    10,
+    13,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2",
+    "D3"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F3",
+    "F4",
+    "F5"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "The paper presents CrossGAI, a cross-device generative AI framework for collaborative fashion design. It includes modules for sketch retrieval, generation, and image synthesis, along with computation offloading optimization. The system supports real-time collaboration across devices and integrates AI to enhance design efficiency.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": "No exclusion facts provided.",
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\95.pdf"
+}

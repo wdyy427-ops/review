@@ -1,0 +1,596 @@
+{
+  "paper_id": 92,
+  "title": "A foundation model enhanced approach for generative design in combinational creativity",
+  "doi": "10.1080/09544828.2024.2356707",
+  "year": 2024,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    5,
+    8,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    23,
+    26,
+    27
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1",
+    "D2"
+  ],
+  "stage_codes": [
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R1"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "The paper proposes an AI foundation model enhanced approach for generative design in combinational creativity. It involves using large language models (LLMs) and text-to-image (T2I) models to generate and visualize combinational ideas. The study evaluates the effectiveness of this approach through experiments with novice designers.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "092-E1",
+      "purpose_codes": [
+        "P1",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O3",
+        "O5"
+      ],
+      "evaluator_codes": [
+        "V2"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G2",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [],
+      "sample_n": 30,
+      "sample_description": "Participants depending solely on strategy experienced hurdles in divergent design concerning specific features, particularly in the realm of function and structure.",
+      "recruitment": "We recruited 30 novice designers with comparable",
+      "task": "WeselectedChatGPTbasedonGPT-4asthefoundationmodelforourevaluationtasksdue",
+      "comparator": "creativeconcepts,weconductedawithin-subjectstudytocompareitwithtwobaselines.",
+      "procedure": "Procedure",
+      "analysis": "",
+      "actual_results": "Although Combinator’s oper- ational process was straightforward, the space for creative exploration was somewhat limited.Incontrast,CombinatorXofferedadiversearrayofembodimentsforselection,and its ability to efficiently transform text into images significantly reduced the time required forillustration,ensuringhigherqualityresults.",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 15,
+          "quote": "Participants depending solely on strategy experienced hurdles in divergent design concerning specific features, particularly in the realm of function and structure."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Combinatorx We implemented CombinatorX, a combinational creativity tool based on the foundation modelenhancedapproach.Figure 8showsanexampleoftheprocessofusingthistoolfor acombinationofcupwithbell.",
+          "claim_summary": "Combinatorx We implemented CombinatorX, a combinational creativity tool based on the foundation modelenhancedapproach.Figure 8showsanexampleoftheprocessofusingthistoolfor acombinationofcupwithbell.",
+          "claim_type": "C3",
+          "construct_raw": "creative",
+          "indicator_raw": "creative",
+          "item_quote": "Although Combinator’s oper- ational process was straightforward, the space for creative exploration was somewhat limited.Incontrast,CombinatorXofferedadiversearrayofembodimentsforselection,and its ability to efficiently transform text into images significantly reduced the time required forillustration,ensuringhigherqualityresults.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,tempor；Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,tempor；Inasubsequent10-minsemi-structuredinterview,questionscentredaroundtheirexperi- enceand theirperspectives on thesystem’s outputs were posed.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Although Combinator’s oper- ational process was straightforward, the space for creative exploration was somewhat limited.Incontrast,CombinatorXofferedadiversearrayofembodimentsforselection,and its ability to efficiently transform text into images significantly reduced the time required forillustration,ensuringhigherqualityresults.",
+          "effect_direction": "正向",
+          "pages": [
+            16,
+            18
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Upon completion of each modelling session, participants will be required to refer to the combined text and image concepts generated by CombinatorX in order to self- evaluatethe3Dmodelandthenmakemodificationsbasedontheirexpectation.Afterthe modelling was completed, a semi-structured interview was conducted with the two par- ticipants to investigate whether the combinational concepts generated by the proposed method were useful for the actual design.",
+          "claim_summary": "Upon completion of each modelling session, participants will be required to refer to the combined text and image concepts generated by CombinatorX in order to self- evaluatethe3Dmodelandthenmakemodificationsbasedontheirexpectation.Afterthe modelling was completed, a semi-structured interview was con",
+          "claim_type": "C1",
+          "construct_raw": "useful",
+          "indicator_raw": "useful",
+          "item_quote": "Upon completion of each modelling session, participants will be required to refer to the combined text and image concepts generated by CombinatorX in order to self- evaluatethe3Dmodelandthenmakemodificationsbasedontheirexpectation.Afterthe modelling was completed, a semi-structured interview was conducted with the two par- ticipants to investigate whether the combinational concepts generated by the proposed method were useful for the actual design.",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,tempor；Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,tempor；Inasubsequent10-minsemi-structuredinterview,questionscentredaroundtheirexperi- enceand theirperspectives on thesystem’s outputs were posed.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            17
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,temporaldemand,performance,effortandfrustration.",
+          "claim_summary": "Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,temporaldemand,performance,effortandfrustration.",
+          "claim_type": "C1",
+          "construct_raw": "NASA-TLX",
+          "indicator_raw": "NASA-TLX",
+          "item_quote": "Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,temporaldemand,performance,effortandfrustration.",
+          "dimension_code": "B",
+          "indicator_code": "B2",
+          "instrument_raw": "Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,tempor；Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,tempor；Inasubsequent10-minsemi-structuredinterview,questionscentredaroundtheirexperi- enceand theirperspectives on thesystem’s outputs were posed.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Consistent with these findings, the perceived effort and temporal demands for CombinatorX were also significantly lower than those for non-AI tools, scoring 9.5 and 5 respectively.",
+          "effect_direction": "负向",
+          "pages": [
+            17,
+            18
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "To enhance the expressiveness of the product images, LLMcreatesvisualelementsthatconveythemetaphoricalfunctionsofthecup. straightforward to grasp’.",
+          "claim_summary": "To enhance the expressiveness of the product images, LLMcreatesvisualelementsthatconveythemetaphoricalfunctionsofthecup. straightforward to grasp’.",
+          "claim_type": "C1",
+          "construct_raw": "fun",
+          "indicator_raw": "fun",
+          "item_quote": "They were required to design a 3D model based on the text and corresponding image design concepts CombinatorX generated that could fulfil the actual functions and meet the structure design requirements.",
+          "dimension_code": "C",
+          "indicator_code": "C5",
+          "instrument_raw": "Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,tempor；Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,tempor；Inasubsequent10-minsemi-structuredinterview,questionscentredaroundtheirexperi- enceand theirperspectives on thesystem’s outputs were posed.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            16,
+            17
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": "Generativelarge-scalemodelsarenotcapableofdeepunderstandinggrammarandsen-"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": "inter-rater agreement on a 7-point Likert scale."
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": "Inourexperiment,participantswererequiredtoengageincombinationalcreativedesign"
+        },
+        {
+          "standard": "A6",
+          "status": "P",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "P",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": "Although Combinator’s oper- ational process was straightforward, the space for creative exploration was somewhat limited.Incontrast,CombinatorXofferedadiversearrayofembodimentsforselection,and its ability to efficiently transform text into images significantly reduced the time required forillustration,ensuringhigherqualityresults."
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": "Generativelarge-scalemodelsarenotcapableofdeepunderstandinggrammarandsen-"
+        }
+      ]
+    },
+    {
+      "eval_id": "092-E2",
+      "purpose_codes": [
+        "P1",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O3",
+        "O5"
+      ],
+      "evaluator_codes": [
+        "V2"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G2",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [],
+      "sample_n": 6,
+      "sample_description": "We recruited six novice designers with similar levels of product design who have 3–4 years of undergraduate design education background.",
+      "recruitment": "We recruited six novice designers with similar levels of product design who have 3–4",
+      "task": "modellingtask.Participantswiththeapproachbasedonthefoundationmodelwereasked",
+      "comparator": "creativeconcepts,weconductedawithin-subjectstudytocompareitwithtwobaselines.",
+      "procedure": "Procedure",
+      "analysis": "",
+      "actual_results": "Although Combinator’s oper- ational process was straightforward, the space for creative exploration was somewhat limited.Incontrast,CombinatorXofferedadiversearrayofembodimentsforselection,and its ability to efficiently transform text into images significantly reduced the time required forillustration,ensuringhigherqualityresults.",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 17,
+          "quote": "We recruited six novice designers with similar levels of product design who have 3–4 years of undergraduate design education background."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Combinatorx We implemented CombinatorX, a combinational creativity tool based on the foundation modelenhancedapproach.Figure 8showsanexampleoftheprocessofusingthistoolfor acombinationofcupwithbell.",
+          "claim_summary": "Combinatorx We implemented CombinatorX, a combinational creativity tool based on the foundation modelenhancedapproach.Figure 8showsanexampleoftheprocessofusingthistoolfor acombinationofcupwithbell.",
+          "claim_type": "C3",
+          "construct_raw": "creative",
+          "indicator_raw": "creative",
+          "item_quote": "Although Combinator’s oper- ational process was straightforward, the space for creative exploration was somewhat limited.Incontrast,CombinatorXofferedadiversearrayofembodimentsforselection,and its ability to efficiently transform text into images significantly reduced the time required forillustration,ensuringhigherqualityresults.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,tempor；Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,tempor；Inasubsequent10-minsemi-structuredinterview,questionscentredaroundtheirexperi- enceand theirperspectives on thesystem’s outputs were posed.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Although Combinator’s oper- ational process was straightforward, the space for creative exploration was somewhat limited.Incontrast,CombinatorXofferedadiversearrayofembodimentsforselection,and its ability to efficiently transform text into images significantly reduced the time required forillustration,ensuringhigherqualityresults.",
+          "effect_direction": "正向",
+          "pages": [
+            16,
+            18
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Upon completion of each modelling session, participants will be required to refer to the combined text and image concepts generated by CombinatorX in order to self- evaluatethe3Dmodelandthenmakemodificationsbasedontheirexpectation.Afterthe modelling was completed, a semi-structured interview was conducted with the two par- ticipants to investigate whether the combinational concepts generated by the proposed method were useful for the actual design.",
+          "claim_summary": "Upon completion of each modelling session, participants will be required to refer to the combined text and image concepts generated by CombinatorX in order to self- evaluatethe3Dmodelandthenmakemodificationsbasedontheirexpectation.Afterthe modelling was completed, a semi-structured interview was con",
+          "claim_type": "C1",
+          "construct_raw": "useful",
+          "indicator_raw": "useful",
+          "item_quote": "Upon completion of each modelling session, participants will be required to refer to the combined text and image concepts generated by CombinatorX in order to self- evaluatethe3Dmodelandthenmakemodificationsbasedontheirexpectation.Afterthe modelling was completed, a semi-structured interview was conducted with the two par- ticipants to investigate whether the combinational concepts generated by the proposed method were useful for the actual design.",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,tempor；Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,tempor；Inasubsequent10-minsemi-structuredinterview,questionscentredaroundtheirexperi- enceand theirperspectives on thesystem’s outputs were posed.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            17
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,temporaldemand,performance,effortandfrustration.",
+          "claim_summary": "Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,temporaldemand,performance,effortandfrustration.",
+          "claim_type": "C1",
+          "construct_raw": "NASA-TLX",
+          "indicator_raw": "NASA-TLX",
+          "item_quote": "Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,temporaldemand,performance,effortandfrustration.",
+          "dimension_code": "B",
+          "indicator_code": "B2",
+          "instrument_raw": "Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,tempor；Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,tempor；Inasubsequent10-minsemi-structuredinterview,questionscentredaroundtheirexperi- enceand theirperspectives on thesystem’s outputs were posed.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Consistent with these findings, the perceived effort and temporal demands for CombinatorX were also significantly lower than those for non-AI tools, scoring 9.5 and 5 respectively.",
+          "effect_direction": "负向",
+          "pages": [
+            17,
+            18
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "To enhance the expressiveness of the product images, LLMcreatesvisualelementsthatconveythemetaphoricalfunctionsofthecup. straightforward to grasp’.",
+          "claim_summary": "To enhance the expressiveness of the product images, LLMcreatesvisualelementsthatconveythemetaphoricalfunctionsofthecup. straightforward to grasp’.",
+          "claim_type": "C1",
+          "construct_raw": "fun",
+          "indicator_raw": "fun",
+          "item_quote": "They were required to design a 3D model based on the text and corresponding image design concepts CombinatorX generated that could fulfil the actual functions and meet the structure design requirements.",
+          "dimension_code": "C",
+          "indicator_code": "C5",
+          "instrument_raw": "Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,tempor；Upon completion, they filled out the NASA-TLX questionnaire.TheNASA-TLXevaluatestheirperceivedcognitiveworkload,whichincludes mentaldemand,physicaldemand,tempor；Inasubsequent10-minsemi-structuredinterview,questionscentredaroundtheirexperi- enceand theirperspectives on thesystem’s outputs were posed.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            16,
+            17
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": "User interview"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": "CombinatorX Combinator InternetSearchingandSketching Inter-rater"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": "participant from each group for every case to address the following questions regarding"
+        },
+        {
+          "standard": "A6",
+          "status": "P",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "P",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": "Although Combinator’s oper- ational process was straightforward, the space for creative exploration was somewhat limited.Incontrast,CombinatorXofferedadiversearrayofembodimentsforselection,and its ability to efficiently transform text into images significantly reduced the time required forillustration,ensuringhigherqualityresults."
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": "User interview"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\92.pdf"
+}

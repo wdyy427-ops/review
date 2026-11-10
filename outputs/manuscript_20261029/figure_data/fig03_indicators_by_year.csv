@@ -1,0 +1,181 @@
+﻿unit,year,year_convention,code,label,n,denominator,percent
+evidence_chain,2022,Crossref published,A1,Novelty,0,11,0.0
+evidence_chain,2022,Crossref published,A2,Aesthetic appeal,0,11,0.0
+evidence_chain,2022,Crossref published,A3,Suitability,1,11,0.09090909090909091
+evidence_chain,2022,Crossref published,A4,Feasibility,0,11,0.0
+evidence_chain,2022,Crossref published,A5,Fidelity,2,11,0.18181818181818182
+evidence_chain,2022,Crossref published,A6,Comprehensiveness,0,11,0.0
+evidence_chain,2022,Crossref published,B1,Time efficiency,1,11,0.09090909090909091
+evidence_chain,2022,Crossref published,B2,Perceived workload,0,11,0.0
+evidence_chain,2022,Crossref published,B3,Iteration efficiency,0,11,0.0
+evidence_chain,2022,Crossref published,B4,Decision support,0,11,0.0
+evidence_chain,2022,Crossref published,B5,Process continuity,2,11,0.18181818181818182
+evidence_chain,2022,Crossref published,B6,Handover efficiency,0,11,0.0
+evidence_chain,2022,Crossref published,C1,Inspiration,1,11,0.09090909090909091
+evidence_chain,2022,Crossref published,C2,Knowledge acquisition,0,11,0.0
+evidence_chain,2022,Crossref published,C3,Self-efficacy,0,11,0.0
+evidence_chain,2022,Crossref published,C4,Engagement and immersion,0,11,0.0
+evidence_chain,2022,Crossref published,C5,Enjoyment,0,11,0.0
+evidence_chain,2022,Crossref published,C6,Reflection,0,11,0.0
+evidence_chain,2022,Crossref published,C7,Fixation and dependence,0,11,0.0
+evidence_chain,2022,Crossref published,C8,Capability expansion,0,11,0.0
+evidence_chain,2022,Crossref published,D1,Ease of use,0,11,0.0
+evidence_chain,2022,Crossref published,D2,Intention to use,0,11,0.0
+evidence_chain,2022,Crossref published,D3,Sense of control,2,11,0.18181818181818182
+evidence_chain,2022,Crossref published,D4,Explainability,0,11,0.0
+evidence_chain,2022,Crossref published,D5,Trust,0,11,0.0
+evidence_chain,2022,Crossref published,D6,Agency,0,11,0.0
+evidence_chain,2022,Crossref published,D7,Role and contribution fairness,0,11,0.0
+evidence_chain,2022,Crossref published,D8,"Communication, coordination, conflict and shared understanding",0,11,0.0
+evidence_chain,2022,Crossref published,E1,End-user experience and acceptance,0,11,0.0
+evidence_chain,2022,Crossref published,E2,"Fit with needs, contexts and populations",0,11,0.0
+evidence_chain,2022,Crossref published,E3,Professional and organizational fit,0,11,0.0
+evidence_chain,2022,Crossref published,E4,"Cultural, social and public value",1,11,0.09090909090909091
+evidence_chain,2022,Crossref published,E5,"Ethics, fairness, bias and inclusion",0,11,0.0
+evidence_chain,2022,Crossref published,E6,Environmental and sustainability value,0,11,0.0
+evidence_chain,2022,Crossref published,E7,"Commercial, brand and market value",0,11,0.0
+evidence_chain,2022,Crossref published,E8,"Long-term use, governance and responsibility",1,11,0.09090909090909091
+evidence_chain,2023,Crossref published,A1,Novelty,1,8,0.125
+evidence_chain,2023,Crossref published,A2,Aesthetic appeal,1,8,0.125
+evidence_chain,2023,Crossref published,A3,Suitability,1,8,0.125
+evidence_chain,2023,Crossref published,A4,Feasibility,0,8,0.0
+evidence_chain,2023,Crossref published,A5,Fidelity,0,8,0.0
+evidence_chain,2023,Crossref published,A6,Comprehensiveness,0,8,0.0
+evidence_chain,2023,Crossref published,B1,Time efficiency,0,8,0.0
+evidence_chain,2023,Crossref published,B2,Perceived workload,0,8,0.0
+evidence_chain,2023,Crossref published,B3,Iteration efficiency,0,8,0.0
+evidence_chain,2023,Crossref published,B4,Decision support,0,8,0.0
+evidence_chain,2023,Crossref published,B5,Process continuity,0,8,0.0
+evidence_chain,2023,Crossref published,B6,Handover efficiency,0,8,0.0
+evidence_chain,2023,Crossref published,C1,Inspiration,0,8,0.0
+evidence_chain,2023,Crossref published,C2,Knowledge acquisition,1,8,0.125
+evidence_chain,2023,Crossref published,C3,Self-efficacy,0,8,0.0
+evidence_chain,2023,Crossref published,C4,Engagement and immersion,1,8,0.125
+evidence_chain,2023,Crossref published,C5,Enjoyment,1,8,0.125
+evidence_chain,2023,Crossref published,C6,Reflection,0,8,0.0
+evidence_chain,2023,Crossref published,C7,Fixation and dependence,0,8,0.0
+evidence_chain,2023,Crossref published,C8,Capability expansion,0,8,0.0
+evidence_chain,2023,Crossref published,D1,Ease of use,1,8,0.125
+evidence_chain,2023,Crossref published,D2,Intention to use,0,8,0.0
+evidence_chain,2023,Crossref published,D3,Sense of control,0,8,0.0
+evidence_chain,2023,Crossref published,D4,Explainability,0,8,0.0
+evidence_chain,2023,Crossref published,D5,Trust,0,8,0.0
+evidence_chain,2023,Crossref published,D6,Agency,0,8,0.0
+evidence_chain,2023,Crossref published,D7,Role and contribution fairness,0,8,0.0
+evidence_chain,2023,Crossref published,D8,"Communication, coordination, conflict and shared understanding",1,8,0.125
+evidence_chain,2023,Crossref published,E1,End-user experience and acceptance,0,8,0.0
+evidence_chain,2023,Crossref published,E2,"Fit with needs, contexts and populations",0,8,0.0
+evidence_chain,2023,Crossref published,E3,Professional and organizational fit,0,8,0.0
+evidence_chain,2023,Crossref published,E4,"Cultural, social and public value",0,8,0.0
+evidence_chain,2023,Crossref published,E5,"Ethics, fairness, bias and inclusion",0,8,0.0
+evidence_chain,2023,Crossref published,E6,Environmental and sustainability value,0,8,0.0
+evidence_chain,2023,Crossref published,E7,"Commercial, brand and market value",0,8,0.0
+evidence_chain,2023,Crossref published,E8,"Long-term use, governance and responsibility",0,8,0.0
+evidence_chain,2024,Crossref published,A1,Novelty,12,131,0.0916030534351145
+evidence_chain,2024,Crossref published,A2,Aesthetic appeal,4,131,0.030534351145038167
+evidence_chain,2024,Crossref published,A3,Suitability,12,131,0.0916030534351145
+evidence_chain,2024,Crossref published,A4,Feasibility,7,131,0.05343511450381679
+evidence_chain,2024,Crossref published,A5,Fidelity,2,131,0.015267175572519083
+evidence_chain,2024,Crossref published,A6,Comprehensiveness,6,131,0.04580152671755725
+evidence_chain,2024,Crossref published,B1,Time efficiency,4,131,0.030534351145038167
+evidence_chain,2024,Crossref published,B2,Perceived workload,3,131,0.022900763358778626
+evidence_chain,2024,Crossref published,B3,Iteration efficiency,0,131,0.0
+evidence_chain,2024,Crossref published,B4,Decision support,0,131,0.0
+evidence_chain,2024,Crossref published,B5,Process continuity,3,131,0.022900763358778626
+evidence_chain,2024,Crossref published,B6,Handover efficiency,0,131,0.0
+evidence_chain,2024,Crossref published,C1,Inspiration,11,131,0.08396946564885496
+evidence_chain,2024,Crossref published,C2,Knowledge acquisition,3,131,0.022900763358778626
+evidence_chain,2024,Crossref published,C3,Self-efficacy,0,131,0.0
+evidence_chain,2024,Crossref published,C4,Engagement and immersion,2,131,0.015267175572519083
+evidence_chain,2024,Crossref published,C5,Enjoyment,13,131,0.09923664122137404
+evidence_chain,2024,Crossref published,C6,Reflection,1,131,0.007633587786259542
+evidence_chain,2024,Crossref published,C7,Fixation and dependence,2,131,0.015267175572519083
+evidence_chain,2024,Crossref published,C8,Capability expansion,2,131,0.015267175572519083
+evidence_chain,2024,Crossref published,D1,Ease of use,3,131,0.022900763358778626
+evidence_chain,2024,Crossref published,D2,Intention to use,0,131,0.0
+evidence_chain,2024,Crossref published,D3,Sense of control,6,131,0.04580152671755725
+evidence_chain,2024,Crossref published,D4,Explainability,1,131,0.007633587786259542
+evidence_chain,2024,Crossref published,D5,Trust,4,131,0.030534351145038167
+evidence_chain,2024,Crossref published,D6,Agency,0,131,0.0
+evidence_chain,2024,Crossref published,D7,Role and contribution fairness,4,131,0.030534351145038167
+evidence_chain,2024,Crossref published,D8,"Communication, coordination, conflict and shared understanding",7,131,0.05343511450381679
+evidence_chain,2024,Crossref published,E1,End-user experience and acceptance,4,131,0.030534351145038167
+evidence_chain,2024,Crossref published,E2,"Fit with needs, contexts and populations",1,131,0.007633587786259542
+evidence_chain,2024,Crossref published,E3,Professional and organizational fit,1,131,0.007633587786259542
+evidence_chain,2024,Crossref published,E4,"Cultural, social and public value",3,131,0.022900763358778626
+evidence_chain,2024,Crossref published,E5,"Ethics, fairness, bias and inclusion",3,131,0.022900763358778626
+evidence_chain,2024,Crossref published,E6,Environmental and sustainability value,2,131,0.015267175572519083
+evidence_chain,2024,Crossref published,E7,"Commercial, brand and market value",5,131,0.03816793893129771
+evidence_chain,2024,Crossref published,E8,"Long-term use, governance and responsibility",0,131,0.0
+evidence_chain,2025,Crossref published,A1,Novelty,7,88,0.07954545454545454
+evidence_chain,2025,Crossref published,A2,Aesthetic appeal,5,88,0.056818181818181816
+evidence_chain,2025,Crossref published,A3,Suitability,5,88,0.056818181818181816
+evidence_chain,2025,Crossref published,A4,Feasibility,5,88,0.056818181818181816
+evidence_chain,2025,Crossref published,A5,Fidelity,1,88,0.011363636363636364
+evidence_chain,2025,Crossref published,A6,Comprehensiveness,1,88,0.011363636363636364
+evidence_chain,2025,Crossref published,B1,Time efficiency,2,88,0.022727272727272728
+evidence_chain,2025,Crossref published,B2,Perceived workload,3,88,0.03409090909090909
+evidence_chain,2025,Crossref published,B3,Iteration efficiency,0,88,0.0
+evidence_chain,2025,Crossref published,B4,Decision support,1,88,0.011363636363636364
+evidence_chain,2025,Crossref published,B5,Process continuity,1,88,0.011363636363636364
+evidence_chain,2025,Crossref published,B6,Handover efficiency,0,88,0.0
+evidence_chain,2025,Crossref published,C1,Inspiration,2,88,0.022727272727272728
+evidence_chain,2025,Crossref published,C2,Knowledge acquisition,3,88,0.03409090909090909
+evidence_chain,2025,Crossref published,C3,Self-efficacy,0,88,0.0
+evidence_chain,2025,Crossref published,C4,Engagement and immersion,3,88,0.03409090909090909
+evidence_chain,2025,Crossref published,C5,Enjoyment,3,88,0.03409090909090909
+evidence_chain,2025,Crossref published,C6,Reflection,2,88,0.022727272727272728
+evidence_chain,2025,Crossref published,C7,Fixation and dependence,2,88,0.022727272727272728
+evidence_chain,2025,Crossref published,C8,Capability expansion,2,88,0.022727272727272728
+evidence_chain,2025,Crossref published,D1,Ease of use,7,88,0.07954545454545454
+evidence_chain,2025,Crossref published,D2,Intention to use,1,88,0.011363636363636364
+evidence_chain,2025,Crossref published,D3,Sense of control,4,88,0.045454545454545456
+evidence_chain,2025,Crossref published,D4,Explainability,1,88,0.011363636363636364
+evidence_chain,2025,Crossref published,D5,Trust,1,88,0.011363636363636364
+evidence_chain,2025,Crossref published,D6,Agency,1,88,0.011363636363636364
+evidence_chain,2025,Crossref published,D7,Role and contribution fairness,3,88,0.03409090909090909
+evidence_chain,2025,Crossref published,D8,"Communication, coordination, conflict and shared understanding",7,88,0.07954545454545454
+evidence_chain,2025,Crossref published,E1,End-user experience and acceptance,5,88,0.056818181818181816
+evidence_chain,2025,Crossref published,E2,"Fit with needs, contexts and populations",2,88,0.022727272727272728
+evidence_chain,2025,Crossref published,E3,Professional and organizational fit,1,88,0.011363636363636364
+evidence_chain,2025,Crossref published,E4,"Cultural, social and public value",2,88,0.022727272727272728
+evidence_chain,2025,Crossref published,E5,"Ethics, fairness, bias and inclusion",3,88,0.03409090909090909
+evidence_chain,2025,Crossref published,E6,Environmental and sustainability value,1,88,0.011363636363636364
+evidence_chain,2025,Crossref published,E7,"Commercial, brand and market value",1,88,0.011363636363636364
+evidence_chain,2025,Crossref published,E8,"Long-term use, governance and responsibility",0,88,0.0
+evidence_chain,2026,Crossref published,A1,Novelty,15,216,0.06944444444444445
+evidence_chain,2026,Crossref published,A2,Aesthetic appeal,11,216,0.05092592592592592
+evidence_chain,2026,Crossref published,A3,Suitability,20,216,0.09259259259259259
+evidence_chain,2026,Crossref published,A4,Feasibility,11,216,0.05092592592592592
+evidence_chain,2026,Crossref published,A5,Fidelity,5,216,0.023148148148148147
+evidence_chain,2026,Crossref published,A6,Comprehensiveness,5,216,0.023148148148148147
+evidence_chain,2026,Crossref published,B1,Time efficiency,3,216,0.013888888888888888
+evidence_chain,2026,Crossref published,B2,Perceived workload,5,216,0.023148148148148147
+evidence_chain,2026,Crossref published,B3,Iteration efficiency,1,216,0.004629629629629629
+evidence_chain,2026,Crossref published,B4,Decision support,6,216,0.027777777777777776
+evidence_chain,2026,Crossref published,B5,Process continuity,8,216,0.037037037037037035
+evidence_chain,2026,Crossref published,B6,Handover efficiency,0,216,0.0
+evidence_chain,2026,Crossref published,C1,Inspiration,6,216,0.027777777777777776
+evidence_chain,2026,Crossref published,C2,Knowledge acquisition,12,216,0.05555555555555555
+evidence_chain,2026,Crossref published,C3,Self-efficacy,2,216,0.009259259259259259
+evidence_chain,2026,Crossref published,C4,Engagement and immersion,4,216,0.018518518518518517
+evidence_chain,2026,Crossref published,C5,Enjoyment,12,216,0.05555555555555555
+evidence_chain,2026,Crossref published,C6,Reflection,9,216,0.041666666666666664
+evidence_chain,2026,Crossref published,C7,Fixation and dependence,3,216,0.013888888888888888
+evidence_chain,2026,Crossref published,C8,Capability expansion,7,216,0.032407407407407406
+evidence_chain,2026,Crossref published,D1,Ease of use,6,216,0.027777777777777776
+evidence_chain,2026,Crossref published,D2,Intention to use,1,216,0.004629629629629629
+evidence_chain,2026,Crossref published,D3,Sense of control,8,216,0.037037037037037035
+evidence_chain,2026,Crossref published,D4,Explainability,5,216,0.023148148148148147
+evidence_chain,2026,Crossref published,D5,Trust,6,216,0.027777777777777776
+evidence_chain,2026,Crossref published,D6,Agency,2,216,0.009259259259259259
+evidence_chain,2026,Crossref published,D7,Role and contribution fairness,4,216,0.018518518518518517
+evidence_chain,2026,Crossref published,D8,"Communication, coordination, conflict and shared understanding",10,216,0.046296296296296294
+evidence_chain,2026,Crossref published,E1,End-user experience and acceptance,4,216,0.018518518518518517
+evidence_chain,2026,Crossref published,E2,"Fit with needs, contexts and populations",15,216,0.06944444444444445
+evidence_chain,2026,Crossref published,E3,Professional and organizational fit,1,216,0.004629629629629629
+evidence_chain,2026,Crossref published,E4,"Cultural, social and public value",3,216,0.013888888888888888
+evidence_chain,2026,Crossref published,E5,"Ethics, fairness, bias and inclusion",0,216,0.0
+evidence_chain,2026,Crossref published,E6,Environmental and sustainability value,0,216,0.0
+evidence_chain,2026,Crossref published,E7,"Commercial, brand and market value",6,216,0.027777777777777776
+evidence_chain,2026,Crossref published,E8,"Long-term use, governance and responsibility",0,216,0.0

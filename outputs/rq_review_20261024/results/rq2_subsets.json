@@ -1,0 +1,29 @@
+[
+  {
+    "subset": "all",
+    "label": "全部实际感知证据",
+    "chains_n": 95,
+    "papers_with_eligible_chain": 11,
+    "cases_with_eligible_chain": 31,
+    "all_chains_eligible_cases": 31,
+    "papers_with_whole_eligible_case": 11
+  },
+  {
+    "subset": "sensitivity",
+    "label": "报告支持较充分（敏感性）",
+    "chains_n": 80,
+    "papers_with_eligible_chain": 10,
+    "cases_with_eligible_chain": 28,
+    "all_chains_eligible_cases": 28,
+    "papers_with_whole_eligible_case": 10
+  },
+  {
+    "subset": "strict",
+    "label": "主要规范性证据子集",
+    "chains_n": 0,
+    "papers_with_eligible_chain": 0,
+    "cases_with_eligible_chain": 0,
+    "all_chains_eligible_cases": 0,
+    "papers_with_whole_eligible_case": 0
+  }
+]

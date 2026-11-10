@@ -1,0 +1,264 @@
+{
+  "paper_id": 120,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "method": "transparent_fulltext_rule_scan",
+  "standards": {
+    "U1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U5": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U6": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U7": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U8": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P1": {
+      "status": "P",
+      "page": 5,
+      "quote": "et al . [2017] and Lee et al . [2020], we use augmenta- tions to increase the volume and diversity of sketches for training. To generate reference sketch styles 𝑆𝑟 in the training phase, we ran- domly apply one of two augmentations to ground truth",
+      "reason": "全文命中1类可观察报告成分",
+      "quote_validated": 1,
+      "components": 1
+    },
+    "P2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P3": {
+      "status": "P",
+      "page": 7,
+      "quote": "nd 300 pairs for validation of our sketch-extraction model. In this dataset, artists were anonymous and drew sketches with various sketch styles. According to Twitter’s regulation [twitter policy 2021], one can legally use this dataset for research",
+      "reason": "全文命中1类可观察报告成分",
+      "quote_validated": 1,
+      "components": 1
+    },
+    "P4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P5": {
+      "status": "S",
+      "page": 12,
+      "quote": "xtracting sketches from unseen real-face images, similar to the given reference styles. 8 LIMITATIONS AND FUTURE WORK Our model extracts a sketch from a colorized image in such a way that the extracted sketch has a line style similar to that of a give",
+      "reason": "全文命中2类可观察报告成分",
+      "quote_validated": 1,
+      "components": 2
+    },
+    "P6": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P7": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A5": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A6": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A7": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A8": {
+      "status": "S",
+      "page": 12,
+      "quote": "xtracting sketches from unseen real-face images, similar to the given reference styles. 8 LIMITATIONS AND FUTURE WORK Our model extracts a sketch from a colorized image in such a way that the extracted sketch has a line style similar to that of a give",
+      "reason": "全文命中2类可观察报告成分",
+      "quote_validated": 1,
+      "components": 2
+    },
+    "E1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "E2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "E3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    }
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "paper_id": 11,
+  "title": "Dynamic 3D product aesthetic quality evaluation: integration and evaluation of multimodal physiological signals and machine learning methods",
+  "doi": "10.1080/09544828.2026.2687686",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S3",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U6",
+    "U1"
+  ],
+  "context_summary": "The paper proposes a MACI framework to evaluate dynamic 3D product aesthetics using multimodal physiological signals and machine learning. It validates the method with 26 participants and reports high accuracy in aesthetic classification.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": "The paper does not collect subjective human evaluations directly. It uses physiological signals and machine learning to infer aesthetic judgments, not actual human subjective feedback.",
+  "evaluations": [
+    {
+      "eval_id": "011-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V2"
+      ],
+      "source_codes": [
+        "H2",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G7",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K3",
+        "K4",
+        "K5",
+        "K6"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 22,
+      "sample_description": "Due to factors such as equipment malfunctions and incomplete data collection, we ultimately obtained valid data from 22 participants.",
+      "recruitment": "",
+      "task": "The input layer primarily consists of review tasks and decision objectives,",
+      "comparator": "",
+      "procedure": "should be organised as a repeatable and transferable design review procedure,",
+      "analysis": "ence in scores between male and female participants (t = 0.883, p = 0.381), nor was there",
+      "actual_results": "The results indicate that the strongest evidence of a clear relationship with aesthetic ratings was primarily found in eye-tracking and EEG measures: gaze and saccade characteristics in eye-tracking, as well as certain ERP components and frequency band features in EEG, all showed significant cor- relations.",
+      "limitations": "Scope and limitations",
+      "ethics": "was approved by the Ethics Committee and adhered to the Declaration of Helsinki.",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 9,
+          "quote": "Due to factors such as equipment malfunctions and incomplete data collection, we ultimately obtained valid data from 22 participants."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "In contrast, EDA measures did not show stable direct correlations, and further EEG–EDA coupling analysis also failed to reveal clear discriminative effects across different aesthetic conditions.",
+          "claim_summary": "In contrast, EDA measures did not show stable direct correlations, and further EEG–EDA coupling analysis also failed to reveal clear discriminative effects across different aesthetic conditions.",
+          "claim_type": "C3",
+          "construct_raw": "beautiful",
+          "indicator_raw": "beautiful",
+          "item_quote": "To ensure the completeness and consis- tency of the subjective rating data, we performed preprocessing and reliability analysis on the five-point rating data from 30 car videos, where 1 represents the ugliest and 5 repre- sents the most beautiful.",
+          "dimension_code": "A",
+          "indicator_code": "A2",
+          "instrument_raw": "In product design reviews and iterations, aesthetic quality primarily serves the purposes of scheme screening, ranking, and decision-making; therefore, this stu",
+          "tool_family_codes": [
+            "M3"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "Additionally, we used Principal Component Analysis (PCA) to test the scale’s construct validity (Qu et al.",
+          "reliability_evidence": "To ensure the completeness and consis- tency of the subjective rating data, we performed preprocessing and reliability analysis on the five-point rating data from 30 car videos, where 1 represents the ugliest and 5 repre- sents the most beautiful.",
+          "result_quote": "The results indicate that the strongest evidence of a clear relationship with aesthetic ratings was primarily found in eye-tracking and EEG measures: gaze and saccade characteristics in eye-tracking, as well as certain ERP components and frequency band features in EEG, all showed significant cor- relations.",
+          "effect_direction": "NR",
+          "pages": [
+            9,
+            10
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "To ensure the completeness and consis- tency of the subjective rating data, we performed preprocessing and reliability analysis on the five-point rating data from 30 car videos, where 1 represents the ugliest and 5 repre- sents the most beautiful.",
+          "claim_summary": "To ensure the completeness and consis- tency of the subjective rating data, we performed preprocessing and reliability analysis on the five-point rating data from 30 car videos, where 1 represents the ugliest and 5 repre- sents the most beautiful.",
+          "claim_type": "C1",
+          "construct_raw": "completeness",
+          "indicator_raw": "completeness",
+          "item_quote": "To ensure the completeness and consis- tency of the subjective rating data, we performed preprocessing and reliability analysis on the five-point rating data from 30 car videos, where 1 represents the ugliest and 5 repre- sents the most beautiful.",
+          "dimension_code": "A",
+          "indicator_code": "A6",
+          "instrument_raw": "In product design reviews and iterations, aesthetic quality primarily serves the purposes of scheme screening, ranking, and decision-making; therefore, this stu",
+          "tool_family_codes": [
+            "M3"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "Additionally, we used Principal Component Analysis (PCA) to test the scale’s construct validity (Qu et al.",
+          "reliability_evidence": "To ensure the completeness and consis- tency of the subjective rating data, we performed preprocessing and reliability analysis on the five-point rating data from 30 car videos, where 1 represents the ugliest and 5 repre- sents the most beautiful.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            9
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": "within the MACI framework, integrating evaluation judgments and their supporting ratio-"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": "tency of the subjective rating data, we performed preprocessing and reliability analysis on"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": "All participants pos-"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": "ence in scores between male and female participants (t = 0.883, p = 0.381), nor was there"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": "The results indicate that the strongest evidence of a clear relationship with aesthetic ratings was primarily found in eye-tracking and EEG measures: gaze and saccade characteristics in eye-tracking, as well as certain ERP components and frequency band features in EEG, all showed significant cor- relations."
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": "within the MACI framework, integrating evaluation judgments and their supporting ratio-"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\11.pdf"
+}

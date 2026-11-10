@@ -1,0 +1,253 @@
+{
+  "paper_id": 110,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "method": "transparent_fulltext_rule_scan",
+  "standards": {
+    "U1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U3": {
+      "status": "P",
+      "page": 2,
+      "quote": "merge when users interact with a malleable and intuitive canvas such as sand? Based on a participatory workshop, we designed two initial drawing modes, artistic mimicry and zen garden. In Artistic Mimicry, the user leads the drawing sessions by direc",
+      "reason": "全文命中1类可观察报告成分",
+      "quote_validated": 1,
+      "components": 1
+    },
+    "U4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U5": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U6": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U7": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U8": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P5": {
+      "status": "S",
+      "page": 3,
+      "quote": "demo paper, we designed and created a third mode called Doodling that utilized the open-source code of Sketch-RNN [8] and the Quick, Draw! Dataset [1] to generate novel strokes in response to the user’s input. As an advancement of the previous two",
+      "reason": "全文命中2类可观察报告成分",
+      "quote_validated": 1,
+      "components": 2
+    },
+    "P6": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P7": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A5": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A6": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A7": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A8": {
+      "status": "P",
+      "page": 1,
+      "quote": "ers. Revealing how generative AI tools work enables designers to understand these tools’ limitations and capa- bilities. We developed a tangible interface with sand as a medium for human-AI co-creation, Sand Playground. It extends the work in human",
+      "reason": "全文命中1类可观察报告成分",
+      "quote_validated": 1,
+      "components": 1
+    },
+    "E1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "E2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "E3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    }
+  }
+}

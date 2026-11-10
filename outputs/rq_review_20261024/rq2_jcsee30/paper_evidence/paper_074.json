@@ -1,0 +1,274 @@
+{
+  "paper_id": 74,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "method": "transparent_fulltext_rule_scan",
+  "standards": {
+    "U1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U2": {
+      "status": "P",
+      "page": 7,
+      "quote": "the reference recombination process. Zhou et al. [90] proposed OptiMuze, which works as a co-design agent that fosters the exploration and reflection processes of graphic designers. In HCI areas, only a few studies have focused on advertising design",
+      "reason": "全文命中1类可观察报告成分",
+      "quote_validated": 1,
+      "components": 1
+    },
+    "U3": {
+      "status": "S",
+      "page": 7,
+      "quote": "the reference recombination process. Zhou et al. [90] proposed OptiMuze, which works as a co-design agent that fosters the exploration and reflection processes of graphic designers. In HCI areas, only a few studies have focused on advertising design",
+      "reason": "全文命中2类可观察报告成分",
+      "quote_validated": 1,
+      "components": 2
+    },
+    "U4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U5": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U6": {
+      "status": "P",
+      "page": 15,
+      "quote": "score were clearly fed back, I could make it better, ” expressing their expectation that feedback would lead to improved efficiency and opportunities for growth. 5.2 Benefits and Challenges of Incorporating Decision-making AI into Creative Workflow 5.2.1 Doubl",
+      "reason": "全文命中1类可观察报告成分",
+      "quote_validated": 1,
+      "components": 1
+    },
+    "U7": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U8": {
+      "status": "S",
+      "page": 20,
+      "quote": "work at the company or might have left if they couldn’t overcome conflicts, leading to a potential bias unique to the group. Thus, our insights might reflect a more optimistic view of AI integration, potentially overlooking challenges for those who do n",
+      "reason": "全文命中2类可观察报告成分",
+      "quote_validated": 1,
+      "components": 2
+    },
+    "F1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F3": {
+      "status": "S",
+      "page": 9,
+      "quote": "ner’s workflow and substituting the designer’s decision-making is unique to our case. 3.2 Organizational Context The organizational subject of our case study was an online advertising design company that specializes in creating online advertising graphic desig",
+      "reason": "全文命中2类可观察报告成分",
+      "quote_validated": 1,
+      "components": 2
+    },
+    "F4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P1": {
+      "status": "P",
+      "page": 10,
+      "quote": "tings (e.g., delivery methods and placement) and targeting configurations (e.g., audience demographics). The model is regularly trained using advertising distribution data, including adver- tisements and their performance, provided by the parent compa",
+      "reason": "全文命中1类可观察报告成分",
+      "quote_validated": 1,
+      "components": 1
+    },
+    "P2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P3": {
+      "status": "S",
+      "page": 12,
+      "quote": "nd participants were informed accordingly. 4.1.3 Interview. The study was approved by the IRB of the lead author’s institution. The user interviews were conducted using the online video conferencing tool (i.e., Zoom) with recording between Sep",
+      "reason": "全文命中2类可观察报告成分",
+      "quote_validated": 1,
+      "components": 2
+    },
+    "P4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P5": {
+      "status": "S",
+      "page": 4,
+      "quote": "rends or evaluate alternatives, it has been studied primarily in domains with significant data availability and a need for objective, empirical decision-making, such as finance, medicine, law, and sports. In these domains, research has focused not only on d",
+      "reason": "全文命中3类可观察报告成分",
+      "quote_validated": 1,
+      "components": 3
+    },
+    "P6": {
+      "status": "S",
+      "page": 11,
+      "quote": "ote that the other author is a researcher working at a university, so there was no direct conflict of interest (COI) with the participants. Given the hierarchical relationship and COI, the following ethical considerations were made for the interviews with the",
+      "reason": "全文命中1类可观察报告成分",
+      "quote_validated": 1,
+      "components": 1
+    },
+    "P7": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A5": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A6": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A7": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A8": {
+      "status": "S",
+      "page": 5,
+      "quote": "rs include transparent explanations regarding output [2, 39, 75, 81], tutorials about the limitations and capabilities [ 11, 38], and continuous feedback on the performance of the systems [45]. In particular, explainable AI (XAI) has been considered i",
+      "reason": "全文命中3类可观察报告成分",
+      "quote_validated": 1,
+      "components": 3
+    },
+    "E1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "E2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "E3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    }
+  }
+}

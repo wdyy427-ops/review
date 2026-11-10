@@ -1,0 +1,690 @@
+{
+  "paper_id": 1,
+  "title_match": true,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "scope_note": "完整阅读正文、问卷表与结论；将旧三个评价ID合并为同一次消费者问卷。仅将主观判断编码为感知证据；工程仿真不作为感知效果。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S2",
+    "S3"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R1",
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1",
+    "U5"
+  ],
+  "context_summary": "GAN生成椅子概念，单图转3D、有限元和人体工学筛选、强化学习优化；消费者评价四张方案渲染图。AI预期辅助产品设计师/工程师；没有设计者使用AI的实验。",
+  "context_evidence": [
+    {
+      "page": 10,
+      "quote": "During the form generation stage, an improved generative adversarial network (GAN) is employed"
+    },
+    {
+      "page": 13,
+      "quote": "the generated designs were converted into the OBJ file format"
+    },
+    {
+      "page": 15,
+      "quote": "The primary purpose was to explore the consumers’ or end-users’ subjective evaluations and acceptance intentions"
+    }
+  ],
+  "excluded_legacy_rows": [],
+  "added_evidence_notes": "表2实际14行（Structural Stability没有编号），正文称13项，又提13–14项；保留表内原始名称而不重建缺失的题干。",
+  "category_gaps": [
+    "Effectiveness of FEA and ergonomics integration无法等同过程连续性；Novelty and Safety Balance、Design and Functionality Balance不能等同全面性或适用性，编码UNMAPPED。"
+  ],
+  "evaluations": [
+    {
+      "eval_id": "001-E1",
+      "legacy_eval_ids": [
+        "1-评价1",
+        "1-评价2",
+        "1-评价3"
+      ],
+      "purpose_codes": [
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O6"
+      ],
+      "evaluator_codes": [
+        "V3",
+        "V4"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G1",
+      "evaluation_stage_codes": [
+        "S3"
+      ],
+      "sample_n": 87,
+      "sample_description": "招募100位北京丰台区20–64岁居民，87份有效问卷；表1描述100名招募者，非87名最终分析者。表1男女48/52，正文50/50。",
+      "recruitment": "社区传单与线上公告，自愿无报酬；作者称分层抽样。",
+      "task": "查看四个筛选后AI椅子设计的3D渲染图，评价新颖、制造、接受与满意度。",
+      "comparator": "没有常规设计或未加入约束的基线；四方案结果合并呈现。",
+      "procedure": "观看四个设计渲染；7点Likert问卷，题名见表2；是否逐方案分别作答及实际实施场所未交代。",
+      "analysis": "逐题描述统计：均值、标准差、最小和最大；未报告假设检验、信度或效度检验。",
+      "actual_results": "总体新颖5.3±1.18、结构突破5.1±1.35、整合有效性5.6±1.02、创新安全平衡5.0±1.24；工艺4.4、成本4.2、稳定5.1、生产4.7；购买3.9、价格敏感3.7、审美4.4、预期体验4.6、功能平衡4.8、满意4.7。",
+      "limitations": "作者提未来应优化成本、制造效率及加入压力/疲劳、VR评估；未明确承认无对照不能检验H1/H2的提升效果。",
+      "ethics": "第15页称所有参与者签知情同意、第16页匿名；无伦理审批号。",
+      "evidence": [
+        {
+          "field": "purpose/sample",
+          "page": 15,
+          "quote": "This study recruited 100 participants from Fengtai District, Beijing, China."
+        },
+        {
+          "field": "instrument",
+          "page": 16,
+          "quote": "A 7-point likert scale was employed to capture the nuances in participant responses."
+        },
+        {
+          "field": "result",
+          "page": 17,
+          "quote": "Table 2. Quantitative survey results summary table ( N = 87)."
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "明确调查消费者对四方案的主观评价与接受意愿。",
+          "reason": "与主观创新、美观及接受性数据相符；客观工程结论另在A6/A7判断。",
+          "pages": [
+            15,
+            16
+          ],
+          "quote": "The primary purpose was to explore the consumers’ or end-users’ subjective evaluations and acceptance intentions"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "提供指标题名、引用评价维度来源，但未提供完整题干、锚点或具体内容效度检查。",
+          "reason": "可识别主观意图，但渲染图对舒适、制造与稳定判断的适用范围不充分。",
+          "pages": [
+            16,
+            17
+          ],
+          "quote": "using assessment criteria such as aesthetic appeal, novelty, functionality, and feasibility (Han et al. 2021)"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "完整阅读方法第10–17页、结论18页，未见信度、复测或其他一致性依据。",
+          "reason": "单题不能要求alpha；但对这些判断作为推断依据的可靠性支持未报告。",
+          "pages": [
+            16,
+            17
+          ],
+          "quote": "A 7-point likert scale was employed"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "报告招募地、招募100与有效87、任务材料和量尺。",
+          "reason": "缺有效样本构成、实施环境、四方案评分和汇总方式；样本性别描述不一致。",
+          "pages": [
+            15,
+            16,
+            17
+          ],
+          "quote": "the survey yielded 87 valid responses"
+        },
+        {
+          "standard": "A6",
+          "status": "P",
+          "facts": "单条件问卷提供逐项均值、SD、范围；四个方案汇总规则不明。",
+          "reason": "对限定描述性主张基本合适，但并不足以检验H1/H2提升；后者单独编码。",
+          "pages": [
+            11,
+            16,
+            17
+          ],
+          "quote": "Table 2. Quantitative survey results summary table ( N = 87)."
+        },
+        {
+          "standard": "A7",
+          "status": "C",
+          "facts": "结论称受试者认为与传统设计相当或优越，并用主观评分确认工程制造约束。",
+          "reason": "表2无传统方案比较；感知结构稳定评分不足以确认工程满足约束，推断超过结果。",
+          "pages": [
+            17,
+            18
+          ],
+          "quote": "Most participants agreed that the AI-designed seats demonstrated comparable or even superior structural integrity and ergonomic comfort to conventional designs."
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "报告题名和逐题均值SD范围、招募过程。",
+          "reason": "完整题干锚点/四方案数据不可复核；表题项总数与正文不一致。",
+          "pages": [
+            16,
+            17
+          ],
+          "quote": "Based on these two key dimensions, 13 measurement items were developed"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [
+            2,
+            3
+          ],
+          "claim_quote": "participants awarded high ratings to both overall innovativeness and breakthrough aspects in the chair’s structure",
+          "claim_summary": "椅子方案新颖性与结构突破获得较高评分",
+          "claim_type": "C1",
+          "construct_raw": "Novelty",
+          "indicator_raw": "Novelty",
+          "item_quote": "Overall Novelty Evaluation; Structural Breakthrough",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "自编7点Likert问卷；Table 2",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+          "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+          "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+          "result_quote": "1 Overall Novelty Evaluation 5.3 1.18; 2 Structural Breakthrough 5.1 1.35",
+          "effect_direction": "描述性",
+          "pages": [
+            16,
+            17
+          ],
+          "audit_overrides": [
+            {
+              "standard": "A6",
+              "status": "S",
+              "facts": "该链提取表2相应题的描述性均值，未把均值编码为对照效果。",
+              "reason": "单条件描述统计可支持此限定主张。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "1 Overall Novelty Evaluation 5.3 1.18; 2 Structural Breakthrough 5.1 1.35"
+            },
+            {
+              "standard": "A7",
+              "status": "S",
+              "facts": "对应题名与表2结果可追溯。",
+              "reason": "该链结论限于参与者评分；不包含正文末端未支持的工程或传统方案比较。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "1 Overall Novelty Evaluation 5.3 1.18; 2 Structural Breakthrough 5.1 1.35"
+            }
+          ]
+        },
+        {
+          "legacy_rows": [
+            4
+          ],
+          "claim_quote": "the innovative elements of the design were markedly well recognized",
+          "claim_summary": "有限元与人体工学整合有效性评分5.6",
+          "claim_type": "C1",
+          "construct_raw": "Effectiveness of FEA and Ergonomics Integration",
+          "indicator_raw": "Effectiveness of FEA and Ergonomics Integration",
+          "item_quote": "Effectiveness of FEA and Ergonomics Integration",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "自编7点Likert问卷；Table 2",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+          "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+          "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+          "result_quote": "Effectiveness of FEA and Ergonomics Integration 5.6 1.02",
+          "effect_direction": "描述性",
+          "pages": [
+            16,
+            17
+          ],
+          "audit_overrides": [
+            {
+              "standard": "A6",
+              "status": "S",
+              "facts": "该链提取表2相应题的描述性均值，未把均值编码为对照效果。",
+              "reason": "单条件描述统计可支持此限定主张。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "Effectiveness of FEA and Ergonomics Integration 5.6 1.02"
+            },
+            {
+              "standard": "A7",
+              "status": "S",
+              "facts": "对应题名与表2结果可追溯。",
+              "reason": "该链结论限于参与者评分；不包含正文末端未支持的工程或传统方案比较。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "Effectiveness of FEA and Ergonomics Integration 5.6 1.02"
+            }
+          ]
+        },
+        {
+          "legacy_rows": [
+            5
+          ],
+          "claim_quote": "the innovative elements of the design were markedly well recognized",
+          "claim_summary": "创新与安全平衡评分5.0",
+          "claim_type": "C1",
+          "construct_raw": "Novelty and Safety Balance",
+          "indicator_raw": "Novelty and Safety Balance",
+          "item_quote": "Novelty and Safety Balance",
+          "dimension_code": "A",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "自编7点Likert问卷；Table 2",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+          "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+          "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+          "result_quote": "Novelty and Safety Balance 5.0 1.24",
+          "effect_direction": "描述性",
+          "pages": [
+            16,
+            17
+          ],
+          "audit_overrides": [
+            {
+              "standard": "A6",
+              "status": "S",
+              "facts": "该链提取表2相应题的描述性均值，未把均值编码为对照效果。",
+              "reason": "单条件描述统计可支持此限定主张。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "Novelty and Safety Balance 5.0 1.24"
+            },
+            {
+              "standard": "A7",
+              "status": "S",
+              "facts": "对应题名与表2结果可追溯。",
+              "reason": "该链结论限于参与者评分；不包含正文末端未支持的工程或传统方案比较。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "Novelty and Safety Balance 5.0 1.24"
+            }
+          ]
+        },
+        {
+          "legacy_rows": [
+            6,
+            7,
+            9
+          ],
+          "claim_quote": "manufacturing feasibility and material cost evaluations were relatively neutral",
+          "claim_summary": "制造可行性和成本评价接近中性，生产可行性4.7",
+          "claim_type": "C1",
+          "construct_raw": "Manufacturing process and feasibility",
+          "indicator_raw": "Manufacturing process and feasibility",
+          "item_quote": "Manufacturing Process Feasibility; Material and Cost Consideration; Production Feasibility",
+          "dimension_code": "A",
+          "indicator_code": "A4",
+          "instrument_raw": "自编7点Likert问卷；Table 2",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+          "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+          "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+          "result_quote": "Manufacturing Process Feasibility 4.4 1.37; Material and Cost Consideration 4.2 1.41; Production Feasibility 4.7 1.11",
+          "effect_direction": "描述性",
+          "pages": [
+            16,
+            17
+          ],
+          "audit_overrides": [
+            {
+              "standard": "A6",
+              "status": "S",
+              "facts": "该链提取表2相应题的描述性均值，未把均值编码为对照效果。",
+              "reason": "单条件描述统计可支持此限定主张。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "Manufacturing Process Feasibility 4.4 1.37; Material and Cost Consideration 4.2 1.41; Production Feasibility 4.7 1.11"
+            },
+            {
+              "standard": "A7",
+              "status": "S",
+              "facts": "对应题名与表2结果可追溯。",
+              "reason": "该链结论限于参与者评分；不包含正文末端未支持的工程或传统方案比较。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "Manufacturing Process Feasibility 4.4 1.37; Material and Cost Consideration 4.2 1.41; Production Feasibility 4.7 1.11"
+            }
+          ]
+        },
+        {
+          "legacy_rows": [
+            8
+          ],
+          "claim_quote": "participants perceived the optimized structural design as offering enhanced safety and robustness",
+          "claim_summary": "结构稳定性感知评分5.1；提升并未经对照验证",
+          "claim_type": "C1",
+          "construct_raw": "Structural Stability",
+          "indicator_raw": "Structural Stability",
+          "item_quote": "Structural Stability",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "自编7点Likert问卷；Table 2",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+          "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+          "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+          "result_quote": "Structural Stability 5.1 1.17",
+          "effect_direction": "描述性",
+          "pages": [
+            16,
+            17
+          ],
+          "audit_overrides": [
+            {
+              "standard": "A6",
+              "status": "S",
+              "facts": "该链提取表2相应题的描述性均值，未把均值编码为对照效果。",
+              "reason": "单条件描述统计可支持此限定主张。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "Structural Stability 5.1 1.17"
+            },
+            {
+              "standard": "A7",
+              "status": "S",
+              "facts": "对应题名与表2结果可追溯。",
+              "reason": "该链结论限于参与者评分；不包含正文末端未支持的工程或传统方案比较。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "Structural Stability 5.1 1.17"
+            }
+          ]
+        },
+        {
+          "legacy_rows": [
+            10
+          ],
+          "claim_quote": "participants held a generally balanced view of the AI-generated chair’s overall performance",
+          "claim_summary": "设计与功能平衡评分4.8",
+          "claim_type": "C1",
+          "construct_raw": "Design and Functionality Balance",
+          "indicator_raw": "Design and Functionality Balance",
+          "item_quote": "Design and Functionality Balance",
+          "dimension_code": "A",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "自编7点Likert问卷；Table 2",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+          "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+          "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+          "result_quote": "Design and Functionality Balance 4.8 1.20",
+          "effect_direction": "描述性",
+          "pages": [
+            17
+          ],
+          "audit_overrides": [
+            {
+              "standard": "A6",
+              "status": "S",
+              "facts": "该链提取表2相应题的描述性均值，未把均值编码为对照效果。",
+              "reason": "单条件描述统计可支持此限定主张。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "Design and Functionality Balance 4.8 1.20"
+            },
+            {
+              "standard": "A7",
+              "status": "S",
+              "facts": "对应题名与表2结果可追溯。",
+              "reason": "该链结论限于参与者评分；不包含正文末端未支持的工程或传统方案比较。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "Design and Functionality Balance 4.8 1.20"
+            }
+          ]
+        },
+        {
+          "legacy_rows": [
+            11,
+            14,
+            15
+          ],
+          "claim_quote": "The analysis of consumer acceptance (items 9–12) shows a rather reserved attitude of the participants.",
+          "claim_summary": "购买意愿偏低，预期体验与满意度相对较高；保留不同题项结果",
+          "claim_type": "C1",
+          "construct_raw": "Consumer acceptance / overall satisfaction",
+          "indicator_raw": "Consumer acceptance / overall satisfaction",
+          "item_quote": "Purchase Intention; Usage Experience Expectation; Overall Satisfaction",
+          "dimension_code": "E",
+          "indicator_code": "E1",
+          "instrument_raw": "自编7点Likert问卷；Table 2",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+          "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+          "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+          "result_quote": "Purchase Intention 3.9 1.53; Usage Experience Expectation 4.6 1.33; Overall Satisfaction 4.7 1.29",
+          "effect_direction": "混合",
+          "pages": [
+            16,
+            17
+          ],
+          "audit_overrides": [
+            {
+              "standard": "A6",
+              "status": "S",
+              "facts": "该链提取表2相应题的描述性均值，未把均值编码为对照效果。",
+              "reason": "单条件描述统计可支持此限定主张。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "Purchase Intention 3.9 1.53; Usage Experience Expectation 4.6 1.33; Overall Satisfaction 4.7 1.29"
+            },
+            {
+              "standard": "A7",
+              "status": "S",
+              "facts": "对应题名与表2结果可追溯。",
+              "reason": "该链结论限于参与者评分；不包含正文末端未支持的工程或传统方案比较。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "Purchase Intention 3.9 1.53; Usage Experience Expectation 4.6 1.33; Overall Satisfaction 4.7 1.29"
+            }
+          ]
+        },
+        {
+          "legacy_rows": [
+            12
+          ],
+          "claim_quote": "the purchase intention and price sensitivity scores were slightly lower than the rest",
+          "claim_summary": "价格敏感性评分3.7，题目方向不明不可解释为良好市场价值",
+          "claim_type": "C1",
+          "construct_raw": "Price Sensitivity",
+          "indicator_raw": "Price Sensitivity",
+          "item_quote": "Price Sensitivity",
+          "dimension_code": "E",
+          "indicator_code": "E7",
+          "instrument_raw": "自编7点Likert问卷；Table 2",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+          "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+          "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+          "result_quote": "Price Sensitivity 3.7 1.65",
+          "effect_direction": "方向不明",
+          "pages": [
+            16,
+            17
+          ],
+          "audit_overrides": [
+            {
+              "standard": "A6",
+              "status": "S",
+              "facts": "该链提取表2相应题的描述性均值，未把均值编码为对照效果。",
+              "reason": "单条件描述统计可支持此限定主张。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "Price Sensitivity 3.7 1.65"
+            },
+            {
+              "standard": "A7",
+              "status": "S",
+              "facts": "对应题名与表2结果可追溯。",
+              "reason": "该链结论限于参与者评分；不包含正文末端未支持的工程或传统方案比较。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "Price Sensitivity 3.7 1.65"
+            }
+          ]
+        },
+        {
+          "legacy_rows": [
+            13
+          ],
+          "claim_quote": "the ratings for aesthetic appeal and the expected user experience were relatively high",
+          "claim_summary": "审美认可均值4.4",
+          "claim_type": "C1",
+          "construct_raw": "Aesthetic appeal",
+          "indicator_raw": "Aesthetic appeal",
+          "item_quote": "Aesthetic Approval",
+          "dimension_code": "A",
+          "indicator_code": "A2",
+          "instrument_raw": "自编7点Likert问卷；Table 2",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "7点Likert；逐题均值、标准差、最小值与最大值；端点文字未报告",
+          "validity_evidence": "参考Han et al. (2021)构建美观、新颖、功能和可行性维度；未报告预试或效度检验",
+          "reliability_evidence": "已阅读全文，未报告问卷信度或重复测量证据",
+          "result_quote": "Aesthetic Approval 4.4 1.48",
+          "effect_direction": "描述性",
+          "pages": [
+            16,
+            17
+          ],
+          "audit_overrides": [
+            {
+              "standard": "A6",
+              "status": "S",
+              "facts": "该链提取表2相应题的描述性均值，未把均值编码为对照效果。",
+              "reason": "单条件描述统计可支持此限定主张。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "Aesthetic Approval 4.4 1.48"
+            },
+            {
+              "standard": "A7",
+              "status": "S",
+              "facts": "对应题名与表2结果可追溯。",
+              "reason": "该链结论限于参与者评分；不包含正文末端未支持的工程或传统方案比较。",
+              "pages": [
+                16,
+                17
+              ],
+              "quote": "Aesthetic Approval 4.4 1.48"
+            }
+          ]
+        }
+      ],
+      "unsupported_claims": [
+        {
+          "quote": "Most participants agreed that the AI-designed seats demonstrated comparable or even superior structural integrity and ergonomic comfort to conventional designs.",
+          "pages": [
+            18
+          ],
+          "reason": "未报告传统设计比较条件或对应数据，不能作为已测感知证据链。"
+        }
+      ]
+    }
+  ]
+}

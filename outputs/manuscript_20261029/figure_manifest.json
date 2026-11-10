@@ -1,0 +1,717 @@
+[
+  {
+    "id": "fig01_evidence_architecture",
+    "kind": "main",
+    "caption": "Analytical architecture and denominators. Paper and evaluation-case information is linked to each candidate evidence record. Of 514 records, 460 have a mapped perceived-effect dimension and 454 have a mapped subjective indicator. A record can use more than one tool, yielding 624 tool instances, of which 608 are classified. The diagram describes the available analytic corpus and is not a literature-search flow diagram.",
+    "source_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\rq_review_20261024\\supplement_enhanced_v2\\03_revised_results\\evidence_chains_supplement_enhanced.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\rq_review_20261024\\supplement_enhanced_v2\\03_revised_results\\measure_instances_supplement_enhanced.csv"
+    ],
+    "findings": [
+      {
+        "level": "Papers",
+        "n": 125
+      },
+      {
+        "level": "Evaluation cases",
+        "n": 159
+      },
+      {
+        "level": "Candidate evidence records",
+        "n": 514
+      },
+      {
+        "level": "Mapped dimension records",
+        "n": 460
+      },
+      {
+        "level": "Mapped indicator records",
+        "n": 454
+      },
+      {
+        "level": "Tool instances",
+        "n": 624
+      },
+      {
+        "level": "Classified tool instances",
+        "n": 608
+      }
+    ],
+    "intended_width_inches": 7.2,
+    "design_canvas_inches": [
+      7.2,
+      5.0
+    ],
+    "exported_width_inches": 7.14375,
+    "exported_height_inches": 4.88125,
+    "aspect_ratio": 1.4635083226632521,
+    "png_dpi": 320,
+    "files": {
+      "png": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig01_evidence_architecture.png",
+      "pdf": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig01_evidence_architecture.pdf",
+      "svg": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig01_evidence_architecture.svg"
+    },
+    "figure_data_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig01_populations.csv"
+    ]
+  },
+  {
+    "id": "fig02_evidence_distributions",
+    "kind": "main",
+    "caption": "Distribution of evaluation evidence. (a) Perceived-effect dimensions among 460 mapped records. (b) Tool classes among 608 classified tool instances. (c) The 12 most frequent subjective indicators among 454 mapped indicator records. Labels show counts and within-layer percentages. Colour identifies dimensions in (a,c); tool colours in (b) identify tool classes. These distributions describe what the corpus evaluates, not the size or direction of AI effects.",
+    "source_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\rq_review_20261024\\supplement_enhanced_v2\\04_RQ1\\rq1_dimension_overall.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\rq_review_20261024\\supplement_enhanced_v2\\04_RQ1\\rq1_tool_overall.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\rq_review_20261024\\supplement_enhanced_v2\\04_RQ1\\rq1_indicator_overall.csv"
+    ],
+    "findings": {
+      "largest_dimension": "A:144/460 (31.3%)",
+      "largest_tool": "M2:193/608 (31.7%)",
+      "largest_indicator": "A3:39/454 (8.6%)"
+    },
+    "intended_width_inches": 7.2,
+    "design_canvas_inches": [
+      7.2,
+      7.1
+    ],
+    "exported_width_inches": 6.8625,
+    "exported_height_inches": 7.015625,
+    "aspect_ratio": 0.978173719376392,
+    "png_dpi": 320,
+    "files": {
+      "png": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig02_evidence_distributions.png",
+      "pdf": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig02_evidence_distributions.pdf",
+      "svg": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig02_evidence_distributions.svg"
+    },
+    "figure_data_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig02_dimensions.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig02_indicators.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig02_tools.csv"
+    ]
+  },
+  {
+    "id": "fig03_temporal_composition",
+    "kind": "main",
+    "caption": "Annual composition of mapped perceived-effect dimensions and classified tools, using publication years harmonized with the Crossref published date for all 125 papers. Each bar sums to 100% within a year; the count above the bar gives the denominator for that evidence layer. Annual paper counts for 2022–2026 are 11, 11, 28, 33 and 42. Coverage in 2026 is partial, through 25 September, and the early years have small evidence-layer denominators. The figure describes corpus composition, not temporal changes in the magnitude or direction of AI effects. Original coded-year and screening-year distributions are retained as sensitivity source data.",
+    "source_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\reviewed_corpus_catalogue.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\publication_year_sensitivity.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\rq_review_20261024\\supplement_enhanced_v2\\03_revised_results\\evidence_chains_supplement_enhanced.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\rq_review_20261024\\supplement_enhanced_v2\\03_revised_results\\measure_instances_supplement_enhanced.csv"
+    ],
+    "findings": {
+      "paper_yearly_n": {
+        "2022": 11,
+        "2023": 11,
+        "2024": 28,
+        "2025": 33,
+        "2026": 42
+      },
+      "dimension_yearly_n": {
+        "2022": 11,
+        "2023": 8,
+        "2024": 131,
+        "2025": 89,
+        "2026": 221
+      },
+      "indicator_yearly_n": {
+        "2022": 11,
+        "2023": 8,
+        "2024": 131,
+        "2025": 88,
+        "2026": 216
+      },
+      "tool_yearly_n": {
+        "2022": 14,
+        "2023": 10,
+        "2024": 151,
+        "2025": 121,
+        "2026": 312
+      },
+      "largest_annual_proportions": [
+        {
+          "layer": "dimension",
+          "year": 2022,
+          "denominator": 11,
+          "largest_code": "A",
+          "largest_label": "Design outcome quality",
+          "n": 3,
+          "percent": 0.2727272727272727
+        },
+        {
+          "layer": "dimension",
+          "year": 2022,
+          "denominator": 11,
+          "largest_code": "B",
+          "largest_label": "Design process quality",
+          "n": 3,
+          "percent": 0.2727272727272727
+        },
+        {
+          "layer": "dimension",
+          "year": 2023,
+          "denominator": 8,
+          "largest_code": "A",
+          "largest_label": "Design outcome quality",
+          "n": 3,
+          "percent": 0.375
+        },
+        {
+          "layer": "dimension",
+          "year": 2023,
+          "denominator": 8,
+          "largest_code": "C",
+          "largest_label": "Designer cognition, affect and capabilities",
+          "n": 3,
+          "percent": 0.375
+        },
+        {
+          "layer": "dimension",
+          "year": 2024,
+          "denominator": 131,
+          "largest_code": "A",
+          "largest_label": "Design outcome quality",
+          "n": 43,
+          "percent": 0.3282442748091603
+        },
+        {
+          "layer": "dimension",
+          "year": 2025,
+          "denominator": 89,
+          "largest_code": "A",
+          "largest_label": "Design outcome quality",
+          "n": 25,
+          "percent": 0.2808988764044944
+        },
+        {
+          "layer": "dimension",
+          "year": 2025,
+          "denominator": 89,
+          "largest_code": "D",
+          "largest_label": "Human–AI interaction experience",
+          "n": 25,
+          "percent": 0.2808988764044944
+        },
+        {
+          "layer": "dimension",
+          "year": 2026,
+          "denominator": 221,
+          "largest_code": "A",
+          "largest_label": "Design outcome quality",
+          "n": 70,
+          "percent": 0.3167420814479638
+        },
+        {
+          "layer": "indicator",
+          "year": 2022,
+          "denominator": 11,
+          "largest_code": "A5",
+          "largest_label": "Fidelity",
+          "n": 2,
+          "percent": 0.18181818181818182
+        },
+        {
+          "layer": "indicator",
+          "year": 2022,
+          "denominator": 11,
+          "largest_code": "B5",
+          "largest_label": "Process continuity",
+          "n": 2,
+          "percent": 0.18181818181818182
+        },
+        {
+          "layer": "indicator",
+          "year": 2022,
+          "denominator": 11,
+          "largest_code": "D3",
+          "largest_label": "Sense of control",
+          "n": 2,
+          "percent": 0.18181818181818182
+        },
+        {
+          "layer": "indicator",
+          "year": 2023,
+          "denominator": 8,
+          "largest_code": "A1",
+          "largest_label": "Novelty",
+          "n": 1,
+          "percent": 0.125
+        },
+        {
+          "layer": "indicator",
+          "year": 2023,
+          "denominator": 8,
+          "largest_code": "A2",
+          "largest_label": "Aesthetic appeal",
+          "n": 1,
+          "percent": 0.125
+        },
+        {
+          "layer": "indicator",
+          "year": 2023,
+          "denominator": 8,
+          "largest_code": "A3",
+          "largest_label": "Suitability",
+          "n": 1,
+          "percent": 0.125
+        },
+        {
+          "layer": "indicator",
+          "year": 2023,
+          "denominator": 8,
+          "largest_code": "C2",
+          "largest_label": "Knowledge acquisition",
+          "n": 1,
+          "percent": 0.125
+        },
+        {
+          "layer": "indicator",
+          "year": 2023,
+          "denominator": 8,
+          "largest_code": "C4",
+          "largest_label": "Engagement and immersion",
+          "n": 1,
+          "percent": 0.125
+        },
+        {
+          "layer": "indicator",
+          "year": 2023,
+          "denominator": 8,
+          "largest_code": "C5",
+          "largest_label": "Enjoyment",
+          "n": 1,
+          "percent": 0.125
+        },
+        {
+          "layer": "indicator",
+          "year": 2023,
+          "denominator": 8,
+          "largest_code": "D1",
+          "largest_label": "Ease of use",
+          "n": 1,
+          "percent": 0.125
+        },
+        {
+          "layer": "indicator",
+          "year": 2023,
+          "denominator": 8,
+          "largest_code": "D8",
+          "largest_label": "Communication, coordination, conflict and shared understanding",
+          "n": 1,
+          "percent": 0.125
+        },
+        {
+          "layer": "indicator",
+          "year": 2024,
+          "denominator": 131,
+          "largest_code": "C5",
+          "largest_label": "Enjoyment",
+          "n": 13,
+          "percent": 0.09923664122137404
+        },
+        {
+          "layer": "indicator",
+          "year": 2025,
+          "denominator": 88,
+          "largest_code": "A1",
+          "largest_label": "Novelty",
+          "n": 7,
+          "percent": 0.07954545454545454
+        },
+        {
+          "layer": "indicator",
+          "year": 2025,
+          "denominator": 88,
+          "largest_code": "D1",
+          "largest_label": "Ease of use",
+          "n": 7,
+          "percent": 0.07954545454545454
+        },
+        {
+          "layer": "indicator",
+          "year": 2025,
+          "denominator": 88,
+          "largest_code": "D8",
+          "largest_label": "Communication, coordination, conflict and shared understanding",
+          "n": 7,
+          "percent": 0.07954545454545454
+        },
+        {
+          "layer": "indicator",
+          "year": 2026,
+          "denominator": 216,
+          "largest_code": "A3",
+          "largest_label": "Suitability",
+          "n": 20,
+          "percent": 0.09259259259259259
+        },
+        {
+          "layer": "tool",
+          "year": 2022,
+          "denominator": 14,
+          "largest_code": "M2",
+          "largest_label": "Bespoke structured ratings",
+          "n": 6,
+          "percent": 0.42857142857142855
+        },
+        {
+          "layer": "tool",
+          "year": 2023,
+          "denominator": 10,
+          "largest_code": "M1",
+          "largest_label": "Named scales",
+          "n": 6,
+          "percent": 0.6
+        },
+        {
+          "layer": "tool",
+          "year": 2024,
+          "denominator": 151,
+          "largest_code": "M3",
+          "largest_label": "Qualitative verbal elicitation",
+          "n": 43,
+          "percent": 0.2847682119205298
+        },
+        {
+          "layer": "tool",
+          "year": 2025,
+          "denominator": 121,
+          "largest_code": "M4",
+          "largest_label": "Non-scale structured judgments",
+          "n": 38,
+          "percent": 0.3140495867768595
+        },
+        {
+          "layer": "tool",
+          "year": 2026,
+          "denominator": 312,
+          "largest_code": "M2",
+          "largest_label": "Bespoke structured ratings",
+          "n": 119,
+          "percent": 0.3814102564102564
+        }
+      ],
+      "year_convention": "Crossref published date, joined by paper_id"
+    },
+    "intended_width_inches": 7.2,
+    "design_canvas_inches": [
+      7.2,
+      3.65
+    ],
+    "exported_width_inches": 7.1125,
+    "exported_height_inches": 3.521875,
+    "aspect_ratio": 2.0195208518189887,
+    "png_dpi": 320,
+    "files": {
+      "png": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig03_temporal_composition.png",
+      "pdf": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig03_temporal_composition.pdf",
+      "svg": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig03_temporal_composition.svg"
+    },
+    "figure_data_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig03_dimensions_by_year.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig03_indicators_by_year.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig03_paper_publication_years.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig03_papers_by_year.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig03_sensitivity_coded_year_dimensions.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig03_sensitivity_coded_year_tools.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig03_sensitivity_year_conventions.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig03_temporal_summary.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig03_tools_by_year.csv"
+    ]
+  },
+  {
+    "id": "fig04_context_distributions",
+    "kind": "main",
+    "caption": "Contextual distribution of perceived-effect dimensions and tool classes. Colour shows the proportion within each design domain or stage; cell labels give raw counts and column labels give denominators. Records can carry more than one domain or stage, so counts across columns do not sum to the unique-record total. Domain and stage membership are descriptive context labels.",
+    "source_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\rq_review_20261024\\supplement_enhanced_v2\\04_RQ1\\rq1_domain_stage_by_dimension_indicator_tool.csv"
+    ],
+    "findings": {
+      "normalization": "within each context and target layer; multi-label contexts counted in each applicable column"
+    },
+    "intended_width_inches": 7.2,
+    "design_canvas_inches": [
+      7.2,
+      5.65
+    ],
+    "exported_width_inches": 7.071875,
+    "exported_height_inches": 5.575,
+    "aspect_ratio": 1.2684977578475336,
+    "png_dpi": 320,
+    "files": {
+      "png": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig04_context_distributions.png",
+      "pdf": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig04_context_distributions.pdf",
+      "svg": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig04_context_distributions.svg"
+    },
+    "figure_data_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig04_context_distribution.csv"
+    ]
+  },
+  {
+    "id": "fig05_reported_evaluation_quality",
+    "kind": "main",
+    "caption": "Distribution of operational reporting-support codes across 514 candidate records. (a) The seven JCSEE-informed criteria yield 3,598 criterion-by-record codes, including 40 records coded NA for A3. S, P and C denote coded sufficient support, partial support and concern, respectively. NR does not establish that a procedure was omitted in practice. Numbers identify segments large enough to label; exact counts are provided in source data. (b) Analytical tiers derived from the operational codes: the primary subset comprises Q1 and Q2 (63 records), and the expanded subset contains 183 records. Counts represent coded categories, not certification of study methodological quality.",
+    "source_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\rq_review_20261024\\supplement_enhanced_v2\\03_revised_results\\jcsee_chain_audit_supplement_enhanced.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\rq_review_20261024\\supplement_enhanced_v2\\03_revised_results\\evidence_chains_supplement_enhanced.csv"
+    ],
+    "findings": {
+      "statuses": {
+        "S": {
+          "U5": 446,
+          "A2": 44,
+          "A3": 205,
+          "A4": 60,
+          "A6": 191,
+          "A7": 214,
+          "E1": 152
+        },
+        "P": {
+          "U5": 6,
+          "A2": 405,
+          "A3": 7,
+          "A4": 407,
+          "A6": 25,
+          "A7": 2,
+          "E1": 345
+        },
+        "NR": {
+          "U5": 62,
+          "A2": 65,
+          "A3": 262,
+          "A4": 47,
+          "A6": 292,
+          "A7": 292,
+          "E1": 17
+        },
+        "C": {
+          "U5": 0,
+          "A2": 0,
+          "A3": 0,
+          "A4": 0,
+          "A6": 6,
+          "A7": 6,
+          "E1": 0
+        },
+        "NA": {
+          "U5": 0,
+          "A2": 0,
+          "A3": 40,
+          "A4": 0,
+          "A6": 0,
+          "A7": 0,
+          "E1": 0
+        }
+      },
+      "operational_analytical_tiers": {
+        "Q1": 19,
+        "Q2": 44,
+        "Q3": 445,
+        "EXCLUDE": 6
+      },
+      "validation_status": "Detailed coding-validation limitations are recorded in the separate figure QA and author notes."
+    },
+    "intended_width_inches": 7.2,
+    "design_canvas_inches": [
+      7.2,
+      4.1
+    ],
+    "exported_width_inches": 7.365625,
+    "exported_height_inches": 4.115625,
+    "aspect_ratio": 1.7896735003796507,
+    "png_dpi": 320,
+    "files": {
+      "png": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig05_reported_evaluation_quality.png",
+      "pdf": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig05_reported_evaluation_quality.pdf",
+      "svg": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig05_reported_evaluation_quality.svg"
+    },
+    "figure_data_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig05_audit_statuses.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig05_quality_tiers.csv"
+    ]
+  },
+  {
+    "id": "fig06_corrective_model_performance",
+    "kind": "main",
+    "caption": "Predictive analysis in the expanded analytical subset. Results are conditional on the operational eligibility rules and coded records used in this analysis. Fixed, class-balanced L2 logistic regression uses fold-specific encoding, excludes target-derived G4 and uses original evaluator labels for G5. Panels report classification of (a) perceived-effect dimensions, (b) subjective indicators and (c) tool classes. Known evidence means the dimension for indicator prediction, and dimension plus indicator for tool prediction; it is inapplicable to dimension prediction. Points are mean pooled out-of-fold macro-F1 over ten repeated paper-grouped partitions; error bars are the SD across partitions, not confidence intervals for a population effect. Different target layers have different eligible samples and class counts.",
+    "source_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\corrective_analysis\\model_summary.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\corrective_analysis\\run_corrective_analysis.py"
+    ],
+    "findings": {
+      "expanded_dimension_context_f1": 0.1798955711,
+      "expanded_indicator_context_f1": 0.0838359309,
+      "expanded_indicator_known_f1": 0.3153146729,
+      "expanded_indicator_combined_f1": 0.3636358694,
+      "expanded_tool_context_f1": 0.3259814168,
+      "expanded_tool_known_f1": 0.2605421682,
+      "expanded_tool_combined_f1": 0.2999843614
+    },
+    "intended_width_inches": 7.2,
+    "design_canvas_inches": [
+      7.2,
+      3.4
+    ],
+    "exported_width_inches": 6.965625,
+    "exported_height_inches": 3.459375,
+    "aspect_ratio": 2.013550135501355,
+    "png_dpi": 320,
+    "files": {
+      "png": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig06_corrective_model_performance.png",
+      "pdf": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig06_corrective_model_performance.pdf",
+      "svg": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig06_corrective_model_performance.svg"
+    },
+    "figure_data_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig06_corrective_model_results.csv"
+    ]
+  },
+  {
+    "id": "fig07_progressive_evidence_guidance",
+    "kind": "main",
+    "caption": "Proposed interaction structure for progressively disclosed evidence guidance. Users first specify context and then confirm perceived effects, subjective indicators and tools in sequence. Source records and reported support remain inspectable at every step. The diagram expresses the evidence-guidance design; it does not claim that ranking weights are causal, that the recommender is optimal, or that recommendation quality has been independently validated.",
+    "source_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\rq_review_20261024\\supplement_enhanced_v2\\reports\\06_网页推荐器更新建议.md",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\rq_review_20261024\\supplement_enhanced_v2\\06_RQ3\\rq3_recommender_policy.json"
+    ],
+    "findings": {
+      "status": "conceptual interaction structure; avoid treating circular model weights as validated selection rules"
+    },
+    "intended_width_inches": 7.2,
+    "design_canvas_inches": [
+      7.2,
+      5.2
+    ],
+    "exported_width_inches": 7.14375,
+    "exported_height_inches": 5.1,
+    "aspect_ratio": 1.400735294117647,
+    "png_dpi": 320,
+    "files": {
+      "png": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig07_progressive_evidence_guidance.png",
+      "pdf": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig07_progressive_evidence_guidance.pdf",
+      "svg": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\fig07_progressive_evidence_guidance.svg"
+    },
+    "figure_data_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig07_guidance_structure.csv"
+    ]
+  },
+  {
+    "id": "figS01_all_subjective_indicators",
+    "kind": "supplement",
+    "caption": "All 36 predefined subjective-indicator categories, counted among 454 mapped records. Handover efficiency (B6) has zero records. Colours identify the five perceived-effect dimensions. Counts describe coverage in the corpus, not the magnitude of an effect.",
+    "source_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\rq_review_20261024\\supplement_enhanced_v2\\04_RQ1\\rq1_indicator_overall.csv"
+    ],
+    "findings": {
+      "total_records": 454,
+      "predefined_categories": 36,
+      "nonzero_categories": 35
+    },
+    "intended_width_inches": 7.2,
+    "design_canvas_inches": [
+      7.2,
+      6.2
+    ],
+    "exported_width_inches": 6.11875,
+    "exported_height_inches": 6.234375,
+    "aspect_ratio": 0.981453634085213,
+    "png_dpi": 320,
+    "files": {
+      "png": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\figS01_all_subjective_indicators.png",
+      "pdf": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\figS01_all_subjective_indicators.pdf",
+      "svg": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\figS01_all_subjective_indicators.svg"
+    },
+    "figure_data_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\fig02_indicators.csv"
+    ]
+  },
+  {
+    "id": "figS02_distribution_robustness",
+    "kind": "supplement",
+    "caption": "Distributional sensitivity to evidence enrichment. Points compare the baseline and supplement-enhanced corpus for dimensions (432 versus 460 mapped records) and tools (584 versus 608 classified instances). Small changes in aggregate composition do not imply stability of fitted models or individual classification decisions.",
+    "source_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\rq_review_20261024\\supplement_enhanced_v2\\07_robustness_comparison\\pre_post_distribution_comparison.csv"
+    ],
+    "findings": {
+      "max_absolute_percentage_point_change": 0.9215032444123901
+    },
+    "intended_width_inches": 7.2,
+    "design_canvas_inches": [
+      7.2,
+      3.7
+    ],
+    "exported_width_inches": 7.371875,
+    "exported_height_inches": 3.665625,
+    "aspect_ratio": 2.0110826939471442,
+    "png_dpi": 320,
+    "files": {
+      "png": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\figS02_distribution_robustness.png",
+      "pdf": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\figS02_distribution_robustness.pdf",
+      "svg": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\figS02_distribution_robustness.svg"
+    },
+    "figure_data_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\figS02_distribution_robustness.csv"
+    ]
+  },
+  {
+    "id": "figS03_corrective_group_ablations",
+    "kind": "supplement",
+    "caption": "Conditional contribution of context groups in the corrective analysis of the expanded operational-screen subset. This provisional subset is defined by unvalidated automated reporting-support labels, not verified evaluation quality. Values equal macro-F1 for the retained-feature model minus macro-F1 when a single group is removed. The reference is context-only for dimension prediction, and context plus known evidence for indicator and tool prediction. Positive values indicate improved predictive performance when retaining the group; negative values indicate worse performance. Error bars are SDs of paired changes over ten repeated paper-grouped partitions. These model-specific predictive deltas are not causal effects, normalized influence weights or validated recommendation rules. G4 is excluded and G5 uses original evaluator labels.",
+    "source_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\corrective_analysis\\group_ablations.csv"
+    ],
+    "findings": {
+      "strongest_positive_indicator_group": "G2: +0.0263",
+      "strongest_positive_tool_group": "G1: +0.0401",
+      "G7_deltas": "negative for all three target layers"
+    },
+    "intended_width_inches": 7.2,
+    "design_canvas_inches": [
+      7.2,
+      3.5
+    ],
+    "exported_width_inches": 6.565625,
+    "exported_height_inches": 3.259375,
+    "aspect_ratio": 2.0143815915628,
+    "png_dpi": 320,
+    "files": {
+      "png": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\figS03_corrective_group_ablations.png",
+      "pdf": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\figS03_corrective_group_ablations.pdf",
+      "svg": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\figS03_corrective_group_ablations.svg"
+    },
+    "figure_data_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\figS03_corrective_group_ablations.csv"
+    ]
+  },
+  {
+    "id": "figS04_original_g4_diagnostic",
+    "kind": "supplement",
+    "caption": "Diagnostic sensitivity of the original perceived-effect dimension model to G4. Primary and expanded subsets are provisional operational screens defined by unvalidated automated reporting-support labels, not verified high-quality evidence. The original implementation derives the evaluation-object code partly from dimension and indicator codes, introducing target information into this feature. Paired results show the same model with and without G4, using paper-grouped cross-validation. Error bars are standard deviations across folds, not population confidence intervals. Both configurations retain the original G5 recoding, which also used target information; the no-G4 configuration is therefore not leakage-free. These historical diagnostics are superseded by the corrective analysis in Figure 6.",
+    "source_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\rq_review_20261024\\supplement_enhanced_v2\\06_RQ3\\rq3_model_comparison_g1_g7.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\rq_review_20261024\\supplement_enhanced_v2\\06_RQ3\\rq3_dimension_without_g4_sensitivity.csv"
+    ],
+    "findings": {
+      "expanded_random_forest_with_G4": 0.5002116678,
+      "expanded_random_forest_without_G4": 0.111755437,
+      "expanded_best_without_G4": 0.1326414566
+    },
+    "intended_width_inches": 7.2,
+    "design_canvas_inches": [
+      7.2,
+      3.6
+    ],
+    "exported_width_inches": 6.725,
+    "exported_height_inches": 3.3,
+    "aspect_ratio": 2.037878787878788,
+    "png_dpi": 320,
+    "files": {
+      "png": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\figS04_original_g4_diagnostic.png",
+      "pdf": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\figS04_original_g4_diagnostic.pdf",
+      "svg": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figures\\figS04_original_g4_diagnostic.svg"
+    },
+    "figure_data_files": [
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\figS04_all_model_results.csv",
+      "C:\\Users\\Administrator\\Desktop\\review\\outputs\\manuscript_20261029\\figure_data\\figS04_without_g4.csv"
+    ]
+  }
+]

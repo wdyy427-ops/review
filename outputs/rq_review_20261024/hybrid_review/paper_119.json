@@ -1,0 +1,258 @@
+{
+  "paper_id": 119,
+  "title": "Predicting and Explaining Mobile UI Tappability with Vision Modeling and Saliency Analysis",
+  "doi": "10.1145/3491102.3517497",
+  "year": 2022,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D6"
+  ],
+  "stage_codes": [
+    "S2",
+    "S3",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "The paper presents a system to predict and explain mobile UI tappability using vision modeling and saliency analysis. It includes a dataset of crowdworkers' tappability labels and an exploratory evaluation with professional designers.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": "The paper does not collect human subjective evaluations directly; it relies on existing datasets and user studies.",
+  "evaluations": [
+    {
+      "eval_id": "119-E1",
+      "purpose_codes": [
+        "P3",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V4"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3"
+      ],
+      "setting_code": "L2",
+      "design_code": "G1",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K3",
+        "K4",
+        "K5",
+        "K6"
+      ],
+      "constraint_codes": [
+        "Q3",
+        "Q6"
+      ],
+      "sample_n": 1,
+      "sample_description": "11 participants perceived the system as accurate, and 7 remarked how the system would be valuable for evaluating designs as a time-saving alternative to running user studies.",
+      "recruitment": "We recruited 14 participants at a large technology company.",
+      "task": "required to give informed consent before trials.",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "limitation, since many large UI objects inherit a single tappability",
+      "ethics": "required to give informed consent before trials.",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 10,
+          "quote": "11 participants perceived the system as accurate, and 7 remarked how the system would be valuable for evaluating designs as a time-saving alternative to running user studies."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "We explicitly informed participants that both positive and negative feedback would be useful to the design team for mak- ing improvements.",
+          "claim_summary": "We explicitly informed participants that both positive and negative feedback would be useful to the design team for mak- ing improvements.",
+          "claim_type": "C1",
+          "construct_raw": "useful",
+          "indicator_raw": "useful",
+          "item_quote": "Overall, this feedback suggests that the contrasting similar ex- amples, curated based on a specifed UI element, have the potential to provide useful inspiration for designers.",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "After seeing all examples, participants flled out a short survey asking what they thought performed well, needed improvement, and could ft into their design pra；P5 pointed out a trade-of of using our system for evaluation, refecting on its static nature, versus the open-ended format of tra- ditional usability studies: “",
+          "tool_family_codes": [
+            "M1",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To account for this, our new dataset includes 5 crowdworkers’ labels for each UI element, by which we can more reliably estimate user perceptions at scale.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            10,
+            11
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Overall, this feedback suggests that the contrasting similar ex- amples, curated based on a specifed UI element, have the potential to provide useful inspiration for designers.",
+          "claim_summary": "Overall, this feedback suggests that the contrasting similar ex- amples, curated based on a specifed UI element, have the potential to provide useful inspiration for designers.",
+          "claim_type": "C1",
+          "construct_raw": "inspir",
+          "indicator_raw": "inspir",
+          "item_quote": "Overall, this feedback suggests that the contrasting similar ex- amples, curated based on a specifed UI element, have the potential to provide useful inspiration for designers.",
+          "dimension_code": "C",
+          "indicator_code": "C1",
+          "instrument_raw": "After seeing all examples, participants flled out a short survey asking what they thought performed well, needed improvement, and could ft into their design pra；P5 pointed out a trade-of of using our system for evaluation, refecting on its static nature, versus the open-ended format of tra- ditional usability studies: “",
+          "tool_family_codes": [
+            "M1",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To account for this, our new dataset includes 5 crowdworkers’ labels for each UI element, by which we can more reliably estimate user perceptions at scale.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            11
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "quote": "flled out a short survey asking what they thought performed well,"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "quote": "produce reliable tappability predictions of checkbox elements (E.g.,"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "quote": "7.1 Participants & Study Design"
+        },
+        {
+          "standard": "A6",
+          "status": "C",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "C",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "quote": "flled out a short survey asking what they thought performed well,"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\119.pdf"
+}

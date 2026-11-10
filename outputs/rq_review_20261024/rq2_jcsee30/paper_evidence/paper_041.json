@@ -1,0 +1,288 @@
+{
+  "paper_id": 41,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "method": "transparent_fulltext_rule_scan",
+  "standards": {
+    "U1": {
+      "status": "P",
+      "page": 30,
+      "quote": "hree sensory words ‘exquisite’, ‘dynamic’ and ‘luxurious’. All participants had more than 10 years of experience in automotive design or related aca- demic research, ensuring the professionalism and authority of the evaluation. The average scores of the three ",
+      "reason": "全文命中1类可观察报告成分",
+      "quote_validated": 1,
+      "components": 1
+    },
+    "U2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U3": {
+      "status": "P",
+      "page": 6,
+      "quote": "esses. Traditional methods of collecting emotional data mainly rely on questionnaires and focus group discussions, which inevitably have the disadvantages of being highly subjective, time-consuming and labour-intensive. In addition, during the data pr",
+      "reason": "全文命中1类可观察报告成分",
+      "quote_validated": 1,
+      "components": 1
+    },
+    "U4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U5": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U6": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U7": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "U8": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "F4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P1": {
+      "status": "P",
+      "page": 6,
+      "quote": "tropy-AHP in emotion calculation Entropy is a typical objective weighting method based on diversity, which can objectively process information and improve the consistency of decision-making (R. Zhang et al.2023). Wang, Cheng et al. (2024) utilised E",
+      "reason": "全文命中1类可观察报告成分",
+      "quote_validated": 1,
+      "components": 1
+    },
+    "P2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P5": {
+      "status": "P",
+      "page": 2,
+      "quote": "tised through the Entropy-AHP method. Sec- ond, to break free from existing market design limitations, the Stable Diffusion Model (SDM) generates 99 new NEV images, from which a morphological database and deconstruction table are created using morphol",
+      "reason": "全文命中1类可观察报告成分",
+      "quote_validated": 1,
+      "components": 1
+    },
+    "P6": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "P7": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A4": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A5": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A6": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A7": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "A8": {
+      "status": "S",
+      "page": 2,
+      "quote": "tised through the Entropy-AHP method. Sec- ond, to break free from existing market design limitations, the Stable Diffusion Model (SDM) generates 99 new NEV images, from which a morphological database and deconstruction table are created using morphol",
+      "reason": "全文命中2类可观察报告成分",
+      "quote_validated": 1,
+      "components": 2
+    },
+    "E1": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "E2": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    },
+    "E3": {
+      "status": "NR",
+      "page": null,
+      "quote": "",
+      "reason": "全文未定位到可观察报告证据",
+      "quote_validated": 0,
+      "components": 0
+    }
+  }
+}

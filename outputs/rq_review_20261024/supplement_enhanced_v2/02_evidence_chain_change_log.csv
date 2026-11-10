@@ -1,0 +1,36 @@
+﻿paper_id,old_chain_id,new_chain_id,change_type,old_dimension,old_indicator,new_dimension,new_indicator,source,reason
+58,058-E1-C1,REPLACED,replace_unmapped_chain,UNMAPPED,UNMAPPED,multiple,multiple,全文PDF页12; 在线发表页/补充材料线索触发复核,旧链抽取到程序性句子或非工具文本；全文中存在明确题项/评价准则/结果
+75,075-E1-C1,REPLACED,replace_unmapped_chain,UNMAPPED,UNMAPPED,multiple,multiple,全文PDF页7; 在线发表页/补充材料线索触发复核,旧链抽取到程序性句子或非工具文本；全文中存在明确题项/评价准则/结果
+103,103-E1-C1,REPLACED,replace_unmapped_chain,UNMAPPED,UNMAPPED,multiple,multiple,全文PDF页11; 在线发表页/补充材料线索触发复核,旧链抽取到程序性句子或非工具文本；全文中存在明确题项/评价准则/结果
+120,120-E1-C1,REPLACED,replace_unmapped_chain,UNMAPPED,UNMAPPED,multiple,multiple,全文PDF页11; 在线发表页/补充材料线索触发复核,旧链抽取到程序性句子或非工具文本；全文中存在明确题项/评价准则/结果
+37,NONE,037-E1-C1,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,C,C3,全文PDF页12-13;18-19; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+37,NONE,037-E1-C2,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,C,C8,全文PDF页12;19-20; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+37,NONE,037-E1-C3,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,C,C1,全文PDF页12;19-20; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+37,NONE,037-E1-C4,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,C,C2,全文PDF页12;19-20; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+37,NONE,037-E1-C5,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,C,C4,全文PDF页12;20-21; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+37,NONE,037-E1-C6,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,C,C1,全文PDF页12;20-21; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+37,NONE,037-E1-C7,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,C,C4,全文PDF页12;20-21; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+37,NONE,037-E1-C8,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,C,C5,全文PDF页12;20-21; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+37,NONE,037-E1-C9,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,A,A3,全文PDF页12;21-22; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+37,NONE,037-E1-C10,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,A,A1,全文PDF页12;21-22; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+37,NONE,037-E1-C11,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,D,D2,全文PDF页13;20; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+37,NONE,037-E1-C12,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,A,A1,全文PDF页13-17;21-22; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+37,NONE,037-E1-C13,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,A,A3,全文PDF页13-17;21-22; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+37,NONE,037-E1-C14,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,D,D6,全文PDF页13;15-17;22-24; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+37,NONE,037-E1-C15,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,C,C7,全文PDF页13;15-17;23-24; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+58,REPLACED,058-E1-C1,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,D,D2,全文PDF页14; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+58,REPLACED,058-E1-C2,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,B,B1,全文PDF页14-15; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+58,REPLACED,058-E1-C3,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,B,B4,全文PDF页15;20; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+58,REPLACED,058-E1-C4,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,E,E6,全文PDF页15;20; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+58,REPLACED,058-E1-C5,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,D,D8,全文PDF页16;19; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+58,REPLACED,058-E1-C6,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,D,D5,全文PDF页20-21; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+58,REPLACED,058-E1-C7,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,D,D1,全文PDF页16;18;21; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+75,REPLACED,075-E1-C1,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,A,A1,全文PDF页7-13; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+75,REPLACED,075-E1-C2,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,A,A2,全文PDF页7-13; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+75,REPLACED,075-E1-C3,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,E,E7,全文PDF页7-13; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+103,REPLACED,103-E1-C1,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,A,A3,全文PDF页11-12; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+103,REPLACED,103-E1-C2,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,E,E2,全文PDF页11-12; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+120,REPLACED,120-E1-C1,newly_recovered_evidence_chain,UNMAPPED/ABSENT,UNMAPPED/ABSENT,A,A5,全文PDF页10-11; 官方页面/补充材料审查线索,原文存在明确主张—构念—指标—测量—结果对应关系
+122,paper metadata,paper metadata,doi_correction,,,,,Crossref/DOI registration,占位DOI更正为10.1145/3528223.3530056
+103,paper/context,paper/context,context_correction,D2;D3/S1,,D4/S3,,全文研究对象与评价章节,研究对象为室内场景优化，评价为原型/方法测试
+120,paper/context,paper/context,context_correction,UNMAPPED/S1;S2,,D1/S3,,全文研究对象与感知实验章节,研究对象为草图视觉表达，评价为方法原型测试

@@ -1,0 +1,896 @@
+{
+  "paper_id": 42,
+  "title": "DesignManager: An Agent-Powered Copilot for Designers to Integrate AI Design Tools into Creative Workflows",
+  "doi": "10.1145/3730919",
+  "year": 2025,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    5,
+    12,
+    13,
+    14,
+    15,
+    16,
+    19,
+    21,
+    24
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1",
+    "D4"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R1",
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "The paper introduces DesignManager, an AI-powered copilot system for designers to integrate AI tools into their workflows. It includes formative studies, technical evaluations, and an open-ended user study with designers to assess system effectiveness.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "042-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V5"
+      ],
+      "source_codes": [
+        "H1",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G1",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [
+        "Q2",
+        "Q3"
+      ],
+      "sample_n": 1,
+      "sample_description": "All participants reported using at least three different GenAI tools in their current workflow.",
+      "recruitment": "We recruited 8 professional designers (F1-F8) through online design",
+      "task": "tools can simplify, assist, and support specific tasks to enable trans-",
+      "comparator": "",
+      "procedure": "3.2 Procedure",
+      "analysis": "",
+      "actual_results": "2.2.2 Frameworks for Designer-AI Collaboration.Recent research has made significant strides in developing collaborative frameworks for designer-AI interaction in creative design processes.",
+      "limitations": "certain limitations.",
+      "ethics": "pant was asked to remotely sign the informed consent form,",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 5,
+          "quote": "All participants reported using at least three different GenAI tools in their current workflow."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "In summary, our major contributions include: • Through a formative study, we identified designers’ chal- lenges when integrating generative AI tools into their creative design workflows. • We introduced a novel approach that decouples design pro- cess elements and context information, incorporating an agent architecture that functions as an intelligent copilot with deep understanding of design processes. • We implemented and evaluated DesignManager through tech- nical assessments and user studies, demonstrating its effec- tiveness as an intelligent assistant layer that seamlessly inte- grates into designers’ creative workflows.",
+          "claim_summary": "In summary, our major contributions include: • Through a formative study, we identified designers’ chal- lenges when integrating generative AI tools into their creative design workflows. • We introduced a novel approach that decouples design pro- cess elements and context information, incorporating ",
+          "claim_type": "C4",
+          "construct_raw": "creative",
+          "indicator_raw": "creative",
+          "item_quote": "In summary, our major contributions include: • Through a formative study, we identified designers’ chal- lenges when integrating generative AI tools into their creative design workflows. • We introduced a novel approach that decouples design pro- cess elements and context information, incorporating an agent architecture that functions as an intelligent copilot with deep understanding of design processes. • We implemented and evaluated DesignManager through tech- nical assessments and user studies, demonstrating its effec- tiveness as an intelligent assistant layer that seamlessly inte- grates into designers’ creative workflows.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "Then the partici- pant was asked to remotely sign the informed consent form, and fill a demographic survey.；Specifically, upon receiving the user request through the Dialog Box, the system initially utilizes it to perform functionality tag selec- tion and a hybrid ran；In the interviews, we summarized that the assistance design- ers sought focused on mechanisms for: more intuitive use of GenAI tools, exploring and validating s",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "reliability_evidence": "NR",
+          "result_quote": "2.2.2 Frameworks for Designer-AI Collaboration.Recent research has made significant strides in developing collaborative frameworks for designer-AI interaction in creative design processes.",
+          "effect_direction": "NR",
+          "pages": [
+            3,
+            4
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Their role involves: 1) Strategically selecting appropriate AI tools; 2) Antici- pating potential design outcomes; 3) Critically evaluating generated results; 4) Iteratively refining tool parameters.",
+          "claim_summary": "Their role involves: 1) Strategically selecting appropriate AI tools; 2) Antici- pating potential design outcomes; 3) Critically evaluating generated results; 4) Iteratively refining tool parameters.",
+          "claim_type": "C1",
+          "construct_raw": "appropriat",
+          "indicator_raw": "appropriat",
+          "item_quote": "Their role involves: 1) Strategically selecting appropriate AI tools; 2) Antici- pating potential design outcomes; 3) Critically evaluating generated results; 4) Iteratively refining tool parameters.",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "Then the partici- pant was asked to remotely sign the informed consent form, and fill a demographic survey.；Specifically, upon receiving the user request through the Dialog Box, the system initially utilizes it to perform functionality tag selec- tion and a hybrid ran；In the interviews, we summarized that the assistance design- ers sought focused on mechanisms for: more intuitive use of GenAI tools, exploring and validating s",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            5
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "However, existing AI-assisted design systems require designers to learn and adapt to specific interaction syntax (e.g., prompts and parameter sliders), which not only increases cognitive load but also interrupts the natural flow of creative thinking [Wadi- nambiarachchi et al.",
+          "claim_summary": "However, existing AI-assisted design systems require designers to learn and adapt to specific interaction syntax (e.g., prompts and parameter sliders), which not only increases cognitive load but also interrupts the natural flow of creative thinking [Wadi- nambiarachchi et al.",
+          "claim_type": "C1",
+          "construct_raw": "effort",
+          "indicator_raw": "effort",
+          "item_quote": "[2024] specifically focused on design space exploration, propos- ing the Prompting for Design Space approach to help users effort- lessly explore, evaluate, and incorporate diverse AI-generated re- sponses.",
+          "dimension_code": "B",
+          "indicator_code": "B2",
+          "instrument_raw": "Then the partici- pant was asked to remotely sign the informed consent form, and fill a demographic survey.；Specifically, upon receiving the user request through the Dialog Box, the system initially utilizes it to perform functionality tag selec- tion and a hybrid ran；In the interviews, we summarized that the assistance design- ers sought focused on mechanisms for: more intuitive use of GenAI tools, exploring and validating s",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3,
+            4
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "In summary, our major contributions include: • Through a formative study, we identified designers’ chal- lenges when integrating generative AI tools into their creative design workflows. • We introduced a novel approach that decouples design pro- cess elements and context information, incorporating an agent architecture that functions as an intelligent copilot with deep understanding of design processes. • We implemented and evaluated DesignManager through tech- nical assessments and user studies, demonstrating its effec- tiveness as an intelligent assistant layer that seamlessly inte- grates into designers’ creative workflows.",
+          "claim_summary": "In summary, our major contributions include: • Through a formative study, we identified designers’ chal- lenges when integrating generative AI tools into their creative design workflows. • We introduced a novel approach that decouples design pro- cess elements and context information, incorporating ",
+          "claim_type": "C4",
+          "construct_raw": "flow",
+          "indicator_raw": "flow",
+          "item_quote": "In summary, our major contributions include: • Through a formative study, we identified designers’ chal- lenges when integrating generative AI tools into their creative design workflows. • We introduced a novel approach that decouples design pro- cess elements and context information, incorporating an agent architecture that functions as an intelligent copilot with deep understanding of design processes. • We implemented and evaluated DesignManager through tech- nical assessments and user studies, demonstrating its effec- tiveness as an intelligent assistant layer that seamlessly inte- grates into designers’ creative workflows.",
+          "dimension_code": "B",
+          "indicator_code": "B5",
+          "instrument_raw": "Then the partici- pant was asked to remotely sign the informed consent form, and fill a demographic survey.；Specifically, upon receiving the user request through the Dialog Box, the system initially utilizes it to perform functionality tag selec- tion and a hybrid ran；In the interviews, we summarized that the assistance design- ers sought focused on mechanisms for: more intuitive use of GenAI tools, exploring and validating s",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "reliability_evidence": "NR",
+          "result_quote": "All participants reported using at least three different GenAI tools in their current workflow.",
+          "effect_direction": "NR",
+          "pages": [
+            3,
+            5
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "In summary, our major contributions include: • Through a formative study, we identified designers’ chal- lenges when integrating generative AI tools into their creative design workflows. • We introduced a novel approach that decouples design pro- cess elements and context information, incorporating an agent architecture that functions as an intelligent copilot with deep understanding of design processes. • We implemented and evaluated DesignManager through tech- nical assessments and user studies, demonstrating its effec- tiveness as an intelligent assistant layer that seamlessly inte- grates into designers’ creative workflows.",
+          "claim_summary": "In summary, our major contributions include: • Through a formative study, we identified designers’ chal- lenges when integrating generative AI tools into their creative design workflows. • We introduced a novel approach that decouples design pro- cess elements and context information, incorporating ",
+          "claim_type": "C4",
+          "construct_raw": "understanding",
+          "indicator_raw": "understanding",
+          "item_quote": "In summary, our major contributions include: • Through a formative study, we identified designers’ chal- lenges when integrating generative AI tools into their creative design workflows. • We introduced a novel approach that decouples design pro- cess elements and context information, incorporating an agent architecture that functions as an intelligent copilot with deep understanding of design processes. • We implemented and evaluated DesignManager through tech- nical assessments and user studies, demonstrating its effec- tiveness as an intelligent assistant layer that seamlessly inte- grates into designers’ creative workflows.",
+          "dimension_code": "C",
+          "indicator_code": "C2",
+          "instrument_raw": "Then the partici- pant was asked to remotely sign the informed consent form, and fill a demographic survey.；Specifically, upon receiving the user request through the Dialog Box, the system initially utilizes it to perform functionality tag selec- tion and a hybrid ran；In the interviews, we summarized that the assistance design- ers sought focused on mechanisms for: more intuitive use of GenAI tools, exploring and validating s",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "To ensure data quality while managing participant fatigue, we incorporated short breaks between sections and monitored partici- pants’ engagement throughout the session.",
+          "claim_summary": "To ensure data quality while managing participant fatigue, we incorporated short breaks between sections and monitored partici- pants’ engagement throughout the session.",
+          "claim_type": "C1",
+          "construct_raw": "engagement",
+          "indicator_raw": "engagement",
+          "item_quote": "To ensure data quality while managing participant fatigue, we incorporated short breaks between sections and monitored partici- pants’ engagement throughout the session.",
+          "dimension_code": "C",
+          "indicator_code": "C4",
+          "instrument_raw": "Then the partici- pant was asked to remotely sign the informed consent form, and fill a demographic survey.；Specifically, upon receiving the user request through the Dialog Box, the system initially utilizes it to perform functionality tag selec- tion and a hybrid ran；In the interviews, we summarized that the assistance design- ers sought focused on mechanisms for: more intuitive use of GenAI tools, exploring and validating s",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            5
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "In summary, our major contributions include: • Through a formative study, we identified designers’ chal- lenges when integrating generative AI tools into their creative design workflows. • We introduced a novel approach that decouples design pro- cess elements and context information, incorporating an agent architecture that functions as an intelligent copilot with deep understanding of design processes. • We implemented and evaluated DesignManager through tech- nical assessments and user studies, demonstrating its effec- tiveness as an intelligent assistant layer that seamlessly inte- grates into designers’ creative workflows.",
+          "claim_summary": "In summary, our major contributions include: • Through a formative study, we identified designers’ chal- lenges when integrating generative AI tools into their creative design workflows. • We introduced a novel approach that decouples design pro- cess elements and context information, incorporating ",
+          "claim_type": "C4",
+          "construct_raw": "fun",
+          "indicator_raw": "fun",
+          "item_quote": "In summary, our major contributions include: • Through a formative study, we identified designers’ chal- lenges when integrating generative AI tools into their creative design workflows. • We introduced a novel approach that decouples design pro- cess elements and context information, incorporating an agent architecture that functions as an intelligent copilot with deep understanding of design processes. • We implemented and evaluated DesignManager through tech- nical assessments and user studies, demonstrating its effec- tiveness as an intelligent assistant layer that seamlessly inte- grates into designers’ creative workflows.",
+          "dimension_code": "C",
+          "indicator_code": "C5",
+          "instrument_raw": "Then the partici- pant was asked to remotely sign the informed consent form, and fill a demographic survey.；Specifically, upon receiving the user request through the Dialog Box, the system initially utilizes it to perform functionality tag selec- tion and a hybrid ran；In the interviews, we summarized that the assistance design- ers sought focused on mechanisms for: more intuitive use of GenAI tools, exploring and validating s",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "To bridge this gap between understanding interactions with isolated GenAI tools and their impact on the complete design work- flow, we conducted a formative study focusing on the control of creative design process, examining how designers integrate GenAI tools into their creative processes and what challenges they are facing.",
+          "claim_summary": "To bridge this gap between understanding interactions with isolated GenAI tools and their impact on the complete design work- flow, we conducted a formative study focusing on the control of creative design process, examining how designers integrate GenAI tools into their creative processes and what ",
+          "claim_type": "C4",
+          "construct_raw": "control",
+          "indicator_raw": "control",
+          "item_quote": "He mentioned saving all interme- diate results and switching between platforms with different control granularity for targeted modifications (e.g., using Midjourney to generate the base image, using ControlNet in SD WebUI for con- trolled transformation, and using the canvas in InvokeAI for local inpainting), and integrating them to achieve satisfactory results.",
+          "dimension_code": "D",
+          "indicator_code": "D3",
+          "instrument_raw": "Then the partici- pant was asked to remotely sign the informed consent form, and fill a demographic survey.；Specifically, upon receiving the user request through the Dialog Box, the system initially utilizes it to perform functionality tag selec- tion and a hybrid ran；In the interviews, we summarized that the assistance design- ers sought focused on mechanisms for: more intuitive use of GenAI tools, exploring and validating s",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            4,
+            5
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "In summary, our major contributions include: • Through a formative study, we identified designers’ chal- lenges when integrating generative AI tools into their creative design workflows. • We introduced a novel approach that decouples design pro- cess elements and context information, incorporating an agent architecture that functions as an intelligent copilot with deep understanding of design processes. • We implemented and evaluated DesignManager through tech- nical assessments and user studies, demonstrating its effec- tiveness as an intelligent assistant layer that seamlessly inte- grates into designers’ creative workflows.",
+          "claim_summary": "In summary, our major contributions include: • Through a formative study, we identified designers’ chal- lenges when integrating generative AI tools into their creative design workflows. • We introduced a novel approach that decouples design pro- cess elements and context information, incorporating ",
+          "claim_type": "C4",
+          "construct_raw": "contribution",
+          "indicator_raw": "contribution",
+          "item_quote": "In summary, our major contributions include: • Through a formative study, we identified designers’ chal- lenges when integrating generative AI tools into their creative design workflows. • We introduced a novel approach that decouples design pro- cess elements and context information, incorporating an agent architecture that functions as an intelligent copilot with deep understanding of design processes. • We implemented and evaluated DesignManager through tech- nical assessments and user studies, demonstrating its effec- tiveness as an intelligent assistant layer that seamlessly inte- grates into designers’ creative workflows.",
+          "dimension_code": "D",
+          "indicator_code": "D7",
+          "instrument_raw": "Then the partici- pant was asked to remotely sign the informed consent form, and fill a demographic survey.；Specifically, upon receiving the user request through the Dialog Box, the system initially utilizes it to perform functionality tag selec- tion and a hybrid ran；In the interviews, we summarized that the assistance design- ers sought focused on mechanisms for: more intuitive use of GenAI tools, exploring and validating s",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "This misalignment is particularly evident when compared to ad- vances in adjacent fields such as software development, where LLM- based AI agents function as comprehensive collaborators rather than narrowly-defined tools [Jin et al.",
+          "claim_summary": "This misalignment is particularly evident when compared to ad- vances in adjacent fields such as software development, where LLM- based AI agents function as comprehensive collaborators rather than narrowly-defined tools [Jin et al.",
+          "claim_type": "C2",
+          "construct_raw": "collaborat",
+          "indicator_raw": "collaborat",
+          "item_quote": "When collaborating with hu- mans, designers can express creative intent, discuss modifications, and explore design possibilities through natural dialogue [Chen et al.",
+          "dimension_code": "D",
+          "indicator_code": "D8",
+          "instrument_raw": "Then the partici- pant was asked to remotely sign the informed consent form, and fill a demographic survey.；Specifically, upon receiving the user request through the Dialog Box, the system initially utilizes it to perform functionality tag selec- tion and a hybrid ran；In the interviews, we summarized that the assistance design- ers sought focused on mechanisms for: more intuitive use of GenAI tools, exploring and validating s",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "reliability_evidence": "NR",
+          "result_quote": "2.2.2 Frameworks for Designer-AI Collaboration.Recent research has made significant strides in developing collaborative frameworks for designer-AI interaction in creative design processes.",
+          "effect_direction": "NR",
+          "pages": [
+            3,
+            4
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "quote": "This study aims to reveal not only just tool or design stage-"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "quote": "lenges when integrating generative AI tools into their creative"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "quote": "3.1 Participants"
+        },
+        {
+          "standard": "A6",
+          "status": "C",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "C",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "quote": "2.2.2 Frameworks for Designer-AI Collaboration.Recent research has made significant strides in developing collaborative frameworks for designer-AI interaction in creative design processes."
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "quote": "lenges when integrating generative AI tools into their creative"
+        }
+      ]
+    },
+    {
+      "eval_id": "042-E2",
+      "purpose_codes": [
+        "P2",
+        "P1"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V3",
+        "V5"
+      ],
+      "source_codes": [
+        "H1",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G8",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [
+        "Q2",
+        "Q3"
+      ],
+      "sample_n": 795,
+      "sample_description": "All participants completed the open-ended free creation tasks and experienced the system’s functions.",
+      "recruitment": "",
+      "task": "tasks.",
+      "comparator": "Baseline 44.185606 46.500 22.2500 63.6875 25.664292 ———————— ———————— ————————",
+      "procedure": "7.1 Participants, Tasks and Procedure",
+      "analysis": "T-test results of how different conditions influence the scores of Q1-Q4.",
+      "actual_results": "Question Condition Mean Standard Deviation T statistics P value Cohen’s d Q1: The system’s ability to accurately comprehend user requirements Base 52.939 30.14 ———————— ———————— ———————— +DET 65.97 19.585 -2.468 0.015* 0.43 +HI 55.379 32.534 -0.447 0.656 0.078 +DR75.34832.534 -5.065 0.000*** 0.882 Q2: The system’s capability to correctly perceive and recognize the current design process Base 39.894 30.465 ———————— ———————— ———————— +DET 62.621 31.728 -4.198 0.000*** 0.731 +HI 41.712 30.646 -0.342 0.733 0.06 +DR63.51523.356 -4.999 0.000*** 0.87 Q3: The logical coherence and persuasiveness of the system’s recommendations Base 41.394 27.282 ———————— ———————— ———————— +DET 56.833 29.947 -3.096 0",
+      "limitations": "8.4 Limitations and Future Work",
+      "ethics": "The formal experiment began with a 5-minute informed consent",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 15,
+          "quote": "All participants completed the open-ended free creation tasks and experienced the system’s functions."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "claim_summary": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to co",
+          "claim_type": "C4",
+          "construct_raw": "capability",
+          "indicator_raw": "capability",
+          "item_quote": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "dimension_code": "C",
+          "indicator_code": "C8",
+          "instrument_raw": "Then the partici- pant was asked to remotely sign the informed consent form, and fill a demographic survey.；Specifically, upon receiving the user request through the Dialog Box, the system initially utilizes it to perform functionality tag selec- tion and a hybrid ran；In the interviews, we summarized that the assistance design- ers sought focused on mechanisms for: more intuitive use of GenAI tools, exploring and validating s",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "reliability_evidence": "NR",
+          "result_quote": "Question Condition Mean Standard Deviation T statistics P value Cohen’s d Q1: The system’s ability to accurately comprehend user requirements Base 52.939 30.14 ———————— ———————— ———————— +DET 65.97 19.585 -2.468 0.015* 0.43 +HI 55.379 32.534 -0.447 0.656 0.078 +DR75.34832.534 -5.065 0.000*** 0.882 Q2: The system’s capability to correctly perceive and recognize the current design process Base 39.894 30.465 ———————— ———————— ———————— +DET 62.621 31.728 -4.198 0.000*** 0.731 +HI 41.712 30.646 -0.342 0.733 0.06 +DR63.51523.356 -4.999 0.000*** 0.87 Q3: The logical coherence and persuasiveness of the system’s recommendations Base 41.394 27.282 ———————— ———————— ———————— +DET 56.833 29.947 -3.096 0",
+          "effect_direction": "NR",
+          "pages": [
+            12,
+            13
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "claim_summary": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to co",
+          "claim_type": "C4",
+          "construct_raw": "user requirement",
+          "indicator_raw": "user requirement",
+          "item_quote": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "dimension_code": "E",
+          "indicator_code": "E2",
+          "instrument_raw": "Then the partici- pant was asked to remotely sign the informed consent form, and fill a demographic survey.；Specifically, upon receiving the user request through the Dialog Box, the system initially utilizes it to perform functionality tag selec- tion and a hybrid ran；In the interviews, we summarized that the assistance design- ers sought focused on mechanisms for: more intuitive use of GenAI tools, exploring and validating s",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "reliability_evidence": "NR",
+          "result_quote": "Question Condition Mean Standard Deviation T statistics P value Cohen’s d Q1: The system’s ability to accurately comprehend user requirements Base 52.939 30.14 ———————— ———————— ———————— +DET 65.97 19.585 -2.468 0.015* 0.43 +HI 55.379 32.534 -0.447 0.656 0.078 +DR75.34832.534 -5.065 0.000*** 0.882 Q2: The system’s capability to correctly perceive and recognize the current design process Base 39.894 30.465 ———————— ———————— ———————— +DET 62.621 31.728 -4.198 0.000*** 0.731 +HI 41.712 30.646 -0.342 0.733 0.06 +DR63.51523.356 -4.999 0.000*** 0.87 Q3: The logical coherence and persuasiveness of the system’s recommendations Base 41.394 27.282 ———————— ———————— ———————— +DET 56.833 29.947 -3.096 0",
+          "effect_direction": "NR",
+          "pages": [
+            12,
+            13
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "bound of scores and reduces the likelihood of low ratings."
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "Scoring process of each participant."
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "T-test results of how different conditions influence the scores of Q1-Q4."
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "Question Condition Mean Standard Deviation T statistics P value Cohen’s d Q1: The system’s ability to accurately comprehend user requirements Base 52.939 30.14 ———————— ———————— ———————— +DET 65.97 19.585 -2.468 0.015* 0.43 +HI 55.379 32.534 -0.447 0.656 0.078 +DR75.34832.534 -5.065 0.000*** 0.882 Q2: The system’s capability to correctly perceive a"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "bound of scores and reduces the likelihood of low ratings."
+        }
+      ]
+    },
+    {
+      "eval_id": "042-E3",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2",
+        "V3"
+      ],
+      "source_codes": [
+        "H2",
+        "H3",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G7",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 795,
+      "sample_description": "Each sample included the existing design process presented in the Canvas, the complete dialog records, the user’s most recent input, and the system’s responses.",
+      "recruitment": "quire a high level of professional expertise, we recruited 20 graduate",
+      "task": "and only retain design tools whose tags match the current task",
+      "comparator": "Baseline 44.185606 46.500 22.2500 63.6875 25.664292 ———————— ———————— ————————",
+      "procedure": "",
+      "analysis": "We first tested data normality using the",
+      "actual_results": "Question Condition Mean Standard Deviation T statistics P value Cohen’s d Q1: The system’s ability to accurately comprehend user requirements Base 52.939 30.14 ———————— ———————— ———————— +DET 65.97 19.585 -2.468 0.015* 0.43 +HI 55.379 32.534 -0.447 0.656 0.078 +DR75.34832.534 -5.065 0.000*** 0.882 Q2: The system’s capability to correctly perceive and recognize the current design process Base 39.894 30.465 ———————— ———————— ———————— +DET 62.621 31.728 -4.198 0.000*** 0.731 +HI 41.712 30.646 -0.342 0.733 0.06 +DR63.51523.356 -4.999 0.000*** 0.87 Q3: The logical coherence and persuasiveness of the system’s recommendations Base 41.394 27.282 ———————— ———————— ———————— +DET 56.833 29.947 -3.096 0",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 12,
+          "quote": "Each sample included the existing design process presented in the Canvas, the complete dialog records, the user’s most recent input, and the system’s responses."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "claim_summary": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to co",
+          "claim_type": "C4",
+          "construct_raw": "capability",
+          "indicator_raw": "capability",
+          "item_quote": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "dimension_code": "C",
+          "indicator_code": "C8",
+          "instrument_raw": "Then the partici- pant was asked to remotely sign the informed consent form, and fill a demographic survey.；Specifically, upon receiving the user request through the Dialog Box, the system initially utilizes it to perform functionality tag selec- tion and a hybrid ran；In the interviews, we summarized that the assistance design- ers sought focused on mechanisms for: more intuitive use of GenAI tools, exploring and validating s",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "reliability_evidence": "NR",
+          "result_quote": "Question Condition Mean Standard Deviation T statistics P value Cohen’s d Q1: The system’s ability to accurately comprehend user requirements Base 52.939 30.14 ———————— ———————— ———————— +DET 65.97 19.585 -2.468 0.015* 0.43 +HI 55.379 32.534 -0.447 0.656 0.078 +DR75.34832.534 -5.065 0.000*** 0.882 Q2: The system’s capability to correctly perceive and recognize the current design process Base 39.894 30.465 ———————— ———————— ———————— +DET 62.621 31.728 -4.198 0.000*** 0.731 +HI 41.712 30.646 -0.342 0.733 0.06 +DR63.51523.356 -4.999 0.000*** 0.87 Q3: The logical coherence and persuasiveness of the system’s recommendations Base 41.394 27.282 ———————— ———————— ———————— +DET 56.833 29.947 -3.096 0",
+          "effect_direction": "NR",
+          "pages": [
+            12,
+            13
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "claim_summary": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to co",
+          "claim_type": "C4",
+          "construct_raw": "user requirement",
+          "indicator_raw": "user requirement",
+          "item_quote": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "dimension_code": "E",
+          "indicator_code": "E2",
+          "instrument_raw": "Then the partici- pant was asked to remotely sign the informed consent form, and fill a demographic survey.；Specifically, upon receiving the user request through the Dialog Box, the system initially utilizes it to perform functionality tag selec- tion and a hybrid ran；In the interviews, we summarized that the assistance design- ers sought focused on mechanisms for: more intuitive use of GenAI tools, exploring and validating s",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "6.1 Evaluation Framework 6.1.1 Evaluation Objectives.Based on the system’s core functional- ities, we evaluate its performance across four dimensions: • Intent Understanding (Q1):The system’s ability to accu- rately comprehend user requirements. • Process Awareness (Q2):The system’s capability to cor- rectly perceive and recognize the current design process. • Suggestion Validity (Q3):The logical coherence and per- suasiveness of the system’s recommendations. • Tool Recommendation Effectiveness (Q4):The utility of recommended design tools in addressing user needs.",
+          "reliability_evidence": "NR",
+          "result_quote": "Question Condition Mean Standard Deviation T statistics P value Cohen’s d Q1: The system’s ability to accurately comprehend user requirements Base 52.939 30.14 ———————— ———————— ———————— +DET 65.97 19.585 -2.468 0.015* 0.43 +HI 55.379 32.534 -0.447 0.656 0.078 +DR75.34832.534 -5.065 0.000*** 0.882 Q2: The system’s capability to correctly perceive and recognize the current design process Base 39.894 30.465 ———————— ———————— ———————— +DET 62.621 31.728 -4.198 0.000*** 0.731 +HI 41.712 30.646 -0.342 0.733 0.06 +DR63.51523.356 -4.999 0.000*** 0.87 Q3: The logical coherence and persuasiveness of the system’s recommendations Base 41.394 27.282 ———————— ———————— ———————— +DET 56.833 29.947 -3.096 0",
+          "effect_direction": "NR",
+          "pages": [
+            12,
+            13
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": "v𝑞 ·v𝑡 /∥v𝑞 ∥ ∥v𝑡 ∥, scaled to [0, 1], while Frequency(𝑡) is the normal-"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": "yielding 240 samples for evaluation."
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": "We first tested data normality using the"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": "Question Condition Mean Standard Deviation T statistics P value Cohen’s d Q1: The system’s ability to accurately comprehend user requirements Base 52.939 30.14 ———————— ———————— ———————— +DET 65.97 19.585 -2.468 0.015* 0.43 +HI 55.379 32.534 -0.447 0.656 0.078 +DR75.34832.534 -5.065 0.000*** 0.882 Q2: The system’s capability to correctly perceive a"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": "v𝑞 ·v𝑡 /∥v𝑞 ∥ ∥v𝑡 ∥, scaled to [0, 1], while Frequency(𝑡) is the normal-"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\42.pdf"
+}

@@ -1,0 +1,328 @@
+{
+  "paper_id": 49,
+  "title": "How Good Is ChatGPT in Giving Advice on Your Visualization Design?",
+  "doi": "10.1145/3745768",
+  "year": 2025,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    21,
+    22,
+    23,
+    25,
+    27,
+    28,
+    30
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1",
+    "D6"
+  ],
+  "stage_codes": [
+    "S2"
+  ],
+  "ai_function_codes": [
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U5",
+    "U1"
+  ],
+  "context_summary": "This study evaluates ChatGPT's ability to provide visualization design advice by comparing its responses to human experts. It includes both quantitative and qualitative methods, involving user studies with practitioners who provided feedback on their visualizations.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "049-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2",
+        "V4"
+      ],
+      "source_codes": [
+        "H1",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G2",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [
+        "Q3",
+        "Q6"
+      ],
+      "sample_n": 12,
+      "sample_description": "Most study participants preferred discussing with Human experts, valuing their ability to engage in fluid conversations and provide tailored recommendations.",
+      "recruitment": "4.1 Recruitment",
+      "task": "Participants were asked to bring their visualizations and",
+      "comparator": "more realistic knowledge baseline, while RQ2 centers on the qualitative experience of receiving",
+      "procedure": "Participants were asked to bring their visualizations and",
+      "analysis": "ChatGPT 3.5 (p < 0.001) and Humans (p < 0.001).",
+      "actual_results": "This preference was underscored by statistically significant distinctions, as determined through two-tailed Mann-Whitney U tests (1: strongly disagree to 5: strongly agree).",
+      "limitations": "acknowledging its limitations in deeper contextual understanding and its lack of critical feedback.",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 3,
+          "quote": "Most study participants preferred discussing with Human experts, valuing their ability to engage in fluid conversations and provide tailored recommendations."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Is this an appropriate visualization for demonstrating ___?P19 Color heatmaps Would another color map be more suitable?",
+          "claim_summary": "Is this an appropriate visualization for demonstrating ___?P19 Color heatmaps Would another color map be more suitable?",
+          "claim_type": "C1",
+          "construct_raw": "appropriat",
+          "indicator_raw": "appropriat",
+          "item_quote": "Is this an appropriate visualization for demonstrating ___?P19 Color heatmaps Would another color map be more suitable?",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "Initially, 41 individuals responded to the recruitment survey, from which we selected 12 participants to take part in the study.；As a result, we conducted a comparative interview study involving feedback sessions withChatGPT and Human experts.；3.4.2 Further Observations in Human and ChatGPT Responses.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "This preference was underscored by statistically significant distinctions, as determined through two-tailed Mann-Whitney U tests (1: strongly disagree to 5: strongly agree).",
+          "validity_evidence": "NR",
+          "reliability_evidence": "Initially, two researchers independently examined three interview transcripts, identifying interesting quotes and assigning meaningful themes.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            15
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "This preference was underscored by statistically significant distinctions, as determined through two-tailed Mann-Whitney U tests (1: strongly disagree to 5: strongly agree).",
+          "claim_summary": "This preference was underscored by statistically significant distinctions, as determined through two-tailed Mann-Whitney U tests (1: strongly disagree to 5: strongly agree).",
+          "claim_type": "C1",
+          "construct_raw": "preference",
+          "indicator_raw": "preference",
+          "item_quote": "This preference was underscored by statistically significant distinctions, as determined through two-tailed Mann-Whitney U tests (1: strongly disagree to 5: strongly agree).",
+          "dimension_code": "E",
+          "indicator_code": "E1",
+          "instrument_raw": "Initially, 41 individuals responded to the recruitment survey, from which we selected 12 participants to take part in the study.；As a result, we conducted a comparative interview study involving feedback sessions withChatGPT and Human experts.；3.4.2 Further Observations in Human and ChatGPT Responses.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "This preference was underscored by statistically significant distinctions, as determined through two-tailed Mann-Whitney U tests (1: strongly disagree to 5: strongly agree).",
+          "validity_evidence": "NR",
+          "reliability_evidence": "Initially, two researchers independently examined three interview transcripts, identifying interesting quotes and assigning meaningful themes.",
+          "result_quote": "This preference was underscored by statistically significant distinctions, as determined through two-tailed Mann-Whitney U tests (1: strongly disagree to 5: strongly agree).",
+          "effect_direction": "NR",
+          "pages": [
+            16
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Inclusion criteria required proficiency in English, experi- ence in data visualization creation, and a willingness to share at least one of their data visualizations.",
+          "claim_summary": "Inclusion criteria required proficiency in English, experi- ence in data visualization creation, and a willingness to share at least one of their data visualizations.",
+          "claim_type": "C1",
+          "construct_raw": "Inclusion",
+          "indicator_raw": "Inclusion",
+          "item_quote": "Inclusion criteria required proficiency in English, experi- ence in data visualization creation, and a willingness to share at least one of their data visualizations.",
+          "dimension_code": "E",
+          "indicator_code": "E5",
+          "instrument_raw": "Initially, 41 individuals responded to the recruitment survey, from which we selected 12 participants to take part in the study.；As a result, we conducted a comparative interview study involving feedback sessions withChatGPT and Human experts.；3.4.2 Further Observations in Human and ChatGPT Responses.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "This preference was underscored by statistically significant distinctions, as determined through two-tailed Mann-Whitney U tests (1: strongly disagree to 5: strongly agree).",
+          "validity_evidence": "NR",
+          "reliability_evidence": "Initially, two researchers independently examined three interview transcripts, identifying interesting quotes and assigning meaningful themes.",
+          "result_quote": "It is worth noting that no significant differences were observed in responses to questions related to the clarity and conciseness of explanations, concerns about potential biases, or perceived risks of receiving misleading information.",
+          "effect_direction": "无显著差异",
+          "pages": [
+            14,
+            16
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "formulated two followingresearch questions (RQs) to guide our investigation:"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "language models such asChatGPT, with their vast internet-scale training data, offer transformative potential"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "accurate (* = 113.5, p < 0.05), helpful (* = 110.0, p < 0.05), reliable (* = 128.5, p < 0.05), and"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "Participants were asked to bring their visualizations and"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "ChatGPT 3.5 (p < 0.001) and Humans (p < 0.001)."
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "This preference was underscored by statistically significant distinctions, as determined through two-tailed Mann-Whitney U tests (1: strongly disagree to 5: strongly agree)."
+        },
+        {
+          "standard": "E1",
+          "status": "S",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "language models such asChatGPT, with their vast internet-scale training data, offer transformative potential"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\49.pdf"
+}

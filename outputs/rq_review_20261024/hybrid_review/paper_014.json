@@ -1,0 +1,50 @@
+{
+  "paper_id": 14,
+  "title": "From imprecision to precision in virtual reality: a machine learning approach to parametric CAD modelling",
+  "doi": "10.1080/09544828.2026.2616581",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    6,
+    12,
+    13,
+    14,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2",
+    "D4"
+  ],
+  "stage_codes": [
+    "S2",
+    "S3",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F4"
+  ],
+  "ai_role_codes": [],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "The paper proposes a machine learning approach to convert imprecise VR user inputs into CAD-compatible formats. It involves creating an integrated toolchain of ML, VR, and CAD, and uses VR-based sculpting as an exemplar design tool. The system is tested on a dataset of imperfect voxel-based representations of CAD features.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": "The paper does not collect human subjective evaluations, but rather presents technical results and performance metrics of the ML model.",
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\14.pdf"
+}

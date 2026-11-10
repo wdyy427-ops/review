@@ -1,0 +1,55 @@
+{
+  "paper_id": 98,
+  "title": "HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design",
+  "doi": "10.1145/3678518",
+  "year": 2024,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    10,
+    13,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D3"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F3",
+    "F4",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R1",
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "HAIGEN is a Human-AI collaboration system for fashion design, integrating cloud and local models to enhance design efficiency and privacy. It includes modules for text-to-image generation, sketch creation, and style transfer.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": "No exclusion facts provided.",
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\98.pdf"
+}

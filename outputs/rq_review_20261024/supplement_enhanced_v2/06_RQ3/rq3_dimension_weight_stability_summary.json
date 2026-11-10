@@ -1,0 +1,20 @@
+{
+  "target": "dimension",
+  "model": "随机森林",
+  "n": 183,
+  "papers": 43,
+  "classes": 5,
+  "repeats": 20,
+  "folds_per_repeat": 5,
+  "permutations_per_group_fold": 10,
+  "full_macro_f1_mean": 0.5027893719441954,
+  "full_macro_f1_ci": [
+    0.49624740548982116,
+    0.5090756763058296
+  ],
+  "robust_positive_groups": [
+    "G1_评价目的",
+    "G4_评价对象"
+  ],
+  "model_selection": "补充材料增强后的扩展规范集，按单次论文分组CV Macro-F1选择的最佳非基线模型"
+}

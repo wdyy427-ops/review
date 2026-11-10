@@ -1,0 +1,26 @@
+﻿unit,year,year_convention,code,label,n,denominator,percent
+evidence_chain,2022,Crossref published,A,Design outcome quality,3,11,0.2727272727272727
+evidence_chain,2022,Crossref published,B,Design process quality,3,11,0.2727272727272727
+evidence_chain,2022,Crossref published,C,"Designer cognition, affect and capabilities",1,11,0.09090909090909091
+evidence_chain,2022,Crossref published,D,Human–AI interaction experience,2,11,0.18181818181818182
+evidence_chain,2022,Crossref published,E,Social and contextual value,2,11,0.18181818181818182
+evidence_chain,2023,Crossref published,A,Design outcome quality,3,8,0.375
+evidence_chain,2023,Crossref published,B,Design process quality,0,8,0.0
+evidence_chain,2023,Crossref published,C,"Designer cognition, affect and capabilities",3,8,0.375
+evidence_chain,2023,Crossref published,D,Human–AI interaction experience,2,8,0.25
+evidence_chain,2023,Crossref published,E,Social and contextual value,0,8,0.0
+evidence_chain,2024,Crossref published,A,Design outcome quality,43,131,0.3282442748091603
+evidence_chain,2024,Crossref published,B,Design process quality,10,131,0.07633587786259542
+evidence_chain,2024,Crossref published,C,"Designer cognition, affect and capabilities",34,131,0.2595419847328244
+evidence_chain,2024,Crossref published,D,Human–AI interaction experience,25,131,0.19083969465648856
+evidence_chain,2024,Crossref published,E,Social and contextual value,19,131,0.1450381679389313
+evidence_chain,2025,Crossref published,A,Design outcome quality,25,89,0.2808988764044944
+evidence_chain,2025,Crossref published,B,Design process quality,7,89,0.07865168539325842
+evidence_chain,2025,Crossref published,C,"Designer cognition, affect and capabilities",17,89,0.19101123595505617
+evidence_chain,2025,Crossref published,D,Human–AI interaction experience,25,89,0.2808988764044944
+evidence_chain,2025,Crossref published,E,Social and contextual value,15,89,0.16853932584269662
+evidence_chain,2026,Crossref published,A,Design outcome quality,70,221,0.3167420814479638
+evidence_chain,2026,Crossref published,B,Design process quality,23,221,0.10407239819004525
+evidence_chain,2026,Crossref published,C,"Designer cognition, affect and capabilities",55,221,0.248868778280543
+evidence_chain,2026,Crossref published,D,Human–AI interaction experience,43,221,0.19457013574660634
+evidence_chain,2026,Crossref published,E,Social and contextual value,30,221,0.13574660633484162

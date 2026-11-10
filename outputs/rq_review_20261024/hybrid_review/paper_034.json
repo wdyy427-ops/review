@@ -1,0 +1,50 @@
+{
+  "paper_id": 34,
+  "title": "Large Language Model Agent as a Mechanical Designer",
+  "doi": "10.1109/TASE.2025.123456",
+  "year": 2025,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    12,
+    17,
+    19
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [],
+  "stage_codes": [
+    "S2",
+    "S3",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R1",
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "This paper proposes a framework using a pretrained Large Language Model (LLM) coupled with a Finite Element Method (FEM) module to autonomously generate, evaluate, and refine structural designs. The LLM operates without domain-specific fine-tuning, relying on general reasoning to iteratively propose candidate structures, interpret FEM-derived results, and implement informed modifications grounded in structural mechanics.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [
+    "No direct human subjective evaluations collected",
+    "No explicit mention of human perception, judgment, or experience",
+    "No recruitment of human participants for subjective data collection"
+  ],
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\34.pdf"
+}

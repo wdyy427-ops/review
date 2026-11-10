@@ -1,0 +1,462 @@
+{
+  "paper_id": 10,
+  "title": "ChatPreference: a large language model for customer preference understanding in the apparel industry",
+  "doi": "10.1080/09544828.2026.2655935",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    19,
+    22,
+    23,
+    24,
+    28,
+    29,
+    30
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2",
+    "D3"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F1",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U6"
+  ],
+  "context_summary": "The paper introduces ChatPreference, a large language model designed to understand customer preferences in the apparel industry. It uses a three-stage training framework to improve CP understanding and recommendation. The model is evaluated on multiple metrics and compared with other LLMs.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "010-E1",
+      "purpose_codes": [
+        "P2",
+        "P1"
+      ],
+      "object_codes": [
+        "O1",
+        "O3",
+        "O7"
+      ],
+      "evaluator_codes": [
+        "V1"
+      ],
+      "source_codes": [
+        "H1",
+        "H3"
+      ],
+      "setting_code": "L3",
+      "design_code": "G1",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K4",
+        "K5",
+        "K7"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 20,
+      "sample_description": "ChatPreference achieved the highest overall rating, outperforming both baselines across all dimensions.",
+      "recruitment": "",
+      "task": "understanding and recommendation tasks, and its performance is on par with GPT5.",
+      "comparator": "outperforming both baselines across all dimensions.",
+      "procedure": "interviews, participants were asked to clarify their intended CPs, from which we derived the",
+      "analysis": "Human evaluation of models: ∗∗ denotes p < 0.01 as determined by t-test.",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 23,
+          "quote": "ChatPreference achieved the highest overall rating, outperforming both baselines across all dimensions."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "This advances the theoretical understanding of pref- erence modelling beyond traditional reliance on surveys or structured data, and enhances the efficiency of product conceptual design.",
+          "claim_summary": "This advances the theoretical understanding of pref- erence modelling beyond traditional reliance on surveys or structured data, and enhances the efficiency of product conceptual design.",
+          "claim_type": "C4",
+          "construct_raw": "understanding",
+          "indicator_raw": "understanding",
+          "item_quote": "This advances the theoretical understanding of pref- erence modelling beyond traditional reliance on surveys or structured data, and enhances the efficiency of product conceptual design.",
+          "dimension_code": "C",
+          "indicator_code": "C2",
+          "instrument_raw": "Each participant evaluated 10 representative queries, each paired with three anonymized model responses, on a five-point Likert scale across six dimensions: qua；Moreover, we invited 5 apparel experts and 5 general customers and asked each of them to provide five apparel-related queries through guided interviews, includi；Although these metrics are stringent for open-ended tasks, they still provide meaningful evidence of lexical stability, attribute coverage, and structural consi",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "However, during the annotation process of D3, several external factors may affect the reliability of pairwise labels.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            24
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "This advances the theoretical understanding of pref- erence modelling beyond traditional reliance on surveys or structured data, and enhances the efficiency of product conceptual design.",
+          "claim_summary": "This advances the theoretical understanding of pref- erence modelling beyond traditional reliance on surveys or structured data, and enhances the efficiency of product conceptual design.",
+          "claim_type": "C4",
+          "construct_raw": "reliance",
+          "indicator_raw": "reliance",
+          "item_quote": "This advances the theoretical understanding of pref- erence modelling beyond traditional reliance on surveys or structured data, and enhances the efficiency of product conceptual design.",
+          "dimension_code": "D",
+          "indicator_code": "D5",
+          "instrument_raw": "Each participant evaluated 10 representative queries, each paired with three anonymized model responses, on a five-point Likert scale across six dimensions: qua；Moreover, we invited 5 apparel experts and 5 general customers and asked each of them to provide five apparel-related queries through guided interviews, includi；Although these metrics are stringent for open-ended tasks, they still provide meaningful evidence of lexical stability, attribute coverage, and structural consi",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "However, during the annotation process of D3, several external factors may affect the reliability of pairwise labels.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            24
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "even suggests specific brands, demonstrating stronger information coverage and search"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "human evaluation with 20 participants (10 apparel experts and 10 general customers)"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "Human evaluation of models: ∗∗ denotes p < 0.01 as determined by t-test."
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "even suggests specific brands, demonstrating stronger information coverage and search"
+        }
+      ]
+    },
+    {
+      "eval_id": "010-E2",
+      "purpose_codes": [
+        "P2",
+        "P1"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1"
+      ],
+      "source_codes": [
+        "H1",
+        "H3",
+        "H6"
+      ],
+      "setting_code": "L3",
+      "design_code": "G1",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 20,
+      "sample_description": "ChatPreference achieved the highest alignment with participants’ ground-truth CPs.",
+      "recruitment": "",
+      "task": "understanding and recommendation tasks, and its performance is on par with GPT5.",
+      "comparator": "outperforming both baselines across all dimensions.",
+      "procedure": "interviews, participants were asked to clarify their intended CPs, from which we derived the",
+      "analysis": "Human evaluation of models: ∗∗ denotes p < 0.01 as determined by t-test.",
+      "actual_results": "",
+      "limitations": "Conclusion and future work",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 24,
+          "quote": "ChatPreference achieved the highest alignment with participants’ ground-truth CPs."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "This advances the theoretical understanding of pref- erence modelling beyond traditional reliance on surveys or structured data, and enhances the efficiency of product conceptual design.",
+          "claim_summary": "This advances the theoretical understanding of pref- erence modelling beyond traditional reliance on surveys or structured data, and enhances the efficiency of product conceptual design.",
+          "claim_type": "C4",
+          "construct_raw": "understanding",
+          "indicator_raw": "understanding",
+          "item_quote": "This advances the theoretical understanding of pref- erence modelling beyond traditional reliance on surveys or structured data, and enhances the efficiency of product conceptual design.",
+          "dimension_code": "C",
+          "indicator_code": "C2",
+          "instrument_raw": "Each participant evaluated 10 representative queries, each paired with three anonymized model responses, on a five-point Likert scale across six dimensions: qua；Moreover, we invited 5 apparel experts and 5 general customers and asked each of them to provide five apparel-related queries through guided interviews, includi；Although these metrics are stringent for open-ended tasks, they still provide meaningful evidence of lexical stability, attribute coverage, and structural consi",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "However, during the annotation process of D3, several external factors may affect the reliability of pairwise labels.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            24
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "This advances the theoretical understanding of pref- erence modelling beyond traditional reliance on surveys or structured data, and enhances the efficiency of product conceptual design.",
+          "claim_summary": "This advances the theoretical understanding of pref- erence modelling beyond traditional reliance on surveys or structured data, and enhances the efficiency of product conceptual design.",
+          "claim_type": "C4",
+          "construct_raw": "reliance",
+          "indicator_raw": "reliance",
+          "item_quote": "This advances the theoretical understanding of pref- erence modelling beyond traditional reliance on surveys or structured data, and enhances the efficiency of product conceptual design.",
+          "dimension_code": "D",
+          "indicator_code": "D5",
+          "instrument_raw": "Each participant evaluated 10 representative queries, each paired with three anonymized model responses, on a five-point Likert scale across six dimensions: qua；Moreover, we invited 5 apparel experts and 5 general customers and asked each of them to provide five apparel-related queries through guided interviews, includi；Although these metrics are stringent for open-ended tasks, they still provide meaningful evidence of lexical stability, attribute coverage, and structural consi",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "However, during the annotation process of D3, several external factors may affect the reliability of pairwise labels.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            24
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "anonymized model responses, on a five-point Likert scale across six dimensions: quality,"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "human evaluation with 20 participants (10 apparel experts and 10 general customers)"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "Human evaluation of models: ∗∗ denotes p < 0.01 as determined by t-test."
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "anonymized model responses, on a five-point Likert scale across six dimensions: quality,"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\10.pdf"
+}

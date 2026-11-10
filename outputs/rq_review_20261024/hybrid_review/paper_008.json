@@ -1,0 +1,461 @@
+{
+  "paper_id": 8,
+  "title": "Analogical Reasoning with Large Language Models: A Co-Creative Framework and Benchmarking of LLMs in Design Ideation",
+  "doi": "10.1017/dsj.2025.10044",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22,
+    24,
+    25,
+    26,
+    33
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R1",
+    "R2"
+  ],
+  "target_user_codes": [
+    "U2",
+    "U5",
+    "U6"
+  ],
+  "context_summary": "The study explores the use of large language models (LLMs) in design ideation, focusing on analogical reasoning and co-creative frameworks. It evaluates the creative performance of LLMs and benchmarks their outputs in analogical tasks.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "008-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q2",
+        "Q3"
+      ],
+      "sample_n": 4,
+      "sample_description": "Six professional, industry-experienced designers with more than 10 years of work experience in the design industry were recruited as expert raters to evaluate the ideas and concepts generated during the ideation sessions.",
+      "recruitment": "experience in the design industry were recruited as expert raters to evaluate the ideas",
+      "task": "the system, undertaking tasks such as summarisation and real-time response",
+      "comparator": "Control group",
+      "procedure": "",
+      "analysis": "based on feedback from pilot tests, participants suggested that 30 minutes is the",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 13,
+          "quote": "Six professional, industry-experienced designers with more than 10 years of work experience in the design industry were recruited as expert raters to evaluate the ideas and concepts generated during the ideation sessions."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "The requirements were defined as: (i) Novelty: How unique is the idea compared to existing solutions in this context to you? and (ii) Quality: How feasible, practical and useful is the idea within the context?.",
+          "claim_summary": "The requirements were defined as: (i) Novelty: How unique is the idea compared to existing solutions in this context to you? and (ii) Quality: How feasible, practical and useful is the idea within the context?.",
+          "claim_type": "C2",
+          "construct_raw": "novelty",
+          "indicator_raw": "novelty",
+          "item_quote": "The raters were asked to rate each idea based on the novelty and quality criteria, as well as to provide optional descriptive comments in the field.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "Raters were initially shown the problem statement, and then after a brief interval, the corresponding idea solution and a 5-point Likert scale.；Aligned with this observation, there is a growing need to understand the impact of anthropomorphic interfaces and vocabulary in general, as end users continue t",
+          "tool_family_codes": [
+            "M1",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "Raters were initially shown the problem statement, and then after a brief interval, the corresponding idea solution and a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The ideas were divided into two sets, each consisting of 18 unique ideas, to balance the workload and ensure reliability checks.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            13
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The requirements were defined as: (i) Novelty: How unique is the idea compared to existing solutions in this context to you? and (ii) Quality: How feasible, practical and useful is the idea within the context?.",
+          "claim_summary": "The requirements were defined as: (i) Novelty: How unique is the idea compared to existing solutions in this context to you? and (ii) Quality: How feasible, practical and useful is the idea within the context?.",
+          "claim_type": "C2",
+          "construct_raw": "usefulness",
+          "indicator_raw": "usefulness",
+          "item_quote": "Human evaluation of ACT Human evaluation was conducted, where five expert raters assessed the analogies based on the creativity criteria of novelty, usefulness and elaboration quality.",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "Raters were initially shown the problem statement, and then after a brief interval, the corresponding idea solution and a 5-point Likert scale.；Aligned with this observation, there is a growing need to understand the impact of anthropomorphic interfaces and vocabulary in general, as end users continue t",
+          "tool_family_codes": [
+            "M1",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "Raters were initially shown the problem statement, and then after a brief interval, the corresponding idea solution and a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The ideas were divided into two sets, each consisting of 18 unique ideas, to balance the workload and ensure reliability checks.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            13,
+            14
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": "The system aims to leverage the speech"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": "generating trigger questions and analogies."
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": "reliability checks."
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": "to-text service that captures the participant ’s discussion and transcribes it into a"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": "based on feedback from pilot tests, participants suggested that 30 minutes is the"
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": "generating trigger questions and analogies."
+        }
+      ]
+    },
+    {
+      "eval_id": "008-E2",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 4,
+      "sample_description": "Human evaluation was conducted, where five expert raters assessed the analogies based on the creativity criteria of novelty, usefulness and elaboration quality.",
+      "recruitment": "experience in the design industry were recruited as expert raters to evaluate the ideas",
+      "task": "The raters were asked to rate each idea based on the novelty and quality criteria, as",
+      "comparator": "Control group",
+      "procedure": "Data collection and procedure",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 14,
+          "quote": "Human evaluation was conducted, where five expert raters assessed the analogies based on the creativity criteria of novelty, usefulness and elaboration quality."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "The requirements were defined as: (i) Novelty: How unique is the idea compared to existing solutions in this context to you? and (ii) Quality: How feasible, practical and useful is the idea within the context?.",
+          "claim_summary": "The requirements were defined as: (i) Novelty: How unique is the idea compared to existing solutions in this context to you? and (ii) Quality: How feasible, practical and useful is the idea within the context?.",
+          "claim_type": "C2",
+          "construct_raw": "novelty",
+          "indicator_raw": "novelty",
+          "item_quote": "The raters were asked to rate each idea based on the novelty and quality criteria, as well as to provide optional descriptive comments in the field.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "Raters were initially shown the problem statement, and then after a brief interval, the corresponding idea solution and a 5-point Likert scale.；Aligned with this observation, there is a growing need to understand the impact of anthropomorphic interfaces and vocabulary in general, as end users continue t",
+          "tool_family_codes": [
+            "M1",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "Raters were initially shown the problem statement, and then after a brief interval, the corresponding idea solution and a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The ideas were divided into two sets, each consisting of 18 unique ideas, to balance the workload and ensure reliability checks.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            13
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The requirements were defined as: (i) Novelty: How unique is the idea compared to existing solutions in this context to you? and (ii) Quality: How feasible, practical and useful is the idea within the context?.",
+          "claim_summary": "The requirements were defined as: (i) Novelty: How unique is the idea compared to existing solutions in this context to you? and (ii) Quality: How feasible, practical and useful is the idea within the context?.",
+          "claim_type": "C2",
+          "construct_raw": "usefulness",
+          "indicator_raw": "usefulness",
+          "item_quote": "Human evaluation of ACT Human evaluation was conducted, where five expert raters assessed the analogies based on the creativity criteria of novelty, usefulness and elaboration quality.",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "Raters were initially shown the problem statement, and then after a brief interval, the corresponding idea solution and a 5-point Likert scale.；Aligned with this observation, there is a growing need to understand the impact of anthropomorphic interfaces and vocabulary in general, as end users continue t",
+          "tool_family_codes": [
+            "M1",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "Raters were initially shown the problem statement, and then after a brief interval, the corresponding idea solution and a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The ideas were divided into two sets, each consisting of 18 unique ideas, to balance the workload and ensure reliability checks.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            13,
+            14
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "followed, and general language – were used by the researchers to evaluate and"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "generating contextually relevant content."
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "reliability checks."
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "Participants using ALIA in an ideation session."
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "generating contextually relevant content."
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\8.pdf"
+}

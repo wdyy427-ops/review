@@ -1,0 +1,245 @@
+{
+  "paper_id": 117,
+  "title": "Neural Brushstroke Engine: Learning a Latent Style Space of Interactive Drawing Tools",
+  "doi": "10.1145/3550454.3555472",
+  "year": 2022,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [],
+  "context_summary": "The paper introduces a neural brushstroke engine that learns a latent style space for interactive drawing tools using deep generative models. It enables interactive drawing in various styles and supports natural language search for brushes.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "117-E1",
+      "purpose_codes": [
+        "P2",
+        "P1"
+      ],
+      "object_codes": [
+        "O1",
+        "O3",
+        "O7"
+      ],
+      "evaluator_codes": [],
+      "source_codes": [
+        "H1",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 7,
+      "sample_description": "On a 5 point Likert scale, 4/6 participants said that they are very likely (score 5) to use brushes from our model.",
+      "recruitment": "We conducted an expert user study by recruiting 6 participants with",
+      "task": "randomly presented 9 styles in each set A,B,C and users were asked",
+      "comparator": "6.5 Comparison with Baselines",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "ration of automatic techniques and robustness to future work, we",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 16,
+          "quote": "On a 5 point Likert scale, 4/6 participants said that they are very likely (score 5) to use brushes from our model."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Styleflow: Attribute- conditioned exploration of stylegan-generated images using conditional continuous normalizing flows.",
+          "claim_summary": "Styleflow: Attribute- conditioned exploration of stylegan-generated images using conditional continuous normalizing flows.",
+          "claim_type": "C1",
+          "construct_raw": "flow",
+          "indicator_raw": "flow",
+          "item_quote": "Styleflow: Attribute- conditioned exploration of stylegan-generated images using conditional continuous normalizing flows.",
+          "dimension_code": "B",
+          "indicator_code": "B5",
+          "instrument_raw": "After the study, we collected feedback using a questionnaire.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "On a 5 point Likert scale, 4/6 participants said that they are very likely (score 5) to use brushes from our model, if integrated into their daily tools, 1 participant responded with 4 (likely) and one with 3.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            17
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The main area for improvement was controllability of styles and latency.",
+          "claim_summary": "The main area for improvement was controllability of styles and latency.",
+          "claim_type": "C1",
+          "construct_raw": "Control",
+          "indicator_raw": "Control",
+          "item_quote": "HistoGAN: Control- ling Colors of GAN-Generated and Real Images via Color Histograms.",
+          "dimension_code": "D",
+          "indicator_code": "D3",
+          "instrument_raw": "After the study, we collected feedback using a questionnaire.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "On a 5 point Likert scale, 4/6 participants said that they are very likely (score 5) to use brushes from our model, if integrated into their daily tools, 1 participant responded with 4 (likely) and one with 3.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            16,
+            17
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": "The main goal was to evaluate the quality of the brush styles in"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": "the study, we collected feedback using a questionnaire."
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": "While we have not exhaustively sampled settings,"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": "the study, we collected feedback using a questionnaire."
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\117.pdf"
+}

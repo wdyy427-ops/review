@@ -1,0 +1,2327 @@
+{
+  "paper_id": 2,
+  "title_match": true,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38
+  ],
+  "scope_note": "阅读全文含技术附录。旧表仅一个综合指标，实际有目标意象选择、消费者评分、专家多准则评估等14个可区分评价环节；不同样本不假定独立，不加总为唯一参与者人数。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S3"
+  ],
+  "ai_function_codes": [
+    "F1",
+    "F3",
+    "F4",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R1",
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "GPT-5分析评论引出科技/运动意象；Midjourney生成电摩形态，人工评价与形态组合；Stable Diffusion和qwen-image-edit生成配色材质后评价筛选。评价用于设计迭代和方法案例验证。",
+  "context_evidence": [
+    {
+      "page": 15,
+      "quote": "twelve transportation-design professionals rated the GPT-5 outputs on a 0–1 scale"
+    },
+    {
+      "page": 14,
+      "quote": "This iterative ‘evaluation–feedback–regeneration’ loop ensures the iterability and collaborative nature"
+    },
+    {
+      "page": 20,
+      "quote": "we conducted a consumer Kansei questionnaire and an AHP-based designer evaluation"
+    }
+  ],
+  "evaluations": [
+    {
+      "eval_id": "002-E1",
+      "legacy_eval_ids": [],
+      "purpose_codes": [
+        "P1"
+      ],
+      "object_codes": [
+        "O7"
+      ],
+      "evaluator_codes": [
+        "V1"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G7",
+      "evaluation_stage_codes": [
+        "S1"
+      ],
+      "sample_n": 12,
+      "sample_description": "12位交通设计专业人士评价GPT-5提炼的感性词",
+      "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+      "task": "12位交通设计专业人士评价GPT-5提炼的感性词",
+      "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+      "procedure": "Does this imagery adjective represent your affective expectations for an electric motorcycle?；0–1连续评分；取均值；锚点文字NR",
+      "analysis": "候选均值和排名",
+      "actual_results": "Technological 0.85; Sporty 0.83; Modern 0.82; Retro 0.80",
+      "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+      "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+      "evidence": [
+        {
+          "field": "procedure",
+          "page": 15,
+          "quote": "Does this imagery adjective represent your affective expectations for an electric motorcycle?"
+        },
+        {
+          "field": "result",
+          "page": 15,
+          "quote": "Technological 0.85; Sporty 0.83; Modern 0.82; Retro 0.80"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "说明引出/选择与目标意象相符的方案。",
+          "reason": "采集内容直接服务该设计决策。",
+          "pages": [
+            15
+          ],
+          "quote": "Does this imagery adjective represent your affective expectations for an electric motorcycle?"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "Does this imagery adjective represent your affective expectations for an electric motorcycle?",
+          "reason": "直接询问专业者自身期望；不能代替总体消费者需求。",
+          "pages": [
+            15
+          ],
+          "quote": "Does this imagery adjective represent your affective expectations for an electric motorcycle?"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "reason": "未以未报告推定实际不可靠；只能判断支持信息不足。",
+          "pages": [
+            15
+          ],
+          "quote": "Does this imagery adjective represent your affective expectations for an electric motorcycle?"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "12位交通设计专业人士评价GPT-5提炼的感性词",
+          "reason": "报告人数、部分年龄/性别和刺激；招募、实施环境、展示顺序与跨环节重叠不足。",
+          "pages": [
+            15
+          ],
+          "quote": "Does this imagery adjective represent your affective expectations for an electric motorcycle?"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "报告描述统计/多准则算法和结果。",
+          "reason": "限定于候选方案在本样本中的描述性选择；未进行总体差异或因果推断。",
+          "pages": [
+            15
+          ],
+          "quote": "Technological 0.85; Sporty 0.83; Modern 0.82; Retro 0.80"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结论按候选评价结果筛选方案。",
+          "reason": "目标意象与所报评分/排序对应，结论限定于候选方案。",
+          "pages": [
+            15
+          ],
+          "quote": "Technological 0.85; Sporty 0.83; Modern 0.82; Retro 0.80"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "题意、量尺、刺激与汇总结果可见。",
+          "reason": "个体数据和部分过程/量尺缩放交代不足；数据可按需索取。",
+          "pages": [
+            15
+          ],
+          "quote": "Does this imagery adjective represent your affective expectations for an electric motorcycle?"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [],
+          "claim_quote": "Technological 0.85; Sporty 0.83; Modern 0.82; Retro 0.80",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C4",
+          "construct_raw": "Kansei imagery match",
+          "indicator_raw": "Kansei imagery match",
+          "item_quote": "Does this imagery adjective represent your affective expectations for an electric motorcycle?",
+          "dimension_code": "E",
+          "indicator_code": "E2",
+          "instrument_raw": "自编感性评分问卷",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "0–1连续评分；取均值；锚点文字NR",
+          "validity_evidence": "Does this imagery adjective represent your affective expectations for an electric motorcycle?",
+          "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "result_quote": "Technological 0.85; Sporty 0.83; Modern 0.82; Retro 0.80",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            15
+          ],
+          "audit_overrides": []
+        }
+      ]
+    },
+    {
+      "eval_id": "002-E2",
+      "legacy_eval_ids": [
+        "2-评价1"
+      ],
+      "purpose_codes": [
+        "P3"
+      ],
+      "object_codes": [
+        "O1"
+      ],
+      "evaluator_codes": [
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G2",
+      "evaluation_stage_codes": [
+        "S3"
+      ],
+      "sample_n": 140,
+      "sample_description": "140消费者（75男65女，20–40岁）评价20个科技感电摩外形",
+      "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+      "task": "140消费者（75男65女，20–40岁）评价20个科技感电摩外形",
+      "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+      "procedure": "Does this shape match your expectations for a technological electric motorcycle?；0–1连续评分；取均值；锚点文字NR",
+      "analysis": "候选均值和排名",
+      "actual_results": "TShape_9 0.823; TShape_17 0.799; TShape_16 0.786",
+      "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+      "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+      "evidence": [
+        {
+          "field": "procedure",
+          "page": 16,
+          "quote": "Does this shape match your expectations for a technological electric motorcycle?"
+        },
+        {
+          "field": "result",
+          "page": 16,
+          "quote": "TShape_9 0.823; TShape_17 0.799; TShape_16 0.786"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "说明引出/选择与目标意象相符的方案。",
+          "reason": "采集内容直接服务该设计决策。",
+          "pages": [
+            16
+          ],
+          "quote": "Does this shape match your expectations for a technological electric motorcycle?"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "Does this shape match your expectations for a technological electric motorcycle?",
+          "reason": "给出目标意象与直接判断题，且目标消费者参与；作为语义匹配判断有明确内容依据。",
+          "pages": [
+            16
+          ],
+          "quote": "Does this shape match your expectations for a technological electric motorcycle?"
+        },
+        {
+          "standard": "A3",
+          "status": "P",
+          "facts": "Cronbach’s α exceeded 0.7, indicating acceptable reliability.",
+          "reason": "AHP一致性不等于跨评价者可靠性；alpha若未说明计算单位，只作部分依据。",
+          "pages": [
+            16
+          ],
+          "quote": "Cronbach’s α exceeded 0.7, indicating acceptable reliability."
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "140消费者（75男65女，20–40岁）评价20个科技感电摩外形",
+          "reason": "报告人数、部分年龄/性别和刺激；招募、实施环境、展示顺序与跨环节重叠不足。",
+          "pages": [
+            16
+          ],
+          "quote": "Does this shape match your expectations for a technological electric motorcycle?"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "报告描述统计/多准则算法和结果。",
+          "reason": "限定于候选方案在本样本中的描述性选择；未进行总体差异或因果推断。",
+          "pages": [
+            16
+          ],
+          "quote": "TShape_9 0.823; TShape_17 0.799; TShape_16 0.786"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结论按候选评价结果筛选方案。",
+          "reason": "目标意象与所报评分/排序对应，结论限定于候选方案。",
+          "pages": [
+            16
+          ],
+          "quote": "TShape_9 0.823; TShape_17 0.799; TShape_16 0.786"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "题意、量尺、刺激与汇总结果可见。",
+          "reason": "个体数据和部分过程/量尺缩放交代不足；数据可按需索取。",
+          "pages": [
+            16
+          ],
+          "quote": "Does this shape match your expectations for a technological electric motorcycle?"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [
+            16
+          ],
+          "claim_quote": "TShape_9 0.823; TShape_17 0.799; TShape_16 0.786",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Kansei imagery match",
+          "indicator_raw": "Kansei imagery match",
+          "item_quote": "Does this shape match your expectations for a technological electric motorcycle?",
+          "dimension_code": "E",
+          "indicator_code": "E2",
+          "instrument_raw": "自编感性评分问卷",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "0–1连续评分；取均值；锚点文字NR",
+          "validity_evidence": "Does this shape match your expectations for a technological electric motorcycle?",
+          "reliability_evidence": "Cronbach’s α exceeded 0.7, indicating acceptable reliability.",
+          "result_quote": "TShape_9 0.823; TShape_17 0.799; TShape_16 0.786",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            16
+          ],
+          "audit_overrides": []
+        }
+      ]
+    },
+    {
+      "eval_id": "002-E3",
+      "legacy_eval_ids": [],
+      "purpose_codes": [
+        "P3"
+      ],
+      "object_codes": [
+        "O1"
+      ],
+      "evaluator_codes": [
+        "V1"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G2",
+      "evaluation_stage_codes": [
+        "S3"
+      ],
+      "sample_n": 20,
+      "sample_description": "20设计师评价消费者评分最高10个科技外形",
+      "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+      "task": "20设计师评价消费者评分最高10个科技外形",
+      "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+      "procedure": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?；0–1连续评分；取均值；锚点文字NR",
+      "analysis": "感性工学多准则决策；详见构念链",
+      "actual_results": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+      "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+      "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+      "evidence": [
+        {
+          "field": "procedure",
+          "page": 16,
+          "quote": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?"
+        },
+        {
+          "field": "result",
+          "page": 17,
+          "quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes."
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "说明引出/选择与目标意象相符的方案。",
+          "reason": "采集内容直接服务该设计决策。",
+          "pages": [
+            16,
+            17
+          ],
+          "quote": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+          "reason": "题意明确；渲染外形不足以验证真实人体工学和制造性质，结果仅作专家感知判断。",
+          "pages": [
+            16,
+            17
+          ],
+          "quote": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "reason": "未以未报告推定实际不可靠；只能判断支持信息不足。",
+          "pages": [
+            16,
+            17
+          ],
+          "quote": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "20设计师评价消费者评分最高10个科技外形",
+          "reason": "报告人数、部分年龄/性别和刺激；招募、实施环境、展示顺序与跨环节重叠不足。",
+          "pages": [
+            16,
+            17
+          ],
+          "quote": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?"
+        },
+        {
+          "standard": "A6",
+          "status": "P",
+          "facts": "报告描述统计/多准则算法和结果。",
+          "reason": "报告GRA步骤与汇总表，但表中灰关联值大于1，与文中平均系数定义范围不符，需作者澄清；不重算为客观真值。",
+          "pages": [
+            16,
+            17
+          ],
+          "quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes."
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结论按候选评价结果筛选方案。",
+          "reason": "目标意象与所报评分/排序对应，结论限定于候选方案。",
+          "pages": [
+            16,
+            17
+          ],
+          "quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes."
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "题意、量尺、刺激与汇总结果可见。",
+          "reason": "个体数据和部分过程/量尺缩放交代不足；数据可按需索取。",
+          "pages": [
+            16,
+            17
+          ],
+          "quote": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [],
+          "claim_quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Kansei match",
+          "indicator_raw": "Kansei match",
+          "item_quote": "Does the shape exhibit a technological aesthetic?",
+          "dimension_code": "E",
+          "indicator_code": "E2",
+          "instrument_raw": "0–1专家评分＋Grey Relational Analysis (GRA)",
+          "tool_family_codes": [
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "六准则评分均值，灰关联选择前四外形",
+          "validity_evidence": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+          "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "result_quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            16,
+            17
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Aesthetic appeal",
+          "indicator_raw": "Aesthetic appeal",
+          "item_quote": "Does the shape possess aesthetic appeal?",
+          "dimension_code": "A",
+          "indicator_code": "A2",
+          "instrument_raw": "0–1专家评分＋Grey Relational Analysis (GRA)",
+          "tool_family_codes": [
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "六准则评分均值，灰关联选择前四外形",
+          "validity_evidence": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+          "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "result_quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            16,
+            17
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Ergonomics and dimensions",
+          "indicator_raw": "Ergonomics and dimensions",
+          "item_quote": "Is the seating ergonomically designed?; Are the dimensions reasonable?",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "0–1专家评分＋Grey Relational Analysis (GRA)",
+          "tool_family_codes": [
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "六准则评分均值，灰关联选择前四外形",
+          "validity_evidence": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+          "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "result_quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            16,
+            17
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Manufacturing and replaceability",
+          "indicator_raw": "Manufacturing and replaceability",
+          "item_quote": "Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+          "dimension_code": "A",
+          "indicator_code": "A4",
+          "instrument_raw": "0–1专家评分＋Grey Relational Analysis (GRA)",
+          "tool_family_codes": [
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "六准则评分均值，灰关联选择前四外形",
+          "validity_evidence": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+          "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "result_quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            16,
+            17
+          ],
+          "audit_overrides": []
+        }
+      ]
+    },
+    {
+      "eval_id": "002-E4",
+      "legacy_eval_ids": [],
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1"
+      ],
+      "evaluator_codes": [
+        "V1"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G7",
+      "evaluation_stage_codes": [
+        "S3"
+      ],
+      "sample_n": 20,
+      "sample_description": "20设计师比较5个形态元素对科技感的贡献",
+      "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+      "task": "20设计师比较5个形态元素对科技感的贡献",
+      "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+      "procedure": "Relative to each pair, which element contributes more to a technological aesthetic?；Saaty 1–9成对比较；几何均值与归一化权重；报告汇总矩阵CR",
+      "analysis": "感性工学多准则决策；详见构念链",
+      "actual_results": "F > H > L > R > W; λmax = 5.015, C.R. = 0.0036 < 0.1",
+      "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+      "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+      "evidence": [
+        {
+          "field": "procedure",
+          "page": 16,
+          "quote": "Relative to each pair, which element contributes more to a technological aesthetic?"
+        },
+        {
+          "field": "result",
+          "page": 18,
+          "quote": "F > H > L > R > W; λmax = 5.015, C.R. = 0.0036 < 0.1"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "说明引出/选择与目标意象相符的方案。",
+          "reason": "采集内容直接服务该设计决策。",
+          "pages": [
+            16,
+            18
+          ],
+          "quote": "Relative to each pair, which element contributes more to a technological aesthetic?"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "Relative to each pair, which element contributes more to a technological aesthetic?",
+          "reason": "给出目标意象与直接判断题，且目标消费者参与；作为语义匹配判断有明确内容依据。",
+          "pages": [
+            16,
+            18
+          ],
+          "quote": "Relative to each pair, which element contributes more to a technological aesthetic?"
+        },
+        {
+          "standard": "A3",
+          "status": "P",
+          "facts": "With a consistency ratio (C.R.) below 0.1, the judgments were acceptable.",
+          "reason": "AHP一致性不等于跨评价者可靠性；alpha若未说明计算单位，只作部分依据。",
+          "pages": [
+            16,
+            18
+          ],
+          "quote": "With a consistency ratio (C.R.) below 0.1, the judgments were acceptable."
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "20设计师比较5个形态元素对科技感的贡献",
+          "reason": "报告人数、部分年龄/性别和刺激；招募、实施环境、展示顺序与跨环节重叠不足。",
+          "pages": [
+            16,
+            18
+          ],
+          "quote": "Relative to each pair, which element contributes more to a technological aesthetic?"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "报告描述统计/多准则算法和结果。",
+          "reason": "限定于候选方案在本样本中的描述性选择；未进行总体差异或因果推断。",
+          "pages": [
+            16,
+            18
+          ],
+          "quote": "F > H > L > R > W; λmax = 5.015, C.R. = 0.0036 < 0.1"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结论按候选评价结果筛选方案。",
+          "reason": "目标意象与所报评分/排序对应，结论限定于候选方案。",
+          "pages": [
+            16,
+            18
+          ],
+          "quote": "F > H > L > R > W; λmax = 5.015, C.R. = 0.0036 < 0.1"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "题意、量尺、刺激与汇总结果可见。",
+          "reason": "个体数据和部分过程/量尺缩放交代不足；数据可按需索取。",
+          "pages": [
+            16,
+            18
+          ],
+          "quote": "Relative to each pair, which element contributes more to a technological aesthetic?"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [],
+          "claim_quote": "F > H > L > R > W; λmax = 5.015, C.R. = 0.0036 < 0.1",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Kansei imagery match",
+          "indicator_raw": "Kansei imagery match",
+          "item_quote": "Relative to each pair, which element contributes more to a technological aesthetic?",
+          "dimension_code": "E",
+          "indicator_code": "E2",
+          "instrument_raw": "感性问卷结合M6",
+          "tool_family_codes": [
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "Saaty 1–9成对比较；几何均值与归一化权重；报告汇总矩阵CR",
+          "validity_evidence": "Relative to each pair, which element contributes more to a technological aesthetic?",
+          "reliability_evidence": "With a consistency ratio (C.R.) below 0.1, the judgments were acceptable.",
+          "result_quote": "F > H > L > R > W; λmax = 5.015, C.R. = 0.0036 < 0.1",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            16,
+            18
+          ],
+          "audit_overrides": []
+        }
+      ]
+    },
+    {
+      "eval_id": "002-E5",
+      "legacy_eval_ids": [],
+      "purpose_codes": [
+        "P3"
+      ],
+      "object_codes": [
+        "O1"
+      ],
+      "evaluator_codes": [
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G2",
+      "evaluation_stage_codes": [
+        "S3"
+      ],
+      "sample_n": 138,
+      "sample_description": "138电摩用户及潜在消费者，20–35岁、男女1:1，评4类形态元素的科技感隶属度",
+      "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+      "task": "138电摩用户及潜在消费者，20–35岁、男女1:1，评4类形态元素的科技感隶属度",
+      "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+      "procedure": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type；归一化隶属度，原始作答量尺NR",
+      "analysis": "感性工学多准则决策；详见构念链",
+      "actual_results": "Table 7: normalised fuzzy memberships; Front fairing Type_1 0.269, Type_2 0.237, Type_3 0.232, Type_4 0.262",
+      "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+      "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+      "evidence": [
+        {
+          "field": "procedure",
+          "page": 17,
+          "quote": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type"
+        },
+        {
+          "field": "result",
+          "page": 18,
+          "quote": "Table 7: normalised fuzzy memberships; Front fairing Type_1 0.269, Type_2 0.237, Type_3 0.232, Type_4 0.262"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "说明引出/选择与目标意象相符的方案。",
+          "reason": "采集内容直接服务该设计决策。",
+          "pages": [
+            17,
+            18
+          ],
+          "quote": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type",
+          "reason": "目标与形态元素明确，但原始题干、量尺和隶属转换细节不足。",
+          "pages": [
+            17,
+            18
+          ],
+          "quote": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "reason": "未以未报告推定实际不可靠；只能判断支持信息不足。",
+          "pages": [
+            17,
+            18
+          ],
+          "quote": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "138电摩用户及潜在消费者，20–35岁、男女1:1，评4类形态元素的科技感隶属度",
+          "reason": "报告人数、部分年龄/性别和刺激；招募、实施环境、展示顺序与跨环节重叠不足。",
+          "pages": [
+            17,
+            18
+          ],
+          "quote": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type"
+        },
+        {
+          "standard": "A6",
+          "status": "P",
+          "facts": "报告描述统计/多准则算法和结果。",
+          "reason": "可见归一化结果；从作答到隶属度的过程未完整报告。",
+          "pages": [
+            17,
+            18
+          ],
+          "quote": "Table 7: normalised fuzzy memberships; Front fairing Type_1 0.269, Type_2 0.237, Type_3 0.232, Type_4 0.262"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结论按候选评价结果筛选方案。",
+          "reason": "目标意象与所报评分/排序对应，结论限定于候选方案。",
+          "pages": [
+            17,
+            18
+          ],
+          "quote": "Table 7: normalised fuzzy memberships; Front fairing Type_1 0.269, Type_2 0.237, Type_3 0.232, Type_4 0.262"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "题意、量尺、刺激与汇总结果可见。",
+          "reason": "个体数据和部分过程/量尺缩放交代不足；数据可按需索取。",
+          "pages": [
+            17,
+            18
+          ],
+          "quote": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [],
+          "claim_quote": "Table 7: normalised fuzzy memberships; Front fairing Type_1 0.269, Type_2 0.237, Type_3 0.232, Type_4 0.262",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Kansei imagery match",
+          "indicator_raw": "Kansei imagery match",
+          "item_quote": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type",
+          "dimension_code": "E",
+          "indicator_code": "E2",
+          "instrument_raw": "感性问卷结合M6",
+          "tool_family_codes": [
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "归一化隶属度，原始作答量尺NR",
+          "validity_evidence": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type",
+          "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "result_quote": "Table 7: normalised fuzzy memberships; Front fairing Type_1 0.269, Type_2 0.237, Type_3 0.232, Type_4 0.262",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            17,
+            18
+          ],
+          "audit_overrides": []
+        }
+      ]
+    },
+    {
+      "eval_id": "002-E6",
+      "legacy_eval_ids": [],
+      "purpose_codes": [
+        "P3"
+      ],
+      "object_codes": [
+        "O1"
+      ],
+      "evaluator_codes": [
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G2",
+      "evaluation_stage_codes": [
+        "S3"
+      ],
+      "sample_n": 100,
+      "sample_description": "100电摩用户、20–36岁、性别平衡，评四科技感组合方案",
+      "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+      "task": "100电摩用户、20–36岁、性别平衡，评四科技感组合方案",
+      "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+      "procedure": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions；正文0–1；表8用约50–70数值，可能×100但作者未说明；FCE排名与问卷一致",
+      "analysis": "候选均值和排名",
+      "actual_results": "Table 8: Alternative_1 69.3; Alternative_2 65.7; Alternative_3 59.2; Alternative_4 52.9",
+      "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+      "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+      "evidence": [
+        {
+          "field": "procedure",
+          "page": 20,
+          "quote": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions"
+        },
+        {
+          "field": "result",
+          "page": 20,
+          "quote": "Table 8: Alternative_1 69.3; Alternative_2 65.7; Alternative_3 59.2; Alternative_4 52.9"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "说明引出/选择与目标意象相符的方案。",
+          "reason": "采集内容直接服务该设计决策。",
+          "pages": [
+            20
+          ],
+          "quote": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions",
+          "reason": "目标意象明确，完整题干缺失。",
+          "pages": [
+            20
+          ],
+          "quote": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "reason": "未以未报告推定实际不可靠；只能判断支持信息不足。",
+          "pages": [
+            20
+          ],
+          "quote": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "100电摩用户、20–36岁、性别平衡，评四科技感组合方案",
+          "reason": "报告人数、部分年龄/性别和刺激；招募、实施环境、展示顺序与跨环节重叠不足。",
+          "pages": [
+            20
+          ],
+          "quote": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions"
+        },
+        {
+          "standard": "A6",
+          "status": "P",
+          "facts": "报告描述统计/多准则算法和结果。",
+          "reason": "表8数值超过所述0–1量尺，缩放未说明；排序可读但数值解释不充分。",
+          "pages": [
+            20
+          ],
+          "quote": "Table 8: Alternative_1 69.3; Alternative_2 65.7; Alternative_3 59.2; Alternative_4 52.9"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结论按候选评价结果筛选方案。",
+          "reason": "目标意象与所报评分/排序对应，结论限定于候选方案。",
+          "pages": [
+            20
+          ],
+          "quote": "Table 8: Alternative_1 69.3; Alternative_2 65.7; Alternative_3 59.2; Alternative_4 52.9"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "题意、量尺、刺激与汇总结果可见。",
+          "reason": "个体数据和部分过程/量尺缩放交代不足；数据可按需索取。",
+          "pages": [
+            20
+          ],
+          "quote": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [],
+          "claim_quote": "Table 8: Alternative_1 69.3; Alternative_2 65.7; Alternative_3 59.2; Alternative_4 52.9",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Kansei imagery match",
+          "indicator_raw": "Kansei imagery match",
+          "item_quote": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions",
+          "dimension_code": "E",
+          "indicator_code": "E2",
+          "instrument_raw": "自编感性评分问卷",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "正文0–1；表8用约50–70数值，可能×100但作者未说明；FCE排名与问卷一致",
+          "validity_evidence": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions",
+          "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "result_quote": "Table 8: Alternative_1 69.3; Alternative_2 65.7; Alternative_3 59.2; Alternative_4 52.9",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            20
+          ],
+          "audit_overrides": []
+        }
+      ]
+    },
+    {
+      "eval_id": "002-E7",
+      "legacy_eval_ids": [],
+      "purpose_codes": [
+        "P3"
+      ],
+      "object_codes": [
+        "O1"
+      ],
+      "evaluator_codes": [
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G2",
+      "evaluation_stage_codes": [
+        "S3"
+      ],
+      "sample_n": 100,
+      "sample_description": "100电摩用户、20–36岁、50男50女，评8科技配色",
+      "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+      "task": "100电摩用户、20–36岁、50男50女，评8科技配色",
+      "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+      "procedure": "NR；rated the eight color schemes on a 0–1 scale；正文0–1；表10约55–82，缩放NR",
+      "analysis": "候选均值和排名",
+      "actual_results": "TColor_4 81.4; TColor_3 77.5; TColor_8 72.3",
+      "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+      "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+      "evidence": [
+        {
+          "field": "procedure",
+          "page": 20,
+          "quote": "NR；rated the eight color schemes on a 0–1 scale"
+        },
+        {
+          "field": "result",
+          "page": 22,
+          "quote": "TColor_4 81.4; TColor_3 77.5; TColor_8 72.3"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "说明引出/选择与目标意象相符的方案。",
+          "reason": "采集内容直接服务该设计决策。",
+          "pages": [
+            20,
+            22
+          ],
+          "quote": "NR；rated the eight color schemes on a 0–1 scale"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "NR；rated the eight color schemes on a 0–1 scale",
+          "reason": "科技意象目标明确但消费者具体题干NR。",
+          "pages": [
+            20,
+            22
+          ],
+          "quote": "NR；rated the eight color schemes on a 0–1 scale"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "reason": "未以未报告推定实际不可靠；只能判断支持信息不足。",
+          "pages": [
+            20,
+            22
+          ],
+          "quote": "NR；rated the eight color schemes on a 0–1 scale"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "100电摩用户、20–36岁、50男50女，评8科技配色",
+          "reason": "报告人数、部分年龄/性别和刺激；招募、实施环境、展示顺序与跨环节重叠不足。",
+          "pages": [
+            20,
+            22
+          ],
+          "quote": "NR；rated the eight color schemes on a 0–1 scale"
+        },
+        {
+          "standard": "A6",
+          "status": "P",
+          "facts": "报告描述统计/多准则算法和结果。",
+          "reason": "正文0–1而表10最高81.4，缩放未说明；相似排名支持局部选择。",
+          "pages": [
+            20,
+            22
+          ],
+          "quote": "TColor_4 81.4; TColor_3 77.5; TColor_8 72.3"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结论按候选评价结果筛选方案。",
+          "reason": "目标意象与所报评分/排序对应，结论限定于候选方案。",
+          "pages": [
+            20,
+            22
+          ],
+          "quote": "TColor_4 81.4; TColor_3 77.5; TColor_8 72.3"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "题意、量尺、刺激与汇总结果可见。",
+          "reason": "个体数据和部分过程/量尺缩放交代不足；数据可按需索取。",
+          "pages": [
+            20,
+            22
+          ],
+          "quote": "NR；rated the eight color schemes on a 0–1 scale"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [],
+          "claim_quote": "TColor_4 81.4; TColor_3 77.5; TColor_8 72.3",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Kansei imagery match",
+          "indicator_raw": "Kansei imagery match",
+          "item_quote": "NR；rated the eight color schemes on a 0–1 scale",
+          "dimension_code": "E",
+          "indicator_code": "E2",
+          "instrument_raw": "自编感性评分问卷",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "正文0–1；表10约55–82，缩放NR",
+          "validity_evidence": "NR；rated the eight color schemes on a 0–1 scale",
+          "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "result_quote": "TColor_4 81.4; TColor_3 77.5; TColor_8 72.3",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            20,
+            22
+          ],
+          "audit_overrides": []
+        }
+      ]
+    },
+    {
+      "eval_id": "002-E8",
+      "legacy_eval_ids": [],
+      "purpose_codes": [
+        "P3"
+      ],
+      "object_codes": [
+        "O1"
+      ],
+      "evaluator_codes": [
+        "V1"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G2",
+      "evaluation_stage_codes": [
+        "S3"
+      ],
+      "sample_n": 20,
+      "sample_description": "20设计师对8科技配色进行成对比较",
+      "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+      "task": "20设计师对8科技配色进行成对比较",
+      "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+      "procedure": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?；AHP成对比较、几何均值权重；CR0.001",
+      "analysis": "感性工学多准则决策；详见构念链",
+      "actual_results": "TColor_4 > TColor_3 > TColor_8; C.R. = 0.001",
+      "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+      "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+      "evidence": [
+        {
+          "field": "procedure",
+          "page": 20,
+          "quote": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?"
+        },
+        {
+          "field": "result",
+          "page": 22,
+          "quote": "TColor_4 > TColor_3 > TColor_8; C.R. = 0.001"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "说明引出/选择与目标意象相符的方案。",
+          "reason": "采集内容直接服务该设计决策。",
+          "pages": [
+            20,
+            22
+          ],
+          "quote": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?",
+          "reason": "给出目标意象与直接判断题，且目标消费者参与；作为语义匹配判断有明确内容依据。",
+          "pages": [
+            20,
+            22
+          ],
+          "quote": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?"
+        },
+        {
+          "standard": "A3",
+          "status": "P",
+          "facts": "with C.R. < 0.1, the results are acceptable.",
+          "reason": "AHP一致性不等于跨评价者可靠性；alpha若未说明计算单位，只作部分依据。",
+          "pages": [
+            20,
+            22
+          ],
+          "quote": "with C.R. < 0.1, the results are acceptable."
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "20设计师对8科技配色进行成对比较",
+          "reason": "报告人数、部分年龄/性别和刺激；招募、实施环境、展示顺序与跨环节重叠不足。",
+          "pages": [
+            20,
+            22
+          ],
+          "quote": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "报告描述统计/多准则算法和结果。",
+          "reason": "限定于候选方案在本样本中的描述性选择；未进行总体差异或因果推断。",
+          "pages": [
+            20,
+            22
+          ],
+          "quote": "TColor_4 > TColor_3 > TColor_8; C.R. = 0.001"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结论按候选评价结果筛选方案。",
+          "reason": "目标意象与所报评分/排序对应，结论限定于候选方案。",
+          "pages": [
+            20,
+            22
+          ],
+          "quote": "TColor_4 > TColor_3 > TColor_8; C.R. = 0.001"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "题意、量尺、刺激与汇总结果可见。",
+          "reason": "个体数据和部分过程/量尺缩放交代不足；数据可按需索取。",
+          "pages": [
+            20,
+            22
+          ],
+          "quote": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [],
+          "claim_quote": "TColor_4 > TColor_3 > TColor_8; C.R. = 0.001",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Kansei imagery match",
+          "indicator_raw": "Kansei imagery match",
+          "item_quote": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?",
+          "dimension_code": "E",
+          "indicator_code": "E2",
+          "instrument_raw": "感性问卷结合M6",
+          "tool_family_codes": [
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "AHP成对比较、几何均值权重；CR0.001",
+          "validity_evidence": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?",
+          "reliability_evidence": "with C.R. < 0.1, the results are acceptable.",
+          "result_quote": "TColor_4 > TColor_3 > TColor_8; C.R. = 0.001",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            20,
+            22
+          ],
+          "audit_overrides": []
+        }
+      ]
+    },
+    {
+      "eval_id": "002-E9",
+      "legacy_eval_ids": [],
+      "purpose_codes": [
+        "P3"
+      ],
+      "object_codes": [
+        "O1"
+      ],
+      "evaluator_codes": [
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G2",
+      "evaluation_stage_codes": [
+        "S3"
+      ],
+      "sample_n": 136,
+      "sample_description": "136消费者，72男64女、20–38岁，评20运动电摩外形",
+      "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+      "task": "136消费者，72男64女、20–38岁，评20运动电摩外形",
+      "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+      "procedure": "Does this shape match your expectations for a sporty electric motorcycle?；0–1连续评分；取均值；锚点文字NR",
+      "analysis": "候选均值和排名",
+      "actual_results": "SShape_15 0.824; SShape_19 0.803; SShape_17 0.793",
+      "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+      "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+      "evidence": [
+        {
+          "field": "procedure",
+          "page": 22,
+          "quote": "Does this shape match your expectations for a sporty electric motorcycle?"
+        },
+        {
+          "field": "result",
+          "page": 23,
+          "quote": "SShape_15 0.824; SShape_19 0.803; SShape_17 0.793"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "说明引出/选择与目标意象相符的方案。",
+          "reason": "采集内容直接服务该设计决策。",
+          "pages": [
+            22,
+            23
+          ],
+          "quote": "Does this shape match your expectations for a sporty electric motorcycle?"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "Does this shape match your expectations for a sporty electric motorcycle?",
+          "reason": "给出目标意象与直接判断题，且目标消费者参与；作为语义匹配判断有明确内容依据。",
+          "pages": [
+            22,
+            23
+          ],
+          "quote": "Does this shape match your expectations for a sporty electric motorcycle?"
+        },
+        {
+          "standard": "A3",
+          "status": "P",
+          "facts": "Cronbach’s α exceeded 0.7, indicating acceptable reliability.",
+          "reason": "AHP一致性不等于跨评价者可靠性；alpha若未说明计算单位，只作部分依据。",
+          "pages": [
+            22,
+            23
+          ],
+          "quote": "Cronbach’s α exceeded 0.7, indicating acceptable reliability."
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "136消费者，72男64女、20–38岁，评20运动电摩外形",
+          "reason": "报告人数、部分年龄/性别和刺激；招募、实施环境、展示顺序与跨环节重叠不足。",
+          "pages": [
+            22,
+            23
+          ],
+          "quote": "Does this shape match your expectations for a sporty electric motorcycle?"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "报告描述统计/多准则算法和结果。",
+          "reason": "限定于候选方案在本样本中的描述性选择；未进行总体差异或因果推断。",
+          "pages": [
+            22,
+            23
+          ],
+          "quote": "SShape_15 0.824; SShape_19 0.803; SShape_17 0.793"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结论按候选评价结果筛选方案。",
+          "reason": "目标意象与所报评分/排序对应，结论限定于候选方案。",
+          "pages": [
+            22,
+            23
+          ],
+          "quote": "SShape_15 0.824; SShape_19 0.803; SShape_17 0.793"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "题意、量尺、刺激与汇总结果可见。",
+          "reason": "个体数据和部分过程/量尺缩放交代不足；数据可按需索取。",
+          "pages": [
+            22,
+            23
+          ],
+          "quote": "Does this shape match your expectations for a sporty electric motorcycle?"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [],
+          "claim_quote": "SShape_15 0.824; SShape_19 0.803; SShape_17 0.793",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Kansei imagery match",
+          "indicator_raw": "Kansei imagery match",
+          "item_quote": "Does this shape match your expectations for a sporty electric motorcycle?",
+          "dimension_code": "E",
+          "indicator_code": "E2",
+          "instrument_raw": "自编感性评分问卷",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "0–1连续评分；取均值；锚点文字NR",
+          "validity_evidence": "Does this shape match your expectations for a sporty electric motorcycle?",
+          "reliability_evidence": "Cronbach’s α exceeded 0.7, indicating acceptable reliability.",
+          "result_quote": "SShape_15 0.824; SShape_19 0.803; SShape_17 0.793",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            22,
+            23
+          ],
+          "audit_overrides": []
+        }
+      ]
+    },
+    {
+      "eval_id": "002-E10",
+      "legacy_eval_ids": [],
+      "purpose_codes": [
+        "P3"
+      ],
+      "object_codes": [
+        "O1"
+      ],
+      "evaluator_codes": [
+        "V1"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G2",
+      "evaluation_stage_codes": [
+        "S3"
+      ],
+      "sample_n": 20,
+      "sample_description": "20设计师评价消费者排名前10运动外形",
+      "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+      "task": "20设计师评价消费者排名前10运动外形",
+      "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+      "procedure": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?；0–1连续评分；取均值；锚点文字NR",
+      "analysis": "感性工学多准则决策；详见构念链",
+      "actual_results": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+      "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+      "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+      "evidence": [
+        {
+          "field": "procedure",
+          "page": 23,
+          "quote": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?"
+        },
+        {
+          "field": "result",
+          "page": 24,
+          "quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes."
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "说明引出/选择与目标意象相符的方案。",
+          "reason": "采集内容直接服务该设计决策。",
+          "pages": [
+            23,
+            24
+          ],
+          "quote": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+          "reason": "题意明确；渲染外形不足以验证真实人体工学和制造性质，结果仅作专家感知判断。",
+          "pages": [
+            23,
+            24
+          ],
+          "quote": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "reason": "未以未报告推定实际不可靠；只能判断支持信息不足。",
+          "pages": [
+            23,
+            24
+          ],
+          "quote": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "20设计师评价消费者排名前10运动外形",
+          "reason": "报告人数、部分年龄/性别和刺激；招募、实施环境、展示顺序与跨环节重叠不足。",
+          "pages": [
+            23,
+            24
+          ],
+          "quote": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?"
+        },
+        {
+          "standard": "A6",
+          "status": "P",
+          "facts": "报告描述统计/多准则算法和结果。",
+          "reason": "报告GRA步骤与汇总表，但表中灰关联值大于1，与文中平均系数定义范围不符，需作者澄清；不重算为客观真值。",
+          "pages": [
+            23,
+            24
+          ],
+          "quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes."
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结论按候选评价结果筛选方案。",
+          "reason": "目标意象与所报评分/排序对应，结论限定于候选方案。",
+          "pages": [
+            23,
+            24
+          ],
+          "quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes."
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "题意、量尺、刺激与汇总结果可见。",
+          "reason": "个体数据和部分过程/量尺缩放交代不足；数据可按需索取。",
+          "pages": [
+            23,
+            24
+          ],
+          "quote": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [],
+          "claim_quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Kansei match",
+          "indicator_raw": "Kansei match",
+          "item_quote": "Does the shape exhibit a sporty aesthetic?",
+          "dimension_code": "E",
+          "indicator_code": "E2",
+          "instrument_raw": "0–1专家评分＋Grey Relational Analysis (GRA)",
+          "tool_family_codes": [
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "六准则评分均值，灰关联选择前四外形",
+          "validity_evidence": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+          "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "result_quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            23,
+            24
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Aesthetic appeal",
+          "indicator_raw": "Aesthetic appeal",
+          "item_quote": "Does the shape possess aesthetic appeal?",
+          "dimension_code": "A",
+          "indicator_code": "A2",
+          "instrument_raw": "0–1专家评分＋Grey Relational Analysis (GRA)",
+          "tool_family_codes": [
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "六准则评分均值，灰关联选择前四外形",
+          "validity_evidence": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+          "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "result_quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            23,
+            24
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Ergonomics and dimensions",
+          "indicator_raw": "Ergonomics and dimensions",
+          "item_quote": "Is the seating ergonomically designed?; Are the dimensions reasonable?",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "0–1专家评分＋Grey Relational Analysis (GRA)",
+          "tool_family_codes": [
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "六准则评分均值，灰关联选择前四外形",
+          "validity_evidence": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+          "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "result_quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            23,
+            24
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Manufacturing and replaceability",
+          "indicator_raw": "Manufacturing and replaceability",
+          "item_quote": "Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+          "dimension_code": "A",
+          "indicator_code": "A4",
+          "instrument_raw": "0–1专家评分＋Grey Relational Analysis (GRA)",
+          "tool_family_codes": [
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "六准则评分均值，灰关联选择前四外形",
+          "validity_evidence": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+          "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "result_quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            23,
+            24
+          ],
+          "audit_overrides": []
+        }
+      ]
+    },
+    {
+      "eval_id": "002-E11",
+      "legacy_eval_ids": [],
+      "purpose_codes": [
+        "P3"
+      ],
+      "object_codes": [
+        "O1"
+      ],
+      "evaluator_codes": [
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G2",
+      "evaluation_stage_codes": [
+        "S3"
+      ],
+      "sample_n": 120,
+      "sample_description": "120电摩用户/潜在消费者，20–36岁、男女1:1，评运动形态隶属度",
+      "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+      "task": "120电摩用户/潜在消费者，20–36岁、男女1:1，评运动形态隶属度",
+      "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+      "procedure": "NR；completed a Kansei questionnaire to obtain the fuzzy membership；归一化隶属度；借用科技感AHP权重，未为运动感重新引出",
+      "analysis": "感性工学多准则决策；详见构念链",
+      "actual_results": "Table 13: Front fairing Type_1 0.268; Type_2 0.231; Type_3 0.239; Type_4 0.262",
+      "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+      "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+      "evidence": [
+        {
+          "field": "procedure",
+          "page": 25,
+          "quote": "NR；completed a Kansei questionnaire to obtain the fuzzy membership"
+        },
+        {
+          "field": "result",
+          "page": 25,
+          "quote": "Table 13: Front fairing Type_1 0.268; Type_2 0.231; Type_3 0.239; Type_4 0.262"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "说明引出/选择与目标意象相符的方案。",
+          "reason": "采集内容直接服务该设计决策。",
+          "pages": [
+            25
+          ],
+          "quote": "NR；completed a Kansei questionnaire to obtain the fuzzy membership"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "NR；completed a Kansei questionnaire to obtain the fuzzy membership",
+          "reason": "完整题干与原始量尺缺失。",
+          "pages": [
+            25
+          ],
+          "quote": "NR；completed a Kansei questionnaire to obtain the fuzzy membership"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "reason": "未以未报告推定实际不可靠；只能判断支持信息不足。",
+          "pages": [
+            25
+          ],
+          "quote": "NR；completed a Kansei questionnaire to obtain the fuzzy membership"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "120电摩用户/潜在消费者，20–36岁、男女1:1，评运动形态隶属度",
+          "reason": "报告人数、部分年龄/性别和刺激；招募、实施环境、展示顺序与跨环节重叠不足。",
+          "pages": [
+            25
+          ],
+          "quote": "NR；completed a Kansei questionnaire to obtain the fuzzy membership"
+        },
+        {
+          "standard": "A6",
+          "status": "P",
+          "facts": "报告描述统计/多准则算法和结果。",
+          "reason": "运动感沿用科技感权重的依据不足；原始作答转换未详述。",
+          "pages": [
+            25
+          ],
+          "quote": "Table 13: Front fairing Type_1 0.268; Type_2 0.231; Type_3 0.239; Type_4 0.262"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结论按候选评价结果筛选方案。",
+          "reason": "目标意象与所报评分/排序对应，结论限定于候选方案。",
+          "pages": [
+            25
+          ],
+          "quote": "Table 13: Front fairing Type_1 0.268; Type_2 0.231; Type_3 0.239; Type_4 0.262"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "题意、量尺、刺激与汇总结果可见。",
+          "reason": "个体数据和部分过程/量尺缩放交代不足；数据可按需索取。",
+          "pages": [
+            25
+          ],
+          "quote": "NR；completed a Kansei questionnaire to obtain the fuzzy membership"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [],
+          "claim_quote": "Table 13: Front fairing Type_1 0.268; Type_2 0.231; Type_3 0.239; Type_4 0.262",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Kansei imagery match",
+          "indicator_raw": "Kansei imagery match",
+          "item_quote": "NR；completed a Kansei questionnaire to obtain the fuzzy membership",
+          "dimension_code": "E",
+          "indicator_code": "E2",
+          "instrument_raw": "感性问卷结合M6",
+          "tool_family_codes": [
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "归一化隶属度；借用科技感AHP权重，未为运动感重新引出",
+          "validity_evidence": "NR；completed a Kansei questionnaire to obtain the fuzzy membership",
+          "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "result_quote": "Table 13: Front fairing Type_1 0.268; Type_2 0.231; Type_3 0.239; Type_4 0.262",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            25
+          ],
+          "audit_overrides": []
+        }
+      ]
+    },
+    {
+      "eval_id": "002-E12",
+      "legacy_eval_ids": [],
+      "purpose_codes": [
+        "P3"
+      ],
+      "object_codes": [
+        "O1"
+      ],
+      "evaluator_codes": [
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G2",
+      "evaluation_stage_codes": [
+        "S3"
+      ],
+      "sample_n": 100,
+      "sample_description": "100电摩用户，20–36岁、性别平衡，评四运动组合外形",
+      "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+      "task": "100电摩用户，20–36岁、性别平衡，评四运动组合外形",
+      "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+      "procedure": "NR；rated the four alternatives on a 0–1 scale；正文0–1；表14约55–65，缩放NR；FCE同序",
+      "analysis": "候选均值和排名",
+      "actual_results": "Table 14: Alternative_1 64.9; Alternative_2 62.4; Alternative_3 57.2; Alternative_4 55.8",
+      "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+      "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+      "evidence": [
+        {
+          "field": "procedure",
+          "page": 26,
+          "quote": "NR；rated the four alternatives on a 0–1 scale"
+        },
+        {
+          "field": "result",
+          "page": 26,
+          "quote": "Table 14: Alternative_1 64.9; Alternative_2 62.4; Alternative_3 57.2; Alternative_4 55.8"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "说明引出/选择与目标意象相符的方案。",
+          "reason": "采集内容直接服务该设计决策。",
+          "pages": [
+            26
+          ],
+          "quote": "NR；rated the four alternatives on a 0–1 scale"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "NR；rated the four alternatives on a 0–1 scale",
+          "reason": "具体题干NR；目标意象明确。",
+          "pages": [
+            26
+          ],
+          "quote": "NR；rated the four alternatives on a 0–1 scale"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "reason": "未以未报告推定实际不可靠；只能判断支持信息不足。",
+          "pages": [
+            26
+          ],
+          "quote": "NR；rated the four alternatives on a 0–1 scale"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "100电摩用户，20–36岁、性别平衡，评四运动组合外形",
+          "reason": "报告人数、部分年龄/性别和刺激；招募、实施环境、展示顺序与跨环节重叠不足。",
+          "pages": [
+            26
+          ],
+          "quote": "NR；rated the four alternatives on a 0–1 scale"
+        },
+        {
+          "standard": "A6",
+          "status": "P",
+          "facts": "报告描述统计/多准则算法和结果。",
+          "reason": "量尺数值缩放不明；描述性排序可辨。",
+          "pages": [
+            26
+          ],
+          "quote": "Table 14: Alternative_1 64.9; Alternative_2 62.4; Alternative_3 57.2; Alternative_4 55.8"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结论按候选评价结果筛选方案。",
+          "reason": "目标意象与所报评分/排序对应，结论限定于候选方案。",
+          "pages": [
+            26
+          ],
+          "quote": "Table 14: Alternative_1 64.9; Alternative_2 62.4; Alternative_3 57.2; Alternative_4 55.8"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "题意、量尺、刺激与汇总结果可见。",
+          "reason": "个体数据和部分过程/量尺缩放交代不足；数据可按需索取。",
+          "pages": [
+            26
+          ],
+          "quote": "NR；rated the four alternatives on a 0–1 scale"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [],
+          "claim_quote": "Table 14: Alternative_1 64.9; Alternative_2 62.4; Alternative_3 57.2; Alternative_4 55.8",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Kansei imagery match",
+          "indicator_raw": "Kansei imagery match",
+          "item_quote": "NR；rated the four alternatives on a 0–1 scale",
+          "dimension_code": "E",
+          "indicator_code": "E2",
+          "instrument_raw": "自编感性评分问卷",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "正文0–1；表14约55–65，缩放NR；FCE同序",
+          "validity_evidence": "NR；rated the four alternatives on a 0–1 scale",
+          "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "result_quote": "Table 14: Alternative_1 64.9; Alternative_2 62.4; Alternative_3 57.2; Alternative_4 55.8",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            26
+          ],
+          "audit_overrides": []
+        }
+      ]
+    },
+    {
+      "eval_id": "002-E13",
+      "legacy_eval_ids": [],
+      "purpose_codes": [
+        "P3"
+      ],
+      "object_codes": [
+        "O1"
+      ],
+      "evaluator_codes": [
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G2",
+      "evaluation_stage_codes": [
+        "S3"
+      ],
+      "sample_n": 100,
+      "sample_description": "100电摩用户、20–36岁、性别平衡，评8运动配色",
+      "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+      "task": "100电摩用户、20–36岁、性别平衡，评8运动配色",
+      "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+      "procedure": "NR；rated the eight color schemes on a 0–1 scale；正文0–1；表16约55–75，缩放NR",
+      "analysis": "候选均值和排名",
+      "actual_results": "SColor_3 74.5; SColor_4 72.7; SColor_2 71.4",
+      "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+      "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+      "evidence": [
+        {
+          "field": "procedure",
+          "page": 28,
+          "quote": "NR；rated the eight color schemes on a 0–1 scale"
+        },
+        {
+          "field": "result",
+          "page": 28,
+          "quote": "SColor_3 74.5; SColor_4 72.7; SColor_2 71.4"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "说明引出/选择与目标意象相符的方案。",
+          "reason": "采集内容直接服务该设计决策。",
+          "pages": [
+            28
+          ],
+          "quote": "NR；rated the eight color schemes on a 0–1 scale"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "NR；rated the eight color schemes on a 0–1 scale",
+          "reason": "消费者题干NR，意象对象明确。",
+          "pages": [
+            28
+          ],
+          "quote": "NR；rated the eight color schemes on a 0–1 scale"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "reason": "未以未报告推定实际不可靠；只能判断支持信息不足。",
+          "pages": [
+            28
+          ],
+          "quote": "NR；rated the eight color schemes on a 0–1 scale"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "100电摩用户、20–36岁、性别平衡，评8运动配色",
+          "reason": "报告人数、部分年龄/性别和刺激；招募、实施环境、展示顺序与跨环节重叠不足。",
+          "pages": [
+            28
+          ],
+          "quote": "NR；rated the eight color schemes on a 0–1 scale"
+        },
+        {
+          "standard": "A6",
+          "status": "P",
+          "facts": "报告描述统计/多准则算法和结果。",
+          "reason": "缩放不明；总体排名说法比表中实际一致程度更强。",
+          "pages": [
+            28
+          ],
+          "quote": "SColor_3 74.5; SColor_4 72.7; SColor_2 71.4"
+        },
+        {
+          "standard": "A7",
+          "status": "P",
+          "facts": "结论按候选评价结果筛选方案。",
+          "reason": "最高项3两法一致；正文consistent overall rankings未量化且其他项次序不同。",
+          "pages": [
+            28
+          ],
+          "quote": "SColor_3 74.5; SColor_4 72.7; SColor_2 71.4"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "题意、量尺、刺激与汇总结果可见。",
+          "reason": "个体数据和部分过程/量尺缩放交代不足；数据可按需索取。",
+          "pages": [
+            28
+          ],
+          "quote": "NR；rated the eight color schemes on a 0–1 scale"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [],
+          "claim_quote": "SColor_3 74.5; SColor_4 72.7; SColor_2 71.4",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Kansei imagery match",
+          "indicator_raw": "Kansei imagery match",
+          "item_quote": "NR；rated the eight color schemes on a 0–1 scale",
+          "dimension_code": "E",
+          "indicator_code": "E2",
+          "instrument_raw": "自编感性评分问卷",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "正文0–1；表16约55–75，缩放NR",
+          "validity_evidence": "NR；rated the eight color schemes on a 0–1 scale",
+          "reliability_evidence": "完整阅读方法、结果与附录；该环节未报告一致性或复测依据。",
+          "result_quote": "SColor_3 74.5; SColor_4 72.7; SColor_2 71.4",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            28
+          ],
+          "audit_overrides": []
+        }
+      ]
+    },
+    {
+      "eval_id": "002-E14",
+      "legacy_eval_ids": [],
+      "purpose_codes": [
+        "P3"
+      ],
+      "object_codes": [
+        "O1"
+      ],
+      "evaluator_codes": [
+        "V1"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G2",
+      "evaluation_stage_codes": [
+        "S3"
+      ],
+      "sample_n": 20,
+      "sample_description": "20设计师对8运动配色进行成对比较",
+      "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+      "task": "20设计师对8运动配色进行成对比较",
+      "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+      "procedure": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?；AHP成对比较和权重；CR0.0005",
+      "analysis": "感性工学多准则决策；详见构念链",
+      "actual_results": "SColor_3 > SColor_2 > SColor_4; C.R. = 0.0005",
+      "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+      "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+      "evidence": [
+        {
+          "field": "procedure",
+          "page": 28,
+          "quote": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?"
+        },
+        {
+          "field": "result",
+          "page": 28,
+          "quote": "SColor_3 > SColor_2 > SColor_4; C.R. = 0.0005"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "说明引出/选择与目标意象相符的方案。",
+          "reason": "采集内容直接服务该设计决策。",
+          "pages": [
+            28
+          ],
+          "quote": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?",
+          "reason": "给出目标意象与直接判断题，且目标消费者参与；作为语义匹配判断有明确内容依据。",
+          "pages": [
+            28
+          ],
+          "quote": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?"
+        },
+        {
+          "standard": "A3",
+          "status": "P",
+          "facts": "with C.R. < 0.1, the judgments were acceptably consistent.",
+          "reason": "AHP一致性不等于跨评价者可靠性；alpha若未说明计算单位，只作部分依据。",
+          "pages": [
+            28
+          ],
+          "quote": "with C.R. < 0.1, the judgments were acceptably consistent."
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "20设计师对8运动配色进行成对比较",
+          "reason": "报告人数、部分年龄/性别和刺激；招募、实施环境、展示顺序与跨环节重叠不足。",
+          "pages": [
+            28
+          ],
+          "quote": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "报告描述统计/多准则算法和结果。",
+          "reason": "限定于候选方案在本样本中的描述性选择；未进行总体差异或因果推断。",
+          "pages": [
+            28
+          ],
+          "quote": "SColor_3 > SColor_2 > SColor_4; C.R. = 0.0005"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结论按候选评价结果筛选方案。",
+          "reason": "目标意象与所报评分/排序对应，结论限定于候选方案。",
+          "pages": [
+            28
+          ],
+          "quote": "SColor_3 > SColor_2 > SColor_4; C.R. = 0.0005"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "题意、量尺、刺激与汇总结果可见。",
+          "reason": "个体数据和部分过程/量尺缩放交代不足；数据可按需索取。",
+          "pages": [
+            28
+          ],
+          "quote": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [],
+          "claim_quote": "SColor_3 > SColor_2 > SColor_4; C.R. = 0.0005",
+          "claim_summary": "按目标意象选择候选方案",
+          "claim_type": "C2",
+          "construct_raw": "Kansei imagery match",
+          "indicator_raw": "Kansei imagery match",
+          "item_quote": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?",
+          "dimension_code": "E",
+          "indicator_code": "E2",
+          "instrument_raw": "感性问卷结合M6",
+          "tool_family_codes": [
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR；非具名心理量表",
+          "response_scoring": "AHP成对比较和权重；CR0.0005",
+          "validity_evidence": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?",
+          "reliability_evidence": "with C.R. < 0.1, the judgments were acceptably consistent.",
+          "result_quote": "SColor_3 > SColor_2 > SColor_4; C.R. = 0.0005",
+          "effect_direction": "候选方案排序",
+          "pages": [
+            28
+          ],
+          "audit_overrides": []
+        }
+      ]
+    }
+  ],
+  "excluded_legacy_rows": [],
+  "added_evidence_notes": "补录旧表遗漏的美观、人体工学/尺度、制造可行与可替换性评价及多次数据采集。第20/22/26/28页称0–1量尺，但表8/10/14/16显示约50–80，缩放解释缺失。第28页运动配色两排名并非全一致（2与4、1与8、6与7等）。",
+  "category_gaps": [
+    "原始感性意象（technological/sporty）按E2目标意象匹配编码；不把technological一词本身当作客观技术质量。"
+  ]
+}

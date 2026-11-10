@@ -1,0 +1,496 @@
+{
+  "paper_id": 29,
+  "title": "Comparing human- and AI-generated system requirements: an industrial case study",
+  "doi": "10.1080/09544828.2026.2683735",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    5,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    19,
+    20,
+    21,
+    22,
+    25,
+    26
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U5",
+    "U6",
+    "U1"
+  ],
+  "context_summary": "The paper compares human- and AI-generated system requirements in an automotive case study, using surveys and interviews with engineers and students to evaluate requirement quality.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [
+    "The study does not collect subjective evaluations from the general public.",
+    "The study does not collect subjective evaluations from non-professionals.",
+    "The study does not collect subjective evaluations from non-engineers."
+  ],
+  "evaluations": [
+    {
+      "eval_id": "029-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V2",
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G4",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K3",
+        "K4",
+        "K6"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 20,
+      "sample_description": "Each participant received ten randomly selected requirements, five created by humans and five by AI, without informing them of their origin.",
+      "recruitment": "Because the present study relies on randomised sampling and isolated evaluation of indi-",
+      "task": "required to address the challenges posed by emerging technologies.",
+      "comparator": "were used as a baseline for comparison.",
+      "procedure": "",
+      "analysis": "treated as approximately interval to allow calculation of averages and use of t-tests.",
+      "actual_results": "",
+      "limitations": "Future work should explore these areas to provide a",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 12,
+          "quote": "Each participant received ten randomly selected requirements, five created by humans and five by AI, without informing them of their origin."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Each participant received ten randomly selected requirements, five created by humans and five by AI, without informing them of their origin.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "Each participant received ten randomly selected requirements, five created by humans and five by AI, without informing them of their origin.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "through methods such as interviews, surveys, and customer feedback (Mohedas, Daly, and",
+          "tool_family_codes": [
+            "M4"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "A five-point scale ranging from −2 (strongly disagree) to +2 (strongly agree) was",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            9
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "To evaluate requirement completeness, addi-"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "through methods such as interviews, surveys, and customer feedback (Mohedas, Daly, and"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "for their expertise, ensuring the reliability of the data collected."
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "knowledge from different participant groups."
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "treated as approximately interval to allow calculation of averages and use of t-tests."
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "through methods such as interviews, surveys, and customer feedback (Mohedas, Daly, and"
+        }
+      ]
+    },
+    {
+      "eval_id": "029-E2",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V2"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G4",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 5,
+      "sample_description": "Interviews, known for their value in capturing the nuanced perspectives of participants, were conducted to gain in-depth insights into the role of AI in defining design requirements.",
+      "recruitment": "Because the present study relies on randomised sampling and isolated evaluation of indi-",
+      "task": "AI refers to computer systems that perform tasks typically requiring human intelligence",
+      "comparator": "were used as a baseline for comparison.",
+      "procedure": "",
+      "analysis": "treated as approximately interval to allow calculation of averages and use of t-tests.",
+      "actual_results": "",
+      "limitations": "Future work should explore these areas to provide a",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 10,
+          "quote": "Interviews, known for their value in capturing the nuanced perspectives of participants, were conducted to gain in-depth insights into the role of AI in defining design requirements."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Interviews, known for their value in capturing the nuanced perspectives of participants, were conducted to gain in-depth insights into the role of AI in defining design requirements.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "Interviews, known for their value in capturing the nuanced perspectives of participants, were conducted to gain in-depth insights into the role of AI in defining design requirements.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "titative survey data provided numerical comparisons between AI- and human-generated",
+          "tool_family_codes": [
+            "M4"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "A five-point scale ranging from −2 (strongly disagree) to +2 (strongly agree) was",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            10
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "To evaluate requirement completeness, addi-"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "titative survey data provided numerical comparisons between AI- and human-generated"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "for their expertise, ensuring the reliability of the data collected."
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "knowledge from different participant groups."
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "treated as approximately interval to allow calculation of averages and use of t-tests."
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "titative survey data provided numerical comparisons between AI- and human-generated"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\29.pdf"
+}

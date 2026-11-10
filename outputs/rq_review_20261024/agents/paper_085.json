@@ -1,0 +1,484 @@
+{
+  "paper_id": 85,
+  "title_match": true,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41
+  ],
+  "scope_note": "全文人工式AI辅助审阅；不是独立人工双人编码。",
+  "domain_codes": [
+    "D2",
+    "D4"
+  ],
+  "stage_codes": [
+    "S3"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R1",
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1",
+    "U3"
+  ],
+  "context_summary": "MemoVis帮助三维设计反馈提供者以文字、草图和生成参考图传达对卧室及汽车设计的修改意见。正式任务不是直接制作最终产品，而是设计评审反馈。",
+  "context_evidence": [
+    {
+      "page": 17,
+      "quote": "For T2 and T3, participants were asked to make the bedroom and the car more comfortable to live in and drive with, respectively."
+    },
+    {
+      "page": 11,
+      "quote": "MemoVis is a review tool for 3D design."
+    }
+  ],
+  "evaluations": [
+    {
+      "eval_id": "85-E1",
+      "legacy_eval_ids": [
+        "85-评价1"
+      ],
+      "purpose_codes": [
+        "P4"
+      ],
+      "object_codes": [
+        "O2",
+        "O3",
+        "O4",
+        "O5"
+      ],
+      "evaluator_codes": [
+        "NR"
+      ],
+      "source_codes": [
+        "H1",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G2",
+      "evaluation_stage_codes": [
+        "S3"
+      ],
+      "sample_n": 14,
+      "sample_description": "14名有设计反馈经验者，7男7女，均龄23.36；大多3D技能有限，3人自认熟练；不是14名专业设计师。",
+      "recruitment": "社交媒体、大学即时通讯群便利抽样，包括教职工、学生和校友。",
+      "task": "对卧室及汽车模型各写至少两条评语并为每条生成至少一张参考图。",
+      "comparator": "网络搜索/手绘（PowerPoint可选）对比MemoVis；不含其他生成AI工具基线。",
+      "procedure": "先练习角色模型；训练数据排除；工具条件顺序平衡，任务顺序固定；每任务后四题评分及半结构访谈，均57.34分钟。",
+      "analysis": "主观量表报告分布与正向人数；访谈演绎+归纳主题分析；导航时间另行ANOVA但非感知证据。",
+      "actual_results": "Q1正向13/14 vs 4/14；Q2 6 vs 1；Q3 10 vs 4；Q4 13 vs 3。",
+      "limitations": "小样本、两种模型、实验室任务、无生成AI对比；明确反馈者主要代表客户。",
+      "ethics": "IRB批准、知情同意及音视频/屏幕录制同意；无金钱奖励。",
+      "evidence": [
+        {
+          "field": "sample_description",
+          "page": 16,
+          "quote": "PF1 - PF14"
+        },
+        {
+          "field": "actual_results",
+          "page": 19,
+          "quote": "more participants rated positively in terms of reference image creations (6 vs. 1 for Q2), explicitness of the images (10 vs. 4 for Q3), and creativity support (13 vs. 3 for Q4)."
+        },
+        {
+          "field": "ethics",
+          "page": 34,
+          "quote": "This work has been approved by the Institutional Review Board."
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "RQ1视点导航、RQ2参考图制作；Q1–Q4及访谈直接围绕这些用途。",
+          "reason": "评价信息与工具的反馈可视化用途一致。",
+          "pages": [
+            16,
+            17
+          ],
+          "quote": "How the three types of image modifiers could help feedback providers visualize the textual comments for 3D design?"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "四个自编单题明确；Q4实际测发现新问题与新想法，并非全面创造力能力。",
+          "reason": "题项具表面对应，但未提供工具效度研究。",
+          "pages": [
+            17,
+            18
+          ],
+          "quote": "the reference images helped me discover more potential design problems and new ideas."
+        },
+        {
+          "standard": "A3",
+          "status": "P",
+          "facts": "访谈先独立阅读，再迭代归纳/演绎编码，附录公开代码本；单题评分未报告稳定性。",
+          "reason": "质性分析可信性有部分支持；数值评分的一致性尚无证据。",
+          "pages": [
+            18,
+            38,
+            41
+          ],
+          "quote": "We first read the transcripts independently and identified repeating ideas"
+        },
+        {
+          "standard": "A4",
+          "status": "S",
+          "facts": "14名反馈提供者、经历、任务、条件和实施步骤清楚，补充招募、任务和人口学。",
+          "reason": "研究条件足以解释结果。",
+          "pages": [
+            16,
+            17,
+            28,
+            36,
+            37
+          ],
+          "quote": "our current evaluation was based on a monolithic browser-based application in a controlled laboratory setting."
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "被试内两条件，平衡工具顺序；题项分布及访谈支持描述性主观比较。导航时间ANOVA是客观结果，不作为本链证据。",
+          "reason": "在描述性评分及访谈比较层面设计适当；不据此证明客观创造力提高。",
+          "pages": [
+            17,
+            18,
+            19
+          ],
+          "quote": "To prevent the sequencing effects, we counterbalanced the order of interface conditions."
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "列出正向评分人数、负向案例及主题引文；承认任务/样本/实验室局限。",
+          "reason": "主观结论可追溯且保留反例。",
+          "pages": [
+            19,
+            21,
+            22,
+            28
+          ],
+          "quote": "some participants commented on the necessity of being able to see multiple inference results"
+        },
+        {
+          "standard": "E1",
+          "status": "S",
+          "facts": "四题原文、5级、正向阈值、程序、结果图和代码本均有。",
+          "reason": "可以追溯主观测量的操作化与结果。",
+          "pages": [
+            17,
+            18,
+            19,
+            41
+          ],
+          "quote": "After each task, participants were invited to rate their agreement of four Questions (Q1–Q4) in a 5-point Likert scale"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [
+            426,
+            427
+          ],
+          "claim_quote": "Most participants found our viewpoint suggestion features useful (RQ1) and the image modifiers easy to use to visualize textual comments (RQ2).",
+          "claim_summary": "反馈制作及视点定位更容易",
+          "claim_type": "C2",
+          "construct_raw": "Navigating the Viewpoint; Creating Reference Images",
+          "indicator_raw": "Q1; Q2",
+          "item_quote": "it was easy to locate the viewpoint and/or target objects while creating feedback. | it was easy to create reference images with the image modifiers for my textual comments.",
+          "dimension_code": "D",
+          "indicator_code": "D1",
+          "instrument_raw": "自编Q1/Q2 5级同意评分；半结构访谈",
+          "tool_family_codes": [
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "Q2基线条件改为with the method(s) I chose.",
+          "response_scoring": "5点；>3为正向；分别报告单题人数，不合总分。",
+          "validity_evidence": "与具体任务面对对应；未报告独立效度。",
+          "reliability_evidence": "评分稳定性未报告；访谈独立读稿与迭代代码本。",
+          "result_quote": "More participants positively believed that it was easy to locate the viewpoints and target objects with MemoVis, compared to the baseline (13 vs. 4, Figure9(a)).",
+          "effect_direction": "正向",
+          "pages": [
+            17,
+            18,
+            19
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            428
+          ],
+          "claim_quote": "Most participants also believed the reference images created with MemoVis could easily and explicitly convey the gist of 3D design feedback.",
+          "claim_summary": "图像帮助明确传达设计反馈",
+          "claim_type": "C2",
+          "construct_raw": "Explicitness of the Reference Images",
+          "indicator_raw": "Q3",
+          "item_quote": "the reference images easily and explicitly conveyed the gist of my design comments.",
+          "dimension_code": "D",
+          "indicator_code": "D8",
+          "instrument_raw": "自编Q3 5级同意评分；半结构访谈",
+          "tool_family_codes": [
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "5点；>3正向。",
+          "validity_evidence": "明确指向反馈传达，不等同于可解释AI内部推理。",
+          "reliability_evidence": "NR（量表）；主题分析步骤公开。",
+          "result_quote": "explicitness of the images (10 vs. 4 for Q3)",
+          "effect_direction": "正向但有失败个案",
+          "pages": [
+            17,
+            19,
+            21,
+            22,
+            18
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            429
+          ],
+          "claim_quote": "Most participants recognized the benefits of MemoVis for inspiring new ideas",
+          "claim_summary": "参考图启发新问题与新想法",
+          "claim_type": "C2",
+          "construct_raw": "Creativity Support",
+          "indicator_raw": "Q4",
+          "item_quote": "the reference images helped me discover more potential design problems and new ideas.",
+          "dimension_code": "C",
+          "indicator_code": "C1",
+          "instrument_raw": "自编Q4 5级同意评分；访谈（不是CSI）",
+          "tool_family_codes": [
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "5点；>3正向。",
+          "validity_evidence": "题项测灵感启发；未以创造力支持具名指数操作化。",
+          "reliability_evidence": "NR（量表）；质性主题有步骤。",
+          "result_quote": "creativity support (13 vs. 3 for Q4)",
+          "effect_direction": "正向",
+          "pages": [
+            17,
+            19,
+            20
+          ],
+          "audit_overrides": []
+        }
+      ]
+    },
+    {
+      "eval_id": "85-E2",
+      "legacy_eval_ids": [
+        "85-评价2"
+      ],
+      "purpose_codes": [
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O4"
+      ],
+      "evaluator_codes": [
+        "V2"
+      ],
+      "source_codes": [
+        "H2",
+        "H3"
+      ],
+      "setting_code": "L2",
+      "design_code": "G2",
+      "evaluation_stage_codes": [
+        "S3"
+      ],
+      "sample_n": 8,
+      "sample_description": "8名有3D设计经验的学生社团成员，4男4女，均龄23.75；与之前研究不重合。",
+      "recruitment": "机构3D设计与XR学生社团。",
+      "task": "评价文字反馈和参考图是否对齐、传达要旨。",
+      "comparator": "Study1基线44条与MemoVis39条反馈。",
+      "procedure": "83条随机打散为8组；每名评价者评一组；5级并可写理由；10–15分钟。",
+      "analysis": "描述性5级分布与正向比例；开放理由归纳编码。",
+      "actual_results": "MemoVis正向66.67%，基线38.64%；有效图清晰聚焦，失败图存在上下文错配、缺细节和全失败。",
+      "limitations": "单图单人评分、样本与资源有限，未检验真正修改设计后的效果。",
+      "ethics": "同上IRB与同意。",
+      "evidence": [
+        {
+          "field": "procedure",
+          "page": 22,
+          "quote": "We then assigned the eight surveys to PD1 to PD8 for evaluation."
+        },
+        {
+          "field": "actual_results",
+          "page": 22,
+          "quote": "around66.67% of the reference images created by MemoVis were rated positively, versus only around38.64%"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "独立设计者检验图像能否传达文字要旨。",
+          "reason": "问题与评分直接对应。",
+          "pages": [
+            22
+          ],
+          "quote": "how the reference images created by MemoVis could convey the gist of the 3D design feedback"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "明确单项判断要旨传达；原始完整题干仅以测量描述呈现。",
+          "reason": "内容有表面匹配，缺效度检验。",
+          "pages": [
+            22
+          ],
+          "quote": "how well the reference image can convey the gist of the textual comment"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "每张图由一位参与者评分；未有重复评分/一致性报告。正文5.2及附录E/H已查。",
+          "reason": "无法判断评分跨评价者的稳定性。",
+          "pages": [
+            22,
+            37,
+            41
+          ],
+          "quote": "the Likert-scale score for each reference image rated by one designer participants."
+        },
+        {
+          "standard": "A4",
+          "status": "S",
+          "facts": "8名具3D经验学生社团参与者，在线评83条反馈；分配与材料清楚。",
+          "reason": "足以理解研究情境。",
+          "pages": [
+            22,
+            37
+          ],
+          "quote": "from an institutional 3D design & eXtended Reality student society."
+        },
+        {
+          "standard": "A6",
+          "status": "P",
+          "facts": "随机打乱83条反馈，分8组由8人分别评；对比正向比例，无针对人/图差异的分析。",
+          "reason": "可报告样本内分布；条件差异无法独立于评分者及反馈内容充分验证。",
+          "pages": [
+            22,
+            23
+          ],
+          "quote": "we randomly shuffled all design feedback, which were then divided into eight groups."
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "图12列各评分及条件比例，质性解释成功和失败；局限明确。",
+          "reason": "描述性结论有结果支持。",
+          "pages": [
+            22,
+            24,
+            28
+          ],
+          "quote": "around66.67% of the reference images created by MemoVis were rated positively, versus only around38.64%"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "量尺、分配与结果图明确，缺完整问卷、单图重复评价和充分质性实施细节。",
+          "reason": "方法可以部分复核。",
+          "pages": [
+            22,
+            23,
+            41
+          ],
+          "quote": "Each questionnaire takes approximately10–15 min to complete."
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [
+            430
+          ],
+          "claim_quote": "participants liked the explicitness of the generated reference images",
+          "claim_summary": "独立评价者认为生成图更明确传达文字意图",
+          "claim_type": "C2",
+          "construct_raw": "gist of the textual comment / explicitness",
+          "indicator_raw": "5-point rating of reference-image correspondence",
+          "item_quote": "NR（文中给出测量内容：how well the reference image can convey the gist of the textual comment）",
+          "dimension_code": "A",
+          "indicator_code": "A5",
+          "instrument_raw": "自编5级图文对应评价及文字理由",
+          "tool_family_codes": [
+            "M1",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "1强烈不同意–5强烈同意；>3正向。",
+          "validity_evidence": "内容面向图文对应而非最终产品审美；未报告效度检验。",
+          "reliability_evidence": "每图1人；未报告评分一致性。",
+          "result_quote": "around66.67% of the reference images created by MemoVis were rated positively, versus only around38.64%",
+          "effect_direction": "正向但并非全部图",
+          "pages": [
+            22,
+            23,
+            24
+          ],
+          "audit_overrides": []
+        }
+      ]
+    }
+  ],
+  "excluded_legacy_rows": [],
+  "added_evidence_notes": "完整检查形成性访谈（第7–8页）和档案反馈（第8–10页）：其主要为既有非AI工作流需求与预期GenAI用途，未并入正式使用MemoVis的效果分布。旧row429由能力扩展改为C1灵感刺激，依据Q4实际题干；旧426、427合并同工具同指标并保留两个题项。",
+  "category_gaps": [],
+  "metadata_corrections": {
+    "title": "MemoVis: A GenAI-Powered Tool for Creating Companion Reference Images for 3D Design Feedback",
+    "publication_date": "November 2024"
+  }
+}

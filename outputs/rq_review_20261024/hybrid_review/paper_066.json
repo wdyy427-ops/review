@@ -1,0 +1,772 @@
+{
+  "paper_id": 66,
+  "title": "Investigating intelligent generation of multimodal creative stimuli in conceptual design: strategies and implications",
+  "doi": "10.1080/09544828.2025.2527517",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    8,
+    13,
+    14,
+    15,
+    16,
+    17,
+    21,
+    24,
+    25,
+    26,
+    30,
+    33,
+    35,
+    36,
+    37,
+    38
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F4"
+  ],
+  "ai_role_codes": [
+    "R1",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "The paper explores the intelligent generation of multimodal creative stimuli in conceptual design, focusing on strategies and implications. It introduces a system called InsPilot that generates stimuli based on design stages, ideas, and input states. A comparative study with GPT-4V is conducted to evaluate the system's effectiveness in supporting design creativity.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "066-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V2"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4"
+      ],
+      "setting_code": "L1",
+      "design_code": "G2",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [],
+      "sample_n": 12,
+      "sample_description": "Experts’ Ratings. In the Rapid Divergence Stage, the novelty and diversity of ideas produced with InsPilot were significantly higher than GPT-4V (p novelty = .046, p diversity = .049).",
+      "recruitment": "This experiment involved 12 participants recruited from social media (hereinafter referred",
+      "task": "Stimulusgeneration Basedondesigntask,the",
+      "comparator": "and their prompt skills, we employed a within-subject design.",
+      "procedure": "In the experiment, participants performed two different conceptual design tasks under",
+      "analysis": "normal distributions; thus, the Wilcoxon signed-rank test was used for further compar-",
+      "actual_results": "In the Convergence stage, ideas generated with InsPilot were rated significantly higher in practicality (p = .014).",
+      "limitations": "",
+      "ethics": "Before the experiment, participants signed an informed consent form and provided basic",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 16,
+          "quote": "Experts’ Ratings. In the Rapid Divergence Stage, the novelty and diversity of ideas produced with InsPilot were significantly higher than GPT-4V (p novelty = .046, p diversity = .049)."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "User experiment The experiment primarily serves two goals: (1) to validate the feasibility of the proposed interaction pipeline and preliminarily evaluate InsPilot’s effectiveness in providing cre- ativity support for conceptual design, and (2) to explore the impacts and implications of creative stimulus generation, providing a reference for future research on utilising AI-generated stimuli in conceptual design.",
+          "claim_summary": "User experiment The experiment primarily serves two goals: (1) to validate the feasibility of the proposed interaction pipeline and preliminarily evaluate InsPilot’s effectiveness in providing cre- ativity support for conceptual design, and (2) to explore the impacts and implications of creative sti",
+          "claim_type": "C4",
+          "construct_raw": "creative",
+          "indicator_raw": "creative",
+          "item_quote": "User experiment The experiment primarily serves two goals: (1) to validate the feasibility of the proposed interaction pipeline and preliminarily evaluate InsPilot’s effectiveness in providing cre- ativity support for conceptual design, and (2) to explore the impacts and implications of creative stimulus generation, providing a reference for future research on utilising AI-generated stimuli in conceptual design.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "Evaluationmetrics Participants evaluated two systems quantitatively in terms of the System Usability Scale (SUS) (Bangor, Kortum, and Miller 2008), the Creativi；After each session, participants filled out questionnaires (see Section 5.2) and received a semi-structured interview.；After each session, participants filled out questionnaires (see Section 5.2) and received a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5",
+            "M7"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "For expert ratings, Kendall’s W test confirmed strong inter-rater agreement across all stages (W ≥ 0.6, p < 0.001).",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            13
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Referring to the work of Sarkar and Chakrabarti (2011), novelty and diver- sity were still evaluated using a seven-point scale, while practicality was scored based on the product of three sub-criteria: (1) Level of importance: a five-point scale, where 1 = not important at all, 5= extremely important. (2) Rate of popularity: a range from 0–1, where 0 = no one would use it, 1= everyone would use it, rounded to one decimal place. (3) Rate of use: a range from 0–1, where 0 = no one would use it, 1 = everyone would use it, rounded to one decimal place.",
+          "claim_summary": "Referring to the work of Sarkar and Chakrabarti (2011), novelty and diver- sity were still evaluated using a seven-point scale, while practicality was scored based on the product of three sub-criteria: (1) Level of importance: a five-point scale, where 1 = not important at all, 5= extremely importan",
+          "claim_type": "C1",
+          "construct_raw": "practicality",
+          "indicator_raw": "practicality",
+          "item_quote": "For output creativity, participants’ evaluation criteria included novelty, practicality, and diversity.",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "Evaluationmetrics Participants evaluated two systems quantitatively in terms of the System Usability Scale (SUS) (Bangor, Kortum, and Miller 2008), the Creativi；After each session, participants filled out questionnaires (see Section 5.2) and received a semi-structured interview.；After each session, participants filled out questionnaires (see Section 5.2) and received a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5",
+            "M7"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "For expert ratings, Kendall’s W test confirmed strong inter-rater agreement across all stages (W ≥ 0.6, p < 0.001).",
+          "result_quote": "In the Convergence stage, ideas generated with InsPilot were rated significantly higher in practicality (p = .014).",
+          "effect_direction": "正向",
+          "pages": [
+            14,
+            15,
+            16
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "User experiment The experiment primarily serves two goals: (1) to validate the feasibility of the proposed interaction pipeline and preliminarily evaluate InsPilot’s effectiveness in providing cre- ativity support for conceptual design, and (2) to explore the impacts and implications of creative stimulus generation, providing a reference for future research on utilising AI-generated stimuli in conceptual design.",
+          "claim_summary": "User experiment The experiment primarily serves two goals: (1) to validate the feasibility of the proposed interaction pipeline and preliminarily evaluate InsPilot’s effectiveness in providing cre- ativity support for conceptual design, and (2) to explore the impacts and implications of creative sti",
+          "claim_type": "C4",
+          "construct_raw": "feasib",
+          "indicator_raw": "feasib",
+          "item_quote": "User experiment The experiment primarily serves two goals: (1) to validate the feasibility of the proposed interaction pipeline and preliminarily evaluate InsPilot’s effectiveness in providing cre- ativity support for conceptual design, and (2) to explore the impacts and implications of creative stimulus generation, providing a reference for future research on utilising AI-generated stimuli in conceptual design.",
+          "dimension_code": "A",
+          "indicator_code": "A4",
+          "instrument_raw": "Evaluationmetrics Participants evaluated two systems quantitatively in terms of the System Usability Scale (SUS) (Bangor, Kortum, and Miller 2008), the Creativi；After each session, participants filled out questionnaires (see Section 5.2) and received a semi-structured interview.；After each session, participants filled out questionnaires (see Section 5.2) and received a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5",
+            "M7"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "For expert ratings, Kendall’s W test confirmed strong inter-rater agreement across all stages (W ≥ 0.6, p < 0.001).",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            13
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Specifically, InsPilot outperformed GPT-4V in all dimensions, with notable advantages in the Exploration, Expressiveness, and Immersion dimensions.",
+          "claim_summary": "Specifically, InsPilot outperformed GPT-4V in all dimensions, with notable advantages in the Exploration, Expressiveness, and Immersion dimensions.",
+          "claim_type": "C2",
+          "construct_raw": "Immersion",
+          "indicator_raw": "Immersion",
+          "item_quote": "Specifically, InsPilot outperformed GPT-4V in all dimensions, with notable advantages in the Exploration, Expressiveness, and Immersion dimensions.",
+          "dimension_code": "C",
+          "indicator_code": "C4",
+          "instrument_raw": "Evaluationmetrics Participants evaluated two systems quantitatively in terms of the System Usability Scale (SUS) (Bangor, Kortum, and Miller 2008), the Creativi；After each session, participants filled out questionnaires (see Section 5.2) and received a semi-structured interview.；After each session, participants filled out questionnaires (see Section 5.2) and received a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5",
+            "M7"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "For expert ratings, Kendall’s W test confirmed strong inter-rater agreement across all stages (W ≥ 0.6, p < 0.001).",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            16
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Evaluationmetrics Participants evaluated two systems quantitatively in terms of the System Usability Scale (SUS) (Bangor, Kortum, and Miller 2008), the Creativity Support Index (CSI) (Cherry and Latulipe 2014), and the creativity of their design output.",
+          "claim_summary": "Evaluationmetrics Participants evaluated two systems quantitatively in terms of the System Usability Scale (SUS) (Bangor, Kortum, and Miller 2008), the Creativity Support Index (CSI) (Cherry and Latulipe 2014), and the creativity of their design output.",
+          "claim_type": "C1",
+          "construct_raw": "usability",
+          "indicator_raw": "usability",
+          "item_quote": "As indicated by the Wilcoxon test, the overall usability of InsPilot was significantly higher than that of GPT-4V (p = .005), illustrating the high usability of InsPilot.",
+          "dimension_code": "D",
+          "indicator_code": "D1",
+          "instrument_raw": "Evaluationmetrics Participants evaluated two systems quantitatively in terms of the System Usability Scale (SUS) (Bangor, Kortum, and Miller 2008), the Creativi；After each session, participants filled out questionnaires (see Section 5.2) and received a semi-structured interview.；After each session, participants filled out questionnaires (see Section 5.2) and received a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5",
+            "M7"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "For expert ratings, Kendall’s W test confirmed strong inter-rater agreement across all stages (W ≥ 0.6, p < 0.001).",
+          "result_quote": "As indicated by the Wilcoxon test, the overall usability of InsPilot was significantly higher than that of GPT-4V (p = .005), illustrating the high usability of InsPilot.",
+          "effect_direction": "正向",
+          "pages": [
+            14,
+            16
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "We chose GPT-4V for the control condition primarily because: (1) GPT-4V is among the most effective MLLMs currently available, with robust capabilities in generating texts and images, aligning with the modalities of stimuli in our system. (2) InsPilot was implemented with the API of GPT-4V, and therefore, the quality of generated stimuli from our system and GPT-4V are comparable.",
+          "claim_summary": "We chose GPT-4V for the control condition primarily because: (1) GPT-4V is among the most effective MLLMs currently available, with robust capabilities in generating texts and images, aligning with the modalities of stimuli in our system. (2) InsPilot was implemented with the API of GPT-4V, and ther",
+          "claim_type": "C1",
+          "construct_raw": "control",
+          "indicator_raw": "control",
+          "item_quote": "We chose GPT-4V for the control condition primarily because: (1) GPT-4V is among the most effective MLLMs currently available, with robust capabilities in generating texts and images, aligning with the modalities of stimuli in our system. (2) InsPilot was implemented with the API of GPT-4V, and therefore, the quality of generated stimuli from our system and GPT-4V are comparable.",
+          "dimension_code": "D",
+          "indicator_code": "D3",
+          "instrument_raw": "Evaluationmetrics Participants evaluated two systems quantitatively in terms of the System Usability Scale (SUS) (Bangor, Kortum, and Miller 2008), the Creativi；After each session, participants filled out questionnaires (see Section 5.2) and received a semi-structured interview.；After each session, participants filled out questionnaires (see Section 5.2) and received a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5",
+            "M7"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "For expert ratings, Kendall’s W test confirmed strong inter-rater agreement across all stages (W ≥ 0.6, p < 0.001).",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            13
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": "In this way, we aim to"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": "most effective MLLMs currently available, with robust capabilities in generating texts and"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": "For expert ratings, Kendall’s W test confirmed strong inter-rater agreement across"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": "participants designed with InsPilot using a 12.9-inch tablet and stylus."
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": "normal distributions; thus, the Wilcoxon signed-rank test was used for further compar-"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": "In the Convergence stage, ideas generated with InsPilot were rated significantly higher in practicality (p = .014)."
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "quote": "most effective MLLMs currently available, with robust capabilities in generating texts and"
+        }
+      ]
+    },
+    {
+      "eval_id": "066-E2",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V3"
+      ],
+      "source_codes": [
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K2",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q3",
+        "Q4"
+      ],
+      "sample_n": 12,
+      "sample_description": "Participants found GenAI struggles in representing complex products combining multiple functionalities or with entirely new structures.",
+      "recruitment": "",
+      "task": "abstract concepts based on the task ‘design an assistance product for senior citizens’",
+      "comparator": "study, InsPilot was compared with GPT-4V to reveal quantitative and qualitative insights.",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "To sum up, future work could further investigate",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 25,
+          "quote": "Participants found GenAI struggles in representing complex products combining multiple functionalities or with entirely new structures."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Participants found GenAI struggles in representing complex products combining multiple functionalities or with entirely new structures.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "Participants found GenAI struggles in representing complex products combining multiple functionalities or with entirely new structures.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "generating several design ideas, indicating a higher reliance on AI-generated ideas and",
+          "tool_family_codes": [
+            "UNMAPPED"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            21
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": "the provided stimuli aim to support problem identification and resolution across design"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": "generating several design ideas, indicating a higher reliance on AI-generated ideas and"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": "through information exchange’, helping participants ‘know most of the possible direc-"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": "generating several design ideas, indicating a higher reliance on AI-generated ideas and"
+        }
+      ]
+    },
+    {
+      "eval_id": "066-E3",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V3"
+      ],
+      "source_codes": [],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K2",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q3",
+        "Q4"
+      ],
+      "sample_n": 12,
+      "sample_description": "Participants found GenAI struggles in representing complex products combining multiple functionalities or with entirely new structures.",
+      "recruitment": "",
+      "task": "Secondly, designers’ familiarity with the design task typically affects their efficiency in",
+      "comparator": "study, InsPilot was compared with GPT-4V to reveal quantitative and qualitative insights.",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "To sum up, future work could further investigate",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 25,
+          "quote": "Participants found GenAI struggles in representing complex products combining multiple functionalities or with entirely new structures."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Participants found GenAI struggles in representing complex products combining multiple functionalities or with entirely new structures.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "Participants found GenAI struggles in representing complex products combining multiple functionalities or with entirely new structures.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "generating stimuli throughout the conceptual design process.",
+          "tool_family_codes": [
+            "UNMAPPED"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            25
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": "the provided stimuli aim to support problem identification and resolution across design"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": "generating stimuli throughout the conceptual design process."
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": "This pattern indicates that many participants did not fully exploit GPT-4V for"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": "generating stimuli throughout the conceptual design process."
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\66.pdf"
+}

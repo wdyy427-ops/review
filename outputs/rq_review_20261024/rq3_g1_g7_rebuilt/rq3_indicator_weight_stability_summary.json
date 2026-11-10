@@ -1,0 +1,17 @@
+{
+  "n": 95,
+  "papers": 27,
+  "classes": 10,
+  "repeats": 20,
+  "folds_per_repeat": 3,
+  "permutations_per_group_fold": 10,
+  "full_macro_f1_mean": 0.5282705959617725,
+  "full_macro_f1_ci": [
+    0.5081163770869653,
+    0.548589882747971
+  ],
+  "robust_positive_groups": [
+    "G1_评价目的",
+    "G2_设计领域"
+  ]
+}

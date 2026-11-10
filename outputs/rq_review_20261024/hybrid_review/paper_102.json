@@ -1,0 +1,221 @@
+{
+  "paper_id": 102,
+  "title": "Data-driven Digital Lighting Design for Residential Indoor Spaces",
+  "doi": "10.1145/3582001",
+  "year": 2023,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2",
+    "D4"
+  ],
+  "stage_codes": [
+    "S1",
+    "S3"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F3",
+    "F4",
+    "F5"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "This paper presents a deep learning-based framework for automatic digital lighting design in residential indoor spaces. It uses a dataset of 6k 3D scenes to learn lighting guidelines and principles, generating lighting designs comparable to those of professional human designers.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "102-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O7"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2"
+      ],
+      "source_codes": [
+        "H2",
+        "H6"
+      ],
+      "setting_code": "NR",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K3",
+        "K4",
+        "K5",
+        "K6"
+      ],
+      "constraint_codes": [],
+      "sample_n": 32,
+      "sample_description": "Half of the participants in each perceptual study were professional interior designers recruited from interior design companies.",
+      "recruitment": "Then, we recruited participants to make a side-by-side",
+      "task": "to reach the target illuminance on the task plane of the furniture.",
+      "comparator": "rule-based baseline method and our method.",
+      "procedure": "Each participant performed 24 comparison tasks that are sorted",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 13,
+          "quote": "Half of the participants in each perceptual study were professional interior designers recruited from interior design companies."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Then, we recruited participants to make a side-by-side comparisonbetweentwoscenes.Foreachpairofcomparisons,we designedthreequestionsmotivatedbypreviouswork[JinandLee 2019], which evaluate the lighting design as a whole. •Q1: Which scene has a more appropriate light arrangement (position and number)? •Q2: Which scene has a more visually comfortable lighting effect? •Q3: Which scene has a more appropriate light placement and brightness to interact with the furniture?",
+          "claim_summary": "Then, we recruited participants to make a side-by-side comparisonbetweentwoscenes.Foreachpairofcomparisons,we designedthreequestionsmotivatedbypreviouswork[JinandLee 2019], which evaluate the lighting design as a whole. •Q1: Which scene has a more appropriate light arrangement (position and number)?",
+          "claim_type": "C1",
+          "construct_raw": "appropriat",
+          "indicator_raw": "appropriat",
+          "item_quote": "Furthermore, even if the target focal points are appropriately gen- erated, key lights may be either excessively aggregated or lacking in some regions.",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "NR",
+          "tool_family_codes": [
+            "NR"
+          ],
+          "tool_origin_code": "NR",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            12
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": "Comparison with the rule-based method.To evaluate the effec-"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": "portsgeneratingdifferentlightingstylesusingthemultimodalgen-"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": "et al.2012], which has been used as a reliable quantitative metric"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": "Then, we recruited participants to make a side-by-side"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": "portsgeneratingdifferentlightingstylesusingthemultimodalgen-"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\102.pdf"
+}

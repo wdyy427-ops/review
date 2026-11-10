@@ -1,0 +1,280 @@
+{
+  "paper_id": 54,
+  "title": "A comparative study on retrieval-augmented generation and chain-of-thought applications for LLM-assisted engineering design ideation",
+  "doi": "10.1080/09544828.2025.2574209",
+  "year": 2025,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    15,
+    16,
+    17,
+    18,
+    20,
+    22,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U5",
+    "U1"
+  ],
+  "context_summary": "This study compares RAG and CoT methods for LLM-assisted engineering design ideation using quantitative metrics and expert evaluations. It aims to understand trade-offs between these techniques for practical application.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "054-E1",
+      "purpose_codes": [
+        "P1",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V4"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "L2",
+      "design_code": "G2",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 31,
+      "sample_description": "puts, demonstrating high feature-level distinctiveness.",
+      "recruitment": "Four domain experts were recruited for this validation study, comprising two males aged",
+      "task": "The comprehensive statistical analysis across 40 product design tasks provides crucial",
+      "comparator": "The two within-subject factors were RAG (levels: present, absent) and CoT (levels: present,",
+      "procedure": "The expert evaluation was conducted using a double-blind procedure to validate the",
+      "analysis": "repeated-measures factorial analysis of variance (ANOVA) was conducted for each of the",
+      "actual_results": "Instead, there is a clear and statistically significant trade-off between techniques optimised for design comprehensiveness and those optimised for creative ideation.",
+      "limitations": "Studylimitationsandfuturedirections",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 27,
+          "quote": "puts, demonstrating high feature-level distinctiveness."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Its capacity for producing innovative ideas remains unmatched among evaluated techniques. • Balanced Integration: The RAG-CoT combination emerges as the optimal all-around performer, successfully balancing RAG-derived novelty with CoT-enhanced actionabil- ity, making it robust for tasks requiring both innovation and practical viability.",
+          "claim_summary": "Its capacity for producing innovative ideas remains unmatched among evaluated techniques. • Balanced Integration: The RAG-CoT combination emerges as the optimal all-around performer, successfully balancing RAG-derived novelty with CoT-enhanced actionabil- ity, making it robust for tasks requiring bo",
+          "claim_type": "C3",
+          "construct_raw": "Creative",
+          "indicator_raw": "Creative",
+          "item_quote": "CoT techniques excel in Requirement Fulfilment and Actionability, while conventional approaches main- tain superior breadth and richness. • Creative Ideation: When the primary goal involves breaking conventional bound- aries and generating novel concepts, even accepting potential quality trade-offs, RAG represents the superior choice.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "“A Survey on Evaluation of Large Language Models.” ACM Transactions on Intelligent Systems and Technology 15 (3): 1–45. https://doi.org/10.1145/3641289.；Following the implementation of this scoring metric, the 10 highest-ranking patents were stored for subsequent processing.；This indicates that GPT is more sensitive to the conceptual constraints imposed by these techniques, reinforcing the observation that while the directional effe",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To ensure consis- tent and reliable output, the LLM was constrained to generate responses in JSON format using a predefined schema.",
+          "result_quote": "Instead, there is a clear and statistically significant trade-off between techniques optimised for design comprehensiveness and those optimised for creative ideation.",
+          "effect_direction": "NR",
+          "pages": [
+            31,
+            32
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "In contrast, CoT was found to enhance a design’s usability and was rated highest by experts for Requirement Fulfilment, demonstrating its strength in elaborating on known requirements, though it may limit conceptual diversity.",
+          "claim_summary": "In contrast, CoT was found to enhance a design’s usability and was rated highest by experts for Requirement Fulfilment, demonstrating its strength in elaborating on known requirements, though it may limit conceptual diversity.",
+          "claim_type": "C1",
+          "construct_raw": "usability",
+          "indicator_raw": "usability",
+          "item_quote": "In contrast, CoT was found to enhance a design’s usability and was rated highest by experts for Requirement Fulfilment, demonstrating its strength in elaborating on known requirements, though it may limit conceptual diversity.",
+          "dimension_code": "D",
+          "indicator_code": "D1",
+          "instrument_raw": "“A Survey on Evaluation of Large Language Models.” ACM Transactions on Intelligent Systems and Technology 15 (3): 1–45. https://doi.org/10.1145/3641289.；Following the implementation of this scoring metric, the 10 highest-ranking patents were stored for subsequent processing.；This indicates that GPT is more sensitive to the conceptual constraints imposed by these techniques, reinforcing the observation that while the directional effe",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To ensure consis- tent and reliable output, the LLM was constrained to generate responses in JSON format using a predefined schema.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            32
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": "puts, demonstrating high feature-level distinctiveness."
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": "Inter-RaterReliability(ICC)forexpertratingsonfourcriteria."
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": "Four domain experts were recruited for this validation study, comprising two males aged"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": "repeated-measures factorial analysis of variance (ANOVA) was conducted for each of the"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": "Instead, there is a clear and statistically significant trade-off between techniques optimised for design comprehensiveness and those optimised for creative ideation."
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": "puts, demonstrating high feature-level distinctiveness."
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\54.pdf"
+}

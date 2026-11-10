@@ -1,0 +1,291 @@
+{
+  "paper_id": 68,
+  "title": "Machine learning-integrated random shape generation for brand-styled mouse design",
+  "doi": "10.1080/09544828.2025.2558334",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    13,
+    20,
+    21,
+    23,
+    24,
+    25,
+    26,
+    28,
+    29
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S3",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U5",
+    "U6",
+    "U1"
+  ],
+  "context_summary": "The paper proposes a design methodology integrating machine learning and random shape generation to create brand-styled products, using computer mice as a case study. It includes a survey comparing computer-generated and designer-created mice.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "068-E1",
+      "purpose_codes": [
+        "P2",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V2",
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G7",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K2",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 31,
+      "sample_description": "A two-sample t-test was used to compare ratings for appearance and usability. Results showed that the randomly computer-generated group received significantly higher appearance scores than the designer-created group (3.21 vs. 2.68), with a T-value of 2.54 and a p-value of 0.012.",
+      "recruitment": "",
+      "task": "",
+      "comparator": "Compared with previous studies, a notable difference emerges: randomly generated",
+      "procedure": "",
+      "analysis": "generated and designer-created mice using descriptive statistics and two-sample t-tests,",
+      "actual_results": "In summary, the study found that randomly computer-generated mice outperformed designer-createdonesinbothappearanceandusability,withstatisticallysignificantdiffer- ences.Thesefindingschallengethetraditionalbeliefthathumandesignalwayssurpasses computer-generatedshape,demonstratingthatrandomshapegenerationcanyielddesign qualitycomparabletohumaneffortsininputdevicedevelopment.",
+      "limitations": "",
+      "ethics": "Ethical approval statement",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 23,
+          "quote": "A two-sample t-test was used to compare ratings for appearance and usability. Results showed that the randomly computer-generated group received significantly higher appearance scores than the designer-created group (3.21 vs. 2.68), with a T-value of 2.54 and a p-value of 0.012."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "In summary, the study found that randomly computer-generated mice outperformed designer-createdonesinbothappearanceandusability,withstatisticallysignificantdiffer- ences.Thesefindingschallengethetraditionalbeliefthathumandesignalwayssurpasses computer-generatedshape,demonstratingthatrandomshapegenerationcanyielddesign qualitycomparabletohumaneffortsininputdevicedevelopment.",
+          "claim_summary": "In summary, the study found that randomly computer-generated mice outperformed designer-createdonesinbothappearanceandusability,withstatisticallysignificantdiffer- ences.Thesefindingschallengethetraditionalbeliefthathumandesignalwayssurpasses computer-generatedshape,demonstratingthatrandomshapegener",
+          "claim_type": "C2",
+          "construct_raw": "effort",
+          "indicator_raw": "effort",
+          "item_quote": "In summary, the study found that randomly computer-generated mice outperformed designer-createdonesinbothappearanceandusability,withstatisticallysignificantdiffer- ences.Thesefindingschallengethetraditionalbeliefthathumandesignalwayssurpasses computer-generatedshape,demonstratingthatrandomshapegenerationcanyielddesign qualitycomparabletohumaneffortsininputdevicedevelopment.",
+          "dimension_code": "B",
+          "indicator_code": "B2",
+          "instrument_raw": "Fivemiceusedforthesurveyofbrandmice,comparingcomputer-generatedanddesigner- created.；As shown in Figure8, the projected areas of samples 1 through 200 were ranked in order.",
+          "tool_family_codes": [
+            "M1",
+            "M3"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "In summary, the study found that randomly computer-generated mice outperformed designer-createdonesinbothappearanceandusability,withstatisticallysignificantdiffer- ences.Thesefindingschallengethetraditionalbeliefthathumandesignalwayssurpasses computer-generatedshape,demonstratingthatrandomshapegenerationcanyielddesign qualitycomparabletohumaneffortsininputdevicedevelopment.",
+          "effect_direction": "正向",
+          "pages": [
+            24
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "A two-sample t-test was used to compare ratings for appearance and usability.",
+          "claim_summary": "A two-sample t-test was used to compare ratings for appearance and usability.",
+          "claim_type": "C1",
+          "construct_raw": "usability",
+          "indicator_raw": "usability",
+          "item_quote": "Surveyonrandomlyshapegeneratedvs.designer-createdbrandmouse designs Thisstudyconcludeswithausersurveycomparingmousedesignsrandomlygeneratedand thosedesignedbyhumandesigners,withafocusonvisualappearanceandusability.The goalistodeterminewhethertheuseofrandomshapegenerationforinputdevicedevelop- mentcanmeetmarketneeds.Participantswerefrequentcomputermouseusers,excluding individualswithsevereupperlimbdisabilitiesorneuromuscularconditions.Thesurveywas conducted with 31 participants, primarily second-year students, during a product design course.",
+          "dimension_code": "D",
+          "indicator_code": "D1",
+          "instrument_raw": "Fivemiceusedforthesurveyofbrandmice,comparingcomputer-generatedanddesigner- created.；As shown in Figure8, the projected areas of samples 1 through 200 were ranked in order.",
+          "tool_family_codes": [
+            "M1",
+            "M3"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "In summary, the study found that randomly computer-generated mice outperformed designer-createdonesinbothappearanceandusability,withstatisticallysignificantdiffer- ences.Thesefindingschallengethetraditionalbeliefthathumandesignalwayssurpasses computer-generatedshape,demonstratingthatrandomshapegenerationcanyielddesign qualitycomparabletohumaneffortsininputdevicedevelopment.",
+          "effect_direction": "正向",
+          "pages": [
+            23,
+            24
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The filtering system ranks the 2D samples by area and selects the optimalcandidates.Thedesignsystemconvertstheseintomouseprototypes,and theclassificationsystemevaluatesthebrandstylebasedonthe3Dimages.",
+          "claim_summary": "The filtering system ranks the 2D samples by area and selects the optimalcandidates.Thedesignsystemconvertstheseintomouseprototypes,and theclassificationsystemevaluatesthebrandstylebasedonthe3Dimages.",
+          "claim_type": "C1",
+          "construct_raw": "brand",
+          "indicator_raw": "brand",
+          "item_quote": "Fivemiceusedforthesurveyofbrandmice,comparingcomputer-generatedanddesigner- created.",
+          "dimension_code": "E",
+          "indicator_code": "E7",
+          "instrument_raw": "Fivemiceusedforthesurveyofbrandmice,comparingcomputer-generatedanddesigner- created.；As shown in Figure8, the projected areas of samples 1 through 200 were ranked in order.",
+          "tool_family_codes": [
+            "M1",
+            "M3"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            23
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "approach,clearlydemonstratinghowfinalsamplesareselected."
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "eratedsamples.Additionally,theapplicationofCADhelpsconvert3Drepresentationsinto"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "generated and designer-created mice using descriptive statistics and two-sample t-tests,"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "In summary, the study found that randomly computer-generated mice outperformed designer-createdonesinbothappearanceandusability,withstatisticallysignificantdiffer- ences.Thesefindingschallengethetraditionalbeliefthathumandesignalwayssurpasses computer-generatedshape,demonstratingthatrandomshapegenerationcanyielddesign qualitycomparabletohumaneffort"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "approach,clearlydemonstratinghowfinalsamplesareselected."
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\68.pdf"
+}

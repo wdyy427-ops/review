@@ -1,0 +1,362 @@
+{
+  "paper_id": 57,
+  "title": "An approach to design resource retrieval for large language models based on chain-of-thoughts prompts derived from designer thinking patterns",
+  "doi": "10.1080/09544828.2025.2588551",
+  "year": 2025,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    9,
+    10,
+    12,
+    14,
+    15,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    30
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1",
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2"
+  ],
+  "ai_function_codes": [
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "The paper proposes a method to enhance design resource retrieval using chain-of-thought prompts derived from designer thinking patterns. It includes a user study with 8 participants to evaluate font selection based on textual and visual context.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "057-E1",
+      "purpose_codes": [
+        "P2",
+        "P1"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2",
+        "V4"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 8,
+      "sample_description": "The time spent on questionnaires was about 10 minutes, and each participant was paid 30 CNY.",
+      "recruitment": "Eight participants (four male, four female), identified as ID-1 through ID-8, were recruited",
+      "task": "how design reasoning itself can drive the behaviour of LLMs in performing design tasks.",
+      "comparator": "ting serves as a baseline to evaluate the contribution of contextual information to the font",
+      "procedure": "During the tasks, participants were asked to speak aloud what they",
+      "analysis": "task into three stages: (1) Content Analysis, where the model is asked to extract and sum-",
+      "actual_results": "",
+      "limitations": "Future work may introduce diversity-aware regularisation or font clustering constraints to",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 25,
+          "quote": "The time spent on questionnaires was about 10 minutes, and each participant was paid 30 CNY."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "The time spent on questionnaires was about 10 minutes, and each participant was paid 30 CNY.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "The time spent on questionnaires was about 10 minutes, and each participant was paid 30 CNY.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "flows or generating design elements through structural decomposition (He et al.",
+          "tool_family_codes": [
+            "M4"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            10
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "quote": "Building on the insights from prior researches, we aim to operationalise design reason-"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "quote": "flows or generating design elements through structural decomposition (He et al."
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "quote": "To enhance the reliability of the coding"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "quote": "During the tasks, participants were asked to speak aloud what they"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "quote": "P = [R; P1, (X, V); P2; C; P3; Y] (3)"
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "quote": "flows or generating design elements through structural decomposition (He et al."
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\57.pdf"
+}

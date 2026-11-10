@@ -1,0 +1,456 @@
+{
+  "paper_id": 30,
+  "title": "Exploring Human-AI Collaboration in E-Textile Design: A Case Study on Flex Sensor Placement for Shoulder Motion Detection",
+  "doi": "10.1145/3816771",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    13,
+    14,
+    15,
+    16,
+    19,
+    20,
+    23,
+    24,
+    25
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D3"
+  ],
+  "stage_codes": [
+    "S3"
+  ],
+  "ai_function_codes": [
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "This study explores human-AI collaboration in e-textile design, focusing on flex sensor placement for shoulder motion detection. It involves three human designers and evaluates the effectiveness of LLMs in sensor layout design.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "030-E1",
+      "purpose_codes": [
+        "P2",
+        "P1"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V5"
+      ],
+      "source_codes": [
+        "H1",
+        "H3",
+        "H5",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G2",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K4",
+        "K5",
+        "K6"
+      ],
+      "constraint_codes": [
+        "Q2",
+        "Q3"
+      ],
+      "sample_n": 10,
+      "sample_description": "The least experienced human designer achieved continuous improvement through collaboration, ultimately matching the best performance achieved by humans alone.",
+      "recruitment": "participant recruitment (Section 3.3).",
+      "task": "This task requires a combination of expertise in fields such as anatomy, biomechanics,",
+      "comparator": "To address our three research questions, we designed a within-subject user study in which three",
+      "procedure": "procedure is in place, layouts are refined iteratively based on these scores until the error metric stops",
+      "analysis": "Input Spatial Feature Extraction Temporal Modeling Regression Head Output",
+      "actual_results": "This choice reflects the shoulder’s role as a representative and clinically significant case in previous e-textile design studies [ 16, 19, 29].",
+      "limitations": "design proposals by synthesizing information across disciplines, though they noted limitations",
+      "ethics": "accordance with our institutional ethical review requirements, all raw data containing personally",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 1,
+          "quote": "The least experienced human designer achieved continuous improvement through collaboration, ultimately matching the best performance achieved by humans alone."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Effective sensor placement necessitates integrating knowledge from several fields, including anatomy (identifying which muscles and tendons are involved in the target motion), biomechanics (understanding skin deformation during movement), textile engineering (considering how fabric affects sensor-body coupling), and signal processing (mapping sensor signals to joint angles) [ 12, 13].",
+          "claim_summary": "Effective sensor placement necessitates integrating knowledge from several fields, including anatomy (identifying which muscles and tendons are involved in the target motion), biomechanics (understanding skin deformation during movement), textile engineering (considering how fabric affects sensor-bo",
+          "claim_type": "C4",
+          "construct_raw": "understanding",
+          "indicator_raw": "understanding",
+          "item_quote": "Effective sensor placement necessitates integrating knowledge from several fields, including anatomy (identifying which muscles and tendons are involved in the target motion), biomechanics (understanding skin deformation during movement), textile engineering (considering how fabric affects sensor-body coupling), and signal processing (mapping sensor signals to joint angles) [ 12, 13].",
+          "dimension_code": "C",
+          "indicator_code": "C2",
+          "instrument_raw": "[ 26] surveyed LLM applications in engineering and highlighted their strength in integrating heterogeneous domain knowledge.；4.3 Robustness of the Evaluation Pipeline Because every reported design is evaluated by training a fresh model from scratch, the stability of the rankings could；Third, through qualitative analysis, we identify two critical factors influencing the effectiveness of human-AI collaboration — granularity of feedback (increme",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "To check that the observed performance differences reflect layout design rather than training noise, we re-evaluated three representative designs—the LLM-generated initial design 𝐿0, the best human-only final design 𝐻 𝐵 2 , and the best human–AI collaborative final design 𝐿𝐻 𝐶 2 —with five random seeds each.",
+          "claim_summary": "To check that the observed performance differences reflect layout design rather than training noise, we re-evaluated three representative designs—the LLM-generated initial design 𝐿0, the best human-only final design 𝐻 𝐵 2 , and the best human–AI collaborative final design 𝐿𝐻 𝐶 2 —with five random se",
+          "claim_type": "C2",
+          "construct_raw": "reflect",
+          "indicator_raw": "reflect",
+          "item_quote": "To check that the observed performance differences reflect layout design rather than training noise, we re-evaluated three representative designs—the LLM-generated initial design 𝐿0, the best human-only final design 𝐻 𝐵 2 , and the best human–AI collaborative final design 𝐿𝐻 𝐶 2 —with five random seeds each.",
+          "dimension_code": "C",
+          "indicator_code": "C6",
+          "instrument_raw": "[ 26] surveyed LLM applications in engineering and highlighted their strength in integrating heterogeneous domain knowledge.；4.3 Robustness of the Evaluation Pipeline Because every reported design is evaluated by training a fresh model from scratch, the stability of the rankings could；Third, through qualitative analysis, we identify two critical factors influencing the effectiveness of human-AI collaboration — granularity of feedback (increme",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            20
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "First, we provide an empirical comparison of initial sensor layout designs generated by LLMs with those created by human designers, offering preliminary evidence of LLMs’ capability to synthesize cross-disciplinary knowledge in physical design tasks.",
+          "claim_summary": "First, we provide an empirical comparison of initial sensor layout designs generated by LLMs with those created by human designers, offering preliminary evidence of LLMs’ capability to synthesize cross-disciplinary knowledge in physical design tasks.",
+          "claim_type": "C1",
+          "construct_raw": "capability",
+          "indicator_raw": "capability",
+          "item_quote": "First, we provide an empirical comparison of initial sensor layout designs generated by LLMs with those created by human designers, offering preliminary evidence of LLMs’ capability to synthesize cross-disciplinary knowledge in physical design tasks.",
+          "dimension_code": "C",
+          "indicator_code": "C8",
+          "instrument_raw": "[ 26] surveyed LLM applications in engineering and highlighted their strength in integrating heterogeneous domain knowledge.；4.3 Robustness of the Evaluation Pipeline Because every reported design is evaluated by training a fresh model from scratch, the stability of the rankings could；Third, through qualitative analysis, we identify two critical factors influencing the effectiveness of human-AI collaboration — granularity of feedback (increme",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "This choice reflects the shoulder’s role as a representative and clinically significant case in previous e-textile design studies [ 16, 19, 29].",
+          "claim_summary": "This choice reflects the shoulder’s role as a representative and clinically significant case in previous e-textile design studies [ 16, 19, 29].",
+          "claim_type": "C1",
+          "construct_raw": "role",
+          "indicator_raw": "role",
+          "item_quote": "This choice reflects the shoulder’s role as a representative and clinically significant case in previous e-textile design studies [ 16, 19, 29].",
+          "dimension_code": "D",
+          "indicator_code": "D7",
+          "instrument_raw": "[ 26] surveyed LLM applications in engineering and highlighted their strength in integrating heterogeneous domain knowledge.；4.3 Robustness of the Evaluation Pipeline Because every reported design is evaluated by training a fresh model from scratch, the stability of the rankings could；Third, through qualitative analysis, we identify two critical factors influencing the effectiveness of human-AI collaboration — granularity of feedback (increme",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "This choice reflects the shoulder’s role as a representative and clinically significant case in previous e-textile design studies [ 16, 19, 29].",
+          "effect_direction": "NR",
+          "pages": [
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "RQ2: When designs generated by LLMs are iteratively refined through human-AI collaboration, how does their quality compare to that of designs produced through a purely human-driven iterative process?",
+          "claim_summary": "RQ2: When designs generated by LLMs are iteratively refined through human-AI collaboration, how does their quality compare to that of designs produced through a purely human-driven iterative process?",
+          "claim_type": "C1",
+          "construct_raw": "collaborat",
+          "indicator_raw": "collaborat",
+          "item_quote": "RQ2: When designs generated by LLMs are iteratively refined through human-AI collaboration, how does their quality compare to that of designs produced through a purely human-driven iterative process?",
+          "dimension_code": "D",
+          "indicator_code": "D8",
+          "instrument_raw": "[ 26] surveyed LLM applications in engineering and highlighted their strength in integrating heterogeneous domain knowledge.；4.3 Robustness of the Evaluation Pipeline Because every reported design is evaluated by training a fresh model from scratch, the stability of the rankings could；Third, through qualitative analysis, we identify two critical factors influencing the effectiveness of human-AI collaboration — granularity of feedback (increme",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "human designers; the simulation serves primarily to evaluate candidate layouts rather than to"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "Integrating All Domain"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "a shirt and evaluated them with 10 participants performing shoulder motions, reaching a mean"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "Input Spatial Feature Extraction Temporal Modeling Regression Head Output"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "This choice reflects the shoulder’s role as a representative and clinically significant case in previous e-textile design studies [ 16, 19, 29]."
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "Integrating All Domain"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\30.pdf"
+}

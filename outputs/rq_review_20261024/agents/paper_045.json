@@ -1,0 +1,853 @@
+{
+  "paper_id": 45,
+  "title_match": true,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "scope_note": "全文40页。修正旧行228创造力、229可行性一概正向：均无统计显著差异。新增开放回应中时间效率、灵感、依赖、主体性、能力与沟通体验。20心理专家知识库访谈大纲/实质结果仅引用补充材料，未建立独立感知效应链。B3仅指感知细化支持，不声称迭代速率。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S2"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F3",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1",
+    "U2"
+  ],
+  "context_summary": "AI心理专家基于BAT指南/手册/访谈RAG支持产品概念评价与发展；并未实际临床干预。",
+  "context_evidence": [
+    {
+      "page": 12,
+      "quote": "the design of a self-help therapy product based on BAT"
+    },
+    {
+      "page": 13,
+      "quote": "Design experts assessed solution creativity and feasibility"
+    }
+  ],
+  "evaluations": [
+    {
+      "eval_id": "45-R1",
+      "legacy_eval_ids": [
+        "45-评价1"
+      ],
+      "purpose_codes": [
+        "P4"
+      ],
+      "object_codes": [
+        "O1"
+      ],
+      "evaluator_codes": [
+        "V1"
+      ],
+      "source_codes": [
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G2",
+      "evaluation_stage_codes": [
+        "S2"
+      ],
+      "sample_n": 10,
+      "sample_description": "5设计专家+5心理专家评31设计者生成的62方案；31完成者19女12男，设计教育3–8年",
+      "recruitment": "设计者线上招募；专家滚雪球",
+      "task": "从8个BAT自助产品概念中选一并发展",
+      "task_codes": [
+        "K4",
+        "K5",
+        "K7"
+      ],
+      "constraint_codes": [
+        "NR"
+      ],
+      "constraints_raw": "未报告明确影响测量选择的可行条件",
+      "comparator": "固定传统流程先、AI流程后；AI阶段必须选与传统不同初始概念",
+      "procedure": "统一BAT/用户资料；设计者完成两阶段；62方案匿名随机排序，专家对条件盲评",
+      "analysis": "Shapiro-Wilk；Wilcoxon配对；BH FDR；r；逐维ICC(3k)",
+      "actual_results": "创造力p=.226、可行性p=.077不显著；有效性p=.001/r=.578；完整性、适用性p=.013/r=.448，BH后均<.03",
+      "limitations": "固定顺序学习迁移；未独立操纵对话方式，不作对话因果",
+      "ethics": "伦理批准HSEARS20240920002；签署知情同意",
+      "evidence": [
+        {
+          "field": "results",
+          "page": 17,
+          "quote": "Creativity"
+        },
+        {
+          "field": "ethics",
+          "page": 30,
+          "quote": "HSEARS20240920002"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "五个假设与五个专家指标直接对应",
+          "reason": "评价问题、信息与总结比较用途清晰",
+          "pages": [
+            8,
+            9,
+            13,
+            14
+          ],
+          "quote": "Design experts assessed solution creativity and feasibility"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "表3给定义及两项来源；设计/心理专家分工并专注功能、忽略草图质量",
+          "reason": "构念操作化及内容适切性充分支持专家预测判断；不能外推临床疗效",
+          "pages": [
+            13,
+            14
+          ],
+          "quote": "They were instructed to disregard sketch quality, focusing exclusively on functional aspects"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "逐维报告平均评分ICC .561–.623；使用五人均分降低个体评分噪声",
+          "reason": "有与群体探索比较用途相称的中等一致性依据；非高信度证明",
+          "pages": [
+            15
+          ],
+          "quote": "Mean expert ratings were used as the final metric"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "31设计者、10评审专业背景、招募、任务、两阶段顺序报告；时长/实际环境NR",
+          "reason": "研究对象与程序大体明确，实施环境和暴露时长欠缺",
+          "pages": [
+            10,
+            12,
+            13
+          ],
+          "quote": "Each participant completed two sequential design development processes: first, the traditional process"
+        },
+        {
+          "standard": "A6",
+          "status": "P",
+          "facts": "配对设计、Wilcoxon、BH校正和效应量；固定传统先AI后；承认迁移",
+          "reason": "可支持有条件比较，顺序混淆仍未排除；不宣称因果",
+          "pages": [
+            12,
+            14,
+            15,
+            28
+          ],
+          "quote": "direct causal inferences should be avoided"
+        },
+        {
+          "standard": "A7",
+          "status": "P",
+          "facts": "主要结果分清三显著、两不显著；p15曾称所有维度显著更高，与表4不一致",
+          "reason": "详细结果可追溯但概括句与表格冲突",
+          "pages": [
+            15,
+            17,
+            18
+          ],
+          "quote": "significantly higher scores for AI-assisted design outputs versus traditional outputs across all evaluated dimensions"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "表2/3问题准则、表4推断结果；补充数据S1–S4未在所附PDF内",
+          "reason": "主体可复核，但完整评分及全方案需外部补充/索取",
+          "pages": [
+            14,
+            15,
+            31
+          ],
+          "quote": "Full solutions are available upon request."
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [
+            228
+          ],
+          "claim_quote": "the difference was not significant (p = 0.226, r = 0.217).",
+          "claim_summary": "比较AI协助与传统设计的专家感知评分（非临床疗效）",
+          "claim_type": "C2",
+          "construct_raw": "Creativity",
+          "indicator_raw": "Creativity",
+          "item_quote": "The novelty of this solution relative to current technologies/designs, or technologies/designs that solve similar problems.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "专家5点Likert单项准则评分",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T2",
+          "adaptation": "NR",
+          "response_scoring": "1–5分高为更好；每构念5名对应专业专家均分",
+          "validity_evidence": "表3定义；创造力据Gomes等2022，可行性据Douglas等2006；心理指标依BAT核心过程并由心理专家评价",
+          "reliability_evidence": "平均测量ICC(3,k)=0.561；盲化+随机呈现",
+          "result_quote": "the difference was not significant (p = 0.226, r = 0.217).",
+          "effect_direction": "无显著差异",
+          "pages": [
+            13,
+            14,
+            15,
+            17,
+            18,
+            19
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            229
+          ],
+          "claim_quote": "the score of the AI-assisted process on the feasibility dimension was lower than that of the traditional process, but the difference was not significant (p = 0.077, r = 0.317).",
+          "claim_summary": "比较AI协助与传统设计的专家感知评分（非临床疗效）",
+          "claim_type": "C2",
+          "construct_raw": "Feasibility",
+          "indicator_raw": "Feasibility",
+          "item_quote": "The extent to which this solution is achievable and socially/legally/politically/morally acceptable.",
+          "dimension_code": "A",
+          "indicator_code": "A4",
+          "instrument_raw": "专家5点Likert单项准则评分",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T2",
+          "adaptation": "NR",
+          "response_scoring": "1–5分高为更好；每构念5名对应专业专家均分",
+          "validity_evidence": "表3定义；创造力据Gomes等2022，可行性据Douglas等2006；心理指标依BAT核心过程并由心理专家评价",
+          "reliability_evidence": "平均测量ICC(3,k)=0.595；盲化+随机呈现",
+          "result_quote": "the score of the AI-assisted process on the feasibility dimension was lower than that of the traditional process, but the difference was not significant (p = 0.077, r = 0.317).",
+          "effect_direction": "无显著差异（数值负向）",
+          "pages": [
+            13,
+            14,
+            15,
+            17,
+            18,
+            19
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            230
+          ],
+          "claim_quote": "AI-assisted processes were associated with higher effectiveness (p = 0.001, r = 0.578)",
+          "claim_summary": "比较AI协助与传统设计的专家感知评分（非临床疗效）",
+          "claim_type": "C2",
+          "construct_raw": "Effectiveness",
+          "indicator_raw": "Effectiveness",
+          "item_quote": "This solution can increase the level of positive emotions of target users.",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "专家5点Likert单项准则评分",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "1–5分高为更好；每构念5名对应专业专家均分",
+          "validity_evidence": "表3定义；创造力据Gomes等2022，可行性据Douglas等2006；心理指标依BAT核心过程并由心理专家评价",
+          "reliability_evidence": "平均测量ICC(3,k)=0.623；盲化+随机呈现",
+          "result_quote": "AI-assisted processes were associated with higher effectiveness (p = 0.001, r = 0.578)",
+          "effect_direction": "正向",
+          "pages": [
+            13,
+            14,
+            15,
+            17,
+            18,
+            19
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            231
+          ],
+          "claim_quote": "greater integrity in design outcomes, with a medium effect size (r = 0.448).",
+          "claim_summary": "比较AI协助与传统设计的专家感知评分（非临床疗效）",
+          "claim_type": "C2",
+          "construct_raw": "Completeness",
+          "indicator_raw": "Completeness",
+          "item_quote": "The extent to which this solution covers the core processes of BAT.",
+          "dimension_code": "A",
+          "indicator_code": "A6",
+          "instrument_raw": "专家5点Likert单项准则评分",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "1–5分高为更好；每构念5名对应专业专家均分",
+          "validity_evidence": "表3定义；创造力据Gomes等2022，可行性据Douglas等2006；心理指标依BAT核心过程并由心理专家评价",
+          "reliability_evidence": "平均测量ICC(3,k)=0.587；盲化+随机呈现",
+          "result_quote": "greater integrity in design outcomes, with a medium effect size (r = 0.448).",
+          "effect_direction": "正向",
+          "pages": [
+            13,
+            14,
+            15,
+            17,
+            18,
+            19
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            232
+          ],
+          "claim_quote": "higher applicability in design outcomes, with a medium effect size (r = 0.448).",
+          "claim_summary": "比较AI协助与传统设计的专家感知评分（非临床疗效）",
+          "claim_type": "C2",
+          "construct_raw": "Applicability",
+          "indicator_raw": "Applicability",
+          "item_quote": "This solution is tailored to the degree of the student suffering from anxiety/depression.",
+          "dimension_code": "E",
+          "indicator_code": "E2",
+          "instrument_raw": "专家5点Likert单项准则评分",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "adaptation": "NR",
+          "response_scoring": "1–5分高为更好；每构念5名对应专业专家均分",
+          "validity_evidence": "表3定义；创造力据Gomes等2022，可行性据Douglas等2006；心理指标依BAT核心过程并由心理专家评价",
+          "reliability_evidence": "平均测量ICC(3,k)=0.609；盲化+随机呈现",
+          "result_quote": "higher applicability in design outcomes, with a medium effect size (r = 0.448).",
+          "effect_direction": "正向",
+          "pages": [
+            13,
+            14,
+            15,
+            17,
+            18,
+            19
+          ],
+          "audit_overrides": []
+        }
+      ]
+    },
+    {
+      "eval_id": "45-R2",
+      "legacy_eval_ids": [
+        "45-评价2"
+      ],
+      "purpose_codes": [
+        "P4"
+      ],
+      "object_codes": [
+        "O2",
+        "O3",
+        "O4",
+        "O5"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2"
+      ],
+      "source_codes": [
+        "H1",
+        "H3"
+      ],
+      "setting_code": "NR",
+      "design_code": "G5",
+      "evaluation_stage_codes": [
+        "S2"
+      ],
+      "sample_n": 31,
+      "sample_description": "31设计教育背景参加者，职业身份未细分",
+      "recruitment": "线上社会平台招募",
+      "task": "BAT产品设计后评价AI心理专家协助体验",
+      "task_codes": [
+        "K4",
+        "K5",
+        "K7"
+      ],
+      "constraint_codes": [
+        "NR"
+      ],
+      "constraints_raw": "未报告明确影响测量选择的可行条件",
+      "comparator": "自陈比较传统与AI辅助经历",
+      "procedure": "两阶段后导出AI聊天并完成开放问卷",
+      "analysis": "两研究者编码、共识；主题与个案引文；对话日志DAMSL分析单列客观过程",
+      "actual_results": "知识补足/效率/细化获肯定；同时专业术语、决策能力和过度依赖有负面/条件意见",
+      "limitations": "自陈非客观效率；固定顺序；对话类型与质量关联不能因果",
+      "ethics": "同研究知情同意与IRB",
+      "evidence": [
+        {
+          "field": "questionnaire",
+          "page": 14,
+          "quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?"
+        },
+        {
+          "field": "coding",
+          "page": 19,
+          "quote": "the two researchers agreed on the coding content"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "询问使用体验、专业性、未来使用和优化需求",
+          "reason": "与探索AI协助体验/机制目的对应",
+          "pages": [
+            14
+          ],
+          "quote": "How does the AI design develop process experience compare"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "给五个开放问题及主题、参加者编号和引文",
+          "reason": "主题适切性可查但完整问卷和主题形成过程有限",
+          "pages": [
+            14,
+            19,
+            20
+          ],
+          "quote": "The researchers analyzed and coded the participants’ responses"
+        },
+        {
+          "standard": "A3",
+          "status": "P",
+          "facts": "两研究者协商编码，另有对话记录作背景",
+          "reason": "有一致性措施但缺详细编码过程/反例审查",
+          "pages": [
+            19
+          ],
+          "quote": "the two researchers agreed on the coding content"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "参加者、系统、任务与阶段明确；作答环境/时长缺失",
+          "reason": "可理解体验来源但无法复现全部实施条件",
+          "pages": [
+            10,
+            12,
+            13
+          ],
+          "quote": "completed an open-ended questionnaire"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "开放回答主题归纳，以参与者ID和摘录支持描述性体验",
+          "reason": "设计适合探索观点，不把频次作总体效应估计",
+          "pages": [
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "Most participants also believed AI experts saved design time"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "报告正反意见及引文；对话因果另有限制",
+          "reason": "这里保留自陈体验层面的有条件结论",
+          "pages": [
+            21,
+            22,
+            28
+          ],
+          "quote": "The impact of AI dialogue type on design represents an exploratory conclusion"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "问题示例、编码表和多条原话公开；完整回答不在PDF",
+          "reason": "主要主题可追溯但完整资料未给",
+          "pages": [
+            14,
+            20,
+            31
+          ],
+          "quote": "Data will be made available on request."
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [
+            233
+          ],
+          "claim_quote": "Its strong reasoning and well-supported arguments compensate for my gaps in behavioral activation knowledge.",
+          "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+          "claim_type": "C1",
+          "construct_raw": "knowledge gaps",
+          "indicator_raw": "knowledge gaps",
+          "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+          "dimension_code": "C",
+          "indicator_code": "C2",
+          "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+          "tool_family_codes": [
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+          "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+          "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+          "result_quote": "Its strong reasoning and well-supported arguments compensate for my gaps in behavioral activation knowledge.",
+          "effect_direction": "正向",
+          "pages": [
+            14,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            234
+          ],
+          "claim_quote": "AI experts lacked aesthetic sensibility (P14) and could not support designers in making high-quality decisions (P12, P13, P17, P30)",
+          "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+          "claim_type": "C1",
+          "construct_raw": "decision support",
+          "indicator_raw": "decision support",
+          "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+          "dimension_code": "B",
+          "indicator_code": "B4",
+          "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+          "tool_family_codes": [
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+          "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+          "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+          "result_quote": "AI experts lacked aesthetic sensibility (P14) and could not support designers in making high-quality decisions (P12, P13, P17, P30)",
+          "effect_direction": "混合",
+          "pages": [
+            14,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            235
+          ],
+          "claim_quote": "they primarily served to integrate information, optimize details, and provide directional guidance.",
+          "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+          "claim_type": "C1",
+          "construct_raw": "detail optimization",
+          "indicator_raw": "detail optimization",
+          "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+          "dimension_code": "B",
+          "indicator_code": "B3",
+          "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+          "tool_family_codes": [
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+          "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+          "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+          "result_quote": "they primarily served to integrate information, optimize details, and provide directional guidance.",
+          "effect_direction": "正向（支持细化，未测迭代速率）",
+          "pages": [
+            14,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            236
+          ],
+          "claim_quote": "Overuse of technical jargon was the primary issue reported",
+          "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+          "claim_type": "C1",
+          "construct_raw": "ease of use / communication difficulty",
+          "indicator_raw": "ease of use / communication difficulty",
+          "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+          "dimension_code": "D",
+          "indicator_code": "D1",
+          "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+          "tool_family_codes": [
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+          "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+          "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+          "result_quote": "Overuse of technical jargon was the primary issue reported",
+          "effect_direction": "混合",
+          "pages": [
+            14,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "Most participants also believed AI experts saved design time",
+          "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+          "claim_type": "C1",
+          "construct_raw": "design efficiency",
+          "indicator_raw": "design efficiency",
+          "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+          "dimension_code": "B",
+          "indicator_code": "B1",
+          "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+          "tool_family_codes": [
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+          "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+          "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+          "result_quote": "Most participants also believed AI experts saved design time",
+          "effect_direction": "正向",
+          "pages": [
+            14,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "It encourages more divergent thinking and generates novel ideas",
+          "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+          "claim_type": "C1",
+          "construct_raw": "creative inspiration / divergent thinking",
+          "indicator_raw": "creative inspiration / divergent thinking",
+          "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+          "dimension_code": "C",
+          "indicator_code": "C1",
+          "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+          "tool_family_codes": [
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+          "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+          "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+          "result_quote": "It encourages more divergent thinking and generates novel ideas",
+          "effect_direction": "混合",
+          "pages": [
+            14,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "Just don’t over-rely on AI―use it moderately",
+          "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+          "claim_type": "C1",
+          "construct_raw": "over-reliance / homogeneity",
+          "indicator_raw": "over-reliance / homogeneity",
+          "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+          "dimension_code": "C",
+          "indicator_code": "C7",
+          "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+          "tool_family_codes": [
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+          "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+          "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+          "result_quote": "Just don’t over-rely on AI―use it moderately",
+          "effect_direction": "风险/条件性",
+          "pages": [
+            14,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "designers retaining responsibility for decision-making and creative direction",
+          "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+          "claim_type": "C1",
+          "construct_raw": "designer agency",
+          "indicator_raw": "designer agency",
+          "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+          "dimension_code": "D",
+          "indicator_code": "D6",
+          "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+          "tool_family_codes": [
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+          "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+          "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+          "result_quote": "designers retaining responsibility for decision-making and creative direction",
+          "effect_direction": "条件性",
+          "pages": [
+            14,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "This approach expanded designers’ perspectives and enhanced their design and interdisciplinary capabilities.",
+          "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+          "claim_type": "C1",
+          "construct_raw": "interdisciplinary capabilities",
+          "indicator_raw": "interdisciplinary capabilities",
+          "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+          "dimension_code": "C",
+          "indicator_code": "C8",
+          "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+          "tool_family_codes": [
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+          "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+          "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+          "result_quote": "This approach expanded designers’ perspectives and enhanced their design and interdisciplinary capabilities.",
+          "effect_direction": "正向",
+          "pages": [
+            14,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "Felt overly clinical, with uncomfortably sharp questioning",
+          "claim_summary": "设计者报告跨学科AI协助的益处及限制",
+          "claim_type": "C1",
+          "construct_raw": "communication experience",
+          "indicator_raw": "communication experience",
+          "item_quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+          "dimension_code": "D",
+          "indicator_code": "D8",
+          "instrument_raw": "实验后开放问卷（表2五个示例问题）",
+          "tool_family_codes": [
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "主题编码，表5列参加者编号；无数值量尺",
+          "validity_evidence": "开放问题与使用体验对应；两研究者编码回应",
+          "reliability_evidence": "两位研究者达成编码共识；未报告独立编码/审计轨迹",
+          "result_quote": "Felt overly clinical, with uncomfortably sharp questioning",
+          "effect_direction": "负向",
+          "pages": [
+            14,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "audit_overrides": []
+        }
+      ]
+    }
+  ],
+  "excluded_legacy_rows": [],
+  "added_evidence_notes": "全文40页。修正旧行228创造力、229可行性一概正向：均无统计显著差异。新增开放回应中时间效率、灵感、依赖、主体性、能力与沟通体验。20心理专家知识库访谈大纲/实质结果仅引用补充材料，未建立独立感知效应链。B3仅指感知细化支持，不声称迭代速率。",
+  "category_gaps": [
+    "B3迭代效率包含细化支持但本文未测迭代效率；保留原指标归类并明确边界。"
+  ],
+  "metadata_corrections": {}
+}

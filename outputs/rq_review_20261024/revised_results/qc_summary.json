@@ -1,0 +1,29 @@
+{
+  "all_checks_pass": true,
+  "checks": {
+    "papers_125": true,
+    "evaluation_cases_158": true,
+    "evidence_chains_490": true,
+    "measure_instance_ids_unique": true,
+    "measure_instances_have_parent": true,
+    "each_chain_has_measure_instance": true,
+    "tool_code_single_and_valid": true,
+    "audit_rows_3430": true,
+    "seven_audits_per_chain": true,
+    "audit_standard_codes_valid": true,
+    "audit_status_valid": true,
+    "quality_tiers_exhaustive": true,
+    "dimension_codes_valid_or_missing": true,
+    "indicator_codes_valid_or_missing": true
+  },
+  "counts": {
+    "papers": 125,
+    "evaluation_cases": 158,
+    "evidence_chains": 490,
+    "measure_instances": 600,
+    "audit_rows": 3430,
+    "unmapped_measure_instances": 16,
+    "mapped_dimension_chains": 432,
+    "mapped_indicator_chains": 426
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "paper_id": 62,
+  "title": "GEDO: a method for product design generation and explainable design optimisation based on cross-modal alignment of text and images",
+  "doi": "10.1080/09544828.2025.2567156",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    12,
+    13,
+    14,
+    16,
+    17,
+    19,
+    20,
+    21,
+    23,
+    24,
+    25,
+    26,
+    29,
+    30,
+    31,
+    32
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R1",
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "The paper proposes a method for product design generation and explainable design optimisation using cross-modal alignment of text and images. It introduces a multi-layer perceptron (MLP) for cross-modal feature alignment and uses Grad-CAM for model explainability. The method is evaluated on a dataset of text-image pairs collected from social media.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "062-E1",
+      "purpose_codes": [
+        "P2",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O7"
+      ],
+      "evaluator_codes": [
+        "V2"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "L1",
+      "design_code": "G8",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K3",
+        "K4",
+        "K5",
+        "K7"
+      ],
+      "constraint_codes": [],
+      "sample_n": 25,
+      "sample_description": "ticipate in the subjective scoring, and the average age of the participants was 28.6 ± 2.9",
+      "recruitment": "",
+      "task": "model, so it has less impact on the real-time task.",
+      "comparator": "compared with SHAP (Shapley Additive Explanations) and CAM methods to deeply ana-",
+      "procedure": "",
+      "analysis": "was not tested on large-scale data.",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 24,
+          "quote": "ticipate in the subjective scoring, and the average age of the participants was 28.6 ± 2.9"
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "25 master’s and doctoral students with industrial design backgrounds participated in the subjective scoring.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "25 master’s and doctoral students with industrial design backgrounds participated in the subjective scoring.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "was not tested on large-scale data.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "The scores were based on a 10-point Likert",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            24
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "was not tested on large-scale data."
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "To verify the reliability and validity of the subjective evaluation data, this paper conducted"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "ticipate in the subjective scoring, and the average age of the participants was 28.6 ± 2.9"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "was not tested on large-scale data."
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "was not tested on large-scale data."
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\62.pdf"
+}

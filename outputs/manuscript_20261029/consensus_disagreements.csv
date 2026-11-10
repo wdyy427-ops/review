@@ -1,0 +1,65 @@
+﻿comparison,model_source_row_index_1based,comparison_source_row_index_1based,record_id,title,model_a_label,model_b_or_human_label,agreement,basis
+title_abstract_model_model,98,98,https://openalex.org/W7164029350,Affectivegen: an exploring methodology for emotional design implementation,unclear,include,False,title and abstract
+title_abstract_model_model,136,136,https://openalex.org/W7147230198,Augmented codesign? Methodological insights from an AI-supported regional strategic development process,unclear,exclude,False,title and abstract
+title_abstract_model_model,166,166,https://openalex.org/W7160098064,"Beyond accuracy: AI, empathy, trust, and cultural alignment in user-centered design in the Palestinian context",exclude,unclear,False,title and abstract
+title_abstract_model_model,202,202,https://openalex.org/W7159828674,CasLayout: Cascaded 3D Layout Diffusion for Indoor Scene Synthesis with Implicit Relation Modeling,exclude,include,False,title and abstract
+title_abstract_model_model,204,204,https://openalex.org/W7130725096,CausalGID: causality-guided Pareto generative design for industrial production with large language models,exclude,unclear,False,title and abstract
+title_abstract_model_model,214,214,https://openalex.org/W7151581060,ChatPreference: a large language model for customer preference understanding in the apparel industry,include,unclear,False,title and abstract
+title_abstract_model_model,274,274,https://openalex.org/W7204220925,Defeating the Disembodiment of Design in the AI Age,exclude,unclear,False,title and abstract
+title_abstract_model_model,279,279,https://openalex.org/W7204208629,Design and Evaluation of an AI-mediated Visual Co-Creation System for Participatory Cultural Heritage in Museums,include,exclude,False,title and abstract
+title_abstract_model_model,283,283,https://openalex.org/W7161826596,Design path and value orientation of ageing-friendly smart kitchen service system in the context of artificial intelligence,unclear,exclude,False,title and abstract
+title_abstract_model_model,328,328,https://openalex.org/W4415089831,EfficientUICoder: A Bidirectional Token Compression Framework for Efficient MLLM-Based UI Code Generation,exclude,include,False,title and abstract
+title_abstract_model_model,330,330,https://openalex.org/W7213508352,"ELISA, a requirements ELIcitation Smart Agent — Comparison of state-of-the-art LLMs",exclude,unclear,False,title and abstract
+title_abstract_model_model,334,334,https://openalex.org/W7160627947,Empathetic narrative design: Food brand storytelling in the AI context,unclear,include,False,title and abstract
+title_abstract_model_model,354,354,https://openalex.org/W7168510343,Evaluating LLM-based Workflows for Switched-Mode Power Supply Design,exclude,unclear,False,title and abstract
+title_abstract_model_model,370,370,https://openalex.org/W7164820097,Exploring LLMs for Generating Communicational Actions of External Interfaces on Autonomous Vehicles,include,exclude,False,title and abstract
+title_abstract_model_model,420,420,https://openalex.org/W7153984941,GED-Net: A Multi-modal Reconstruction Network for CAD Parametric Models based on Grouped Entity Decoding,exclude,include,False,title and abstract
+title_abstract_model_model,422,422,https://openalex.org/W7161961854,Generalized Aberrations for Processing-Aware Optical Design,exclude,unclear,False,title and abstract
+title_abstract_model_model,426,426,https://openalex.org/W7128704229,Generative AI for interdisciplinary collaborative design: an agent-based workflow orchestration framework guided by R³ invariants,unclear,include,False,title and abstract
+title_abstract_model_model,434,434,https://openalex.org/W7167206524,GimmBO: Interactive Generative Image Model Merging via Bayesian Optimization,include,unclear,False,title and abstract
+title_abstract_model_model,436,436,https://openalex.org/W7155823222,Good Design in an Automated Age Exerts Control Over AI,exclude,unclear,False,title and abstract
+title_abstract_model_model,454,454,https://openalex.org/W7156141617,Hierarchical Reinforcement Learning for Energy-Efficient Urban Planning,exclude,include,False,title and abstract
+title_abstract_model_model,579,579,https://openalex.org/W7167278442,MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives,exclude,unclear,False,title and abstract
+title_abstract_model_model,645,645,https://openalex.org/W7166666112,PlayCoder: Making LLM-Generated GUI Code Playable,exclude,include,False,title and abstract
+title_abstract_model_model,650,650,https://openalex.org/W7160185669,Pose-Based Facial Animation Retargeting,exclude,unclear,False,title and abstract
+title_abstract_model_model,666,666,https://openalex.org/W7128776036,Progressive Text-to-3D Generation for Automatic 3D Prototyping,exclude,unclear,False,title and abstract
+title_abstract_model_model,689,689,https://openalex.org/W7166837845,Reducing Urban Traffic Congestion: A Road Reconstruction Framework via Graph-enhanced Large Language Models,exclude,include,False,title and abstract
+title_abstract_model_model,691,691,https://openalex.org/W7166706571,ReFLAIR: Detecting Responsive Layout Reflow Issues using Multimodal Generative AI,exclude,include,False,title and abstract
+title_abstract_model_model,709,709,https://openalex.org/W7165650904,"Rethinking Prototype Fidelity in the Age of Generative AI: When High-Fidelity Becomes Cheap, It's Time to Revisit Our Foundational Design Wisdom",exclude,unclear,False,title and abstract
+title_abstract_model_model,726,726,https://openalex.org/W7136362914,SafetyBuilder: An AR-based Framework for In-situ AI-assisted Creation of Child Safety Protection,exclude,include,False,title and abstract
+title_abstract_model_model,746,746,https://openalex.org/W7203997539,ShapeLib: Designing a library of programmatic 3D shape abstractions with Large Language Models,unclear,include,False,title and abstract
+title_abstract_model_model,848,848,https://openalex.org/W7162418861,Training computational designerly thinking for designing,exclude,unclear,False,title and abstract
+title_abstract_model_model,860,860,https://openalex.org/W7214024604,UI2Case: A Multi-Agent Framework for Test Case Generation from UI Designs via Multimodal Large Language Models,exclude,include,False,title and abstract
+title_abstract_model_model,885,885,https://openalex.org/W7166505445,UXTracker: A Tool for Conducting and Analyzing Longitudinal User Experience Studies EICS018,include,unclear,False,title and abstract
+title_abstract_model_model,927,927,https://openalex.org/W4415504875,A comparative study on retrieval-augmented generation and chain-of-thought applications for LLM-assisted engineering design ideation,include,exclude,False,title and abstract
+title_abstract_model_model,988,988,https://openalex.org/W4411712398,Advancing Code Generation from Visual Designs through Transformer-Based Architectures and Specialized Datasets,exclude,include,False,title and abstract
+title_abstract_model_human,9,8,https://openalex.org/W7167666773,AI-Enabled Contextual Narrative Interaction for Cultural Heritage Education：The Synthesis of AI-assisted Interactive Narratives and 3D modeling Framework for Cultural Heritage Education （CH-SAIN） informed by Immersive/Embodied learning and Digital Heritage Theories,exclude,include,False,title and abstract
+later_screening_model_human_all_rows,4,4,https://openalex.org/W7163716531,Patent knowledge-driven intelligent conceptual design method: innovation path based on style transfer and optimisation algorithm,unclear,exclude,False,摘要
+later_screening_model_human_all_rows,5,5,https://openalex.org/W7118188801,Source-limited few-shot font generation for multi-style logotypes: A type designer-AI collaborative framework,include,exclude,False,摘要
+later_screening_model_human_all_rows,6,6,https://openalex.org/W7129057961,Towards intelligent generative design: coupling high-controllability parametric geometry with deep surrogate modelling for structural performance optimisation,include,exclude,False,摘要
+later_screening_model_human_all_rows,9,9,https://openalex.org/W4415215327,Meta-X design: from tools to partners in human–machine co–creation for industry 5.0,unclear,exclude,False,摘要
+later_screening_model_human_all_rows,10,10,https://openalex.org/W4412923497,Multilingual graph retrieval-augmented generation for product design using design knowledge,include,exclude,False,摘要
+later_screening_model_human_all_rows,12,12,https://openalex.org/W4398774126,"An automatic completion method for design domain knowledge graph using surrogate model, for rapid performance evaluation",include,exclude,False,摘要
+later_screening_model_human_all_rows,14,14,https://openalex.org/W4400819112,BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry,include,exclude,False,摘要
+later_screening_model_human_all_rows,15,15,https://openalex.org/W4398183023,Combining ChatGPT and knowledge graph for explainable machine learning-driven design: a case study,unclear,exclude,False,摘要
+later_screening_model_human_all_rows,17,17,https://openalex.org/W4400820794,Text-to-Vector Generation with Neural Path Representation,include,exclude,False,全文
+later_screening_model_human_all_rows,20,20,https://openalex.org/W4383652565,Sand-in-the-loop: Investigating embodied co-creation for shared understandings of generative AI,unclear,exclude,False,摘要
+later_screening_model_human_all_rows,25,25,https://openalex.org/W7125917001,A human-AI collaborative generative bio-inspired design framework utilizing scientific laws implicit in biological information,include,exclude,False,摘要
+later_screening_model_human_all_rows,28,28,https://openalex.org/W7125013199,Multi-PDAI: integrating multimodal GenAI models for participatory design,include,exclude,False,摘要
+later_screening_model_human_all_rows,39,39,https://openalex.org/W4396515322,Promoting knowledge recommendation in innovative engineering design: a BERT-GAT-based patent representation learning approach,include,exclude,False,摘要
+later_screening_model_human_all_rows,43,43,https://openalex.org/W4214872958,Learning GUI Completions with User-defined Constraints,include,exclude,False,摘要
+later_screening_model_human_all_rows,44,44,https://openalex.org/W3110012108,Neurocognition-inspired design with machine learning,include,exclude,False,全文
+later_screening_model_human_all_rows,51,51,137,Comparing human- and AI-generated system requirements: an industrial case study,exclude,include,False,全文
+later_screening_model_human_all_rows,55,55,141,Impact of image-generation tool on designers’ cognitive styles and design performance during product conceptual design,exclude,include,False,全文
+later_screening_model_human_all_rows,58,58,89,Exploring Optimal Combinations: The Impact of Sequential Multimodal Inspirational Stimuli in Design Concepts on Creativity,exclude,include,False,全文
+later_screening_model_human_all_rows,60,60,91,Exploring the efficacy of hybrid-sketch: an investigation into conceptual support in the early design stage,exclude,include,False,全文
+later_screening_model_human_all_rows,61,61,92,Exploring the Impact of Artificial Intelligence-Generated Content (AIGC) Tools on Social Dynamics in UX Collaboration,exclude,include,False,全文
+later_screening_model_human_all_rows,62,62,93,Image Generative AI to Design Public Spaces: a Reflection of How AI Could Improve Co-Design of Public Parks,exclude,include,False,全文
+later_screening_model_human_all_rows,67,67,98,"Smart ""Error""! Exploring Imperfect AI to Support Creative Ideation",exclude,include,False,全文
+later_screening_model_human_all_rows,69,69,137,Comparing human- and AI-generated system requirements: an industrial case study,exclude,include,False,全文
+later_screening_model_human_all_rows,73,73,141,Impact of image-generation tool on designers’ cognitive styles and design performance during product conceptual design,exclude,include,False,全文
+later_screening_model_human_all_rows,75,75,152,A comparative study on retrieval-augmented generation and chain-of-thought applications for LLM-assisted engineering design ideation,exclude,include,False,全文
+later_screening_model_human_all_rows,79,79,156,An evaluation study of AiLoupe : An AI driven design tool to source and select textile materials,unclear,include,False,全文
+later_screening_model_human_all_rows,84,84,162,How generative AI supports human in conceptual design,exclude,include,False,全文
+later_screening_model_human_all_rows,91,91,169,Prompting for products: investigating design space exploration strategies for text-to-image generative models,exclude,include,False,全文
+later_screening_model_human_all_rows,105,105,https://openalex.org/W4403576068,PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows,exclude,include,False,全文

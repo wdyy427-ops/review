@@ -1,0 +1,702 @@
+{
+  "paper_id": 70,
+  "title": "Prompting for products: investigating design space exploration strategies for text-to-image generative models",
+  "doi": "10.1017/dsj.2024.51",
+  "year": 2024,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R1",
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "This study investigates how users leverage text-to-image generative AI tools to explore and create feasible, novel, and aesthetic product designs. It analyzes users' actions in global and local editing modes and their impact on design outcomes.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": "The study does not collect subjective evaluations through author discussion, future research plans, or citations of existing studies.",
+  "evaluations": [
+    {
+      "eval_id": "070-E1",
+      "purpose_codes": [
+        "P1",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O3",
+        "O6"
+      ],
+      "evaluator_codes": [
+        "V4"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [],
+      "sample_n": 2,
+      "sample_description": "Participants are asked to create feasible, novel and aesthetically-pleasing bike design(s) using Stable Diffusion 1.5 on Leonardo.AI in 30 minutes.",
+      "recruitment": "A total of 15 participants are recruited and have completed the experiment.",
+      "task": "3.1.3 Experimental task",
+      "comparator": "",
+      "procedure": "3.1.4 Procedure",
+      "analysis": "two-sample t-test and Pearson ’s correlation test are conducted for two sample",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 7,
+          "quote": "Participants are asked to create feasible, novel and aesthetically-pleasing bike design(s) using Stable Diffusion 1.5 on Leonardo.AI in 30 minutes."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "The evaluation questionnaire asked raters to evaluate each bike image on its feasibility, novelty, and aesthetics based on a 5-point Likert scale ranging from “Strongly Disagree” to “Strongly Agree.” Some example questions are shown in Figure 2.",
+          "claim_summary": "The evaluation questionnaire asked raters to evaluate each bike image on its feasibility, novelty, and aesthetics based on a 5-point Likert scale ranging from “Strongly Disagree” to “Strongly Agree.” Some example questions are shown in Figure 2.",
+          "claim_type": "C1",
+          "construct_raw": "novelty",
+          "indicator_raw": "novelty",
+          "item_quote": "The feasibility, novelty and aesthetic ratings for generated designs are then collected via crowd-sourced evaluations.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "Once the task is completed, the participants undergo a post-experiment interview and a brief questionnaire.；Once the task is completed, the participants undergo a post-experiment interview and a brief questionnaire.；Throughout the experiment, they are encouraged to think aloud to collect data on their thoughts and decision-making processes.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5",
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "These questions are answered in a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "Secondly, the experiment has a small sample size, which may lead to unreliable statistical results.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            6,
+            8
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The evaluation questionnaire asked raters to evaluate each bike image on its feasibility, novelty, and aesthetics based on a 5-point Likert scale ranging from “Strongly Disagree” to “Strongly Agree.” Some example questions are shown in Figure 2.",
+          "claim_summary": "The evaluation questionnaire asked raters to evaluate each bike image on its feasibility, novelty, and aesthetics based on a 5-point Likert scale ranging from “Strongly Disagree” to “Strongly Agree.” Some example questions are shown in Figure 2.",
+          "claim_type": "C1",
+          "construct_raw": "aestheti",
+          "indicator_raw": "aestheti",
+          "item_quote": "The feasibility, novelty and aesthetic ratings for generated designs are then collected via crowd-sourced evaluations.",
+          "dimension_code": "A",
+          "indicator_code": "A2",
+          "instrument_raw": "Once the task is completed, the participants undergo a post-experiment interview and a brief questionnaire.；Once the task is completed, the participants undergo a post-experiment interview and a brief questionnaire.；Throughout the experiment, they are encouraged to think aloud to collect data on their thoughts and decision-making processes.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5",
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "These questions are answered in a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "Secondly, the experiment has a small sample size, which may lead to unreliable statistical results.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            6,
+            8
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The evaluation questionnaire asked raters to evaluate each bike image on its feasibility, novelty, and aesthetics based on a 5-point Likert scale ranging from “Strongly Disagree” to “Strongly Agree.” Some example questions are shown in Figure 2.",
+          "claim_summary": "The evaluation questionnaire asked raters to evaluate each bike image on its feasibility, novelty, and aesthetics based on a 5-point Likert scale ranging from “Strongly Disagree” to “Strongly Agree.” Some example questions are shown in Figure 2.",
+          "claim_type": "C1",
+          "construct_raw": "feasib",
+          "indicator_raw": "feasib",
+          "item_quote": "The feasibility, novelty and aesthetic ratings for generated designs are then collected via crowd-sourced evaluations.",
+          "dimension_code": "A",
+          "indicator_code": "A4",
+          "instrument_raw": "Once the task is completed, the participants undergo a post-experiment interview and a brief questionnaire.；Once the task is completed, the participants undergo a post-experiment interview and a brief questionnaire.；Throughout the experiment, they are encouraged to think aloud to collect data on their thoughts and decision-making processes.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5",
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "These questions are answered in a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "Secondly, the experiment has a small sample size, which may lead to unreliable statistical results.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            6,
+            8
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "quote": "The research question of this work is:"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "quote": "spent exploring the design space without converging, the better the ratings of the"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "quote": "one of the few interactive tools that allowed the participants to easily use various"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "quote": "two-sample t-test and Pearson ’s correlation test are conducted for two sample"
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "quote": "spent exploring the design space without converging, the better the ratings of the"
+        }
+      ]
+    },
+    {
+      "eval_id": "070-E2",
+      "purpose_codes": [
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O3",
+        "O7"
+      ],
+      "evaluator_codes": [
+        "V4"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [],
+      "sample_n": 2,
+      "sample_description": "The feasibility, novelty and aesthetic ratings for generated designs are then",
+      "recruitment": "A total of 15 participants are recruited and have completed the experiment.",
+      "task": "3.1.3 Experimental task",
+      "comparator": "",
+      "procedure": "3.1.4 Procedure",
+      "analysis": "two-sample t-test and Pearson ’s correlation test are conducted for two sample",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 8,
+          "quote": "The feasibility, novelty and aesthetic ratings for generated designs are then"
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "The evaluation questionnaire asked raters to evaluate each bike image on its feasibility, novelty, and aesthetics based on a 5-point Likert scale ranging from “Strongly Disagree” to “Strongly Agree.” Some example questions are shown in Figure 2.",
+          "claim_summary": "The evaluation questionnaire asked raters to evaluate each bike image on its feasibility, novelty, and aesthetics based on a 5-point Likert scale ranging from “Strongly Disagree” to “Strongly Agree.” Some example questions are shown in Figure 2.",
+          "claim_type": "C1",
+          "construct_raw": "novelty",
+          "indicator_raw": "novelty",
+          "item_quote": "The feasibility, novelty and aesthetic ratings for generated designs are then collected via crowd-sourced evaluations.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "Once the task is completed, the participants undergo a post-experiment interview and a brief questionnaire.；Once the task is completed, the participants undergo a post-experiment interview and a brief questionnaire.；Throughout the experiment, they are encouraged to think aloud to collect data on their thoughts and decision-making processes.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5",
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "These questions are answered in a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "Secondly, the experiment has a small sample size, which may lead to unreliable statistical results.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            6,
+            8
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The evaluation questionnaire asked raters to evaluate each bike image on its feasibility, novelty, and aesthetics based on a 5-point Likert scale ranging from “Strongly Disagree” to “Strongly Agree.” Some example questions are shown in Figure 2.",
+          "claim_summary": "The evaluation questionnaire asked raters to evaluate each bike image on its feasibility, novelty, and aesthetics based on a 5-point Likert scale ranging from “Strongly Disagree” to “Strongly Agree.” Some example questions are shown in Figure 2.",
+          "claim_type": "C1",
+          "construct_raw": "aestheti",
+          "indicator_raw": "aestheti",
+          "item_quote": "The feasibility, novelty and aesthetic ratings for generated designs are then collected via crowd-sourced evaluations.",
+          "dimension_code": "A",
+          "indicator_code": "A2",
+          "instrument_raw": "Once the task is completed, the participants undergo a post-experiment interview and a brief questionnaire.；Once the task is completed, the participants undergo a post-experiment interview and a brief questionnaire.；Throughout the experiment, they are encouraged to think aloud to collect data on their thoughts and decision-making processes.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5",
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "These questions are answered in a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "Secondly, the experiment has a small sample size, which may lead to unreliable statistical results.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            6,
+            8
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The evaluation questionnaire asked raters to evaluate each bike image on its feasibility, novelty, and aesthetics based on a 5-point Likert scale ranging from “Strongly Disagree” to “Strongly Agree.” Some example questions are shown in Figure 2.",
+          "claim_summary": "The evaluation questionnaire asked raters to evaluate each bike image on its feasibility, novelty, and aesthetics based on a 5-point Likert scale ranging from “Strongly Disagree” to “Strongly Agree.” Some example questions are shown in Figure 2.",
+          "claim_type": "C1",
+          "construct_raw": "feasib",
+          "indicator_raw": "feasib",
+          "item_quote": "The feasibility, novelty and aesthetic ratings for generated designs are then collected via crowd-sourced evaluations.",
+          "dimension_code": "A",
+          "indicator_code": "A4",
+          "instrument_raw": "Once the task is completed, the participants undergo a post-experiment interview and a brief questionnaire.；Once the task is completed, the participants undergo a post-experiment interview and a brief questionnaire.；Throughout the experiment, they are encouraged to think aloud to collect data on their thoughts and decision-making processes.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5",
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "These questions are answered in a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "Secondly, the experiment has a small sample size, which may lead to unreliable statistical results.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            6,
+            8
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "quote": "This tutorial aims to familiarize the participants with Leonardo.AI, explain"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "quote": "The feasibility, novelty and aesthetic ratings for generated designs are then"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "quote": "one of the few interactive tools that allowed the participants to easily use various"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "quote": "two-sample t-test and Pearson ’s correlation test are conducted for two sample"
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "quote": "The feasibility, novelty and aesthetic ratings for generated designs are then"
+        }
+      ]
+    },
+    {
+      "eval_id": "070-E4",
+      "purpose_codes": [
+        "P1",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V3",
+        "V4"
+      ],
+      "source_codes": [
+        "H2"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K2",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q2",
+        "Q3"
+      ],
+      "sample_n": 10,
+      "sample_description": "The results of this study, especially those related to time, depend on the usability of the GenAI tool.",
+      "recruitment": "",
+      "task": "",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "Then, the limitations of this work and the areas for future",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 18,
+          "quote": "The results of this study, especially those related to time, depend on the usability of the GenAI tool."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "The results of this study, especially those related to time, depend on the usability of the GenAI tool.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "The results of this study, especially those related to time, depend on the usability of the GenAI tool.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "ratings (feasibility, novelty and aesthetics).",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            17
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": "The purpose of this work is to address the research question:"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": "ratings (feasibility, novelty and aesthetics)."
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": "Secondly, the experiment has a small sample size, which may lead to unreliable"
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": "that in fact, the majority of the participants only used about half the features the"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": "ratings (feasibility, novelty and aesthetics)."
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\70.pdf"
+}

@@ -1,0 +1,30 @@
+{
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    29,
+    34
+  ],
+  "usage": {
+    "completion_tokens": 7,
+    "prompt_tokens": 12973,
+    "total_tokens": 12980,
+    "prompt_tokens_details": {
+      "cached_tokens": 4
+    }
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "paper_id": 71,
+  "title": "PSR-GAN: a product concept sketch rendering method based on generative adversarial network and colour tags",
+  "doi": "10.1080/09544828.2025.2450760",
+  "year": 2025,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2",
+    "D3"
+  ],
+  "stage_codes": [
+    "S2"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U6",
+    "U1"
+  ],
+  "context_summary": "The paper proposes PSR-GAN, a method for product concept sketch rendering using generative adversarial networks and colour tags. It aims to assist designers in quickly capturing harmony between product colour and form, improving design efficiency.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "071-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O3",
+        "O4"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V4"
+      ],
+      "source_codes": [
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K2",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [],
+      "sample_n": 6,
+      "sample_description": "Participants could erase or supplement colours based on their own experience and aesthetics in the automatic rendering scheme.",
+      "recruitment": "",
+      "task": "During the experiment, participants were required to express their experiences and feel-",
+      "comparator": "According to Table 1, compared with Tag2pix, PSR-GAN",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "However, this study also has certain limitations: in the experiment, we found that the",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 18,
+          "quote": "Participants could erase or supplement colours based on their own experience and aesthetics in the automatic rendering scheme."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Participants could erase or supplement colours based on their own experience and aesthetics in the automatic rendering scheme.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "Participants could erase or supplement colours based on their own experience and aesthetics in the automatic rendering scheme.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "MS-SSIM further considers structural similarity at different scales based on structural sim-",
+          "tool_family_codes": [
+            "M4"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            18
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "quote": "To evaluate whether this method helps accelerate the convergence of human designers’"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "quote": "MS-SSIM further considers structural similarity at different scales based on structural sim-"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "quote": "PSR-GAN can achieve reliable rendering of product line sketches through specified colour"
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "quote": "ing colours, and finally participants could erase or supplement colours based on their own"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "quote": "MS-SSIM further considers structural similarity at different scales based on structural sim-"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\71.pdf"
+}

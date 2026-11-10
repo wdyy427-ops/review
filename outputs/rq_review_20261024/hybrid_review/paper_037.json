@@ -1,0 +1,57 @@
+{
+  "paper_id": 37,
+  "title": "The hidden costs of AI-assisted ideation: empirical findings on ChatGPT’s impact on novice designers’ creative confidence and design process",
+  "doi": "10.1017/dsj.2026.10060",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22,
+    23,
+    24,
+    25,
+    32
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2",
+    "D6"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U2",
+    "U1"
+  ],
+  "context_summary": "Study examines ChatGPT's impact on novice designers' creative confidence and process through experiments with 35 students, collecting self-reports, artifacts, and expert assessments.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\37.pdf"
+}

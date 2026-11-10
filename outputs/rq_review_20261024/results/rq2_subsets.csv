@@ -1,0 +1,4 @@
+﻿subset,label,chains_n,papers_with_eligible_chain,cases_with_eligible_chain,all_chains_eligible_cases,papers_with_whole_eligible_case
+all,全部实际感知证据,95,11,31,31,11
+sensitivity,报告支持较充分（敏感性）,80,10,28,28,10
+strict,主要规范性证据子集,0,0,0,0,0

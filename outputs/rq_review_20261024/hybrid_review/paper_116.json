@@ -1,0 +1,45 @@
+{
+  "paper_id": 116,
+  "title": "Icon Art Design Language Combined with Real-time Intelligent Image Processing under Internet of Things",
+  "doi": "10.1145/3522574",
+  "year": 2022,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1",
+    "D6"
+  ],
+  "stage_codes": [
+    "S1",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R3"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "Papers discusses using GAN and TensorFlow for icon design automation, with color label improvements and model training results.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": "No human subjective evaluations collected.",
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\116.pdf"
+}

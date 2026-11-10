@@ -1,0 +1,223 @@
+{
+  "paper_id": 91,
+  "title": "A case-based knowledge graph with reinforcement learning for intelligent design approach of complex product",
+  "doi": "10.1080/09544828.2024.2355756",
+  "year": 2025,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    5,
+    9,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F4",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U4",
+    "U1"
+  ],
+  "context_summary": "The paper proposes a case-based knowledge graph with reinforcement learning for intelligent design of complex products. It aims to address challenges in representing case knowledge and identifying key modification points in case reconstruction. The method integrates knowledge graphs and reinforcement learning to enhance design efficiency and product quality.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": "The paper does not collect human subjective evaluations, but rather focuses on algorithmic and computational methods.",
+  "evaluations": [
+    {
+      "eval_id": "091-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [],
+      "source_codes": [
+        "H6"
+      ],
+      "setting_code": "NR",
+      "design_code": "G1",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K4",
+        "K5",
+        "K7"
+      ],
+      "constraint_codes": [],
+      "sample_n": 1,
+      "sample_description": "The evaluation of component value relies on product attributes and design requisites, which can involve amalgamating expert insights, user feedback, and market demands for comprehensive analysis and decision-making.",
+      "recruitment": "Monte Carlo Sampling.",
+      "task": "",
+      "comparator": "",
+      "procedure": "programme reconstruction procedure based on these outcomes.",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 15,
+          "quote": "The evaluation of component value relies on product attributes and design requisites, which can involve amalgamating expert insights, user feedback, and market demands for comprehensive analysis and decision-making."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "The evaluation of component value relies on product attributes and design requisites, which can involve amalgamating expert insights, user feedback, and market demands for comprehensive analysis and decision-making.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "The evaluation of component value relies on product attributes and design requisites, which can involve amalgamating expert insights, user feedback, and market demands for comprehensive analysis and decision-making.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "Comprehensive Evaluation Scale: Establish an evaluation set stratified into six lev-",
+          "tool_family_codes": [
+            "UNMAPPED"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            15
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "sampling, aim to derive the average state-action value function Q(s, a) using the formula"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "Comprehensive Evaluation Scale: Establish an evaluation set stratified into six lev-"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "gather sample data."
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "Comprehensive Evaluation Scale: Establish an evaluation set stratified into six lev-"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\91.pdf"
+}

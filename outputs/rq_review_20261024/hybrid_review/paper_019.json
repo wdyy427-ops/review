@@ -1,0 +1,389 @@
+{
+  "paper_id": 19,
+  "title": "Generative product design Kansei mapping by an integrated temporal convolutional network-transformer-gated recurrent unit and stable diffusion model",
+  "doi": "10.1080/09544828.2026.2612682",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    14,
+    16,
+    20,
+    21,
+    22,
+    24,
+    25,
+    26,
+    32,
+    33
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S1"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [],
+  "target_user_codes": [
+    "U6"
+  ],
+  "context_summary": "This study proposes a generative Kansei mapping framework integrating KE with a TCN-Transformer-GRU model to design ceramic incense burners. It combines cloud model-entropy weight method for emotional vocabulary weighting, and uses SDM for visual design generation. Human evaluations include surveys and eye-tracking experiments.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "019-E1",
+      "purpose_codes": [
+        "P1"
+      ],
+      "object_codes": [
+        "O1",
+        "O3"
+      ],
+      "evaluator_codes": [],
+      "source_codes": [
+        "H1",
+        "H6"
+      ],
+      "setting_code": "L2",
+      "design_code": "G7",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [],
+      "sample_n": 100,
+      "sample_description": "One hundred participants with design backgrounds were invited to rate the samples using a five-point Likert scale.",
+      "recruitment": "",
+      "task": "",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 16,
+          "quote": "One hundred participants with design backgrounds were invited to rate the samples using a five-point Likert scale."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "One hundred participants with design backgrounds were invited to rate the samples using a five-point Likert scale.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "One hundred participants with design backgrounds were invited to rate the samples using a five-point Likert scale.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "to a specific attribute, such as product ratings.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "samplesusingafive-pointLikertscale.Theaverageratingswerethenusedtoconstructthe",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            16
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": "to a specific attribute, such as product ratings."
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": "tisselectedwithintherangefrom1to T.Next,noisesamplesareextractedfromastandard"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": "to a specific attribute, such as product ratings."
+        }
+      ]
+    },
+    {
+      "eval_id": "019-E2",
+      "purpose_codes": [
+        "P2",
+        "P1"
+      ],
+      "object_codes": [
+        "O1",
+        "O6",
+        "O7"
+      ],
+      "evaluator_codes": [],
+      "source_codes": [
+        "H1",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G7",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K3",
+        "K4",
+        "K5",
+        "K7"
+      ],
+      "constraint_codes": [],
+      "sample_n": 5,
+      "sample_description": "Five experts were invited to participate in the eye-tracking experiment.",
+      "recruitment": "",
+      "task": "tasks.",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "dure was briefly explained and an informed consent form was signed.",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 22,
+          "quote": "Five experts were invited to participate in the eye-tracking experiment."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Five experts were invited to participate in the eye-tracking experiment.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "Five experts were invited to participate in the eye-tracking experiment.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "and natural, seamlessly integrating with the body, while the edges of the lid are neat and",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "five-pointLikertscalewasconstructedbasedonthesecriteria,and52domainexpertswere",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            22
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "quote": "and natural, seamlessly integrating with the body, while the edges of the lid are neat and"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "quote": "while the remaining 18 samples were treated as the comparison sequence."
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "quote": "and natural, seamlessly integrating with the body, while the edges of the lid are neat and"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\19.pdf"
+}

@@ -1,0 +1,23 @@
+# Normalize text files across the two Windows hosts.
+* text=auto
+
+*.py   text eol=lf
+*.js   text eol=lf
+*.mjs  text eol=lf
+*.cjs  text eol=lf
+*.json text eol=lf
+*.csv  text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+*.bib  text eol=lf
+*.ps1  text eol=crlf
+
+# Research documents and figures are binary and should not be line-normalized.
+*.xlsx binary
+*.xls  binary
+*.docx binary
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.svg  text eol=lf

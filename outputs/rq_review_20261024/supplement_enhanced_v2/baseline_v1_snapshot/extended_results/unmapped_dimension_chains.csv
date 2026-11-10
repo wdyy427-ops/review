@@ -1,0 +1,59 @@
+﻿chain_id,paper_id,claim_summary,construct_raw,indicator_raw,dimension_code,indicator_code,instrument_raw,pages
+001-E1-C2,1,有限元与人体工学整合有效性评分5.6,Effectiveness of FEA and Ergonomics Integration,Effectiveness of FEA and Ergonomics Integration,UNMAPPED,UNMAPPED,自编7点Likert问卷；Table 2,16;17
+003-E3-C1,3,专家需求创新价值评分作为XGBoost校准标签，原始评分结果未逐项公开,Innovation value of demand,Innovation value of demand,UNMAPPED,UNMAPPED,专家综合评分（量尺NR）＋XGBoost校准,16;24
+007-E1-C1,7,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,A comparison between the expert ratings and the LLM-generated sim-,16
+019-E1-C1,19,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"to a specific attribute, such as product ratings.",16
+019-E2-C1,19,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"and natural, seamlessly integrating with the body, while the edges of the lid are neat and",22
+020-E1-C1,20,主观感知评价存在，但固定指标映射需人工复核,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"In this study, a 5-step Likert scale (5 represents",14
+020-E2-C1,20,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"evaluations used a 5-point Likert scale, as shown in Table 9, the complete dataset can be",22
+020-E3-C1,20,主观感知评价存在，但固定指标映射需人工复核,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"In this study, a 5-step Likert scale (5 represents",14
+024-E1-C1,24,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,Post-experiment questionnaire survey,15
+024-E3-C1,24,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"To ensure the scientific rigour of the instrument, the questionnaire utilised a five-",18
+028-E3-C1,28,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"r = 0.4243), interview feedback suggests that the system still supported creative diver-",26
+029-E1-C1,29,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"through methods such as interviews, surveys, and customer feedback (Mohedas, Daly, and",9
+029-E2-C1,29,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,titative survey data provided numerical comparisons between AI- and human-generated,10
+039-E1-C1,39,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"Second, all participants completed a diary survey that re-",10
+041-E1-C1,41,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,the accurate geometric large-scale model and generate 300 images in the SDM software.,18
+041-E2-C1,41,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,the accurate geometric large-scale model and generate 300 images in the SDM software.,18
+041-E3-C1,41,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,the existing models in understanding the text and generating the output.,30
+048-E1-C1,48,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,The semantic extension rating vector forU4is obtained.,24
+050-E1-C1,50,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,tograyscaleimagestoremovecolourinterferenceandblurredorhiddenthebrandlogoin,26
+050-E2-C1,50,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"vious surveys, for a total of 20 people to rate the emotional experience of 6 table lamp",36
+057-E1-C1,57,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,flows or generating design elements through structural decomposition (He et al.,10
+058-E1-C1,58,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"closing the loop between research and procurement, integrating sourcing",12
+060-E1-C1,60,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,in generating concepts that are both practical and original.,17
+060-E2-C1,60,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,in generating concepts that are both practical and original.,20
+062-E1-C1,62,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,was not tested on large-scale data.,24
+064-E1-C1,64,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"user-friendliness of our interface, we conducted a user study using a Likert scale question-",21
+065-E1-C1,65,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"(1) Workflow Construction: In the node-based operating system of stable diffusion, a",26
+065-E2-C1,65,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,We selected guidance scale= 7.5 and,28
+066-E2-C1,66,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"generating several design ideas, indicating a higher reliance on AI-generated ideas and",21
+066-E3-C1,66,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,generating stimuli throughout the conceptual design process.,25
+067-E1-C1,67,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,the optimised dataset in generating design solutions.,23
+070-E4-C1,70,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"ratings (feasibility, novelty and aesthetics).",17
+071-E1-C1,71,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,MS-SSIM further considers structural similarity at different scales based on structural sim-,18
+072-E2-C1,72,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,BarPlotofExpertResponsesfromQuestionnaireforSimilarityofIdeasGeneratedfortheSix,26
+075-E1-C1,75,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"grayscale, intended to explore impact of eliminating colour from the",7
+076-E1-C1,76,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"‘monitoring operating parameters’ and ‘opening the ventilation fan under the transformer’,",19
+077-E1-C1,77,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,limitations in generating novel design concepts.,28
+083-E4-C1,83,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"Design models by incorporating qualitative performance objectives such as local characters, design aesthetics,",10
+084-E1-C1,84,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"views and surveys, for gathering product experience data are time-",3
+084-E2-C1,84,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"views and surveys, for gathering product experience data are time-",1
+86-E1-C1,86,列车造型的Science-fiction感性意象评分供模型训练,Science-fiction,Science-fiction,UNMAPPED,UNMAPPED,感性工学自编语义一致性7级评分（作者称7-point Likert）,5;11;12;14;15
+86-E1-C2,86,列车造型的Humanistic感性意象评分供模型训练,Humanistic,Humanistic,UNMAPPED,UNMAPPED,感性工学自编语义一致性7级评分（作者称7-point Likert）,5;11;12;14;15
+86-E1-C4,86,列车造型的Grand感性意象评分供模型训练,Grand,Grand,UNMAPPED,UNMAPPED,感性工学自编语义一致性7级评分（作者称7-point Likert）,5;11;12;14;15
+86-E1-C5,86,列车造型的Efficient感性意象评分供模型训练,Efficient,Efficient,UNMAPPED,UNMAPPED,感性工学自编语义一致性7级评分（作者称7-point Likert）,5;11;12;14;15
+86-E2-C1,86,优化方案Efficient评分与既有样本均值对照,Efficient,Efficient,UNMAPPED,UNMAPPED,沿用7级感性语义评分,20;21;23
+86-E2-C3,86,优化方案Grand评分与既有样本均值对照,Grand,Grand,UNMAPPED,UNMAPPED,沿用7级感性语义评分,20;21;23
+87-E1-C1,87,Sketchar总创造力支持评分高于常规流程,Creativity Support Index,CSI total,UNMAPPED,UNMAPPED,Creativity Support Index (Cherry & Latulipe 2014)，改编语境,13;14;16;17;28
+87-E1-C7,87,CSI Results Worth Effort的条件/背景差异,Results Worth Effort,Results Worth Effort,UNMAPPED,UNMAPPED,CSI Results Worth Effort分量表,14;16;17;20;23;28
+091-E1-C1,91,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,Comprehensive Evaluation Scale: Establish an evaluation set stratified into six lev-,15
+097-E1-C1,97,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,an ethnographic approach to explore how product designers are currently integrating AIGC,7
+097-E4-C1,97,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,(3) Integrating human designers’ expertise and creative processes,14
+097-E5-C1,97,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,GeneratingdiﬀerentCMFimagewithAIGC.,18
+103-E1-C1,103,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"ingforpositiverewards.Thus,weconsidergeneratingasequence",11
+108-E1-C1,108,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"made emotionally, such as when something is deemed lovely, and then demonstrating",15
+109-E1-C1,109,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,to effectively control the texture and shape of fashion items for generating fashion items with,1
+113-E1-C1,113,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"The input to our pipeline is a greyscale bitmap sketch, containing a",7
+115-E3-C1,115,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,and liking a product can be measured separately and demonstrating the usefulness,25
+120-E1-C1,120,全文确认存在人类主观评价，但固定指标映射证据不足,UNMAPPED,UNMAPPED,UNMAPPED,UNMAPPED,"from the colorized image 𝐼𝑐1 , which results in generating a sketch",11

@@ -1,0 +1,19 @@
+﻿stage,n,source,verification
+Raw retrieval results,5299,text.docx narrative,Narrative only; raw per-query logs not located in check workbooks
+Repeated identical record IDs across retrieval runs,164,text.docx narrative,Narrative only
+Unique retrieved IDs before screening,5135,text.docx narrative and check/round1_corrected.xlsx,4993 candidates +142 exclusions =5135
+Duplicate titles removed,54,check/round1_corrected.xlsx:Excluded,Counted exact exclusion label
+Duplicate DOI removed,1,check/round1_corrected.xlsx:Excluded,Counted exact exclusion label
+Metadata-identifiable not peer reviewed full paper,87,check/round1_corrected.xlsx:Excluded,Counted exact exclusion label
+Title abstract screened,4993,check/round1_corrected.xlsx:Candidates,Nonheader rows
+Provisional include,82,check/round2_corrected.xlsx:included,Nonheader rows
+Unclear advanced,503,check/round2_corrected.xlsx:unclear,Nonheader rows
+Title abstract excluded,4408,check/round2_corrected.xlsx:excluded,Nonheader rows
+Advanced assessment,585,check/round3.xlsx,82+503; do not imply585 retrieved full texts
+Unclear to include,80,check/round3.xlsx:unclear include,Nonheader rows
+Unclear to exclude,423,check/round3.xlsx:unclear exclude,Nonheader rows
+Provisional include retained,60,check/round3.xlsx:include include,Nonheader rows
+Provisional include rejected,22,check/round3.xlsx:include exclude,Nonheader rows
+Retained before date narrowing,140,check/Final included_corrected.xlsx,80+60
+Pre2022 excluded by subsequent scope refinement,15,最终/Final included_descending_numbered.xlsx,Numbered records126–140; screening_year<2022
+Final corpus,125,03_revised_results/papers_supplement_enhanced.csv,Records1–125 in final numbered workbook

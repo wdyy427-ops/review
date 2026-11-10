@@ -1,0 +1,3116 @@
+[
+  {
+    "eval_id": "001-E1",
+    "legacy_eval_ids": [
+      "1-评价1",
+      "1-评价2",
+      "1-评价3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "object_codes": [
+      "O1",
+      "O6"
+    ],
+    "evaluator_codes": [
+      "V3",
+      "V4"
+    ],
+    "source_codes": [
+      "H1",
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G1",
+    "evaluation_stage_codes": [
+      "S3"
+    ],
+    "sample_n": 87,
+    "sample_description": "招募100位北京丰台区20–64岁居民，87份有效问卷；表1描述100名招募者，非87名最终分析者。表1男女48/52，正文50/50。",
+    "recruitment": "社区传单与线上公告，自愿无报酬；作者称分层抽样。",
+    "task": "查看四个筛选后AI椅子设计的3D渲染图，评价新颖、制造、接受与满意度。",
+    "comparator": "没有常规设计或未加入约束的基线；四方案结果合并呈现。",
+    "procedure": "观看四个设计渲染；7点Likert问卷，题名见表2；是否逐方案分别作答及实际实施场所未交代。",
+    "analysis": "逐题描述统计：均值、标准差、最小和最大；未报告假设检验、信度或效度检验。",
+    "actual_results": "总体新颖5.3±1.18、结构突破5.1±1.35、整合有效性5.6±1.02、创新安全平衡5.0±1.24；工艺4.4、成本4.2、稳定5.1、生产4.7；购买3.9、价格敏感3.7、审美4.4、预期体验4.6、功能平衡4.8、满意4.7。",
+    "limitations": "作者提未来应优化成本、制造效率及加入压力/疲劳、VR评估；未明确承认无对照不能检验H1/H2的提升效果。",
+    "ethics": "第15页称所有参与者签知情同意、第16页匿名；无伦理审批号。",
+    "evidence": [
+      {
+        "field": "purpose/sample",
+        "page": 15,
+        "quote": "This study recruited 100 participants from Fengtai District, Beijing, China."
+      },
+      {
+        "field": "instrument",
+        "page": 16,
+        "quote": "A 7-point likert scale was employed to capture the nuances in participant responses."
+      },
+      {
+        "field": "result",
+        "page": 17,
+        "quote": "Table 2. Quantitative survey results summary table ( N = 87)."
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "quote": "Most participants agreed that the AI-designed seats demonstrated comparable or even superior structural integrity and ergonomic comfort to conventional designs.",
+        "pages": [
+          18
+        ],
+        "reason": "未报告传统设计比较条件或对应数据，不能作为已测感知证据链。"
+      }
+    ],
+    "paper_id": 1,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F5",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1",
+      "U5"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "001-E1-C01",
+      "001-E1-C02",
+      "001-E1-C03",
+      "001-E1-C04",
+      "001-E1-C05",
+      "001-E1-C06",
+      "001-E1-C07",
+      "001-E1-C08",
+      "001-E1-C09"
+    ],
+    "dimension_codes": [
+      "A",
+      "E",
+      "UNMAPPED"
+    ],
+    "indicator_codes": [
+      "A1",
+      "A2",
+      "A3",
+      "A4",
+      "E1",
+      "E7",
+      "UNMAPPED"
+    ],
+    "tool_family_codes": [
+      "M1"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "002-E1",
+    "legacy_eval_ids": [],
+    "purpose_codes": [
+      "P1"
+    ],
+    "object_codes": [
+      "O7"
+    ],
+    "evaluator_codes": [
+      "V1"
+    ],
+    "source_codes": [
+      "H1",
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G7",
+    "evaluation_stage_codes": [
+      "S1"
+    ],
+    "sample_n": 12,
+    "sample_description": "12位交通设计专业人士评价GPT-5提炼的感性词",
+    "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+    "task": "12位交通设计专业人士评价GPT-5提炼的感性词",
+    "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+    "procedure": "Does this imagery adjective represent your affective expectations for an electric motorcycle?；0–1连续评分；取均值；锚点文字NR",
+    "analysis": "候选均值和排名",
+    "actual_results": "Technological 0.85; Sporty 0.83; Modern 0.82; Retro 0.80",
+    "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+    "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+    "evidence": [
+      {
+        "field": "procedure",
+        "page": 15,
+        "quote": "Does this imagery adjective represent your affective expectations for an electric motorcycle?"
+      },
+      {
+        "field": "result",
+        "page": 15,
+        "quote": "Technological 0.85; Sporty 0.83; Modern 0.82; Retro 0.80"
+      }
+    ],
+    "paper_id": 2,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "002-E1-C01"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "tool_family_codes": [
+      "M1"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "002-E2",
+    "legacy_eval_ids": [
+      "2-评价1"
+    ],
+    "purpose_codes": [
+      "P3"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V3"
+    ],
+    "source_codes": [
+      "H1",
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S3"
+    ],
+    "sample_n": 140,
+    "sample_description": "140消费者（75男65女，20–40岁）评价20个科技感电摩外形",
+    "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+    "task": "140消费者（75男65女，20–40岁）评价20个科技感电摩外形",
+    "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+    "procedure": "Does this shape match your expectations for a technological electric motorcycle?；0–1连续评分；取均值；锚点文字NR",
+    "analysis": "候选均值和排名",
+    "actual_results": "TShape_9 0.823; TShape_17 0.799; TShape_16 0.786",
+    "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+    "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+    "evidence": [
+      {
+        "field": "procedure",
+        "page": 16,
+        "quote": "Does this shape match your expectations for a technological electric motorcycle?"
+      },
+      {
+        "field": "result",
+        "page": 16,
+        "quote": "TShape_9 0.823; TShape_17 0.799; TShape_16 0.786"
+      }
+    ],
+    "paper_id": 2,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "002-E2-C01"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "tool_family_codes": [
+      "M1"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "002-E3",
+    "legacy_eval_ids": [],
+    "purpose_codes": [
+      "P3"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V1"
+    ],
+    "source_codes": [
+      "H1",
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S3"
+    ],
+    "sample_n": 20,
+    "sample_description": "20设计师评价消费者评分最高10个科技外形",
+    "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+    "task": "20设计师评价消费者评分最高10个科技外形",
+    "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+    "procedure": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?；0–1连续评分；取均值；锚点文字NR",
+    "analysis": "感性工学多准则决策；详见构念链",
+    "actual_results": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+    "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+    "evidence": [
+      {
+        "field": "procedure",
+        "page": 16,
+        "quote": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?"
+      },
+      {
+        "field": "result",
+        "page": 17,
+        "quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes."
+      }
+    ],
+    "paper_id": 2,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "002-E3-C01",
+      "002-E3-C02",
+      "002-E3-C03",
+      "002-E3-C04"
+    ],
+    "dimension_codes": [
+      "A",
+      "E"
+    ],
+    "indicator_codes": [
+      "A2",
+      "A3",
+      "A4",
+      "E2"
+    ],
+    "tool_family_codes": [
+      "M6"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "002-E4",
+    "legacy_eval_ids": [],
+    "purpose_codes": [
+      "P1",
+      "P3"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V1"
+    ],
+    "source_codes": [
+      "H1",
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G7",
+    "evaluation_stage_codes": [
+      "S3"
+    ],
+    "sample_n": 20,
+    "sample_description": "20设计师比较5个形态元素对科技感的贡献",
+    "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+    "task": "20设计师比较5个形态元素对科技感的贡献",
+    "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+    "procedure": "Relative to each pair, which element contributes more to a technological aesthetic?；Saaty 1–9成对比较；几何均值与归一化权重；报告汇总矩阵CR",
+    "analysis": "感性工学多准则决策；详见构念链",
+    "actual_results": "F > H > L > R > W; λmax = 5.015, C.R. = 0.0036 < 0.1",
+    "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+    "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+    "evidence": [
+      {
+        "field": "procedure",
+        "page": 16,
+        "quote": "Relative to each pair, which element contributes more to a technological aesthetic?"
+      },
+      {
+        "field": "result",
+        "page": 18,
+        "quote": "F > H > L > R > W; λmax = 5.015, C.R. = 0.0036 < 0.1"
+      }
+    ],
+    "paper_id": 2,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "002-E4-C01"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "tool_family_codes": [
+      "M6"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "002-E5",
+    "legacy_eval_ids": [],
+    "purpose_codes": [
+      "P3"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V3"
+    ],
+    "source_codes": [
+      "H1",
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S3"
+    ],
+    "sample_n": 138,
+    "sample_description": "138电摩用户及潜在消费者，20–35岁、男女1:1，评4类形态元素的科技感隶属度",
+    "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+    "task": "138电摩用户及潜在消费者，20–35岁、男女1:1，评4类形态元素的科技感隶属度",
+    "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+    "procedure": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type；归一化隶属度，原始作答量尺NR",
+    "analysis": "感性工学多准则决策；详见构念链",
+    "actual_results": "Table 7: normalised fuzzy memberships; Front fairing Type_1 0.269, Type_2 0.237, Type_3 0.232, Type_4 0.262",
+    "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+    "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+    "evidence": [
+      {
+        "field": "procedure",
+        "page": 17,
+        "quote": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type"
+      },
+      {
+        "field": "result",
+        "page": 18,
+        "quote": "Table 7: normalised fuzzy memberships; Front fairing Type_1 0.269, Type_2 0.237, Type_3 0.232, Type_4 0.262"
+      }
+    ],
+    "paper_id": 2,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "002-E5-C01"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "tool_family_codes": [
+      "M6"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "002-E6",
+    "legacy_eval_ids": [],
+    "purpose_codes": [
+      "P3"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V3"
+    ],
+    "source_codes": [
+      "H1",
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S3"
+    ],
+    "sample_n": 100,
+    "sample_description": "100电摩用户、20–36岁、性别平衡，评四科技感组合方案",
+    "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+    "task": "100电摩用户、20–36岁、性别平衡，评四科技感组合方案",
+    "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+    "procedure": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions；正文0–1；表8用约50–70数值，可能×100但作者未说明；FCE排名与问卷一致",
+    "analysis": "候选均值和排名",
+    "actual_results": "Table 8: Alternative_1 69.3; Alternative_2 65.7; Alternative_3 59.2; Alternative_4 52.9",
+    "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+    "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+    "evidence": [
+      {
+        "field": "procedure",
+        "page": 20,
+        "quote": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions"
+      },
+      {
+        "field": "result",
+        "page": 20,
+        "quote": "Table 8: Alternative_1 69.3; Alternative_2 65.7; Alternative_3 59.2; Alternative_4 52.9"
+      }
+    ],
+    "paper_id": 2,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "002-E6-C01"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "tool_family_codes": [
+      "M1"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "002-E7",
+    "legacy_eval_ids": [],
+    "purpose_codes": [
+      "P3"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V3"
+    ],
+    "source_codes": [
+      "H1",
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S3"
+    ],
+    "sample_n": 100,
+    "sample_description": "100电摩用户、20–36岁、50男50女，评8科技配色",
+    "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+    "task": "100电摩用户、20–36岁、50男50女，评8科技配色",
+    "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+    "procedure": "NR；rated the eight color schemes on a 0–1 scale；正文0–1；表10约55–82，缩放NR",
+    "analysis": "候选均值和排名",
+    "actual_results": "TColor_4 81.4; TColor_3 77.5; TColor_8 72.3",
+    "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+    "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+    "evidence": [
+      {
+        "field": "procedure",
+        "page": 20,
+        "quote": "NR；rated the eight color schemes on a 0–1 scale"
+      },
+      {
+        "field": "result",
+        "page": 22,
+        "quote": "TColor_4 81.4; TColor_3 77.5; TColor_8 72.3"
+      }
+    ],
+    "paper_id": 2,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "002-E7-C01"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "tool_family_codes": [
+      "M1"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "002-E8",
+    "legacy_eval_ids": [],
+    "purpose_codes": [
+      "P3"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V1"
+    ],
+    "source_codes": [
+      "H1",
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S3"
+    ],
+    "sample_n": 20,
+    "sample_description": "20设计师对8科技配色进行成对比较",
+    "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+    "task": "20设计师对8科技配色进行成对比较",
+    "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+    "procedure": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?；AHP成对比较、几何均值权重；CR0.001",
+    "analysis": "感性工学多准则决策；详见构念链",
+    "actual_results": "TColor_4 > TColor_3 > TColor_8; C.R. = 0.001",
+    "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+    "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+    "evidence": [
+      {
+        "field": "procedure",
+        "page": 20,
+        "quote": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?"
+      },
+      {
+        "field": "result",
+        "page": 22,
+        "quote": "TColor_4 > TColor_3 > TColor_8; C.R. = 0.001"
+      }
+    ],
+    "paper_id": 2,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "002-E8-C01"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "tool_family_codes": [
+      "M6"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "002-E9",
+    "legacy_eval_ids": [],
+    "purpose_codes": [
+      "P3"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V3"
+    ],
+    "source_codes": [
+      "H1",
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S3"
+    ],
+    "sample_n": 136,
+    "sample_description": "136消费者，72男64女、20–38岁，评20运动电摩外形",
+    "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+    "task": "136消费者，72男64女、20–38岁，评20运动电摩外形",
+    "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+    "procedure": "Does this shape match your expectations for a sporty electric motorcycle?；0–1连续评分；取均值；锚点文字NR",
+    "analysis": "候选均值和排名",
+    "actual_results": "SShape_15 0.824; SShape_19 0.803; SShape_17 0.793",
+    "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+    "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+    "evidence": [
+      {
+        "field": "procedure",
+        "page": 22,
+        "quote": "Does this shape match your expectations for a sporty electric motorcycle?"
+      },
+      {
+        "field": "result",
+        "page": 23,
+        "quote": "SShape_15 0.824; SShape_19 0.803; SShape_17 0.793"
+      }
+    ],
+    "paper_id": 2,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "002-E9-C01"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "tool_family_codes": [
+      "M1"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "002-E10",
+    "legacy_eval_ids": [],
+    "purpose_codes": [
+      "P3"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V1"
+    ],
+    "source_codes": [
+      "H1",
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S3"
+    ],
+    "sample_n": 20,
+    "sample_description": "20设计师评价消费者排名前10运动外形",
+    "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+    "task": "20设计师评价消费者排名前10运动外形",
+    "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+    "procedure": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?；0–1连续评分；取均值；锚点文字NR",
+    "analysis": "感性工学多准则决策；详见构念链",
+    "actual_results": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+    "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+    "evidence": [
+      {
+        "field": "procedure",
+        "page": 23,
+        "quote": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?"
+      },
+      {
+        "field": "result",
+        "page": 24,
+        "quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes."
+      }
+    ],
+    "paper_id": 2,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "002-E10-C01",
+      "002-E10-C02",
+      "002-E10-C03",
+      "002-E10-C04"
+    ],
+    "dimension_codes": [
+      "A",
+      "E"
+    ],
+    "indicator_codes": [
+      "A2",
+      "A3",
+      "A4",
+      "E2"
+    ],
+    "tool_family_codes": [
+      "M6"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "002-E11",
+    "legacy_eval_ids": [],
+    "purpose_codes": [
+      "P3"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V3"
+    ],
+    "source_codes": [
+      "H1",
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S3"
+    ],
+    "sample_n": 120,
+    "sample_description": "120电摩用户/潜在消费者，20–36岁、男女1:1，评运动形态隶属度",
+    "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+    "task": "120电摩用户/潜在消费者，20–36岁、男女1:1，评运动形态隶属度",
+    "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+    "procedure": "NR；completed a Kansei questionnaire to obtain the fuzzy membership；归一化隶属度；借用科技感AHP权重，未为运动感重新引出",
+    "analysis": "感性工学多准则决策；详见构念链",
+    "actual_results": "Table 13: Front fairing Type_1 0.268; Type_2 0.231; Type_3 0.239; Type_4 0.262",
+    "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+    "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+    "evidence": [
+      {
+        "field": "procedure",
+        "page": 25,
+        "quote": "NR；completed a Kansei questionnaire to obtain the fuzzy membership"
+      },
+      {
+        "field": "result",
+        "page": 25,
+        "quote": "Table 13: Front fairing Type_1 0.268; Type_2 0.231; Type_3 0.239; Type_4 0.262"
+      }
+    ],
+    "paper_id": 2,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "002-E11-C01"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "tool_family_codes": [
+      "M6"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "002-E12",
+    "legacy_eval_ids": [],
+    "purpose_codes": [
+      "P3"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V3"
+    ],
+    "source_codes": [
+      "H1",
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S3"
+    ],
+    "sample_n": 100,
+    "sample_description": "100电摩用户，20–36岁、性别平衡，评四运动组合外形",
+    "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+    "task": "100电摩用户，20–36岁、性别平衡，评四运动组合外形",
+    "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+    "procedure": "NR；rated the four alternatives on a 0–1 scale；正文0–1；表14约55–65，缩放NR；FCE同序",
+    "analysis": "候选均值和排名",
+    "actual_results": "Table 14: Alternative_1 64.9; Alternative_2 62.4; Alternative_3 57.2; Alternative_4 55.8",
+    "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+    "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+    "evidence": [
+      {
+        "field": "procedure",
+        "page": 26,
+        "quote": "NR；rated the four alternatives on a 0–1 scale"
+      },
+      {
+        "field": "result",
+        "page": 26,
+        "quote": "Table 14: Alternative_1 64.9; Alternative_2 62.4; Alternative_3 57.2; Alternative_4 55.8"
+      }
+    ],
+    "paper_id": 2,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "002-E12-C01"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "tool_family_codes": [
+      "M1"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "002-E13",
+    "legacy_eval_ids": [],
+    "purpose_codes": [
+      "P3"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V3"
+    ],
+    "source_codes": [
+      "H1",
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S3"
+    ],
+    "sample_n": 100,
+    "sample_description": "100电摩用户、20–36岁、性别平衡，评8运动配色",
+    "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+    "task": "100电摩用户、20–36岁、性别平衡，评8运动配色",
+    "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+    "procedure": "NR；rated the eight color schemes on a 0–1 scale；正文0–1；表16约55–75，缩放NR",
+    "analysis": "候选均值和排名",
+    "actual_results": "SColor_3 74.5; SColor_4 72.7; SColor_2 71.4",
+    "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+    "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+    "evidence": [
+      {
+        "field": "procedure",
+        "page": 28,
+        "quote": "NR；rated the eight color schemes on a 0–1 scale"
+      },
+      {
+        "field": "result",
+        "page": 28,
+        "quote": "SColor_3 74.5; SColor_4 72.7; SColor_2 71.4"
+      }
+    ],
+    "paper_id": 2,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "P",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "002-E13-C01"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "tool_family_codes": [
+      "M1"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "002-E14",
+    "legacy_eval_ids": [],
+    "purpose_codes": [
+      "P3"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V1"
+    ],
+    "source_codes": [
+      "H1",
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S3"
+    ],
+    "sample_n": 20,
+    "sample_description": "20设计师对8运动配色进行成对比较",
+    "recruitment": "NR；未报告具体招募渠道和跨环节参与者是否重叠",
+    "task": "20设计师对8运动配色进行成对比较",
+    "comparator": "同批多意象/多候选方案；无传统设计工作流对照",
+    "procedure": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?；AHP成对比较和权重；CR0.0005",
+    "analysis": "感性工学多准则决策；详见构念链",
+    "actual_results": "SColor_3 > SColor_2 > SColor_4; C.R. = 0.0005",
+    "limitations": "第32–33页承认单一意象、静态图不能传达多视角、配色材质未验证制造约束、仅量尺难以反映实时体验。",
+    "ethics": "NR；正文及附录未报告伦理审批或知情同意",
+    "evidence": [
+      {
+        "field": "procedure",
+        "page": 28,
+        "quote": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?"
+      },
+      {
+        "field": "result",
+        "page": 28,
+        "quote": "SColor_3 > SColor_2 > SColor_4; C.R. = 0.0005"
+      }
+    ],
+    "paper_id": 2,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "002-E14-C01"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "tool_family_codes": [
+      "M6"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "003-E1",
+    "legacy_eval_ids": [],
+    "purpose_codes": [
+      "P1"
+    ],
+    "object_codes": [
+      "O7"
+    ],
+    "evaluator_codes": [
+      "V3"
+    ],
+    "source_codes": [
+      "H4"
+    ],
+    "setting_code": "L5",
+    "design_code": "G6",
+    "evaluation_stage_codes": [
+      "S1"
+    ],
+    "sample_n": null,
+    "sample_description": "48,623条iPhone16评论，2024-09至2025-10；清理后42,610条，非42,610独立用户",
+    "recruitment": "京东/淘宝在线既有评论，用户数量及人口学未知",
+    "task": "48,623条iPhone16评论，2024-09至2025-10；清理后42,610条，非42,610独立用户",
+    "comparator": "NR；无设计者使用传统流程的实验比较",
+    "procedure": "The Emotional Intensity indicator Iv measures emotional shifts in demand, calculated as the difference between the proportion of positive comments and the proportion of negative comments.",
+    "analysis": "正负评论比例、14时间窗、需求属性表4与趋势图",
+    "actual_results": "Battery Life −0.61; AI Photography 0.82; Screen Eye Protection −0.68; Housing Material 0.89",
+    "limitations": "第27页拟跨行业、平台和语言验证。专家评分题项/尺度、参与者独立性与情绪专门验证信息不足。",
+    "ethics": "NR；未报告伦理/同意",
+    "evidence": [
+      {
+        "field": "method",
+        "page": 15,
+        "quote": "The Emotional Intensity indicator Iv measures emotional shifts in demand, calculated as the difference between the proportion of positive comments and the proportion of negative comments."
+      },
+      {
+        "field": "result",
+        "page": 24,
+        "quote": "Battery Life −0.61; AI Photography 0.82; Screen Eye Protection −0.68; Housing Material 0.89"
+      }
+    ],
+    "unsupported_claims": [
+      {
+        "quote": "indicating this hardware defect was resolved through the system update.",
+        "pages": [
+          23
+        ],
+        "reason": "时间趋势不能单独证实硬件问题已由系统更新解决。"
+      }
+    ],
+    "paper_id": 3,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5"
+    ],
+    "ai_role_codes": [
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1",
+      "U4"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "S",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "003-E1-C01"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E1"
+    ],
+    "tool_family_codes": [
+      "M7"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "003-E2",
+    "legacy_eval_ids": [
+      "3-评价1"
+    ],
+    "purpose_codes": [
+      "P1"
+    ],
+    "object_codes": [
+      "O7"
+    ],
+    "evaluator_codes": [
+      "V1"
+    ],
+    "source_codes": [
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G7",
+    "evaluation_stage_codes": [
+      "S1"
+    ],
+    "sample_n": 5,
+    "sample_description": "5位产品领域专家对5项机会指标作重要性比较",
+    "recruitment": "5位至少5年产品设计创新经验专家；工业设计、UX及产品策略领域；招募渠道NR",
+    "task": "5位产品领域专家对5项机会指标作重要性比较",
+    "comparator": "NR；无设计者使用传统流程的实验比较",
+    "procedure": "The experts were asked to pair-wise compare the five indicators using a standard 1–9 point scale.",
+    "analysis": "AHP，CR0.072，报告最终权重",
+    "actual_results": "ωH = 0.1, ωP = 0.25, ωN = 0.2, ωS = 0.3 and ωI = 0.15; CR = 0.072",
+    "limitations": "第27页拟跨行业、平台和语言验证。专家评分题项/尺度、参与者独立性与情绪专门验证信息不足。",
+    "ethics": "NR；未报告伦理/同意",
+    "evidence": [
+      {
+        "field": "method",
+        "page": 16,
+        "quote": "The experts were asked to pair-wise compare the five indicators using a standard 1–9 point scale."
+      },
+      {
+        "field": "result",
+        "page": 24,
+        "quote": "ωH = 0.1, ωP = 0.25, ωN = 0.2, ωS = 0.3 and ωI = 0.15; CR = 0.072"
+      }
+    ],
+    "paper_id": 3,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5"
+    ],
+    "ai_role_codes": [
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1",
+      "U4"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "003-E2-C01"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "UNMAPPED"
+    ],
+    "tool_family_codes": [
+      "M6"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "003-E3",
+    "legacy_eval_ids": [
+      "3-评价1"
+    ],
+    "purpose_codes": [
+      "P2"
+    ],
+    "object_codes": [
+      "O7"
+    ],
+    "evaluator_codes": [
+      "V1"
+    ],
+    "source_codes": [
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G8",
+    "evaluation_stage_codes": [
+      "S1"
+    ],
+    "sample_n": 5,
+    "sample_description": "同5专家评价随机100需求节点；人数5、项目数100",
+    "recruitment": "5位至少5年产品设计创新经验专家；工业设计、UX及产品策略领域；招募渠道NR",
+    "task": "同5专家评价随机100需求节点；人数5、项目数100",
+    "comparator": "NR；无设计者使用传统流程的实验比较",
+    "procedure": "the same panel of experts is invited to score the innovation value of each sample, taking into account the individual indicators and the relationships between them.",
+    "analysis": "XGBoost校准需求分数；7:3分割及3轮5折CV",
+    "actual_results": "three rounds of 5-fold cross-validation were conducted, yielding an RMSE of 0.042 and a standard deviation of 0.006.",
+    "limitations": "第27页拟跨行业、平台和语言验证。专家评分题项/尺度、参与者独立性与情绪专门验证信息不足。",
+    "ethics": "NR；未报告伦理/同意",
+    "evidence": [
+      {
+        "field": "method",
+        "page": 16,
+        "quote": "the same panel of experts is invited to score the innovation value of each sample, taking into account the individual indicators and the relationships between them."
+      },
+      {
+        "field": "result",
+        "page": 24,
+        "quote": "three rounds of 5-fold cross-validation were conducted, yielding an RMSE of 0.042 and a standard deviation of 0.006."
+      }
+    ],
+    "paper_id": 3,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5"
+    ],
+    "ai_role_codes": [
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1",
+      "U4"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "P",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "003-E3-C01"
+    ],
+    "dimension_codes": [
+      "UNMAPPED"
+    ],
+    "indicator_codes": [
+      "UNMAPPED"
+    ],
+    "tool_family_codes": [
+      "M1"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "004-E1",
+    "legacy_eval_ids": [
+      "4-评价1"
+    ],
+    "purpose_codes": [
+      "P2"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V1"
+    ],
+    "source_codes": [
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G7",
+    "evaluation_stage_codes": [
+      "S2"
+    ],
+    "task_codes": [
+      "K4",
+      "K5"
+    ],
+    "constraint_codes": [
+      "Q6"
+    ],
+    "constraints_raw": "p22 Due to the proprietary nature of this industrial data, a simplified axle box bearing example is provided in Appendix 2.",
+    "sample_n": null,
+    "sample_description": "领域专家，人数、背景分布NR；工业合作方高铁轴承数据。",
+    "recruitment": "NR",
+    "task": "对组件材料兼容性与适用工况协同作模糊成对比较，构建RL奖励。",
+    "comparator": "组件规格之间的成对比较；无非AI人类任务对照。",
+    "procedure": "三角模糊数成对比较，extent analysis聚合模糊优先度，去模糊得到±3/±1等级。",
+    "analysis": "FAHP及去模糊；最终将等级奖励存入MKG；代理奖励与专家分数相关0.81。",
+    "actual_results": "表5/6给出四级规则：3、1、−1、−3；第34页代理与专家ground truth ρ=0.81；未给专家原始比较矩阵。",
+    "limitations": "作者明确人机交互机制未实证评价；限定可分解、稳定产品族；专家评分人数与原始记录未报告。",
+    "ethics": "NR",
+    "evidence": [
+      {
+        "field": "method",
+        "page": 20,
+        "quote": "Experts provided pairwise comparisons using triangular fuzzy numbers, which effectively capture the imprecise nature of human judgment."
+      },
+      {
+        "field": "scope",
+        "page": 37,
+        "quote": "The designer-in-the-loop mechanism is currently used as a procedural verification step"
+      }
+    ],
+    "paper_id": 4,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1",
+      "U5"
+    ],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "P",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "004-E1-C01",
+      "004-E1-C02"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A3",
+      "A4"
+    ],
+    "tool_family_codes": [
+      "M6"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "43-R1",
+    "legacy_eval_ids": [
+      "43-评价1"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V1"
+    ],
+    "source_codes": [
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S3"
+    ],
+    "sample_n": 20,
+    "sample_description": "14高校设计研究者+6行业设计师；均龄29.25±3.11；8产品/5UX/3HCI/2服务/2产品开发",
+    "recruitment": "NR",
+    "task": "评价吹风机等AI生成设计图片",
+    "task_codes": [
+      "K1",
+      "K2",
+      "K5"
+    ],
+    "constraint_codes": [
+      "NR"
+    ],
+    "constraints_raw": "未报告明确影响测量选择的可行条件",
+    "comparator": "文本、文本+图像、文本+图像+DM-CAM",
+    "procedure": "20名专家用五维15题7点量表比较生成方案；顺序/盲法NR",
+    "analysis": "均值图示；alpha、Kendall W与重测相关；主观差异检验NR",
+    "actual_results": "DM-CAM五维图示最高；整体均分6.2；具体各维数值仅图示",
+    "limitations": "用户语义噪声、跨模态对齐、图像功能逻辑覆盖不足；未真实任务验证用户体验",
+    "ethics": "NR",
+    "evidence": [
+      {
+        "field": "sample",
+        "page": 22,
+        "quote": "14 were researchers in design disciplines at universities"
+      },
+      {
+        "field": "results",
+        "page": 23,
+        "quote": "the average satisfaction of participants with the overall generation effect is 6.2"
+      }
+    ],
+    "paper_id": 43,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1"
+    ],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "43-R1-C01",
+      "43-R1-C02",
+      "43-R1-C03",
+      "43-R1-C04",
+      "43-R1-C05"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A1",
+      "A2",
+      "A3",
+      "A6",
+      "UNMAPPED"
+    ],
+    "tool_family_codes": [
+      "M1"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 0
+  },
+  {
+    "eval_id": "45-R1",
+    "legacy_eval_ids": [
+      "45-评价1"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V1"
+    ],
+    "source_codes": [
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S2"
+    ],
+    "sample_n": 10,
+    "sample_description": "5设计专家+5心理专家评31设计者生成的62方案；31完成者19女12男，设计教育3–8年",
+    "recruitment": "设计者线上招募；专家滚雪球",
+    "task": "从8个BAT自助产品概念中选一并发展",
+    "task_codes": [
+      "K4",
+      "K5",
+      "K7"
+    ],
+    "constraint_codes": [
+      "NR"
+    ],
+    "constraints_raw": "未报告明确影响测量选择的可行条件",
+    "comparator": "固定传统流程先、AI流程后；AI阶段必须选与传统不同初始概念",
+    "procedure": "统一BAT/用户资料；设计者完成两阶段；62方案匿名随机排序，专家对条件盲评",
+    "analysis": "Shapiro-Wilk；Wilcoxon配对；BH FDR；r；逐维ICC(3k)",
+    "actual_results": "创造力p=.226、可行性p=.077不显著；有效性p=.001/r=.578；完整性、适用性p=.013/r=.448，BH后均<.03",
+    "limitations": "固定顺序学习迁移；未独立操纵对话方式，不作对话因果",
+    "ethics": "伦理批准HSEARS20240920002；签署知情同意",
+    "evidence": [
+      {
+        "field": "results",
+        "page": 17,
+        "quote": "Creativity"
+      },
+      {
+        "field": "ethics",
+        "page": 30,
+        "quote": "HSEARS20240920002"
+      }
+    ],
+    "paper_id": 45,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1",
+      "U2"
+    ],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "S",
+      "A4": "P",
+      "A6": "P",
+      "A7": "P",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "45-R1-C01",
+      "45-R1-C02",
+      "45-R1-C03",
+      "45-R1-C04",
+      "45-R1-C05"
+    ],
+    "dimension_codes": [
+      "A",
+      "E"
+    ],
+    "indicator_codes": [
+      "A1",
+      "A3",
+      "A4",
+      "A6",
+      "E2"
+    ],
+    "tool_family_codes": [
+      "M1"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "45-R2",
+    "legacy_eval_ids": [
+      "45-评价2"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "object_codes": [
+      "O2",
+      "O3",
+      "O4",
+      "O5"
+    ],
+    "evaluator_codes": [
+      "V1",
+      "V2"
+    ],
+    "source_codes": [
+      "H1",
+      "H3"
+    ],
+    "setting_code": "NR",
+    "design_code": "G5",
+    "evaluation_stage_codes": [
+      "S2"
+    ],
+    "sample_n": 31,
+    "sample_description": "31设计教育背景参加者，职业身份未细分",
+    "recruitment": "线上社会平台招募",
+    "task": "BAT产品设计后评价AI心理专家协助体验",
+    "task_codes": [
+      "K4",
+      "K5",
+      "K7"
+    ],
+    "constraint_codes": [
+      "NR"
+    ],
+    "constraints_raw": "未报告明确影响测量选择的可行条件",
+    "comparator": "自陈比较传统与AI辅助经历",
+    "procedure": "两阶段后导出AI聊天并完成开放问卷",
+    "analysis": "两研究者编码、共识；主题与个案引文；对话日志DAMSL分析单列客观过程",
+    "actual_results": "知识补足/效率/细化获肯定；同时专业术语、决策能力和过度依赖有负面/条件意见",
+    "limitations": "自陈非客观效率；固定顺序；对话类型与质量关联不能因果",
+    "ethics": "同研究知情同意与IRB",
+    "evidence": [
+      {
+        "field": "questionnaire",
+        "page": 14,
+        "quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?"
+      },
+      {
+        "field": "coding",
+        "page": 19,
+        "quote": "the two researchers agreed on the coding content"
+      }
+    ],
+    "paper_id": 45,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1",
+      "U2"
+    ],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "45-R2-C01",
+      "45-R2-C02",
+      "45-R2-C03",
+      "45-R2-C04",
+      "45-R2-C05",
+      "45-R2-C06",
+      "45-R2-C07",
+      "45-R2-C08",
+      "45-R2-C09",
+      "45-R2-C10"
+    ],
+    "dimension_codes": [
+      "B",
+      "C",
+      "D"
+    ],
+    "indicator_codes": [
+      "B1",
+      "B3",
+      "B4",
+      "C1",
+      "C2",
+      "C7",
+      "C8",
+      "D1",
+      "D6",
+      "D8"
+    ],
+    "tool_family_codes": [
+      "M5"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "46-R1",
+    "legacy_eval_ids": [
+      "46-评价1"
+    ],
+    "purpose_codes": [
+      "P1",
+      "P3"
+    ],
+    "object_codes": [
+      "O2",
+      "O4",
+      "O7"
+    ],
+    "evaluator_codes": [
+      "V3",
+      "V1",
+      "V2",
+      "V6"
+    ],
+    "source_codes": [
+      "H1",
+      "H3"
+    ],
+    "setting_code": "L3",
+    "design_code": "G5",
+    "evaluation_stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "sample_n": 9,
+    "sample_description": "核心场景9名18–35岁在加州的拉美第二代移民；前期4内部访谈/9人反思、3试点、末期10人反思，人员可能重叠不能加总",
+    "recruitment": "NGO Mujeres de la Tierra招募，$40",
+    "task": "通过图像讨论记忆、理想公共空间和River Garden Park改造",
+    "task_codes": [
+      "K1",
+      "K2",
+      "K7"
+    ],
+    "constraint_codes": [
+      "Q1"
+    ],
+    "constraints_raw": "p24每次一位主持者加一位提示助理，限制能够开展的样本规模。",
+    "comparator": "2023先期8人无AI访谈为质性背景；非随机同期对照",
+    "procedure": "主持访谈+助理提示；满意/三轮无改善/无更多反馈时转阶段；每场60分钟，录音录屏；后两小时和一小时工作坊",
+    "analysis": "亲和图/轴心编码；多资料对读，研究者立场声明",
+    "actual_results": "不完美图像促发文化记忆和空间对话；过度准确可关闭讨论；存在偏见/主持能力/权力限制",
+    "limitations": "单一移民社区及有限接触；每场2工作人员限制规模；研究者自身偏见",
+    "ethics": "IRB exempt，核心访谈IRB批准",
+    "evidence": [
+      {
+        "field": "sample",
+        "page": 8,
+        "quote": "All participants were second-generation immigrants from Latin America between 18 and 35 years old"
+      },
+      {
+        "field": "analysis",
+        "page": 8,
+        "quote": "a combination of affinity diagrams"
+      }
+    ],
+    "paper_id": 46,
+    "year": 2025,
+    "domain_codes": [
+      "UNMAPPED"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1"
+    ],
+    "target_user_codes": [
+      "U1",
+      "U2",
+      "U6"
+    ],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "S"
+    },
+    "chain_ids": [
+      "46-R1-C01",
+      "46-R1-C02",
+      "46-R1-C03",
+      "46-R1-C04",
+      "46-R1-C05",
+      "46-R1-C06",
+      "46-R1-C07",
+      "46-R1-C08",
+      "46-R1-C09"
+    ],
+    "dimension_codes": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "indicator_codes": [
+      "A5",
+      "C1",
+      "C4",
+      "C7",
+      "D4",
+      "D6",
+      "D8",
+      "E4",
+      "E5"
+    ],
+    "tool_family_codes": [
+      "M4",
+      "M5"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "47-R1",
+    "legacy_eval_ids": [
+      "47-评价1",
+      "47-评价2"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "object_codes": [
+      "O1",
+      "O2",
+      "O3"
+    ],
+    "evaluator_codes": [
+      "V2"
+    ],
+    "source_codes": [
+      "H1",
+      "H3"
+    ],
+    "setting_code": "L1",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S2"
+    ],
+    "sample_n": 12,
+    "sample_description": "12工程专业学生，8研究生4本科；8男3女1非二元；20–28岁，均24；未用过系统",
+    "recruitment": "Swansea学生招募，£20",
+    "task": "构造二维汽车以在固定时限跑得最远，40代后评价建议画廊",
+    "task_codes": [
+      "K2",
+      "K4",
+      "K5",
+      "K6"
+    ],
+    "constraint_codes": [
+      "Q1"
+    ],
+    "constraints_raw": "p17小样本将画廊限为两个，使研究更适于小样本A/B比较；p5招募困难影响整体研究设计。",
+    "comparator": "MAP-Elites Geometry Insights与随机历史画廊，二者同会话可用",
+    "procedure": "固定赛道/自由度/种子；双盲随机Insights1/2；前测态度、任务、12选择题及5开放题",
+    "analysis": "逐题卡方适合度；主观分组；质性内容分析独立双编码及共识",
+    "actual_results": "12题均未拒绝等频假设p<.1；58%觉得易用，75%不挫折，75%信任；与行为选择不总一致",
+    "limitations": "n12工程学生非专业；两个画廊互相影响；快速更新UI影响体验",
+    "ethics": "Swansea伦理SU-Ethics-Student-140323/6255；任务前同意",
+    "evidence": [
+      {
+        "field": "sample",
+        "page": 19,
+        "quote": "A total of 12 participants were recruited"
+      },
+      {
+        "field": "comparison",
+        "page": 21,
+        "quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question."
+      }
+    ],
+    "paper_id": 47,
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R2",
+      "R3"
+    ],
+    "target_user_codes": [
+      "U2",
+      "U3"
+    ],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "S",
+      "A6": "P",
+      "A7": "S",
+      "E1": "S"
+    },
+    "chain_ids": [
+      "47-R1-C01",
+      "47-R1-C02",
+      "47-R1-C03",
+      "47-R1-C04",
+      "47-R1-C05",
+      "47-R1-C06",
+      "47-R1-C07",
+      "47-R1-C08",
+      "47-R1-C09"
+    ],
+    "dimension_codes": [
+      "A",
+      "B",
+      "D"
+    ],
+    "indicator_codes": [
+      "A1",
+      "A3",
+      "B2",
+      "B4",
+      "D1",
+      "D4",
+      "D5",
+      "UNMAPPED"
+    ],
+    "tool_family_codes": [
+      "M3",
+      "M5"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "85-E1",
+    "legacy_eval_ids": [
+      "85-评价1"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "object_codes": [
+      "O2",
+      "O3",
+      "O4",
+      "O5"
+    ],
+    "evaluator_codes": [
+      "NR"
+    ],
+    "source_codes": [
+      "H1",
+      "H3"
+    ],
+    "setting_code": "L1",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S3"
+    ],
+    "sample_n": 14,
+    "sample_description": "14名有设计反馈经验者，7男7女，均龄23.36；大多3D技能有限，3人自认熟练；不是14名专业设计师。",
+    "recruitment": "社交媒体、大学即时通讯群便利抽样，包括教职工、学生和校友。",
+    "task": "对卧室及汽车模型各写至少两条评语并为每条生成至少一张参考图。",
+    "comparator": "网络搜索/手绘（PowerPoint可选）对比MemoVis；不含其他生成AI工具基线。",
+    "procedure": "先练习角色模型；训练数据排除；工具条件顺序平衡，任务顺序固定；每任务后四题评分及半结构访谈，均57.34分钟。",
+    "analysis": "主观量表报告分布与正向人数；访谈演绎+归纳主题分析；导航时间另行ANOVA但非感知证据。",
+    "actual_results": "Q1正向13/14 vs 4/14；Q2 6 vs 1；Q3 10 vs 4；Q4 13 vs 3。",
+    "limitations": "小样本、两种模型、实验室任务、无生成AI对比；明确反馈者主要代表客户。",
+    "ethics": "IRB批准、知情同意及音视频/屏幕录制同意；无金钱奖励。",
+    "evidence": [
+      {
+        "field": "sample_description",
+        "page": 16,
+        "quote": "PF1 - PF14"
+      },
+      {
+        "field": "actual_results",
+        "page": 19,
+        "quote": "more participants rated positively in terms of reference image creations (6 vs. 1 for Q2), explicitness of the images (10 vs. 4 for Q3), and creativity support (13 vs. 3 for Q4)."
+      },
+      {
+        "field": "ethics",
+        "page": 34,
+        "quote": "This work has been approved by the Institutional Review Board."
+      }
+    ],
+    "paper_id": 85,
+    "year": 2024,
+    "domain_codes": [
+      "D2",
+      "D4"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1",
+      "U3"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "S"
+    },
+    "chain_ids": [
+      "85-E1-C01",
+      "85-E1-C02",
+      "85-E1-C03"
+    ],
+    "dimension_codes": [
+      "C",
+      "D"
+    ],
+    "indicator_codes": [
+      "C1",
+      "D1",
+      "D8"
+    ],
+    "tool_family_codes": [
+      "M1",
+      "M4"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "85-E2",
+    "legacy_eval_ids": [
+      "85-评价2"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "object_codes": [
+      "O1",
+      "O4"
+    ],
+    "evaluator_codes": [
+      "V2"
+    ],
+    "source_codes": [
+      "H2",
+      "H3"
+    ],
+    "setting_code": "L2",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S3"
+    ],
+    "sample_n": 8,
+    "sample_description": "8名有3D设计经验的学生社团成员，4男4女，均龄23.75；与之前研究不重合。",
+    "recruitment": "机构3D设计与XR学生社团。",
+    "task": "评价文字反馈和参考图是否对齐、传达要旨。",
+    "comparator": "Study1基线44条与MemoVis39条反馈。",
+    "procedure": "83条随机打散为8组；每名评价者评一组；5级并可写理由；10–15分钟。",
+    "analysis": "描述性5级分布与正向比例；开放理由归纳编码。",
+    "actual_results": "MemoVis正向66.67%，基线38.64%；有效图清晰聚焦，失败图存在上下文错配、缺细节和全失败。",
+    "limitations": "单图单人评分、样本与资源有限，未检验真正修改设计后的效果。",
+    "ethics": "同上IRB与同意。",
+    "evidence": [
+      {
+        "field": "procedure",
+        "page": 22,
+        "quote": "We then assigned the eight surveys to PD1 to PD8 for evaluation."
+      },
+      {
+        "field": "actual_results",
+        "page": 22,
+        "quote": "around66.67% of the reference images created by MemoVis were rated positively, versus only around38.64%"
+      }
+    ],
+    "paper_id": 85,
+    "year": 2024,
+    "domain_codes": [
+      "D2",
+      "D4"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1",
+      "U3"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "S",
+      "A6": "P",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "85-E2-C01"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A5"
+    ],
+    "tool_family_codes": [
+      "M1",
+      "M5"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "86-E1",
+    "legacy_eval_ids": [
+      "86-评价1"
+    ],
+    "purpose_codes": [
+      "P1",
+      "P2"
+    ],
+    "object_codes": [
+      "O1",
+      "O7"
+    ],
+    "evaluator_codes": [
+      "V3"
+    ],
+    "source_codes": [
+      "H1"
+    ],
+    "setting_code": "L2",
+    "design_code": "G8",
+    "evaluation_stage_codes": [
+      "S1"
+    ],
+    "sample_n": 50,
+    "sample_description": "50名有地铁乘坐经验者；分两组各25人，每组评25个列车线稿的5种意象。",
+    "recruitment": "线上与线下渠道招募；资格为有乘坐地铁经验；人口统计未报告。",
+    "task": "对列车前1/4–3/4视角去色线稿与5个感性词的一致程度评分。",
+    "comparator": "50个既有列车图样；非AI对照实验。",
+    "procedure": "先解释造型特征；图样随机顺序；-3非常不一致至+3非常一致，0中间；转换1–7并取均值。",
+    "analysis": "SPSS alpha及KMO；按图样/语义平均；MLP/SVR监督学习；50图按8:1:1拆分。",
+    "actual_results": "表3部分评分如S1：4.28/3.00/4.12/4.24/4.88；五词用于描述，三词用于建模。",
+    "limitations": "语义数量5由设计考虑决定而非最稳聚类数3或7；缺人口学；KMO不能直接建立效度。",
+    "ethics": "NR（已查方法及声明页23–24）。",
+    "evidence": [
+      {
+        "field": "procedure",
+        "page": 14,
+        "quote": "– 3 and 3 respectively indicate that the train sample is very inconsistent and very consistent with the description of the image word"
+      },
+      {
+        "field": "actual_results",
+        "page": 15,
+        "quote": "S1 1000··· 1000 4.28 3.00 4.12 4.24 4.88"
+      }
+    ],
+    "paper_id": 86,
+    "year": 2024,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "P",
+      "A4": "P",
+      "A6": "S",
+      "A7": "P",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "86-E1-C01",
+      "86-E1-C02",
+      "86-E1-C03",
+      "86-E1-C04",
+      "86-E1-C05"
+    ],
+    "dimension_codes": [
+      "A",
+      "UNMAPPED"
+    ],
+    "indicator_codes": [
+      "A2",
+      "UNMAPPED"
+    ],
+    "tool_family_codes": [
+      "M1"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "86-E2",
+    "legacy_eval_ids": [],
+    "purpose_codes": [
+      "P4"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V3"
+    ],
+    "source_codes": [
+      "H1"
+    ],
+    "setting_code": "NR",
+    "design_code": "G1",
+    "evaluation_stage_codes": [
+      "S2"
+    ],
+    "sample_n": 16,
+    "sample_description": "从原50名评分者复邀16人；未报告选择规则。",
+    "recruitment": "复邀原样本。",
+    "task": "评价优化后设计者二次绘制的列车方案线稿。",
+    "comparator": "与早前50种列车样本平均分作描述性对照，不是同步实验条件。",
+    "procedure": "图7方案按既有方法转线稿，16人评三词。",
+    "analysis": "图8逐人得分及平均，与原样本均值比较；无显著性检验/置信区间。",
+    "actual_results": "图8：Efficient4.7 vs4.4，Exquisite4.6 vs4.2，Grand4.3 vs4.3。",
+    "limitations": "无独立新样本、仅一个优化方案；缺不确定性；产品开发成功率未测。",
+    "ethics": "NR",
+    "evidence": [
+      {
+        "field": "sample_description",
+        "page": 20,
+        "quote": "we re-invited 16 participants"
+      },
+      {
+        "field": "actual_results",
+        "page": 20,
+        "quote": "basically on par with samples mean in the dimension of ‘grand’"
+      }
+    ],
+    "paper_id": 86,
+    "year": 2024,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1"
+    ],
+    "task_codes": [],
+    "constraint_codes": [],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "P",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "86-E2-C01",
+      "86-E2-C02",
+      "86-E2-C03"
+    ],
+    "dimension_codes": [
+      "A",
+      "UNMAPPED"
+    ],
+    "indicator_codes": [
+      "A2",
+      "UNMAPPED"
+    ],
+    "tool_family_codes": [
+      "M1"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 0
+  },
+  {
+    "eval_id": "87-E1",
+    "legacy_eval_ids": [
+      "87-评价1"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "object_codes": [
+      "O2",
+      "O3",
+      "O4"
+    ],
+    "evaluator_codes": [
+      "V1",
+      "V2"
+    ],
+    "source_codes": [
+      "H1"
+    ],
+    "setting_code": "L2",
+    "design_code": "G2",
+    "evaluation_stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "sample_n": 17,
+    "sample_description": "17人(9男)，21–27岁，均23.47；9人有≥1年艺术经历，8人无；都有团队角色设计经历。",
+    "recruitment": "中国大学滚雪球招募，包含学生、公司及独立设计师。",
+    "task": "常规方式设计赛博朋克开放世界主角；Sketchar设计平台动漫游戏主角。",
+    "comparator": "个人常规/草绘工作流 vs Sketchar。",
+    "procedure": "任务顺序随机平衡；各任务后CSI；协作被解释为未来与潜在画师合作；图7基线20分钟，正文写25分钟。",
+    "analysis": "Scheirer-Ray-Hare交互p=.146；CSI总分配对Wilcoxon p=.028；艺术背景组间Wilcoxon p=.011；因子只直接比较，另写Tukey比较维度。",
+    "actual_results": "CSI总分Sketchar更高(p=.028)；无艺术技能组更高(p=.011)；除愉悦外因子均描述性更高。",
+    "limitations": "只中国样本；无真实合作；无ChatGPT+DALL-E基线；工具/题材混杂。",
+    "ethics": "知情同意；审批未报告。",
+    "evidence": [
+      {
+        "field": "sample_description",
+        "page": 13,
+        "quote": "17 participants(9 males), aged from 21 to 27 years old"
+      },
+      {
+        "field": "actual_results",
+        "page": 16,
+        "quote": "the CSI score for the Sketchar condition is significantly higher ... ( p = .028)."
+      }
+    ],
+    "task_codes": [
+      "K2",
+      "K3",
+      "K7"
+    ],
+    "constraint_codes": [
+      "Q4"
+    ],
+    "constraints_raw": "p23 ChatGPT/DALL-E在中国难访问且参与者缺经验，因此未设置独立GenAI基线；实际协作不可获得，采用想象交接。",
+    "paper_id": 87,
+    "year": 2024,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1",
+      "U2"
+    ],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "S",
+      "A4": "S",
+      "A6": "P",
+      "A7": "C",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "87-E1-C01",
+      "87-E1-C02",
+      "87-E1-C03",
+      "87-E1-C04",
+      "87-E1-C05",
+      "87-E1-C06",
+      "87-E1-C07"
+    ],
+    "dimension_codes": [
+      "C",
+      "D",
+      "UNMAPPED"
+    ],
+    "indicator_codes": [
+      "C1",
+      "C4",
+      "C5",
+      "C8",
+      "D8",
+      "UNMAPPED"
+    ],
+    "tool_family_codes": [
+      "M2"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 0
+  },
+  {
+    "eval_id": "87-E2",
+    "legacy_eval_ids": [
+      "87-评价2"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "object_codes": [
+      "O2",
+      "O3",
+      "O4",
+      "O5"
+    ],
+    "evaluator_codes": [
+      "V1",
+      "V2"
+    ],
+    "source_codes": [
+      "H3"
+    ],
+    "setting_code": "L2",
+    "design_code": "G5",
+    "evaluation_stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "sample_n": 13,
+    "sample_description": "13名中国游戏设计者，5女8男；6有艺术背景、7无；包含3学生。",
+    "recruitment": "社交媒体游戏开发者社区；50元报酬。",
+    "task": "常规写角色方案后使用Sketchar创建第二角色；说明如何交接给插画师。",
+    "comparator": "固定先常规后Sketchar，质性访谈。",
+    "procedure": "Kook远程约60分钟，操作后半结构访谈；没有实际设计师-画师互动。",
+    "analysis": "观察记录与访谈主题分析，三研究者讨论共识。",
+    "actual_results": "艺术背景者更不满细节；非艺术者认为有图优于无图；档案整理启发进一步设计，图可表达视觉要求。",
+    "limitations": "人数和地域有限；任务顺序固定；协作仅预期。",
+    "ethics": "明确知情同意。",
+    "evidence": [
+      {
+        "field": "actual_results",
+        "page": 15,
+        "quote": "generating some simple reference images would help me communicate my design"
+      },
+      {
+        "field": "analysis",
+        "page": 14,
+        "quote": "we reached a consensus on key findings"
+      }
+    ],
+    "task_codes": [
+      "K2",
+      "K3",
+      "K7"
+    ],
+    "constraint_codes": [
+      "Q4"
+    ],
+    "constraints_raw": "p23 仅模拟交接、未真实协同；独立GenAI工具当地访问限制影响基线选择。",
+    "paper_id": 87,
+    "year": 2024,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1",
+      "U2"
+    ],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "S",
+      "A3": "P",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "87-E2-C01",
+      "87-E2-C02",
+      "87-E2-C03"
+    ],
+    "dimension_codes": [
+      "C",
+      "D",
+      "E"
+    ],
+    "indicator_codes": [
+      "C1",
+      "D8",
+      "E3"
+    ],
+    "tool_family_codes": [
+      "M4",
+      "M5"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  },
+  {
+    "eval_id": "87-E3",
+    "legacy_eval_ids": [],
+    "purpose_codes": [
+      "P4"
+    ],
+    "object_codes": [
+      "O1"
+    ],
+    "evaluator_codes": [
+      "V1"
+    ],
+    "source_codes": [
+      "H2"
+    ],
+    "setting_code": "NR",
+    "design_code": "G1",
+    "evaluation_stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "sample_n": 5,
+    "sample_description": "从形成性研究招募5名画师，3–5年或>5年行业经验。",
+    "recruitment": "复邀形成性研究画师。",
+    "task": "对5提示各10张角色图按实际工作参考价值排序并选合格图。",
+    "comparator": "自身通常工作标准，无单独对照条件。",
+    "procedure": "对50图专业判断并记录每10张有多少可作参考。",
+    "analysis": "平均合格图数量。",
+    "actual_results": "平均每10张6.84张合格。",
+    "limitations": "专家非独立新样本，未记录实际交接工作成效。",
+    "ethics": "NR",
+    "evidence": [
+      {
+        "field": "actual_results",
+        "page": 17,
+        "quote": "The experts identified an average of 6.84 images per set (ten) as relevant valuable references"
+      }
+    ],
+    "task_codes": [
+      "K4",
+      "K7"
+    ],
+    "constraint_codes": [
+      "NR"
+    ],
+    "constraints_raw": "NR",
+    "paper_id": 87,
+    "year": 2024,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "ai_role_codes": [
+      "R1",
+      "R2"
+    ],
+    "target_user_codes": [
+      "U1",
+      "U2"
+    ],
+    "audit_statuses": {
+      "U5": "S",
+      "A2": "P",
+      "A3": "NR",
+      "A4": "S",
+      "A6": "S",
+      "A7": "S",
+      "E1": "P"
+    },
+    "chain_ids": [
+      "87-E3-C01"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A3"
+    ],
+    "tool_family_codes": [
+      "M3"
+    ],
+    "strict_eligible_any_chain": 0,
+    "sensitivity_eligible_any_chain": 1
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "target": "dimension",
+  "model": "随机森林",
+  "n": 155,
+  "papers": 38,
+  "classes": 5,
+  "repeats": 20,
+  "folds_per_repeat": 5,
+  "permutations_per_group_fold": 10,
+  "full_macro_f1_mean": 0.45180327885915855,
+  "full_macro_f1_ci": [
+    0.4484498209318054,
+    0.455006574213884
+  ],
+  "robust_positive_groups": [
+    "G4_评价对象"
+  ]
+}

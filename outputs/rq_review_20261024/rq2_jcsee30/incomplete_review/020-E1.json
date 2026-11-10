@@ -1,0 +1,40 @@
+{
+  "paper_id": 1,
+  "eval_id": "020-E1",
+  "decision": "include",
+  "reason": "研究邀请了90名用户进行情感评估，使用5分李克特量表测量主观情感评价，包含具体的人类样本和测量工具",
+  "chains": [
+    {
+      "claim_quote": "We invited 90 users (Male: 52; Female: 38. Age: M = 25, SD = 8) with more than five years of driving experience to participate in emotional assessments.",
+      "claim_summary": "邀请有五年以上驾驶经验的90名用户参与情感评估",
+      "construct_raw": "用户情感",
+      "indicator_raw": "情感评估",
+      "instrument_raw": "5分李克特量表",
+      "response_scoring": "5分量表",
+      "result_quote": "The subjects were asked to objectively evaluate their feelings",
+      "pages": [
+        15
+      ]
+    }
+  ],
+  "reviewed_pages": [
+    3,
+    4,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    22,
+    25
+  ],
+  "usage": {
+    "completion_tokens": 177,
+    "prompt_tokens": 7159,
+    "total_tokens": 7336,
+    "prompt_tokens_details": {
+      "cached_tokens": 186
+    }
+  }
+}

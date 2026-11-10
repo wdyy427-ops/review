@@ -1,0 +1,447 @@
+{
+  "paper_id": 81,
+  "title": "Exploring the efficacy of hybrid-sketch: an investigation into conceptual support in the early design stage",
+  "doi": "10.1080/09544828.2024.2365118",
+  "year": 2025,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D3",
+    "D4"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R3"
+  ],
+  "target_user_codes": [
+    "U5",
+    "U1"
+  ],
+  "context_summary": "This study investigates the effectiveness of synthetic-sketches generated via Cycle-GAN as conceptual support in early design. It compares synthetic-sketches with product renderings, focusing on design cognition and creativity.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "081-E2",
+      "purpose_codes": [
+        "P1",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O3",
+        "O4"
+      ],
+      "evaluator_codes": [],
+      "source_codes": [
+        "H2",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G1",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [],
+      "sample_n": 24,
+      "sample_description": "Designers believe that synthetic-sketch combines machine visual reasoning, which will help designers conduct concept testing and further stimulate their conceptual refinement.",
+      "recruitment": "",
+      "task": "",
+      "comparator": "Creativity assessment results on experimental group and control group (1= experimental",
+      "procedure": "",
+      "analysis": "bines machine visual reasoning, which will help designers conduct concept testing and",
+      "actual_results": "The results show that in terms of design results, generative inspiration stimulation can significantlyimprovethecompletenessandexpressivenessofdesignconcepts,butthereis nosignificantdifferenceinnovelty,aesthetics,andfeasibility.Ontheonehand,ourresults",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 14,
+          "quote": "Designers believe that synthetic-sketch combines machine visual reasoning, which will help designers conduct concept testing and further stimulate their conceptual refinement."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Novelty(FiorineschiandRotini 2023)referstothedegreeofnoveltyofadesignscheme comparedtoexistingproductsinthemarket.RefertoSilk’screativeevaluationdimensions (Silketal.",
+          "claim_summary": "Novelty(FiorineschiandRotini 2023)referstothedegreeofnoveltyofadesignscheme comparedtoexistingproductsinthemarket.RefertoSilk’screativeevaluationdimensions (Silketal.",
+          "claim_type": "C2",
+          "construct_raw": "Novelty",
+          "indicator_raw": "Novelty",
+          "item_quote": "Novelty(FiorineschiandRotini 2023)referstothedegreeofnoveltyofadesignscheme comparedtoexistingproductsinthemarket.RefertoSilk’screativeevaluationdimensions (Silketal.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "Studysetup The subject of this research experiment was obtained through paid recruitment, and the subjects were required to fill out the subject recruitment que；Interview Attheendofthesecondroundofdesign,a15-minutesemi-structuredinterviewwascon- ductedtounderstandtheirexperienceofusingeachofthestimulustools,alongwithnot；During the experiment, the design process of the subjects was collected usingtheThink-Aloudmethod,whichprovidedsourcematerialsforprotocolanalysis.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The evaluation items (Shah, Smith, and Vargas-Hernandez 2003) include novelty, expressiveness, innovation, completeness, feasibility, functionality, andaesthetics.Thisscoringwasdonebytwoexpertdesignersandwastestedbythekappa",
+          "result_quote": "The results show that in terms of design results, generative inspiration stimulation can significantlyimprovethecompletenessandexpressivenessofdesignconcepts,butthereis nosignificantdifferenceinnovelty,aesthetics,andfeasibility.Ontheonehand,ourresults",
+          "effect_direction": "正向",
+          "pages": [
+            11,
+            13
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The results show that in terms of design results, generative inspiration stimulation can significantlyimprovethecompletenessandexpressivenessofdesignconcepts,butthereis nosignificantdifferenceinnovelty,aesthetics,andfeasibility.Ontheonehand,ourresults",
+          "claim_summary": "The results show that in terms of design results, generative inspiration stimulation can significantlyimprovethecompletenessandexpressivenessofdesignconcepts,butthereis nosignificantdifferenceinnovelty,aesthetics,andfeasibility.Ontheonehand,ourresults",
+          "claim_type": "C2",
+          "construct_raw": "aestheti",
+          "indicator_raw": "aestheti",
+          "item_quote": "The evaluation items (Shah, Smith, and Vargas-Hernandez 2003) include novelty, expressiveness, innovation, completeness, feasibility, functionality, andaesthetics.Thisscoringwasdonebytwoexpertdesignersandwastestedbythekappa",
+          "dimension_code": "A",
+          "indicator_code": "A2",
+          "instrument_raw": "Studysetup The subject of this research experiment was obtained through paid recruitment, and the subjects were required to fill out the subject recruitment que；Interview Attheendofthesecondroundofdesign,a15-minutesemi-structuredinterviewwascon- ductedtounderstandtheirexperienceofusingeachofthestimulustools,alongwithnot；During the experiment, the design process of the subjects was collected usingtheThink-Aloudmethod,whichprovidedsourcematerialsforprotocolanalysis.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The evaluation items (Shah, Smith, and Vargas-Hernandez 2003) include novelty, expressiveness, innovation, completeness, feasibility, functionality, andaesthetics.Thisscoringwasdonebytwoexpertdesignersandwastestedbythekappa",
+          "result_quote": "The results show that in terms of design results, generative inspiration stimulation can significantlyimprovethecompletenessandexpressivenessofdesignconcepts,butthereis nosignificantdifferenceinnovelty,aesthetics,andfeasibility.Ontheonehand,ourresults",
+          "effect_direction": "正向",
+          "pages": [
+            12,
+            13
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Usefulness refers to the degree to whichsomethingcanfulfilapurposeormeetaneedeffectively.",
+          "claim_summary": "Usefulness refers to the degree to whichsomethingcanfulfilapurposeormeetaneedeffectively.",
+          "claim_type": "C1",
+          "construct_raw": "functionality",
+          "indicator_raw": "functionality",
+          "item_quote": "The evaluation items (Shah, Smith, and Vargas-Hernandez 2003) include novelty, expressiveness, innovation, completeness, feasibility, functionality, andaesthetics.Thisscoringwasdonebytwoexpertdesignersandwastestedbythekappa",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "Studysetup The subject of this research experiment was obtained through paid recruitment, and the subjects were required to fill out the subject recruitment que；Interview Attheendofthesecondroundofdesign,a15-minutesemi-structuredinterviewwascon- ductedtounderstandtheirexperienceofusingeachofthestimulustools,alongwithnot；During the experiment, the design process of the subjects was collected usingtheThink-Aloudmethod,whichprovidedsourcematerialsforprotocolanalysis.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The evaluation items (Shah, Smith, and Vargas-Hernandez 2003) include novelty, expressiveness, innovation, completeness, feasibility, functionality, andaesthetics.Thisscoringwasdonebytwoexpertdesignersandwastestedbythekappa",
+          "result_quote": "Therewerenosignificantindicationsofconceptgenerationbehaviourbetweenthetwo groups.However,theexperimentalgrouptendstomodifythedetailsofthesneakersinthe previoussketch,suchaschangingthestyleofthesole.Thecontrolgroupismoreinclined togeneratenewfeatures.Thereasonforthiscomparisonisthatthecontrolgroupismore likelytofocusoninnovativeandfunctionalsneakerfeatureswhenviewingsneakerproduct imagesthatarenotrelatedtodesignerconcepts.Designersaremorelikelytoobservenew features when sketching.",
+          "effect_direction": "NR",
+          "pages": [
+            11,
+            12
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The results show that in terms of design results, generative inspiration stimulation can significantlyimprovethecompletenessandexpressivenessofdesignconcepts,butthereis nosignificantdifferenceinnovelty,aesthetics,andfeasibility.Ontheonehand,ourresults",
+          "claim_summary": "The results show that in terms of design results, generative inspiration stimulation can significantlyimprovethecompletenessandexpressivenessofdesignconcepts,butthereis nosignificantdifferenceinnovelty,aesthetics,andfeasibility.Ontheonehand,ourresults",
+          "claim_type": "C2",
+          "construct_raw": "feasib",
+          "indicator_raw": "feasib",
+          "item_quote": "The evaluation items (Shah, Smith, and Vargas-Hernandez 2003) include novelty, expressiveness, innovation, completeness, feasibility, functionality, andaesthetics.Thisscoringwasdonebytwoexpertdesignersandwastestedbythekappa",
+          "dimension_code": "A",
+          "indicator_code": "A4",
+          "instrument_raw": "Studysetup The subject of this research experiment was obtained through paid recruitment, and the subjects were required to fill out the subject recruitment que；Interview Attheendofthesecondroundofdesign,a15-minutesemi-structuredinterviewwascon- ductedtounderstandtheirexperienceofusingeachofthestimulustools,alongwithnot；During the experiment, the design process of the subjects was collected usingtheThink-Aloudmethod,whichprovidedsourcematerialsforprotocolanalysis.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The evaluation items (Shah, Smith, and Vargas-Hernandez 2003) include novelty, expressiveness, innovation, completeness, feasibility, functionality, andaesthetics.Thisscoringwasdonebytwoexpertdesignersandwastestedbythekappa",
+          "result_quote": "The results show that in terms of design results, generative inspiration stimulation can significantlyimprovethecompletenessandexpressivenessofdesignconcepts,butthereis nosignificantdifferenceinnovelty,aesthetics,andfeasibility.Ontheonehand,ourresults",
+          "effect_direction": "正向",
+          "pages": [
+            12,
+            13
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The results show that in terms of design results, generative inspiration stimulation can significantlyimprovethecompletenessandexpressivenessofdesignconcepts,butthereis nosignificantdifferenceinnovelty,aesthetics,andfeasibility.Ontheonehand,ourresults",
+          "claim_summary": "The results show that in terms of design results, generative inspiration stimulation can significantlyimprovethecompletenessandexpressivenessofdesignconcepts,butthereis nosignificantdifferenceinnovelty,aesthetics,andfeasibility.Ontheonehand,ourresults",
+          "claim_type": "C2",
+          "construct_raw": "completeness",
+          "indicator_raw": "completeness",
+          "item_quote": "The evaluation items (Shah, Smith, and Vargas-Hernandez 2003) include novelty, expressiveness, innovation, completeness, feasibility, functionality, andaesthetics.Thisscoringwasdonebytwoexpertdesignersandwastestedbythekappa",
+          "dimension_code": "A",
+          "indicator_code": "A6",
+          "instrument_raw": "Studysetup The subject of this research experiment was obtained through paid recruitment, and the subjects were required to fill out the subject recruitment que；Interview Attheendofthesecondroundofdesign,a15-minutesemi-structuredinterviewwascon- ductedtounderstandtheirexperienceofusingeachofthestimulustools,alongwithnot；During the experiment, the design process of the subjects was collected usingtheThink-Aloudmethod,whichprovidedsourcematerialsforprotocolanalysis.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The evaluation items (Shah, Smith, and Vargas-Hernandez 2003) include novelty, expressiveness, innovation, completeness, feasibility, functionality, andaesthetics.Thisscoringwasdonebytwoexpertdesignersandwastestedbythekappa",
+          "result_quote": "The results show that in terms of design results, generative inspiration stimulation can significantlyimprovethecompletenessandexpressivenessofdesignconcepts,butthereis nosignificantdifferenceinnovelty,aesthetics,andfeasibility.Ontheonehand,ourresults",
+          "effect_direction": "正向",
+          "pages": [
+            12,
+            13
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The results show that in terms of design results, generative inspiration stimulation can significantlyimprovethecompletenessandexpressivenessofdesignconcepts,butthereis nosignificantdifferenceinnovelty,aesthetics,andfeasibility.Ontheonehand,ourresults",
+          "claim_summary": "The results show that in terms of design results, generative inspiration stimulation can significantlyimprovethecompletenessandexpressivenessofdesignconcepts,butthereis nosignificantdifferenceinnovelty,aesthetics,andfeasibility.Ontheonehand,ourresults",
+          "claim_type": "C2",
+          "construct_raw": "inspir",
+          "indicator_raw": "inspir",
+          "item_quote": "Group1(N = 12) Group2(N = 12) Category Code Description Mean (Frequency) SD Mean (Frequency) SD P Accessto information OI Observinginspirational stimuli 3.958 2.301 3.292 1.91238 0.485 OS ObservationDesign 2.167 0.807 1.875 1.33357 0.456 Information Processing GR generativecognition 2.542 1.287 1.958 1.389217 0.447 GE exploratorycognition 3.208 1.437 3.125 1.680436 0.725 Concept Production CC proposenewconcepts 5.125 1.667 7 3.330302 0.907 CA Extendexistingconcepts 3.25 1.422 1.333 1.154701 0.244 CN generatenewfeatures 5.75 1.983 6.75 2.9349 0.132 CO modifyexistingfeatures 2.833 1.212 3 1.552125 0.004 Evaluation Decision EI assessmentanddecision 2.708 1.602 2.708 2.061093 0.663 coefficientwi",
+          "dimension_code": "C",
+          "indicator_code": "C1",
+          "instrument_raw": "Studysetup The subject of this research experiment was obtained through paid recruitment, and the subjects were required to fill out the subject recruitment que；Interview Attheendofthesecondroundofdesign,a15-minutesemi-structuredinterviewwascon- ductedtounderstandtheirexperienceofusingeachofthestimulustools,alongwithnot；During the experiment, the design process of the subjects was collected usingtheThink-Aloudmethod,whichprovidedsourcematerialsforprotocolanalysis.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The evaluation items (Shah, Smith, and Vargas-Hernandez 2003) include novelty, expressiveness, innovation, completeness, feasibility, functionality, andaesthetics.Thisscoringwasdonebytwoexpertdesignersandwastestedbythekappa",
+          "result_quote": "Group1(N = 12) Group2(N = 12) Category Code Description Mean (Frequency) SD Mean (Frequency) SD P Accessto information OI Observinginspirational stimuli 3.958 2.301 3.292 1.91238 0.485 OS ObservationDesign 2.167 0.807 1.875 1.33357 0.456 Information Processing GR generativecognition 2.542 1.287 1.958 1.389217 0.447 GE exploratorycognition 3.208 1.437 3.125 1.680436 0.725 Concept Production CC proposenewconcepts 5.125 1.667 7 3.330302 0.907 CA Extendexistingconcepts 3.25 1.422 1.333 1.154701 0.244 CN generatenewfeatures 5.75 1.983 6.75 2.9349 0.132 CO modifyexistingfeatures 2.833 1.212 3 1.552125 0.004 Evaluation Decision EI assessmentanddecision 2.708 1.602 2.708 2.061093 0.663 coefficientwi",
+          "effect_direction": "NR",
+          "pages": [
+            13
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The evaluation items (Shah, Smith, and Vargas-Hernandez 2003) include novelty, expressiveness, innovation, completeness, feasibility, functionality, andaesthetics.Thisscoringwasdonebytwoexpertdesignersandwastestedbythekappa",
+          "claim_summary": "The evaluation items (Shah, Smith, and Vargas-Hernandez 2003) include novelty, expressiveness, innovation, completeness, feasibility, functionality, andaesthetics.Thisscoringwasdonebytwoexpertdesignersandwastestedbythekappa",
+          "claim_type": "C1",
+          "construct_raw": "fun",
+          "indicator_raw": "fun",
+          "item_quote": "The evaluation items (Shah, Smith, and Vargas-Hernandez 2003) include novelty, expressiveness, innovation, completeness, feasibility, functionality, andaesthetics.Thisscoringwasdonebytwoexpertdesignersandwastestedbythekappa",
+          "dimension_code": "C",
+          "indicator_code": "C5",
+          "instrument_raw": "Studysetup The subject of this research experiment was obtained through paid recruitment, and the subjects were required to fill out the subject recruitment que；Interview Attheendofthesecondroundofdesign,a15-minutesemi-structuredinterviewwascon- ductedtounderstandtheirexperienceofusingeachofthestimulustools,alongwithnot；During the experiment, the design process of the subjects was collected usingtheThink-Aloudmethod,whichprovidedsourcematerialsforprotocolanalysis.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The evaluation items (Shah, Smith, and Vargas-Hernandez 2003) include novelty, expressiveness, innovation, completeness, feasibility, functionality, andaesthetics.Thisscoringwasdonebytwoexpertdesignersandwastestedbythekappa",
+          "result_quote": "Therewerenosignificantindicationsofconceptgenerationbehaviourbetweenthetwo groups.However,theexperimentalgrouptendstomodifythedetailsofthesneakersinthe previoussketch,suchaschangingthestyleofthesole.Thecontrolgroupismoreinclined togeneratenewfeatures.Thereasonforthiscomparisonisthatthecontrolgroupismore likelytofocusoninnovativeandfunctionalsneakerfeatureswhenviewingsneakerproduct imagesthatarenotrelatedtodesignerconcepts.Designersaremorelikelytoobservenew features when sketching.",
+          "effect_direction": "NR",
+          "pages": [
+            12
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Compare the average frequency of concept generation during sketchingbehaviourbetweendesignersintheexperimentalandcontrolgroupsFigure 4.",
+          "claim_summary": "Compare the average frequency of concept generation during sketchingbehaviourbetweendesignersintheexperimentalandcontrolgroupsFigure 4.",
+          "claim_type": "C1",
+          "construct_raw": "control",
+          "indicator_raw": "control",
+          "item_quote": "Therewerenosignificantindicationsofconceptgenerationbehaviourbetweenthetwo groups.However,theexperimentalgrouptendstomodifythedetailsofthesneakersinthe previoussketch,suchaschangingthestyleofthesole.Thecontrolgroupismoreinclined togeneratenewfeatures.Thereasonforthiscomparisonisthatthecontrolgroupismore likelytofocusoninnovativeandfunctionalsneakerfeatureswhenviewingsneakerproduct imagesthatarenotrelatedtodesignerconcepts.Designersaremorelikelytoobservenew features when sketching.",
+          "dimension_code": "D",
+          "indicator_code": "D3",
+          "instrument_raw": "Studysetup The subject of this research experiment was obtained through paid recruitment, and the subjects were required to fill out the subject recruitment que；Interview Attheendofthesecondroundofdesign,a15-minutesemi-structuredinterviewwascon- ductedtounderstandtheirexperienceofusingeachofthestimulustools,alongwithnot；During the experiment, the design process of the subjects was collected usingtheThink-Aloudmethod,whichprovidedsourcematerialsforprotocolanalysis.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The evaluation items (Shah, Smith, and Vargas-Hernandez 2003) include novelty, expressiveness, innovation, completeness, feasibility, functionality, andaesthetics.Thisscoringwasdonebytwoexpertdesignersandwastestedbythekappa",
+          "result_quote": "Therewerenosignificantindicationsofconceptgenerationbehaviourbetweenthetwo groups.However,theexperimentalgrouptendstomodifythedetailsofthesneakersinthe previoussketch,suchaschangingthestyleofthesole.Thecontrolgroupismoreinclined togeneratenewfeatures.Thereasonforthiscomparisonisthatthecontrolgroupismore likelytofocusoninnovativeandfunctionalsneakerfeatureswhenviewingsneakerproduct imagesthatarenotrelatedtodesignerconcepts.Designersaremorelikelytoobservenew features when sketching.",
+          "effect_direction": "NR",
+          "pages": [
+            12
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Novelty(FiorineschiandRotini 2023)referstothedegreeofnoveltyofadesignscheme comparedtoexistingproductsinthemarket.RefertoSilk’screativeevaluationdimensions (Silketal.",
+          "claim_summary": "Novelty(FiorineschiandRotini 2023)referstothedegreeofnoveltyofadesignscheme comparedtoexistingproductsinthemarket.RefertoSilk’screativeevaluationdimensions (Silketal.",
+          "claim_type": "C2",
+          "construct_raw": "market",
+          "indicator_raw": "market",
+          "item_quote": "Novelty(FiorineschiandRotini 2023)referstothedegreeofnoveltyofadesignscheme comparedtoexistingproductsinthemarket.RefertoSilk’screativeevaluationdimensions (Silketal.",
+          "dimension_code": "E",
+          "indicator_code": "E7",
+          "instrument_raw": "Studysetup The subject of this research experiment was obtained through paid recruitment, and the subjects were required to fill out the subject recruitment que；Interview Attheendofthesecondroundofdesign,a15-minutesemi-structuredinterviewwascon- ductedtounderstandtheirexperienceofusingeachofthestimulustools,alongwithnot；During the experiment, the design process of the subjects was collected usingtheThink-Aloudmethod,whichprovidedsourcematerialsforprotocolanalysis.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The evaluation items (Shah, Smith, and Vargas-Hernandez 2003) include novelty, expressiveness, innovation, completeness, feasibility, functionality, andaesthetics.Thisscoringwasdonebytwoexpertdesignersandwastestedbythekappa",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            11
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "The research question in this subsection is the subjects’ perceptions of synthetic-sketch."
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "Thesefourindicatorsmeasuredifferentaspectsofdesigncreativity,andeachofthemis"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "andaesthetics.Thisscoringwasdonebytwoexpertdesignersandwastestedbythekappa"
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "In this paper, 263 sketches from 24 participants were evaluated utilising expert scoring."
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "bines machine visual reasoning, which will help designers conduct concept testing and"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "The results show that in terms of design results, generative inspiration stimulation can significantlyimprovethecompletenessandexpressivenessofdesignconcepts,butthereis nosignificantdifferenceinnovelty,aesthetics,andfeasibility.Ontheonehand,ourresults"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "Thesefourindicatorsmeasuredifferentaspectsofdesigncreativity,andeachofthemis"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\81.pdf"
+}

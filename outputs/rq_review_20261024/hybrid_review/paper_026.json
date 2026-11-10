@@ -1,0 +1,594 @@
+{
+  "paper_id": 26,
+  "title": "An LLM-based multi-agent system to assist early-stage product design and evaluation",
+  "doi": "10.1080/09544828.2026.2616583",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    7,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    32,
+    35
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S2",
+    "S3"
+  ],
+  "ai_function_codes": [
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "The paper introduces DesignAgent, an LLM-based multi-agent system for early-stage product design and evaluation. It features agents that interpret requirements, generate 3D prototypes, and evaluate feasibility through FEA. The system was validated through a case study involving 104 simulated design sessions and a user study with 12 participants.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "026-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G4",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K4",
+        "K5",
+        "K7"
+      ],
+      "constraint_codes": [],
+      "sample_n": 12,
+      "sample_description": "Human experts rated the DesignAgent system highly across core workflow tasks.",
+      "recruitment": "We recruited 12 participants with backgrounds in product design or mechanical design.",
+      "task": "The design task involved creating conceptual design solutions for three representative",
+      "comparator": "how it differs from baseline workflows, we conducted a controlled user study comparing",
+      "procedure": "Participants and procedure",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "strengthsandlimitationsofeachworkflow.",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 22,
+          "quote": "Human experts rated the DesignAgent system highly across core workflow tasks."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "We initially assessed distribution normality using the Shapiro-Wilktest,followedbyFriedmantestsfornon-normaldatasets,whichrevealedsig- nificantdifferencesacrosssystems.IntheNASA-TLXframework,lowerscoresonadimen- sion indicate lower workload, and a lower overall weighted score indicates a reduction in perceivedtaskburden.",
+          "claim_summary": "We initially assessed distribution normality using the Shapiro-Wilktest,followedbyFriedmantestsfornon-normaldatasets,whichrevealedsig- nificantdifferencesacrosssystems.IntheNASA-TLXframework,lowerscoresonadimen- sion indicate lower workload, and a lower overall weighted score indicates a reduction i",
+          "claim_type": "C2",
+          "construct_raw": "NASA-TLX",
+          "indicator_raw": "NASA-TLX",
+          "item_quote": "For collaboration experience, we collected self-reported measures after each condition: NASA-TLX(Hart 2006)forperceivedworkloadandcognitivedemand,andahuman-AIcol- laborationscale(Table 11)adaptedfromWu,Terry,andJunCai(2022 ),employinga7-point Likert scale to assess interaction quality and collaboration fluency.",
+          "dimension_code": "B",
+          "indicator_code": "B2",
+          "instrument_raw": "For collaboration experience, we collected self-reported measures after each condition: NASA-TLX(Hart 2006)forperceivedworkloadandcognitivedemand,andahuman-AIco；After each condi- tion,theycompletedtwoquestionnaires.Attheend,weconductedasemi-structuredinter- view to gather qualitative feedback on usability, collaboration；We also conducted a semi-structured interview at the end of the session to capture qualitative reflections on usability,divisionoflabour,andtrustineachworkflow.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            25,
+            27
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "User study Toevaluatedesigners’interactionswith DesignAgentinaconceptualdesignsettingand how it differs from baseline workflows, we conducted a controlled user study comparing DesignAgent against two baseline design workflows.",
+          "claim_summary": "User study Toevaluatedesigners’interactionswith DesignAgentinaconceptualdesignsettingand how it differs from baseline workflows, we conducted a controlled user study comparing DesignAgent against two baseline design workflows.",
+          "claim_type": "C1",
+          "construct_raw": "flow",
+          "indicator_raw": "flow",
+          "item_quote": "These baselines were chosen to assess our system’s effectiveness in generating design solutions and iteration, as well as to evaluate the human-AI collaboration experi- ence relative to current workflows.",
+          "dimension_code": "B",
+          "indicator_code": "B5",
+          "instrument_raw": "For collaboration experience, we collected self-reported measures after each condition: NASA-TLX(Hart 2006)forperceivedworkloadandcognitivedemand,andahuman-AIco；After each condi- tion,theycompletedtwoquestionnaires.Attheend,weconductedasemi-structuredinter- view to gather qualitative feedback on usability, collaboration；We also conducted a semi-structured interview at the end of the session to capture qualitative reflections on usability,divisionoflabour,andtrustineachworkflow.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            24,
+            25
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "After each condi- tion,theycompletedtwoquestionnaires.Attheend,weconductedasemi-structuredinter- view to gather qualitative feedback on usability, collaboration experience, and perceived strengthsandlimitationsofeachworkflow.",
+          "claim_summary": "After each condi- tion,theycompletedtwoquestionnaires.Attheend,weconductedasemi-structuredinter- view to gather qualitative feedback on usability, collaboration experience, and perceived strengthsandlimitationsofeachworkflow.",
+          "claim_type": "C1",
+          "construct_raw": "usability",
+          "indicator_raw": "usability",
+          "item_quote": "After each condi- tion,theycompletedtwoquestionnaires.Attheend,weconductedasemi-structuredinter- view to gather qualitative feedback on usability, collaboration experience, and perceived strengthsandlimitationsofeachworkflow.",
+          "dimension_code": "D",
+          "indicator_code": "D1",
+          "instrument_raw": "For collaboration experience, we collected self-reported measures after each condition: NASA-TLX(Hart 2006)forperceivedworkloadandcognitivedemand,andahuman-AIco；After each condi- tion,theycompletedtwoquestionnaires.Attheend,weconductedasemi-structuredinter- view to gather qualitative feedback on usability, collaboration；We also conducted a semi-structured interview at the end of the session to capture qualitative reflections on usability,divisionoflabour,andtrustineachworkflow.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            25
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "These baselines were chosen to assess our system’s effectiveness in generating design solutions and iteration, as well as to evaluate the human-AI collaboration experi- ence relative to current workflows.",
+          "claim_summary": "These baselines were chosen to assess our system’s effectiveness in generating design solutions and iteration, as well as to evaluate the human-AI collaboration experi- ence relative to current workflows.",
+          "claim_type": "C1",
+          "construct_raw": "collaborat",
+          "indicator_raw": "collaborat",
+          "item_quote": "These baselines were chosen to assess our system’s effectiveness in generating design solutions and iteration, as well as to evaluate the human-AI collaboration experi- ence relative to current workflows.",
+          "dimension_code": "D",
+          "indicator_code": "D8",
+          "instrument_raw": "For collaboration experience, we collected self-reported measures after each condition: NASA-TLX(Hart 2006)forperceivedworkloadandcognitivedemand,andahuman-AIco；After each condi- tion,theycompletedtwoquestionnaires.Attheend,weconductedasemi-structuredinter- view to gather qualitative feedback on usability, collaboration；We also conducted a semi-structured interview at the end of the session to capture qualitative reflections on usability,divisionoflabour,andtrustineachworkflow.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            25
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "Therefore, the study aims to assess the system’s capability to explore"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "UAV type, payload, operating envi-"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "To assess the effectiveness and reliability of the proposedDesignAgent in support-"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "Participants and procedure"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "UAV type, payload, operating envi-"
+        }
+      ]
+    },
+    {
+      "eval_id": "026-E2",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V2"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K4",
+        "K5",
+        "K7"
+      ],
+      "constraint_codes": [
+        "Q2"
+      ],
+      "sample_n": 12,
+      "sample_description": "Participants using DesignAgent achieved the highest overall performance in model selection and FEA setup/interpretation.",
+      "recruitment": "We recruited 12 participants with backgrounds in product design or mechanical design.",
+      "task": "Humanexpertsevaluationresultsoftask‘MaterialSelection’.",
+      "comparator": "how it differs from baseline workflows, we conducted a controlled user study comparing",
+      "procedure": "Participants and procedure",
+      "analysis": "NASA-TLX scores for the three systems.∗indicates p <.05, ∗∗indicates p <.01, and ∗∗",
+      "actual_results": "",
+      "limitations": "strengthsandlimitationsofeachworkflow.",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 26,
+          "quote": "Participants using DesignAgent achieved the highest overall performance in model selection and FEA setup/interpretation."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "We initially assessed distribution normality using the Shapiro-Wilktest,followedbyFriedmantestsfornon-normaldatasets,whichrevealedsig- nificantdifferencesacrosssystems.IntheNASA-TLXframework,lowerscoresonadimen- sion indicate lower workload, and a lower overall weighted score indicates a reduction in perceivedtaskburden.",
+          "claim_summary": "We initially assessed distribution normality using the Shapiro-Wilktest,followedbyFriedmantestsfornon-normaldatasets,whichrevealedsig- nificantdifferencesacrosssystems.IntheNASA-TLXframework,lowerscoresonadimen- sion indicate lower workload, and a lower overall weighted score indicates a reduction i",
+          "claim_type": "C2",
+          "construct_raw": "NASA-TLX",
+          "indicator_raw": "NASA-TLX",
+          "item_quote": "For collaboration experience, we collected self-reported measures after each condition: NASA-TLX(Hart 2006)forperceivedworkloadandcognitivedemand,andahuman-AIcol- laborationscale(Table 11)adaptedfromWu,Terry,andJunCai(2022 ),employinga7-point Likert scale to assess interaction quality and collaboration fluency.",
+          "dimension_code": "B",
+          "indicator_code": "B2",
+          "instrument_raw": "For collaboration experience, we collected self-reported measures after each condition: NASA-TLX(Hart 2006)forperceivedworkloadandcognitivedemand,andahuman-AIco；After each condi- tion,theycompletedtwoquestionnaires.Attheend,weconductedasemi-structuredinter- view to gather qualitative feedback on usability, collaboration；We also conducted a semi-structured interview at the end of the session to capture qualitative reflections on usability,divisionoflabour,andtrustineachworkflow.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            25,
+            27
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "User study Toevaluatedesigners’interactionswith DesignAgentinaconceptualdesignsettingand how it differs from baseline workflows, we conducted a controlled user study comparing DesignAgent against two baseline design workflows.",
+          "claim_summary": "User study Toevaluatedesigners’interactionswith DesignAgentinaconceptualdesignsettingand how it differs from baseline workflows, we conducted a controlled user study comparing DesignAgent against two baseline design workflows.",
+          "claim_type": "C1",
+          "construct_raw": "flow",
+          "indicator_raw": "flow",
+          "item_quote": "These baselines were chosen to assess our system’s effectiveness in generating design solutions and iteration, as well as to evaluate the human-AI collaboration experi- ence relative to current workflows.",
+          "dimension_code": "B",
+          "indicator_code": "B5",
+          "instrument_raw": "For collaboration experience, we collected self-reported measures after each condition: NASA-TLX(Hart 2006)forperceivedworkloadandcognitivedemand,andahuman-AIco；After each condi- tion,theycompletedtwoquestionnaires.Attheend,weconductedasemi-structuredinter- view to gather qualitative feedback on usability, collaboration；We also conducted a semi-structured interview at the end of the session to capture qualitative reflections on usability,divisionoflabour,andtrustineachworkflow.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            24,
+            25
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "After each condi- tion,theycompletedtwoquestionnaires.Attheend,weconductedasemi-structuredinter- view to gather qualitative feedback on usability, collaboration experience, and perceived strengthsandlimitationsofeachworkflow.",
+          "claim_summary": "After each condi- tion,theycompletedtwoquestionnaires.Attheend,weconductedasemi-structuredinter- view to gather qualitative feedback on usability, collaboration experience, and perceived strengthsandlimitationsofeachworkflow.",
+          "claim_type": "C1",
+          "construct_raw": "usability",
+          "indicator_raw": "usability",
+          "item_quote": "After each condi- tion,theycompletedtwoquestionnaires.Attheend,weconductedasemi-structuredinter- view to gather qualitative feedback on usability, collaboration experience, and perceived strengthsandlimitationsofeachworkflow.",
+          "dimension_code": "D",
+          "indicator_code": "D1",
+          "instrument_raw": "For collaboration experience, we collected self-reported measures after each condition: NASA-TLX(Hart 2006)forperceivedworkloadandcognitivedemand,andahuman-AIco；After each condi- tion,theycompletedtwoquestionnaires.Attheend,weconductedasemi-structuredinter- view to gather qualitative feedback on usability, collaboration；We also conducted a semi-structured interview at the end of the session to capture qualitative reflections on usability,divisionoflabour,andtrustineachworkflow.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            25
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "These baselines were chosen to assess our system’s effectiveness in generating design solutions and iteration, as well as to evaluate the human-AI collaboration experi- ence relative to current workflows.",
+          "claim_summary": "These baselines were chosen to assess our system’s effectiveness in generating design solutions and iteration, as well as to evaluate the human-AI collaboration experi- ence relative to current workflows.",
+          "claim_type": "C1",
+          "construct_raw": "collaborat",
+          "indicator_raw": "collaborat",
+          "item_quote": "These baselines were chosen to assess our system’s effectiveness in generating design solutions and iteration, as well as to evaluate the human-AI collaboration experi- ence relative to current workflows.",
+          "dimension_code": "D",
+          "indicator_code": "D8",
+          "instrument_raw": "For collaboration experience, we collected self-reported measures after each condition: NASA-TLX(Hart 2006)forperceivedworkloadandcognitivedemand,andahuman-AIco；After each condi- tion,theycompletedtwoquestionnaires.Attheend,weconductedasemi-structuredinter- view to gather qualitative feedback on usability, collaboration；We also conducted a semi-structured interview at the end of the session to capture qualitative reflections on usability,divisionoflabour,andtrustineachworkflow.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            25
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "quote": "The study aimed to: (1) to exam-"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "quote": "demonstrating the system’s robust capacity to prioritise structural integrity."
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "quote": "ICC / / 0.94 0.96 0.95"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "quote": "Participants and procedure"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "quote": "NASA-TLX scores for the three systems.∗indicates p <.05, ∗∗indicates p <.01, and ∗∗"
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "quote": "demonstrating the system’s robust capacity to prioritise structural integrity."
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\26.pdf"
+}

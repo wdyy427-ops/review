@@ -1,0 +1,75 @@
+{
+  "selection_method": "20次论文级分组交叉验证；双重稳健标签按综合权重排序；一个标准误规则选择最小Top-k",
+  "one_se_rule": "选择最小k，使其平均Macro-F1不低于最佳平均Macro-F1减去最佳模型的标准误",
+  "layers": {
+    "评价维度": {
+      "target": "评价维度",
+      "n": 155,
+      "papers": 38,
+      "classes": 5,
+      "robust_order": [
+        "G4_评价对象"
+      ],
+      "best_k": 1,
+      "best_macro_f1": 0.44637881362520926,
+      "best_standard_error": 0.0023562337307579764,
+      "one_se_cutoff": 0.44402257989445126,
+      "selected_k": 1,
+      "selected_groups": [
+        "G4_评价对象"
+      ],
+      "selected_threshold": 0.9665308342715466,
+      "selected_macro_f1": 0.44637881362520926,
+      "selected_top2_accuracy": 0.7601667201650956
+    },
+    "主观指标": {
+      "target": "主观指标",
+      "n": 95,
+      "papers": 27,
+      "classes": 10,
+      "robust_order": [
+        "G1_评价目的",
+        "G2_设计领域"
+      ],
+      "best_k": 2,
+      "best_macro_f1": 0.5417956362809304,
+      "best_standard_error": 0.005901162452339869,
+      "one_se_cutoff": 0.5358944738285906,
+      "selected_k": 2,
+      "selected_groups": [
+        "G1_评价目的",
+        "G2_设计领域"
+      ],
+      "selected_threshold": 0.2772040657021675,
+      "selected_macro_f1": 0.5417956362809304,
+      "selected_top2_accuracy": 0.8242526395325802
+    },
+    "测量工具类别": {
+      "target": "测量工具类别",
+      "n": 182,
+      "papers": 38,
+      "classes": 5,
+      "robust_order": [
+        "G3_设计阶段",
+        "G7_AI功能",
+        "G1_评价目的",
+        "G6_目标用户",
+        "G2_设计领域"
+      ],
+      "best_k": 4,
+      "best_macro_f1": 0.2575982693746647,
+      "best_standard_error": 0.005812520631835712,
+      "one_se_cutoff": 0.25178574874282894,
+      "selected_k": 4,
+      "selected_groups": [
+        "G3_设计阶段",
+        "G7_AI功能",
+        "G1_评价目的",
+        "G6_目标用户"
+      ],
+      "selected_threshold": 0.1509267635667865,
+      "selected_macro_f1": 0.2575982693746647,
+      "selected_top2_accuracy": 0.5613520414124078
+    }
+  }
+}

@@ -1,0 +1,702 @@
+[
+  {
+    "unit": "评价案例",
+    "standard": "U5",
+    "standard_label": "信息与评价目的相关",
+    "status": "S",
+    "status_label": "报告提供充分支持",
+    "n": 31,
+    "denominator": 31,
+    "proportion": 1.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "U5",
+    "standard_label": "信息与评价目的相关",
+    "status": "P",
+    "status_label": "提供部分支持",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "U5",
+    "standard_label": "信息与评价目的相关",
+    "status": "C",
+    "status_label": "发现明确问题",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "U5",
+    "standard_label": "信息与评价目的相关",
+    "status": "NR",
+    "status_label": "未报告／无法判断",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "U5",
+    "standard_label": "信息与评价目的相关",
+    "status": "NA",
+    "status_label": "不适用",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A2",
+    "standard_label": "测量解释的效度依据",
+    "status": "S",
+    "status_label": "报告提供充分支持",
+    "n": 8,
+    "denominator": 31,
+    "proportion": 0.25806451612903225
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A2",
+    "standard_label": "测量解释的效度依据",
+    "status": "P",
+    "status_label": "提供部分支持",
+    "n": 23,
+    "denominator": 31,
+    "proportion": 0.7419354838709677
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A2",
+    "standard_label": "测量解释的效度依据",
+    "status": "C",
+    "status_label": "发现明确问题",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A2",
+    "standard_label": "测量解释的效度依据",
+    "status": "NR",
+    "status_label": "未报告／无法判断",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A2",
+    "standard_label": "测量解释的效度依据",
+    "status": "NA",
+    "status_label": "不适用",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A3",
+    "standard_label": "信息的可靠性依据",
+    "status": "S",
+    "status_label": "报告提供充分支持",
+    "n": 2,
+    "denominator": 31,
+    "proportion": 0.06451612903225806
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A3",
+    "standard_label": "信息的可靠性依据",
+    "status": "P",
+    "status_label": "提供部分支持",
+    "n": 12,
+    "denominator": 31,
+    "proportion": 0.3870967741935484
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A3",
+    "standard_label": "信息的可靠性依据",
+    "status": "C",
+    "status_label": "发现明确问题",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A3",
+    "standard_label": "信息的可靠性依据",
+    "status": "NR",
+    "status_label": "未报告／无法判断",
+    "n": 17,
+    "denominator": 31,
+    "proportion": 0.5483870967741935
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A3",
+    "standard_label": "信息的可靠性依据",
+    "status": "NA",
+    "status_label": "不适用",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A4",
+    "standard_label": "对象与情境描述",
+    "status": "S",
+    "status_label": "报告提供充分支持",
+    "n": 8,
+    "denominator": 31,
+    "proportion": 0.25806451612903225
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A4",
+    "standard_label": "对象与情境描述",
+    "status": "P",
+    "status_label": "提供部分支持",
+    "n": 23,
+    "denominator": 31,
+    "proportion": 0.7419354838709677
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A4",
+    "standard_label": "对象与情境描述",
+    "status": "C",
+    "status_label": "发现明确问题",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A4",
+    "standard_label": "对象与情境描述",
+    "status": "NR",
+    "status_label": "未报告／无法判断",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A4",
+    "standard_label": "对象与情境描述",
+    "status": "NA",
+    "status_label": "不适用",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A6",
+    "standard_label": "研究设计与分析适切性",
+    "status": "S",
+    "status_label": "报告提供充分支持",
+    "n": 13,
+    "denominator": 31,
+    "proportion": 0.41935483870967744
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A6",
+    "standard_label": "研究设计与分析适切性",
+    "status": "P",
+    "status_label": "提供部分支持",
+    "n": 18,
+    "denominator": 31,
+    "proportion": 0.5806451612903226
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A6",
+    "standard_label": "研究设计与分析适切性",
+    "status": "C",
+    "status_label": "发现明确问题",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A6",
+    "standard_label": "研究设计与分析适切性",
+    "status": "NR",
+    "status_label": "未报告／无法判断",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A6",
+    "standard_label": "研究设计与分析适切性",
+    "status": "NA",
+    "status_label": "不适用",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A7",
+    "standard_label": "评价推理可追溯性",
+    "status": "S",
+    "status_label": "报告提供充分支持",
+    "n": 21,
+    "denominator": 31,
+    "proportion": 0.6774193548387096
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A7",
+    "standard_label": "评价推理可追溯性",
+    "status": "P",
+    "status_label": "提供部分支持",
+    "n": 5,
+    "denominator": 31,
+    "proportion": 0.16129032258064516
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A7",
+    "standard_label": "评价推理可追溯性",
+    "status": "C",
+    "status_label": "发现明确问题",
+    "n": 5,
+    "denominator": 31,
+    "proportion": 0.16129032258064516
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A7",
+    "standard_label": "评价推理可追溯性",
+    "status": "NR",
+    "status_label": "未报告／无法判断",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "A7",
+    "standard_label": "评价推理可追溯性",
+    "status": "NA",
+    "status_label": "不适用",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "E1",
+    "standard_label": "评价记录充分性",
+    "status": "S",
+    "status_label": "报告提供充分支持",
+    "n": 3,
+    "denominator": 31,
+    "proportion": 0.0967741935483871
+  },
+  {
+    "unit": "评价案例",
+    "standard": "E1",
+    "standard_label": "评价记录充分性",
+    "status": "P",
+    "status_label": "提供部分支持",
+    "n": 28,
+    "denominator": 31,
+    "proportion": 0.9032258064516129
+  },
+  {
+    "unit": "评价案例",
+    "standard": "E1",
+    "standard_label": "评价记录充分性",
+    "status": "C",
+    "status_label": "发现明确问题",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "E1",
+    "standard_label": "评价记录充分性",
+    "status": "NR",
+    "status_label": "未报告／无法判断",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "standard": "E1",
+    "standard_label": "评价记录充分性",
+    "status": "NA",
+    "status_label": "不适用",
+    "n": 0,
+    "denominator": 31,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "U5",
+    "standard_label": "信息与评价目的相关",
+    "status": "S",
+    "status_label": "报告提供充分支持",
+    "n": 95,
+    "denominator": 95,
+    "proportion": 1.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "U5",
+    "standard_label": "信息与评价目的相关",
+    "status": "P",
+    "status_label": "提供部分支持",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "U5",
+    "standard_label": "信息与评价目的相关",
+    "status": "C",
+    "status_label": "发现明确问题",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "U5",
+    "standard_label": "信息与评价目的相关",
+    "status": "NR",
+    "status_label": "未报告／无法判断",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "U5",
+    "standard_label": "信息与评价目的相关",
+    "status": "NA",
+    "status_label": "不适用",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "A2",
+    "standard_label": "测量解释的效度依据",
+    "status": "S",
+    "status_label": "报告提供充分支持",
+    "n": 22,
+    "denominator": 95,
+    "proportion": 0.23157894736842105
+  },
+  {
+    "unit": "证据链",
+    "standard": "A2",
+    "standard_label": "测量解释的效度依据",
+    "status": "P",
+    "status_label": "提供部分支持",
+    "n": 73,
+    "denominator": 95,
+    "proportion": 0.7684210526315789
+  },
+  {
+    "unit": "证据链",
+    "standard": "A2",
+    "standard_label": "测量解释的效度依据",
+    "status": "C",
+    "status_label": "发现明确问题",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "A2",
+    "standard_label": "测量解释的效度依据",
+    "status": "NR",
+    "status_label": "未报告／无法判断",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "A2",
+    "standard_label": "测量解释的效度依据",
+    "status": "NA",
+    "status_label": "不适用",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "A3",
+    "standard_label": "信息的可靠性依据",
+    "status": "S",
+    "status_label": "报告提供充分支持",
+    "n": 17,
+    "denominator": 95,
+    "proportion": 0.17894736842105263
+  },
+  {
+    "unit": "证据链",
+    "standard": "A3",
+    "standard_label": "信息的可靠性依据",
+    "status": "P",
+    "status_label": "提供部分支持",
+    "n": 41,
+    "denominator": 95,
+    "proportion": 0.43157894736842106
+  },
+  {
+    "unit": "证据链",
+    "standard": "A3",
+    "standard_label": "信息的可靠性依据",
+    "status": "C",
+    "status_label": "发现明确问题",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "A3",
+    "standard_label": "信息的可靠性依据",
+    "status": "NR",
+    "status_label": "未报告／无法判断",
+    "n": 37,
+    "denominator": 95,
+    "proportion": 0.3894736842105263
+  },
+  {
+    "unit": "证据链",
+    "standard": "A3",
+    "standard_label": "信息的可靠性依据",
+    "status": "NA",
+    "status_label": "不适用",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "A4",
+    "standard_label": "对象与情境描述",
+    "status": "S",
+    "status_label": "报告提供充分支持",
+    "n": 34,
+    "denominator": 95,
+    "proportion": 0.35789473684210527
+  },
+  {
+    "unit": "证据链",
+    "standard": "A4",
+    "standard_label": "对象与情境描述",
+    "status": "P",
+    "status_label": "提供部分支持",
+    "n": 61,
+    "denominator": 95,
+    "proportion": 0.6421052631578947
+  },
+  {
+    "unit": "证据链",
+    "standard": "A4",
+    "standard_label": "对象与情境描述",
+    "status": "C",
+    "status_label": "发现明确问题",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "A4",
+    "standard_label": "对象与情境描述",
+    "status": "NR",
+    "status_label": "未报告／无法判断",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "A4",
+    "standard_label": "对象与情境描述",
+    "status": "NA",
+    "status_label": "不适用",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "A6",
+    "standard_label": "研究设计与分析适切性",
+    "status": "S",
+    "status_label": "报告提供充分支持",
+    "n": 47,
+    "denominator": 95,
+    "proportion": 0.49473684210526314
+  },
+  {
+    "unit": "证据链",
+    "standard": "A6",
+    "standard_label": "研究设计与分析适切性",
+    "status": "P",
+    "status_label": "提供部分支持",
+    "n": 48,
+    "denominator": 95,
+    "proportion": 0.5052631578947369
+  },
+  {
+    "unit": "证据链",
+    "standard": "A6",
+    "standard_label": "研究设计与分析适切性",
+    "status": "C",
+    "status_label": "发现明确问题",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "A6",
+    "standard_label": "研究设计与分析适切性",
+    "status": "NR",
+    "status_label": "未报告／无法判断",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "A6",
+    "standard_label": "研究设计与分析适切性",
+    "status": "NA",
+    "status_label": "不适用",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "A7",
+    "standard_label": "评价推理可追溯性",
+    "status": "S",
+    "status_label": "报告提供充分支持",
+    "n": 66,
+    "denominator": 95,
+    "proportion": 0.6947368421052632
+  },
+  {
+    "unit": "证据链",
+    "standard": "A7",
+    "standard_label": "评价推理可追溯性",
+    "status": "P",
+    "status_label": "提供部分支持",
+    "n": 14,
+    "denominator": 95,
+    "proportion": 0.14736842105263157
+  },
+  {
+    "unit": "证据链",
+    "standard": "A7",
+    "standard_label": "评价推理可追溯性",
+    "status": "C",
+    "status_label": "发现明确问题",
+    "n": 15,
+    "denominator": 95,
+    "proportion": 0.15789473684210525
+  },
+  {
+    "unit": "证据链",
+    "standard": "A7",
+    "standard_label": "评价推理可追溯性",
+    "status": "NR",
+    "status_label": "未报告／无法判断",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "A7",
+    "standard_label": "评价推理可追溯性",
+    "status": "NA",
+    "status_label": "不适用",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "E1",
+    "standard_label": "评价记录充分性",
+    "status": "S",
+    "status_label": "报告提供充分支持",
+    "n": 21,
+    "denominator": 95,
+    "proportion": 0.22105263157894736
+  },
+  {
+    "unit": "证据链",
+    "standard": "E1",
+    "standard_label": "评价记录充分性",
+    "status": "P",
+    "status_label": "提供部分支持",
+    "n": 74,
+    "denominator": 95,
+    "proportion": 0.7789473684210526
+  },
+  {
+    "unit": "证据链",
+    "standard": "E1",
+    "standard_label": "评价记录充分性",
+    "status": "C",
+    "status_label": "发现明确问题",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "E1",
+    "standard_label": "评价记录充分性",
+    "status": "NR",
+    "status_label": "未报告／无法判断",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "standard": "E1",
+    "standard_label": "评价记录充分性",
+    "status": "NA",
+    "status_label": "不适用",
+    "n": 0,
+    "denominator": 95,
+    "proportion": 0.0
+  }
+]

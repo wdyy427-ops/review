@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="407.52pt" height="294.048pt" viewBox="0 0 407.52 294.048" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-09T16:13:21.305189</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 294.048 
+L 407.52 294.048 
+L 407.52 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 15.33456 107.240256 
+L 392.18544 107.240256 
+Q 399.41712 107.240256 399.41712 102.051072 
+L 399.41712 46.411488 
+Q 399.41712 41.222304 392.18544 41.222304 
+L 15.33456 41.222304 
+Q 8.10288 41.222304 8.10288 46.411488 
+L 8.10288 102.051072 
+Q 8.10288 107.240256 15.33456 107.240256 
+z
+" clip-path="url(#pab44d03e6f)" style="fill: #ffffff; stroke: #4477aa; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 15.33456 185.078016 
+L 392.18544 185.078016 
+Q 399.41712 185.078016 399.41712 179.888832 
+L 399.41712 124.249248 
+Q 399.41712 119.060064 392.18544 119.060064 
+L 15.33456 119.060064 
+Q 8.10288 119.060064 8.10288 124.249248 
+L 8.10288 179.888832 
+Q 8.10288 185.078016 15.33456 185.078016 
+z
+" clip-path="url(#pab44d03e6f)" style="fill: #ffffff; stroke: #3e8b82; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 15.33456 262.915776 
+L 392.18544 262.915776 
+Q 399.41712 262.915776 399.41712 257.726592 
+L 399.41712 202.087008 
+Q 399.41712 196.897824 392.18544 196.897824 
+L 15.33456 196.897824 
+Q 8.10288 196.897824 8.10288 202.087008 
+L 8.10288 257.726592 
+Q 8.10288 262.915776 15.33456 262.915776 
+z
+" clip-path="url(#pab44d03e6f)" style="fill: #ffffff; stroke: #a14b88; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 203.76 108.083935 
+Q 203.76 113.149153 203.76 117.208141 
+" clip-path="url(#pab44d03e6f)" style="fill: none; stroke: #737c80; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 205.76 113.208141 
+L 203.76 117.208141 
+L 201.76 113.208141 
+z
+" clip-path="url(#pab44d03e6f)" style="fill: #737c80; stroke: #737c80; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 203.76 185.921695 
+Q 203.76 190.986913 203.76 195.045901 
+" clip-path="url(#pab44d03e6f)" style="fill: none; stroke: #737c80; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 205.76 191.045901 
+L 203.76 195.045901 
+L 201.76 191.045901 
+z
+" clip-path="url(#pab44d03e6f)" style="fill: #737c80; stroke: #737c80; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 14.9328 289.72656 
+L 392.5872 289.72656 
+Q 398.6136 289.72656 398.6136 285.40224 
+L 398.6136 266.66352 
+Q 398.6136 262.3392 392.5872 262.3392 
+L 14.9328 262.3392 
+Q 8.9064 262.3392 8.9064 266.66352 
+L 8.9064 285.40224 
+Q 8.9064 289.72656 14.9328 289.72656 
+z
+" clip-path="url(#pab44d03e6f)" style="fill: #f4f7f8; stroke: #c5d0d5; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 185.6808 95.13216 
+L 185.6808 53.3304 
+" clip-path="url(#pab44d03e6f)" style="fill: none; stroke: #e0e5e7; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 185.6808 172.96992 
+L 185.6808 131.16816 
+" clip-path="url(#pab44d03e6f)" style="fill: none; stroke: #e0e5e7; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 185.6808 250.80768 
+L 185.6808 209.00592 
+" clip-path="url(#pab44d03e6f)" style="fill: none; stroke: #e0e5e7; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Arial'; text-anchor: start; fill: #253943" x="10.9152" y="17.2944" transform="rotate(-0 10.9152 17.2944)">Relation-informed progressive recommender</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7.4px; font-family: 'Arial'; text-anchor: start; fill: #66757b" x="10.9152" y="30.26736" transform="rotate(-0 10.9152 30.26736)">Only contextual factors supported by both group-deletion retraining and test-set permutation enter each layer.</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Arial'; text-anchor: middle; fill: #4477aa" x="26.9856" y="78.630694" transform="rotate(-0 26.9856 78.630694)">1</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'Arial'; text-anchor: start; fill: #4477aa" x="47.0736" y="65.819039" transform="rotate(-0 47.0736 65.819039)">Recommend evaluation dimensions</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7px; font-family: 'Arial'; fill: #56636a" transform="translate(47.0736 83.227491)">Rank dimensions</text>
+    <text style="font-size: 7px; font-family: 'Arial'; fill: #56636a" transform="translate(47.0736 91.481817)">→ user confirms one dimension</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 6.8px; font-family: 'Arial'; text-anchor: start; fill: #6a7478" x="197.7336" y="62.989257" transform="rotate(-0 197.7336 62.989257)">Robust contextual inputs</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7px; font-family: 'Arial'; fill: #30383b" transform="translate(197.7336 82.475982)">G4  Evaluation object  ·  96.3%</text>
+    <text style="font-size: 7px; font-family: 'Arial'; fill: #30383b" transform="translate(197.7336 90.925748)">G1  Evaluation purpose  ·  2.7%</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Arial'; text-anchor: middle; fill: #3e8b82" x="26.9856" y="156.468454" transform="rotate(-0 26.9856 156.468454)">2</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'Arial'; text-anchor: start; fill: #3e8b82" x="47.0736" y="143.656715" transform="rotate(-0 47.0736 143.656715)">Recommend subjective indicators</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7px; font-family: 'Arial'; fill: #56636a" transform="translate(47.0736 161.106267)">Use confirmed dimension</text>
+    <text style="font-size: 7px; font-family: 'Arial'; fill: #56636a" transform="translate(47.0736 169.319577)">→ rank indicators → user confirms one</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 6.8px; font-family: 'Arial'; text-anchor: start; fill: #6a7478" x="197.7336" y="140.827017" transform="rotate(-0 197.7336 140.827017)">Robust contextual inputs</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7px; font-family: 'Arial'; fill: #30383b" transform="translate(197.7336 160.313742)">G4  Evaluation object  ·  55.7%     G2  Design domain  ·  17.2%</text>
+    <text style="font-size: 7px; font-family: 'Arial'; fill: #30383b" transform="translate(197.7336 168.722492)">G6  Target users  ·  10.3%</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Arial'; text-anchor: middle; fill: #a14b88" x="26.9856" y="234.306214" transform="rotate(-0 26.9856 234.306214)">3</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'Arial'; text-anchor: start; fill: #a14b88" x="47.0736" y="221.494559" transform="rotate(-0 47.0736 221.494559)">Recommend tools</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7px; font-family: 'Arial'; fill: #56636a" transform="translate(47.0736 238.944027)">Use confirmed dimension + indicator</text>
+    <text style="font-size: 7px; font-family: 'Arial'; fill: #56636a" transform="translate(47.0736 247.114681)">→ rank tool classes and evidence</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 6.8px; font-family: 'Arial'; text-anchor: start; fill: #6a7478" x="197.7336" y="218.664777" transform="rotate(-0 197.7336 218.664777)">Robust contextual inputs</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7px; font-family: 'Arial'; fill: #30383b" transform="translate(197.7336 238.192518)">G1  Evaluation purpose  ·  38.7%     G7  AI function  ·  19.8%</text>
+    <text style="font-size: 7px; font-family: 'Arial'; fill: #30383b" transform="translate(197.7336 246.560252)">G4  Evaluation object  ·  14.6%     G3  Design stage  ·  10.1%</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Arial'; text-anchor: start; fill: #3f525b" x="20.9592" y="278.169625" transform="rotate(-0 20.9592 278.169625)">Across all layers</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.2px; font-family: 'Arial'; text-anchor: start; fill: #53646b" x="87.2496" y="278.040235" transform="rotate(-0 87.2496 278.040235)">expose supporting papers and evidence records  ·  display uncertainty  ·  permit user revision</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pab44d03e6f">
+   <rect x="2.88" y="2.88" width="401.76" height="288.288"/>
+  </clipPath>
+ </defs>
+</svg>

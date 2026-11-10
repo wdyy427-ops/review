@@ -1,0 +1,30 @@
+﻿layer,year,denominator,largest_code,largest_label,n,percent
+dimension,2022,11,A,Design outcome quality,3,0.2727272727272727
+dimension,2022,11,B,Design process quality,3,0.2727272727272727
+dimension,2023,8,A,Design outcome quality,3,0.375
+dimension,2023,8,C,"Designer cognition, affect and capabilities",3,0.375
+dimension,2024,131,A,Design outcome quality,43,0.3282442748091603
+dimension,2025,89,A,Design outcome quality,25,0.2808988764044944
+dimension,2025,89,D,Human–AI interaction experience,25,0.2808988764044944
+dimension,2026,221,A,Design outcome quality,70,0.3167420814479638
+indicator,2022,11,A5,Fidelity,2,0.18181818181818182
+indicator,2022,11,B5,Process continuity,2,0.18181818181818182
+indicator,2022,11,D3,Sense of control,2,0.18181818181818182
+indicator,2023,8,A1,Novelty,1,0.125
+indicator,2023,8,A2,Aesthetic appeal,1,0.125
+indicator,2023,8,A3,Suitability,1,0.125
+indicator,2023,8,C2,Knowledge acquisition,1,0.125
+indicator,2023,8,C4,Engagement and immersion,1,0.125
+indicator,2023,8,C5,Enjoyment,1,0.125
+indicator,2023,8,D1,Ease of use,1,0.125
+indicator,2023,8,D8,"Communication, coordination, conflict and shared understanding",1,0.125
+indicator,2024,131,C5,Enjoyment,13,0.09923664122137404
+indicator,2025,88,A1,Novelty,7,0.07954545454545454
+indicator,2025,88,D1,Ease of use,7,0.07954545454545454
+indicator,2025,88,D8,"Communication, coordination, conflict and shared understanding",7,0.07954545454545454
+indicator,2026,216,A3,Suitability,20,0.09259259259259259
+tool,2022,14,M2,Bespoke structured ratings,6,0.42857142857142855
+tool,2023,10,M1,Named scales,6,0.6
+tool,2024,151,M3,Qualitative verbal elicitation,43,0.2847682119205298
+tool,2025,121,M4,Non-scale structured judgments,38,0.3140495867768595
+tool,2026,312,M2,Bespoke structured ratings,119,0.3814102564102564

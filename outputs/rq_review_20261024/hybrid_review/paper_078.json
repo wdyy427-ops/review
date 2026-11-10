@@ -1,0 +1,669 @@
+{
+  "paper_id": 78,
+  "title": "DesignPrompt: Using Multimodal Interaction for Design Exploration with Generative AI",
+  "doi": "10.1145/3643834.3661588",
+  "year": 2024,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1",
+    "D3"
+  ],
+  "stage_codes": [
+    "S2",
+    "S3"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R1",
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "This paper presents DesignPrompt, a digital moodboard tool that allows designers to use multimodal input (images, colors, semantics) to create and refine generative AI prompts. The study involves 12 professional designers and explores how multimodal interaction affects design exploration and expression.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "078-E1",
+      "purpose_codes": [
+        "P1",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [],
+      "source_codes": [
+        "H1",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [
+        "Q3",
+        "Q6"
+      ],
+      "sample_n": 3,
+      "sample_description": "allowing designers to regain control is generating multiple out-",
+      "recruitment": "Participants We recruited eight participants (5 women, 3 men;",
+      "task": "the given design task\" [33, p.",
+      "comparator": "Moodboard task (baseline condition): Participants are asked to",
+      "procedure": "Procedure The whole study lasts 30-40 minutes in total.",
+      "analysis": "Data Analysis We conducted an inductive thematic analysis [6]",
+      "actual_results": "2.3 Challenges of AI Prompting in Creative Processes GenAI has posed challenges to non-AI experts to generate mean- ingful results due to difculties in writing efective prompt input, uncertainties of AI’s capabilities, insufcient control and the rather “black-box” interface [9, 38, 60, 68–70].",
+      "limitations": "",
+      "ethics": "We obtained informed consent from all participants, according to",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 4,
+          "quote": "allowing designers to regain control is generating multiple out-"
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "However, we also notice in many cre- ative AI applications, particularly those focused on result-oriented designs, AI usually replaces rather than enhances the creative pro- cess [64], thereby restricting designers’ infuence on the overall creative process.",
+          "claim_summary": "However, we also notice in many cre- ative AI applications, particularly those focused on result-oriented designs, AI usually replaces rather than enhances the creative pro- cess [64], thereby restricting designers’ infuence on the overall creative process.",
+          "claim_type": "C1",
+          "construct_raw": "creative",
+          "indicator_raw": "creative",
+          "item_quote": "Since AI has exhibited creative potential particularly in fnd- ing diverse visual inspiration, there is a growing trend of integrating AI into design ideation CSTs.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；Data Analysis We conducted an inductive thematic analysis [6] for the collected data.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "2.3 Challenges of AI Prompting in Creative Processes GenAI has posed challenges to non-AI experts to generate mean- ingful results due to difculties in writing efective prompt input, uncertainties of AI’s capabilities, insufcient control and the rather “black-box” interface [9, 38, 60, 68–70].",
+          "effect_direction": "NR",
+          "pages": [
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Since AI has exhibited creative potential particularly in fnd- ing diverse visual inspiration, there is a growing trend of integrating AI into design ideation CSTs.",
+          "claim_summary": "Since AI has exhibited creative potential particularly in fnd- ing diverse visual inspiration, there is a growing trend of integrating AI into design ideation CSTs.",
+          "claim_type": "C1",
+          "construct_raw": "inspir",
+          "indicator_raw": "inspir",
+          "item_quote": "Since AI has exhibited creative potential particularly in fnd- ing diverse visual inspiration, there is a growing trend of integrating AI into design ideation CSTs.",
+          "dimension_code": "C",
+          "indicator_code": "C1",
+          "instrument_raw": "After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；Data Analysis We conducted an inductive thematic analysis [6] for the collected data.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Within our fndings in the GenAI task, users expressed a desire for assistance in understanding and controlling the impact of prompts on the output generated by the system.",
+          "claim_summary": "Within our fndings in the GenAI task, users expressed a desire for assistance in understanding and controlling the impact of prompts on the output generated by the system.",
+          "claim_type": "C3",
+          "construct_raw": "understanding",
+          "indicator_raw": "understanding",
+          "item_quote": "Within our fndings in the GenAI task, users expressed a desire for assistance in understanding and controlling the impact of prompts on the output generated by the system.",
+          "dimension_code": "C",
+          "indicator_code": "C2",
+          "instrument_raw": "After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；Data Analysis We conducted an inductive thematic analysis [6] for the collected data.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            5
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "DesignPrompt: Multimodal Interaction with Generative AI DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Figure 7: Comparative Questionnaire Results between our Text condition (blue) and Multi-modal condition (green). their creativity; 2/12 designers enjoyed Multi-modal condition since it produced unique images creatively.",
+          "claim_summary": "DesignPrompt: Multimodal Interaction with Generative AI DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Figure 7: Comparative Questionnaire Results between our Text condition (blue) and Multi-modal condition (green). their creativity; 2/12 designers enjoyed Multi-modal condition sinc",
+          "claim_type": "C1",
+          "construct_raw": "enjoy",
+          "indicator_raw": "enjoy",
+          "item_quote": "DesignPrompt: Multimodal Interaction with Generative AI DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Figure 7: Comparative Questionnaire Results between our Text condition (blue) and Multi-modal condition (green). their creativity; 2/12 designers enjoyed Multi-modal condition since it produced unique images creatively.",
+          "dimension_code": "C",
+          "indicator_code": "C5",
+          "instrument_raw": "After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；Data Analysis We conducted an inductive thematic analysis [6] for the collected data.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3,
+            11
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "These fndings emphasize the importance of AI transparency and inform design of a need for systems to provide users with tools or mechanisms that help them identify and comprehend the infuence of prompts on the generated output, empowering them to achieve the desired creative outcomes.",
+          "claim_summary": "These fndings emphasize the importance of AI transparency and inform design of a need for systems to provide users with tools or mechanisms that help them identify and comprehend the infuence of prompts on the generated output, empowering them to achieve the desired creative outcomes.",
+          "claim_type": "C4",
+          "construct_raw": "empower",
+          "indicator_raw": "empower",
+          "item_quote": "These fndings emphasize the importance of AI transparency and inform design of a need for systems to provide users with tools or mechanisms that help them identify and comprehend the infuence of prompts on the generated output, empowering them to achieve the desired creative outcomes.",
+          "dimension_code": "C",
+          "indicator_code": "C8",
+          "instrument_raw": "After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；Data Analysis We conducted an inductive thematic analysis [6] for the collected data.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            5
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "While there is a large body of literature describing the potential of GenAI for design professionals based on algorith- mic capabilities, only a few works have investigated how GenAI can be adapted and meaningfully controlled to suit more diverse professional design processes [64].",
+          "claim_summary": "While there is a large body of literature describing the potential of GenAI for design professionals based on algorith- mic capabilities, only a few works have investigated how GenAI can be adapted and meaningfully controlled to suit more diverse professional design processes [64].",
+          "claim_type": "C3",
+          "construct_raw": "control",
+          "indicator_raw": "control",
+          "item_quote": "The data from all these images will be so much richer than one single sentence. ” 3.1.4 Fine-tuning prompts to control the outcome: More than half of the participants commented with comparative phrases such as “too many plants” or “less colorful” regarding the generated images.",
+          "dimension_code": "D",
+          "indicator_code": "D3",
+          "instrument_raw": "After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；Data Analysis We conducted an inductive thematic analysis [6] for the collected data.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "2.3 Challenges of AI Prompting in Creative Processes GenAI has posed challenges to non-AI experts to generate mean- ingful results due to difculties in writing efective prompt input, uncertainties of AI’s capabilities, insufcient control and the rather “black-box” interface [9, 38, 60, 68–70].",
+          "effect_direction": "NR",
+          "pages": [
+            3,
+            4
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "We evaluated DesignPrompt to gain insights into the following research questions: ● RQ1: Does using multimodal input to create GenAI prompts allow designers to explore and express their intents better? ● RQ2: Does revealing system interpretation of user prompts help users to produce results that are more aligned with their expectations? ● RQ3: Does interactive and controllable GenAI input let users perceive the system as more transparent and useful for de- sign practice?",
+          "claim_summary": "We evaluated DesignPrompt to gain insights into the following research questions: ● RQ1: Does using multimodal input to create GenAI prompts allow designers to explore and express their intents better? ● RQ2: Does revealing system interpretation of user prompts help users to produce results that are",
+          "claim_type": "C4",
+          "construct_raw": "transparen",
+          "indicator_raw": "transparen",
+          "item_quote": "These fndings emphasize the importance of AI transparency and inform design of a need for systems to provide users with tools or mechanisms that help them identify and comprehend the infuence of prompts on the generated output, empowering them to achieve the desired creative outcomes.",
+          "dimension_code": "D",
+          "indicator_code": "D4",
+          "instrument_raw": "After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；Data Analysis We conducted an inductive thematic analysis [6] for the collected data.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            5
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "P1 said, “It is quite frustrating not being able to control what feature AI extracts. ” 3.1.5 Shifing input preferences for search and image generation: From observing participants engaging in our two tasks, we found all users wrote diferent lengths of text as input when searching and generating images.",
+          "claim_summary": "P1 said, “It is quite frustrating not being able to control what feature AI extracts. ” 3.1.5 Shifing input preferences for search and image generation: From observing participants engaging in our two tasks, we found all users wrote diferent lengths of text as input when searching and generating ima",
+          "claim_type": "C1",
+          "construct_raw": "preference",
+          "indicator_raw": "preference",
+          "item_quote": "P1 said, “It is quite frustrating not being able to control what feature AI extracts. ” 3.1.5 Shifing input preferences for search and image generation: From observing participants engaging in our two tasks, we found all users wrote diferent lengths of text as input when searching and generating images.",
+          "dimension_code": "E",
+          "indicator_code": "E1",
+          "instrument_raw": "After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；Data Analysis We conducted an inductive thematic analysis [6] for the collected data.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            5
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": "4 DESIGN GOAL AND RESEARCH QUESTIONS"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": "allowing designers to regain control is generating multiple out-"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": "ducted a study on the co-ideation between participants and AI"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": "Data Analysis We conducted an inductive thematic analysis [6]"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": "2.3 Challenges of AI Prompting in Creative Processes GenAI has posed challenges to non-AI experts to generate mean- ingful results due to difculties in writing efective prompt input, uncertainties of AI’s capabilities, insufcient control and the rather “black-box” interface [9, 38, 60, 68–70]."
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": "allowing designers to regain control is generating multiple out-"
+        }
+      ]
+    },
+    {
+      "eval_id": "078-E2",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V2",
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H3",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K2",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q2",
+        "Q3",
+        "Q6"
+      ],
+      "sample_n": 1,
+      "sample_description": "For generating images we used the OpenAI API [50], which",
+      "recruitment": "We recruited 12 participants (9 women, 3 men; aged 22-54) who have",
+      "task": "the presentation of ecologically valid tasks that vary along one or",
+      "comparator": "generation interface, and serves as the baseline.",
+      "procedure": "7.3 Procedure",
+      "analysis": "We conducted a refexive thematic analysis [6] using a mixed de-",
+      "actual_results": "",
+      "limitations": "9.5 Limitations",
+      "ethics": "IRB policy both in our explanations of the study to participants and",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 9,
+          "quote": "For generating images we used the OpenAI API [50], which"
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "This may explain why in the questionnaire, only 25% of designers think the image generated from Multi-modal condition “makes more sense” and “more useful” compared with Text condition.",
+          "claim_summary": "This may explain why in the questionnaire, only 25% of designers think the image generated from Multi-modal condition “makes more sense” and “more useful” compared with Text condition.",
+          "claim_type": "C2",
+          "construct_raw": "Usefulness",
+          "indicator_raw": "Usefulness",
+          "item_quote": "9.3 Perceptions of “Usefulness” Some designers fnd AI-generated images novel and inspiring, while those seeking specifc results deem them less useful.",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；Data Analysis We conducted an inductive thematic analysis [6] for the collected data.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            12
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "DesignPrompt: Multimodal Interaction with Generative AI DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Figure 7: Comparative Questionnaire Results between our Text condition (blue) and Multi-modal condition (green). their creativity; 2/12 designers enjoyed Multi-modal condition since it produced unique images creatively.",
+          "claim_summary": "DesignPrompt: Multimodal Interaction with Generative AI DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Figure 7: Comparative Questionnaire Results between our Text condition (blue) and Multi-modal condition (green). their creativity; 2/12 designers enjoyed Multi-modal condition sinc",
+          "claim_type": "C1",
+          "construct_raw": "enjoy",
+          "indicator_raw": "enjoy",
+          "item_quote": "DesignPrompt: Multimodal Interaction with Generative AI DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Figure 7: Comparative Questionnaire Results between our Text condition (blue) and Multi-modal condition (green). their creativity; 2/12 designers enjoyed Multi-modal condition since it produced unique images creatively.",
+          "dimension_code": "C",
+          "indicator_code": "C5",
+          "instrument_raw": "After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；Data Analysis We conducted an inductive thematic analysis [6] for the collected data.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3,
+            11
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The initial themes were system usefulness perception, feature usages and system ap- propriation, prompt building strategies, understanding of GenAI prompting, AI’s impacts on users’ roles, intention expression and exploration, idea convergence and professional usage potential.",
+          "claim_summary": "The initial themes were system usefulness perception, feature usages and system ap- propriation, prompt building strategies, understanding of GenAI prompting, AI’s impacts on users’ roles, intention expression and exploration, idea convergence and professional usage potential.",
+          "claim_type": "C4",
+          "construct_raw": "role",
+          "indicator_raw": "role",
+          "item_quote": "Participants are also asked to refect upon how their role changes as they interact with GenAI and their view of its challenges and potentials.",
+          "dimension_code": "D",
+          "indicator_code": "D7",
+          "instrument_raw": "After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；After answering a short questionnaire, they repeat the process with the second design task and the other prompt strategy. (3) Comparative Questionnaire: The par；Data Analysis We conducted an inductive thematic analysis [6] for the collected data.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            9
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": "the user’s perspective to evaluate and advance the design."
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": "For generating images we used the OpenAI API [50], which"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": "diferent prompt strategies align with participants’ expectations?"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": "We conducted a refexive thematic analysis [6] using a mixed de-"
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "quote": "For generating images we used the OpenAI API [50], which"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\78.pdf"
+}

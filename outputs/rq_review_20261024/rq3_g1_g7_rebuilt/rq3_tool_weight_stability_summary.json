@@ -1,0 +1,22 @@
+{
+  "target": "tool",
+  "model": "直方图梯度提升",
+  "n": 182,
+  "papers": 38,
+  "classes": 5,
+  "repeats": 20,
+  "folds_per_repeat": 5,
+  "permutations_per_group_fold": 10,
+  "full_macro_f1_mean": 0.27040268318960403,
+  "full_macro_f1_ci": [
+    0.25610470229064436,
+    0.2840685604626389
+  ],
+  "robust_positive_groups": [
+    "G1_评价目的",
+    "G2_设计领域",
+    "G3_设计阶段",
+    "G6_目标用户",
+    "G7_AI功能"
+  ]
+}

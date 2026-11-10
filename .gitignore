@@ -1,0 +1,112 @@
+# ============================================================
+# OS, editors, and transient Office files
+# ============================================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+*.swp
+*.swo
+*.tmp
+*.temp
+*.bak
+*.autosave
+~$*
+.idea/
+.vscode/
+
+# ============================================================
+# Python caches and local environments
+# ============================================================
+**/__pycache__/
+*.py[cod]
+*.pyd
+*.so
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.coverage
+**/htmlcov/
+**/.venv/
+**/venv/
+**/env/
+**/*.egg-info/
+
+# ============================================================
+# Node/Vite dependencies and local package-manager state
+# ============================================================
+**/node_modules/
+**/.vite/
+**/.vite-service/
+**/.npm/
+**/.pnpm-store/
+**/.yarn/
+
+# ============================================================
+# Machine-specific runtimes, downloaded models, and vendored deps
+# These are very large and should be installed separately on each host.
+# ============================================================
+/outputs/rq_review_20261024/local_llm/
+/outputs/rq_review_20261024/_deps/
+/outputs/rq_review_20261024/node_modules/
+
+# ============================================================
+# Temporary files, logs, process state, and inspection dumps
+# ============================================================
+/tmp/
+*.log
+*.pid
+*.err.txt
+*.out.txt
+*.inspect.ndjson
+
+# ============================================================
+# Rebuildable QA renders, previews, and integration workspaces
+# Keep final figures and source scripts; ignore only transient renders.
+# ============================================================
+/outputs/_integration_build_*/
+**/qa_render/
+**/qa_update_*/
+/outputs/rq_review_20261024/previews/
+/outputs/rq_review_20261024/site/dist/
+/outputs/rq_review_20261024/site_g1_g7/dist/
+/outputs/rq_review_20261024/site_g1_g7/ai4design_reference.png
+/outputs/rq_review_20261024/site_g1_g7/*_english.png
+/outputs/rq_review_20261024/site_g1_g7/*_english_*.png
+/outputs/rq_review_20261024/site_g1_g7/recommender_updated*.png
+
+# ============================================================
+# Rebuildable intermediate extraction/review packets
+# Canonical coded datasets and revised results remain tracked.
+# ============================================================
+/outputs/rq_review_20261024/extracted/
+/outputs/rq_review_20261024/review_packets/
+/outputs/rq_review_20261024/autocode/
+/outputs/rq_review_20261024/llm_review/
+
+# ============================================================
+# Duplicate delivery packages and archives
+# Track the unpacked source files instead of binary bundles.
+# ============================================================
+*.zip
+*.7z
+*.rar
+*.tar
+*.tgz
+*.tar.gz
+/outputs/manuscript_20261029/Submission_Reference_Package/
+
+# Legacy embedded site repository; the current recommender is rebuilt from
+# scripts and the site_g1_g7 source/QA files.
+/outputs/rq_review_20261024/site/
+
+# ============================================================
+# Licensed/full-text literature corpus
+# Several files exceed GitHub's 100 MB limit and the collection may
+# contain publisher-licensed material. Synchronize it separately or
+# use a private, access-controlled Git LFS/data-storage workflow.
+# ============================================================
+/最终/全文-重新排序/
+/最终/全文-重新排序 - 副本/
+/参考文献/*.pdf
+

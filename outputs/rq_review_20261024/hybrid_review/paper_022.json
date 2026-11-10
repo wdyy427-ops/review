@@ -1,0 +1,54 @@
+{
+  "paper_id": 22,
+  "title": "Multimodal generative AI product design based on cultural philosophy and quantitative constraints",
+  "doi": "10.1080/09544828.2026.2637036",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    10,
+    11,
+    20,
+    22,
+    24,
+    30,
+    34,
+    35,
+    36,
+    42,
+    44,
+    48,
+    49,
+    50,
+    51,
+    53,
+    54
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U6"
+  ],
+  "context_summary": "The paper presents a framework for cultural-philosophy-driven generative design using AI, integrating cultural knowledge into a machine-executable parameter dictionary and validating through quantitative metrics.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": "No exclusion facts provided.",
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\22.pdf"
+}

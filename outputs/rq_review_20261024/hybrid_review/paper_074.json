@@ -1,0 +1,231 @@
+{
+  "paper_id": 74,
+  "title": "Understanding Collaboration between Professional Designers and Decision-making AI: A Case Study in the Workplace",
+  "doi": "10.1145/3757686",
+  "year": 2025,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    20,
+    21
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1",
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U5",
+    "U6",
+    "U1"
+  ],
+  "context_summary": "Study explores designers' collaboration with decision-making AI in advertising design, focusing on trust, reliance, benefits, and challenges.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "074-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V5"
+      ],
+      "source_codes": [
+        "H3"
+      ],
+      "setting_code": "L2",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K4",
+        "K5",
+        "K7"
+      ],
+      "constraint_codes": [
+        "Q2",
+        "Q6"
+      ],
+      "sample_n": 1,
+      "sample_description": "I don’t trust the score itself because there’s no absolute guarantee that a high score will always perform well.",
+      "recruitment": "",
+      "task": "try structure, designer tasks, and terminology used in the organization and industry.",
+      "comparator": "more specifically by saying, “Although all deliverables basically exceed the baseline score, not all of",
+      "procedure": "",
+      "analysis": "and reflexively using thematic analysis [7] as follows.",
+      "actual_results": "",
+      "limitations": "of the model of AdScoreAI, including its functions and theoretical limitations, which helped us",
+      "ethics": "The study was approved by the IRB of the lead author’s institution.",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 14,
+          "quote": "I don’t trust the score itself because there’s no absolute guarantee that a high score will always perform well."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "We collaborated on the analysis using Google Spreadsheets. (1) The second author transcribed the recorded interviews verbatim. (2) By reading the transcripts line by line, the first and second authors became familiar with the data. (3) The first author highlighted the evocative parts and coded each transcript with in-vivo labels, which have summarizing properties, and category labels, which have classification properties indicating the topic. (4) Each time the data coding for the three interviews was completed by the first author, the first and second authors discussed the labels and themes to refine them and to identify preliminary themes.",
+          "claim_summary": "We collaborated on the analysis using Google Spreadsheets. (1) The second author transcribed the recorded interviews verbatim. (2) By reading the transcripts line by line, the first and second authors became familiar with the data. (3) The first author highlighted the evocative parts and coded each ",
+          "claim_type": "C4",
+          "construct_raw": "collaborat",
+          "indicator_raw": "collaborat",
+          "item_quote": "We collaborated on the analysis using Google Spreadsheets. (1) The second author transcribed the recorded interviews verbatim. (2) By reading the transcripts line by line, the first and second authors became familiar with the data. (3) The first author highlighted the evocative parts and coded each transcript with in-vivo labels, which have summarizing properties, and category labels, which have classification properties indicating the topic. (4) Each time the data coding for the three interviews was completed by the first author, the first and second authors discussed the labels and themes to refine them and to identify preliminary themes.",
+          "dimension_code": "D",
+          "indicator_code": "D8",
+          "instrument_raw": "Findings from interviews with 12 designers identified how designers trust and rely on AI, its perceived benefits and challenges, and their strategies for naviga；All authors made observations during the on-site visit, which enabled us to gain an in-depth understanding of AdScoreAI and the design workflow and helped us fo",
+          "tool_family_codes": [
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            13
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "formulate tentative research questions."
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "we requested that their decision to participate or not and the remarks made during the interviews"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "we took strict measures to ensure only the authors could access the recordings, and participants"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "and reflexively using thematic analysis [7] as follows."
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "we requested that their decision to participate or not and the remarks made during the interviews"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\74.pdf"
+}

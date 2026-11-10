@@ -1,0 +1,34 @@
+{
+  "source": "C:\\Users\\Administrator\\Desktop\\review\\outputs\\rq_review_20261024\\supplement_enhanced_v2\\03_revised_results",
+  "python": "3.12.14",
+  "sklearn": "1.9.1",
+  "feature_groups": {
+    "G1": "purposes",
+    "G2": "domains",
+    "G3": "stages",
+    "G5_raw": "evaluators",
+    "G6": "target_users",
+    "G7": "ai_functions"
+  },
+  "excluded": [
+    "G4 target-derived object code",
+    "G5 target-derived recoded evaluator role"
+  ],
+  "estimator": "L2 logistic regression C=1 class_weight=balanced lbfgs max_iter=5000, fixed without model comparison",
+  "baseline": "training-fold class frequency prior; additional known-evidence-only baseline for indicator and tool tasks",
+  "encoding": "binary multihot DictVectorizer, fit on training fold only; unknown test category ignored",
+  "validation": "10 repeated StratifiedGroupKFold, seed20261029+repeat, at most5 folds, all rows of paper stay together",
+  "support": "at least5 records from3 papers per target class; task requires30 records and2 classes; support filter applied to full corpus to define estimand",
+  "scoring": "pooled out-of-fold predictions per repeat; macroF1 explicitly includes all retained target labels; no averaging over variable class sets across folds",
+  "weighting": "primary metrics record-weighted; sensitivity metrics weight each paper equally by inverse record count; training not paper weighted",
+  "uncertainty": "split SD/range only; no confidence intervals, p values, or normalized importance weights",
+  "limitations": [
+    "retrospective coding is not independently blinded",
+    "G5 uses earlier identity-based taxonomy rather than latest role taxonomy",
+    "small selected quality subset",
+    "grouped CV does not eliminate publication or missing reporting bias",
+    "known dimension/indicator assumes these are supplied by the user and is not an end-to-end prediction result",
+    "tool instances can include multiple classes per chain; estimates are instance-level, not joint multitool recommendations",
+    "no prospective user evaluation or calibration guarantee"
+  ]
+}

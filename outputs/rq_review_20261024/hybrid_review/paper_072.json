@@ -1,0 +1,416 @@
+{
+  "paper_id": 72,
+  "title": "Semantic characterization of ideation: a computational framework using vector embedding and clustering",
+  "doi": "10.1080/09544828.2025.2537465",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    10,
+    11,
+    20,
+    22,
+    23,
+    26,
+    30,
+    31,
+    33,
+    35,
+    36,
+    38,
+    45,
+    46
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F5"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U2",
+    "U1"
+  ],
+  "context_summary": "The paper introduces a computational framework for analyzing ideation using vector embeddings and clustering. It evaluates the effectiveness of the framework through human expert assessments.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "072-E1",
+      "purpose_codes": [
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [],
+      "source_codes": [
+        "H1",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G1",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [
+        "Q2"
+      ],
+      "sample_n": 30,
+      "sample_description": "were presented in a questionnaire through Google Forms, wherein their cluster-based",
+      "recruitment": "",
+      "task": "It can be appreciated that the task of sifting through a",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "It is interesting to note that the result significantly matches the perceptual organisation of the points.",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 23,
+          "quote": "were presented in a questionnaire through Google Forms, wherein their cluster-based"
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "By confirming the semantic validity to be in line with the designer’sexpertopinion,itcanbeensuredthatthequantitativemetricsappliedtothese vectors reflect meaningful dimensions of the idea space, thus facilitating a more accurate andeffectiveevaluationprocess.",
+          "claim_summary": "By confirming the semantic validity to be in line with the designer’sexpertopinion,itcanbeensuredthatthequantitativemetricsappliedtothese vectors reflect meaningful dimensions of the idea space, thus facilitating a more accurate andeffectiveevaluationprocess.",
+          "claim_type": "C1",
+          "construct_raw": "reflect",
+          "indicator_raw": "reflect",
+          "item_quote": "By confirming the semantic validity to be in line with the designer’sexpertopinion,itcanbeensuredthatthequantitativemetricsappliedtothese vectors reflect meaningful dimensions of the idea space, thus facilitating a more accurate andeffectiveevaluationprocess.",
+          "dimension_code": "C",
+          "indicator_code": "C6",
+          "instrument_raw": "Idea-Afrom theclusterofR1/R2,idea-Bfrom aneighbouringcluster andidea-Cfromadistantcluster.Thisresultedin12groups,eachcomprisingonereference ideaandthreeaddition",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "Semantic Validity of Idea Embedding The Idea EmbeddingsarenothingbutvectorembeddingsgeneratedbyaCAIsystemfor theideastatements.However,the validityoftheseembeddingsneedstobeestablishedin thedesigncommunity.Thefollowingtworesearchquestionsareframedtoaddressthis.",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            22
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "It is interesting to note that the result significantly matches the perceptual organisation of the points.",
+          "claim_summary": "It is interesting to note that the result significantly matches the perceptual organisation of the points.",
+          "claim_type": "C1",
+          "construct_raw": "organisation",
+          "indicator_raw": "organisation",
+          "item_quote": "It is interesting to note that the result significantly matches the perceptual organisation of the points.",
+          "dimension_code": "E",
+          "indicator_code": "E3",
+          "instrument_raw": "Idea-Afrom theclusterofR1/R2,idea-Bfrom aneighbouringcluster andidea-Cfromadistantcluster.Thisresultedin12groups,eachcomprisingonereference ideaandthreeaddition",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "Semantic Validity of Idea Embedding The Idea EmbeddingsarenothingbutvectorembeddingsgeneratedbyaCAIsystemfor theideastatements.However,the validityoftheseembeddingsneedstobeestablishedin thedesigncommunity.Thefollowingtworesearchquestionsareframedtoaddressthis.",
+          "reliability_evidence": "NR",
+          "result_quote": "It is interesting to note that the result significantly matches the perceptual organisation of the points.",
+          "effect_direction": "NR",
+          "pages": [
+            23
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "necessary to evaluate how well the idea space has been explored."
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "were presented in a questionnaire through Google Forms, wherein their cluster-based"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "similaritylevelswerenotdisclosedtotherespondents."
+        },
+        {
+          "standard": "A6",
+          "status": "P",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "P",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "It is interesting to note that the result significantly matches the perceptual organisation of the points."
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "were presented in a questionnaire through Google Forms, wherein their cluster-based"
+        }
+      ]
+    },
+    {
+      "eval_id": "072-E2",
+      "purpose_codes": [
+        "P4"
+      ],
+      "object_codes": [],
+      "evaluator_codes": [
+        "V2"
+      ],
+      "source_codes": [
+        "H1",
+        "H6"
+      ],
+      "setting_code": "NR",
+      "design_code": "G1",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [],
+      "sample_n": 40,
+      "sample_description": "The participants were required to select 10 arbitrary points/ideas from 100 in 10 min.",
+      "recruitment": "–NumberofIdeasSelectedbyeachParticipantsSS –SamplingScore.(a)IdeaSet1(b)IdeaSet2(c)Idea",
+      "task": "The participants were required to select 10 arbitrary points/ideas",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 26,
+          "quote": "The participants were required to select 10 arbitrary points/ideas from 100 in 10 min."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "The participants were required to select 10 arbitrary points/ideas from 100 in 10 min.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "The participants were required to select 10 arbitrary points/ideas from 100 in 10 min.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "BarPlotofExpertResponsesfromQuestionnaireforSimilarityofIdeasGeneratedfortheSix",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            26
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "quote": "BarPlotofExpertResponsesfromQuestionnaireforSimilarityofIdeasGeneratedfortheSix"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "quote": "sion of the embedding is unreliable."
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "quote": "The participants were required to select 10 arbitrary points/ideas"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "quote": "BarPlotofExpertResponsesfromQuestionnaireforSimilarityofIdeasGeneratedfortheSix"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\72.pdf"
+}

@@ -1,0 +1,645 @@
+{
+  "paper_id": 83,
+  "title": "Image Generative AI to Design Public Spaces: a Reflection of How AI Could Improve Co-Design of Public Parks",
+  "doi": "10.1145/3656588",
+  "year": 2025,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F3",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U4",
+    "U5",
+    "U6"
+  ],
+  "context_summary": "The paper explores how image generative AI (IGAI) can enhance co-design processes for public parks by analyzing stakeholder engagement and design challenges through interviews and workshops.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "083-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2"
+      ],
+      "source_codes": [
+        "H1",
+        "H3",
+        "H4"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 300,
+      "sample_description": "We conducted semi-structured interviews with four team members more deeply involved in using Dream Studio.",
+      "recruitment": "facilitated the recruitment of the participants.",
+      "task": "reach, mediation, and analysis tasks [ 8 , 36 ].",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 4,
+          "quote": "We conducted semi-structured interviews with four team members more deeply involved in using Dream Studio."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Thus, most studies in these domains focus on generating solutions satisfying quantitative performance objectives such as economic profitability or optimal energy consumption [ 22 , 49 ] while failing to address qualitative elements such as local characters, design aesthetics, atmospheres, and contextual integration [ 21 ].",
+          "claim_summary": "Thus, most studies in these domains focus on generating solutions satisfying quantitative performance objectives such as economic profitability or optimal energy consumption [ 22 , 49 ] while failing to address qualitative elements such as local characters, design aesthetics, atmospheres, and contex",
+          "claim_type": "C1",
+          "construct_raw": "aestheti",
+          "indicator_raw": "aestheti",
+          "item_quote": "Thus, most studies in these domains focus on generating solutions satisfying quantitative performance objectives such as economic profitability or optimal energy consumption [ 22 , 49 ] while failing to address qualitative elements such as local characters, design aesthetics, atmospheres, and contextual integration [ 21 ].",
+          "dimension_code": "A",
+          "indicator_code": "A2",
+          "instrument_raw": "We have conducted semi-structured interviews, co-design workshops, and online surveys through social media advertising to gather different inputs from immigrant；We have conducted semi-structured interviews, co-design workshops, and online surveys through social media advertising to gather different inputs from immigrant；We have conducted semi-structured interviews, co-design workshops, and online surveys through social media advertising to gather different inputs from immigrant",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Guridi et al. that the use of IGAI could alleviate is translating the insights we have gathered into spatial parameters and design ideas while collaborating with the public.",
+          "claim_summary": "Guridi et al. that the use of IGAI could alleviate is translating the insights we have gathered into spatial parameters and design ideas while collaborating with the public.",
+          "claim_type": "C1",
+          "construct_raw": "collaborat",
+          "indicator_raw": "collaborat",
+          "item_quote": "Guridi et al. that the use of IGAI could alleviate is translating the insights we have gathered into spatial parameters and design ideas while collaborating with the public.",
+          "dimension_code": "D",
+          "indicator_code": "D8",
+          "instrument_raw": "We have conducted semi-structured interviews, co-design workshops, and online surveys through social media advertising to gather different inputs from immigrant；We have conducted semi-structured interviews, co-design workshops, and online surveys through social media advertising to gather different inputs from immigrant；We have conducted semi-structured interviews, co-design workshops, and online surveys through social media advertising to gather different inputs from immigrant",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            4
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": "pitfalls and prevent harm is an emerging field of study to which we aim to contribute."
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": "Designing inclusive public spaces is a complex process that requires integrating conflicting views often unknown"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": "Since the Kickoffof the project’s current stage in 2022, more than 1,300 participants have contributed"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": "Designing inclusive public spaces is a complex process that requires integrating conflicting views often unknown"
+        }
+      ]
+    },
+    {
+      "eval_id": "083-E2",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2"
+      ],
+      "source_codes": [
+        "H1",
+        "H3",
+        "H4"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 300,
+      "sample_description": "More than 1,300 participants have contributed through different means (e.g., text messages, workshops, interviews, interactive hikes).",
+      "recruitment": "facilitated the recruitment of the participants.",
+      "task": "reach, mediation, and analysis tasks [ 8 , 36 ].",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 4,
+          "quote": "More than 1,300 participants have contributed through different means (e.g., text messages, workshops, interviews, interactive hikes)."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Thus, most studies in these domains focus on generating solutions satisfying quantitative performance objectives such as economic profitability or optimal energy consumption [ 22 , 49 ] while failing to address qualitative elements such as local characters, design aesthetics, atmospheres, and contextual integration [ 21 ].",
+          "claim_summary": "Thus, most studies in these domains focus on generating solutions satisfying quantitative performance objectives such as economic profitability or optimal energy consumption [ 22 , 49 ] while failing to address qualitative elements such as local characters, design aesthetics, atmospheres, and contex",
+          "claim_type": "C1",
+          "construct_raw": "aestheti",
+          "indicator_raw": "aestheti",
+          "item_quote": "Thus, most studies in these domains focus on generating solutions satisfying quantitative performance objectives such as economic profitability or optimal energy consumption [ 22 , 49 ] while failing to address qualitative elements such as local characters, design aesthetics, atmospheres, and contextual integration [ 21 ].",
+          "dimension_code": "A",
+          "indicator_code": "A2",
+          "instrument_raw": "We have conducted semi-structured interviews, co-design workshops, and online surveys through social media advertising to gather different inputs from immigrant；We have conducted semi-structured interviews, co-design workshops, and online surveys through social media advertising to gather different inputs from immigrant；We have conducted semi-structured interviews, co-design workshops, and online surveys through social media advertising to gather different inputs from immigrant",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Guridi et al. that the use of IGAI could alleviate is translating the insights we have gathered into spatial parameters and design ideas while collaborating with the public.",
+          "claim_summary": "Guridi et al. that the use of IGAI could alleviate is translating the insights we have gathered into spatial parameters and design ideas while collaborating with the public.",
+          "claim_type": "C1",
+          "construct_raw": "collaborat",
+          "indicator_raw": "collaborat",
+          "item_quote": "Guridi et al. that the use of IGAI could alleviate is translating the insights we have gathered into spatial parameters and design ideas while collaborating with the public.",
+          "dimension_code": "D",
+          "indicator_code": "D8",
+          "instrument_raw": "We have conducted semi-structured interviews, co-design workshops, and online surveys through social media advertising to gather different inputs from immigrant；We have conducted semi-structured interviews, co-design workshops, and online surveys through social media advertising to gather different inputs from immigrant；We have conducted semi-structured interviews, co-design workshops, and online surveys through social media advertising to gather different inputs from immigrant",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            4
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": "pitfalls and prevent harm is an emerging field of study to which we aim to contribute."
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": "We use data collected from interviews with immigrants"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": "Since the Kickoffof the project’s current stage in 2022, more than 1,300 participants have contributed"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "quote": "We use data collected from interviews with immigrants"
+        }
+      ]
+    },
+    {
+      "eval_id": "083-E4",
+      "purpose_codes": [
+        "P2",
+        "P1"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V4"
+      ],
+      "source_codes": [
+        "H1",
+        "H6"
+      ],
+      "setting_code": "L2",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 1,
+      "sample_description": "Participants did not think the pessimistic automation scenario would happen.",
+      "recruitment": "",
+      "task": "Using IGAI can decrease the time, team size, and resources required to generate design al-",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "http://w w w.scopus.com/inward/record.url?scp=85104891308&partnerID=8YFLogxK Publisher: The Association for Computer-Aided",
+      "actual_results": "",
+      "limitations": "Future work could address the organizational dynamics when implementing GenAI",
+      "ethics": "Overall, this case study provides a context for examining the ethical use of IGAI in the design processes of",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 10,
+          "quote": "Participants did not think the pessimistic automation scenario would happen."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Participants did not think the pessimistic automation scenario would happen.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "Participants did not think the pessimistic automation scenario would happen.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "Design models by incorporating qualitative performance objectives such as local characters, design aesthetics,",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            10
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "quote": "Design models by incorporating qualitative performance objectives such as local characters, design aesthetics,"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "quote": "Designers could use IGAI to support participants who do not know the lexicon of landscapes"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "quote": "http://w w w.scopus.com/inward/record.url?scp=85104891308&partnerID=8YFLogxK Publisher: The Association for Computer-Aided"
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "quote": "Design models by incorporating qualitative performance objectives such as local characters, design aesthetics,"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\83.pdf"
+}

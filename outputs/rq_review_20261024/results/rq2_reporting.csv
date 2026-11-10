@@ -1,0 +1,15 @@
+﻿unit,field,missing_n,n,missing_proportion
+证据链,item_quote,14,95,0.14736842105263157
+证据链,construct_raw,0,95,0.0
+证据链,instrument_raw,0,95,0.0
+证据链,response_scoring,0,95,0.0
+证据链,validity_evidence,6,95,0.06315789473684211
+证据链,reliability_evidence,12,95,0.12631578947368421
+证据链,result_quote,0,95,0.0
+评价案例,sample_n,2,31,0.06451612903225806
+评价案例,recruitment,16,31,0.5161290322580645
+评价案例,procedure,6,31,0.1935483870967742
+评价案例,analysis,0,31,0.0
+评价案例,actual_results,0,31,0.0
+评价案例,ethics,22,31,0.7096774193548387
+评价案例,constraints_raw,26,31,0.8387096774193549

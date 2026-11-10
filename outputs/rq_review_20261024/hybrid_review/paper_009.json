@@ -1,0 +1,509 @@
+{
+  "paper_id": 9,
+  "title": "Automating product styling: a novel design approach for emotional product styling based on neural style transfer and MVSNet",
+  "doi": "10.1080/09544828.2026.2680618",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    9,
+    10,
+    11,
+    12,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    30,
+    31,
+    32,
+    33,
+    34,
+    37
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2",
+    "D3"
+  ],
+  "stage_codes": [
+    "S3",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U6",
+    "U1"
+  ],
+  "context_summary": "The paper proposes an ENM framework to automate product styling by integrating emotional data, neural style transfer, and MVSNet for 3D reconstruction. It emphasizes emotional design and user perception in product styling.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "009-E1",
+      "purpose_codes": [
+        "P2",
+        "P1"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O5"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2"
+      ],
+      "source_codes": [
+        "H1",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G8",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [],
+      "sample_n": 5,
+      "sample_description": "was established through a subjective emotional survey.",
+      "recruitment": "tion stage is replaced with deformable convolution, enabling the sampling positions of",
+      "task": "",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "regression loss:",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 18,
+          "quote": "was established through a subjective emotional survey."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Based on the centroid distance and expert review of semantic suitability for automotive styling, the closest imagery words from clusters 1, 2, and 3: ‘Fash- ionable’, ‘Elegance’ and ‘Unique’ – are selected as the targets for the emotional imagery study of vehicle styling. (3) Constructing small-scale vehicle styling emotional datasets A preliminary dataset comprising 200 samples (100 vehicle images and 100 sketches) was established through a subjective emotional survey.",
+          "claim_summary": "Based on the centroid distance and expert review of semantic suitability for automotive styling, the closest imagery words from clusters 1, 2, and 3: ‘Fash- ionable’, ‘Elegance’ and ‘Unique’ – are selected as the targets for the emotional imagery study of vehicle styling. (3) Constructing small-scal",
+          "claim_type": "C1",
+          "construct_raw": "Unique",
+          "indicator_raw": "Unique",
+          "item_quote": "Based on the centroid distance and expert review of semantic suitability for automotive styling, the closest imagery words from clusters 1, 2, and 3: ‘Fash- ionable’, ‘Elegance’ and ‘Unique’ – are selected as the targets for the emotional imagery study of vehicle styling. (3) Constructing small-scale vehicle styling emotional datasets A preliminary dataset comprising 200 samples (100 vehicle images and 100 sketches) was established through a subjective emotional survey.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "First, a small-scale emotional dataset is constructed through a Semantic Differential survey involv- ing 40 participants, yielding emotion vectors e = [eF, eE, ",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "First, a small-scale emotional dataset is constructed through a Semantic Differential survey involv- ing 40 participants, yielding emotion vectors e = [eF, eE, eU] for each sample.",
+          "validity_evidence": "The vehicle styling sample library (partial). validity, samples and participants were randomised into five groups.",
+          "reliability_evidence": "Consequently, this study strategically prioritises the ENM (ResNet-NST-MVSNet) pipeline over emerging SOTA (State-of-the-Art, referring to the most recent and advanced techniques) approaches – such as ViTs, LDMs, and NeRF – to specifically ensure data efficiency, multi-view geometric consistency (derived from the structural coherence of the designer’s sketch inputs), and the generation of explicit, editable geometry required for reliable industrial design workflows.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            18
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Based on the centroid distance and expert review of semantic suitability for automotive styling, the closest imagery words from clusters 1, 2, and 3: ‘Fash- ionable’, ‘Elegance’ and ‘Unique’ – are selected as the targets for the emotional imagery study of vehicle styling. (3) Constructing small-scale vehicle styling emotional datasets A preliminary dataset comprising 200 samples (100 vehicle images and 100 sketches) was established through a subjective emotional survey.",
+          "claim_summary": "Based on the centroid distance and expert review of semantic suitability for automotive styling, the closest imagery words from clusters 1, 2, and 3: ‘Fash- ionable’, ‘Elegance’ and ‘Unique’ – are selected as the targets for the emotional imagery study of vehicle styling. (3) Constructing small-scal",
+          "claim_type": "C1",
+          "construct_raw": "Elegan",
+          "indicator_raw": "Elegan",
+          "item_quote": "Based on the centroid distance and expert review of semantic suitability for automotive styling, the closest imagery words from clusters 1, 2, and 3: ‘Fash- ionable’, ‘Elegance’ and ‘Unique’ – are selected as the targets for the emotional imagery study of vehicle styling. (3) Constructing small-scale vehicle styling emotional datasets A preliminary dataset comprising 200 samples (100 vehicle images and 100 sketches) was established through a subjective emotional survey.",
+          "dimension_code": "A",
+          "indicator_code": "A2",
+          "instrument_raw": "First, a small-scale emotional dataset is constructed through a Semantic Differential survey involv- ing 40 participants, yielding emotion vectors e = [eF, eE, ",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "First, a small-scale emotional dataset is constructed through a Semantic Differential survey involv- ing 40 participants, yielding emotion vectors e = [eF, eE, eU] for each sample.",
+          "validity_evidence": "The vehicle styling sample library (partial). validity, samples and participants were randomised into five groups.",
+          "reliability_evidence": "Consequently, this study strategically prioritises the ENM (ResNet-NST-MVSNet) pipeline over emerging SOTA (State-of-the-Art, referring to the most recent and advanced techniques) approaches – such as ViTs, LDMs, and NeRF – to specifically ensure data efficiency, multi-view geometric consistency (derived from the structural coherence of the designer’s sketch inputs), and the generation of explicit, editable geometry required for reliable industrial design workflows.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            18
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The large and diverse dataset ensures that the neural style transfer model can learn a more varied range of product shape features, thereby improving the diversity and accuracy of the product generation design schemes.",
+          "claim_summary": "The large and diverse dataset ensures that the neural style transfer model can learn a more varied range of product shape features, thereby improving the diversity and accuracy of the product generation design schemes.",
+          "claim_type": "C1",
+          "construct_raw": "understanding",
+          "indicator_raw": "understanding",
+          "item_quote": "The collected imagery words were then filtered based on the following criteria: (1) the imagery words should primarily describe the imagery of vehicle modelling; (2) the expression of the imagery words should align with people’s understanding of modelling and should not cause confusion in interpretation.",
+          "dimension_code": "C",
+          "indicator_code": "C2",
+          "instrument_raw": "First, a small-scale emotional dataset is constructed through a Semantic Differential survey involv- ing 40 participants, yielding emotion vectors e = [eF, eE, ",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "First, a small-scale emotional dataset is constructed through a Semantic Differential survey involv- ing 40 participants, yielding emotion vectors e = [eF, eE, eU] for each sample.",
+          "validity_evidence": "The vehicle styling sample library (partial). validity, samples and participants were randomised into five groups.",
+          "reliability_evidence": "Consequently, this study strategically prioritises the ENM (ResNet-NST-MVSNet) pipeline over emerging SOTA (State-of-the-Art, referring to the most recent and advanced techniques) approaches – such as ViTs, LDMs, and NeRF – to specifically ensure data efficiency, multi-view geometric consistency (derived from the structural coherence of the designer’s sketch inputs), and the generation of explicit, editable geometry required for reliable industrial design workflows.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            18
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": "Construction of small-scale emotional dataset for product styling"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": "The internal consistency coefficient of the questionnaire (Cronbach’s α = 0.86)"
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": "In perspective projection, the distribution of depth samples is inherently imbalanced,"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": "regression loss:"
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": "Construction of small-scale emotional dataset for product styling"
+        }
+      ]
+    },
+    {
+      "eval_id": "009-E3",
+      "purpose_codes": [
+        "P2",
+        "P1"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V3"
+      ],
+      "source_codes": [
+        "H2",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G1",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K3",
+        "K4",
+        "K5",
+        "K7"
+      ],
+      "constraint_codes": [
+        "Q5",
+        "Q6"
+      ],
+      "sample_n": 5,
+      "sample_description": "A structured expert evaluation panel of ten participants was recruited on a voluntary basis without financial compensation.",
+      "recruitment": "sampling, and constructing surfaces on the imported point cloud data in Rhino, the accu-",
+      "task": "",
+      "comparator": "Quantitative Comparison between Baseline and Improved",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "Despite the promising results, three key limitations of the current ENM framework",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 33,
+          "quote": "A structured expert evaluation panel of ten participants was recruited on a voluntary basis without financial compensation."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "JOURNAL OF ENGINEERING DESIGN 35 robustness against irregular geometries and sparse inputs, future research will explore integrating implicit geometric representations (such as NeRF or Gaussian Splatting) with MVSNet, potentially reducing the reliance on high-quantity, noise-free input views.",
+          "claim_summary": "JOURNAL OF ENGINEERING DESIGN 35 robustness against irregular geometries and sparse inputs, future research will explore integrating implicit geometric representations (such as NeRF or Gaussian Splatting) with MVSNet, potentially reducing the reliance on high-quantity, noise-free input views.",
+          "claim_type": "C4",
+          "construct_raw": "reliance",
+          "indicator_raw": "reliance",
+          "item_quote": "JOURNAL OF ENGINEERING DESIGN 35 robustness against irregular geometries and sparse inputs, future research will explore integrating implicit geometric representations (such as NeRF or Gaussian Splatting) with MVSNet, potentially reducing the reliance on high-quantity, noise-free input views.",
+          "dimension_code": "D",
+          "indicator_code": "D5",
+          "instrument_raw": "First, a small-scale emotional dataset is constructed through a Semantic Differential survey involv- ing 40 participants, yielding emotion vectors e = [eF, eE, ",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "First, a small-scale emotional dataset is constructed through a Semantic Differential survey involv- ing 40 participants, yielding emotion vectors e = [eF, eE, eU] for each sample.",
+          "validity_evidence": "The vehicle styling sample library (partial). validity, samples and participants were randomised into five groups.",
+          "reliability_evidence": "Consequently, this study strategically prioritises the ENM (ResNet-NST-MVSNet) pipeline over emerging SOTA (State-of-the-Art, referring to the most recent and advanced techniques) approaches – such as ViTs, LDMs, and NeRF – to specifically ensure data efficiency, multi-view geometric consistency (derived from the structural coherence of the designer’s sketch inputs), and the generation of explicit, editable geometry required for reliable industrial design workflows.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            36
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Third, we plan to develop a ‘multi-group emotional weight model’ that integrates demographic variables (e.g. age, income, cultural background) to dynamically adjust the weighting of emotional dimensions, thereby enhancing the adaptability and precision of automated 3D product styling for diverse target markets.",
+          "claim_summary": "Third, we plan to develop a ‘multi-group emotional weight model’ that integrates demographic variables (e.g. age, income, cultural background) to dynamically adjust the weighting of emotional dimensions, thereby enhancing the adaptability and precision of automated 3D product styling for diverse tar",
+          "claim_type": "C1",
+          "construct_raw": "cultur",
+          "indicator_raw": "cultur",
+          "item_quote": "Third, we plan to develop a ‘multi-group emotional weight model’ that integrates demographic variables (e.g. age, income, cultural background) to dynamically adjust the weighting of emotional dimensions, thereby enhancing the adaptability and precision of automated 3D product styling for diverse target markets.",
+          "dimension_code": "E",
+          "indicator_code": "E4",
+          "instrument_raw": "First, a small-scale emotional dataset is constructed through a Semantic Differential survey involv- ing 40 participants, yielding emotion vectors e = [eF, eE, ",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "First, a small-scale emotional dataset is constructed through a Semantic Differential survey involv- ing 40 participants, yielding emotion vectors e = [eF, eE, eU] for each sample.",
+          "validity_evidence": "The vehicle styling sample library (partial). validity, samples and participants were randomised into five groups.",
+          "reliability_evidence": "Consequently, this study strategically prioritises the ENM (ResNet-NST-MVSNet) pipeline over emerging SOTA (State-of-the-Art, referring to the most recent and advanced techniques) approaches – such as ViTs, LDMs, and NeRF – to specifically ensure data efficiency, multi-view geometric consistency (derived from the structural coherence of the designer’s sketch inputs), and the generation of explicit, editable geometry required for reliable industrial design workflows.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            36
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Third, we plan to develop a ‘multi-group emotional weight model’ that integrates demographic variables (e.g. age, income, cultural background) to dynamically adjust the weighting of emotional dimensions, thereby enhancing the adaptability and precision of automated 3D product styling for diverse target markets.",
+          "claim_summary": "Third, we plan to develop a ‘multi-group emotional weight model’ that integrates demographic variables (e.g. age, income, cultural background) to dynamically adjust the weighting of emotional dimensions, thereby enhancing the adaptability and precision of automated 3D product styling for diverse tar",
+          "claim_type": "C1",
+          "construct_raw": "market",
+          "indicator_raw": "market",
+          "item_quote": "Third, we plan to develop a ‘multi-group emotional weight model’ that integrates demographic variables (e.g. age, income, cultural background) to dynamically adjust the weighting of emotional dimensions, thereby enhancing the adaptability and precision of automated 3D product styling for diverse target markets.",
+          "dimension_code": "E",
+          "indicator_code": "E7",
+          "instrument_raw": "First, a small-scale emotional dataset is constructed through a Semantic Differential survey involv- ing 40 participants, yielding emotion vectors e = [eF, eE, ",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "First, a small-scale emotional dataset is constructed through a Semantic Differential survey involv- ing 40 participants, yielding emotion vectors e = [eF, eE, eU] for each sample.",
+          "validity_evidence": "The vehicle styling sample library (partial). validity, samples and participants were randomised into five groups.",
+          "reliability_evidence": "Consequently, this study strategically prioritises the ENM (ResNet-NST-MVSNet) pipeline over emerging SOTA (State-of-the-Art, referring to the most recent and advanced techniques) approaches – such as ViTs, LDMs, and NeRF – to specifically ensure data efficiency, multi-view geometric consistency (derived from the structural coherence of the designer’s sketch inputs), and the generation of explicit, editable geometry required for reliable industrial design workflows.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            36
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "quote": "ence, and overall aesthetic quality, rather than direct measurement of user emotional"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "quote": "vide supportive evidence for the stability and practical reliability of the proposed method"
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "quote": "of ten participants was recruited on a voluntary basis without financial compensation."
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "quote": "ence, and overall aesthetic quality, rather than direct measurement of user emotional"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\9.pdf"
+}

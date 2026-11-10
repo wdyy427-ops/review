@@ -1,0 +1,230 @@
+{
+  "paper_id": 123,
+  "title": "Auto-Icon+: An Automated End-to-End Code Generation Tool for Icon Designs in UI Development",
+  "doi": "10.1145/3531065",
+  "year": 2022,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    5,
+    8,
+    11,
+    12,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22,
+    23,
+    24
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1",
+    "D6"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U5",
+    "U1"
+  ],
+  "context_summary": "The paper presents Auto-Icon+, a tool for automatically generating readable and efficient code for icons from design artifacts. It addresses challenges in UI development such as transition gap, rendering speed, and code accessibility.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "123-E1",
+      "purpose_codes": [
+        "P2",
+        "P1"
+      ],
+      "object_codes": [
+        "O1",
+        "O3"
+      ],
+      "evaluator_codes": [],
+      "source_codes": [
+        "H1",
+        "H3",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G8",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K2",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q2"
+      ],
+      "sample_n": 3,
+      "sample_description": "The overall readability ratings for the experiment group is 4.16, which are significantly higher (48.5%) than the control group (2.8).",
+      "recruitment": "have at least 1-year experience, were recruited for this study.",
+      "task": "performs the best in icon classification task, it requires relatively long time for prediction (26.535ms",
+      "comparator": "baselines with the average F1-score to 52.59%, indicating that the icons are normally composed by",
+      "procedure": "6.3.1 Procedures for User Study.",
+      "analysis": "",
+      "actual_results": "On average, the overall readability ratings for the experiment group is 4.16, which are significantly higher (48.5%) than the control group (2.8) in Fig 5.",
+      "limitations": "point out the limitation of replacing image with font.",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 18,
+          "quote": "The overall readability ratings for the experiment group is 4.16, which are significantly higher (48.5%) than the control group (2.8)."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "In other words, 94% (4.7/5.0) of developers hope to develop the icons with the help of our tool in their real development environment compared to 3.96 in the control group.",
+          "claim_summary": "In other words, 94% (4.7/5.0) of developers hope to develop the icons with the help of our tool in their real development environment compared to 3.96 in the control group.",
+          "claim_type": "C2",
+          "construct_raw": "control",
+          "indicator_raw": "control",
+          "item_quote": "On average, the overall readability ratings for the experiment group is 4.16, which are significantly higher (48.5%) than the control group (2.8) in Fig 5.",
+          "dimension_code": "D",
+          "indicator_code": "D3",
+          "instrument_raw": "Given each development, they individually marked it as readable or not in five-point likert scale (1:not readable at all and 5:strongly readable).；According to our observation, we found two main reasons.",
+          "tool_family_codes": [
+            "M1",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "On average, the overall readability ratings for the experiment group is 4.16, which are significantly higher (48.5%) than the control group (2.8) in Fig 5.",
+          "effect_direction": "正向",
+          "pages": [
+            18
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": "per icon) which strongly violates the performance of UI rendering (16ms) as we aim to deploy into"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": "(e.g., color histogram [99], scale-invariant feature transform [66]) with machine-learning classifiers"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": "To avoid the bias of of “seen samples”"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": "On average, the overall readability ratings for the experiment group is 4.16, which are significantly higher (48.5%) than the control group (2.8) in Fig 5."
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": "(e.g., color histogram [99], scale-invariant feature transform [66]) with machine-learning classifiers"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\123.pdf"
+}

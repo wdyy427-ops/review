@@ -1,0 +1,50 @@
+{
+  "paper_id": 99,
+  "title": "Leveraging deep reinforcement learning for design space exploration with multi-fidelity surrogate model",
+  "doi": "10.1080/09544828.2024.2366686",
+  "year": 2025,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    8,
+    13,
+    14,
+    15,
+    18,
+    19,
+    22,
+    23,
+    24,
+    25,
+    28,
+    29,
+    31,
+    33,
+    34,
+    35,
+    36,
+    39
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [],
+  "ai_function_codes": [
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "The paper proposes a method using deep reinforcement learning and multi-fidelity surrogate models for design space exploration, validated through test cases and a suspension design optimization case.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\99.pdf"
+}

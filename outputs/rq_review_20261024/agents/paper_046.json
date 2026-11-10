@@ -1,0 +1,504 @@
+{
+  "paper_id": 46,
+  "title_match": true,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    31,
+    32,
+    33
+  ],
+  "scope_note": "正文1–24页、附录31–33页核查；31–32页图示已渲染确认。旧239空间意识为对话空间化并入D8，旧240满意/探索不属使用意愿，重归A5图像与记忆匹配；未另造定量满意度。新设非原量表的质性构念仅使用固定代码。",
+  "domain_codes": [
+    "UNMAPPED"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2"
+  ],
+  "ai_function_codes": [
+    "F1",
+    "F3",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R1"
+  ],
+  "target_user_codes": [
+    "U1",
+    "U2",
+    "U6"
+  ],
+  "context_summary": "景观/公共公园参与式设计，IGAI生成图像作为居民与设计者的边界对象。",
+  "context_evidence": [
+    {
+      "page": 5,
+      "quote": "a landscape architecture firm in Los Angeles"
+    },
+    {
+      "page": 7,
+      "quote": "to upgrade River Garden Park in Los Angeles"
+    }
+  ],
+  "evaluations": [
+    {
+      "eval_id": "46-R1",
+      "legacy_eval_ids": [
+        "46-评价1"
+      ],
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O2",
+        "O4",
+        "O7"
+      ],
+      "evaluator_codes": [
+        "V3",
+        "V1",
+        "V2",
+        "V6"
+      ],
+      "source_codes": [
+        "H1",
+        "H3"
+      ],
+      "setting_code": "L3",
+      "design_code": "G5",
+      "evaluation_stage_codes": [
+        "S1",
+        "S2"
+      ],
+      "sample_n": 9,
+      "sample_description": "核心场景9名18–35岁在加州的拉美第二代移民；前期4内部访谈/9人反思、3试点、末期10人反思，人员可能重叠不能加总",
+      "recruitment": "NGO Mujeres de la Tierra招募，$40",
+      "task": "通过图像讨论记忆、理想公共空间和River Garden Park改造",
+      "task_codes": [
+        "K1",
+        "K2",
+        "K7"
+      ],
+      "constraint_codes": [
+        "Q1"
+      ],
+      "constraints_raw": "p24每次一位主持者加一位提示助理，限制能够开展的样本规模。",
+      "comparator": "2023先期8人无AI访谈为质性背景；非随机同期对照",
+      "procedure": "主持访谈+助理提示；满意/三轮无改善/无更多反馈时转阶段；每场60分钟，录音录屏；后两小时和一小时工作坊",
+      "analysis": "亲和图/轴心编码；多资料对读，研究者立场声明",
+      "actual_results": "不完美图像促发文化记忆和空间对话；过度准确可关闭讨论；存在偏见/主持能力/权力限制",
+      "limitations": "单一移民社区及有限接触；每场2工作人员限制规模；研究者自身偏见",
+      "ethics": "IRB exempt，核心访谈IRB批准",
+      "evidence": [
+        {
+          "field": "sample",
+          "page": 8,
+          "quote": "All participants were second-generation immigrants from Latin America between 18 and 35 years old"
+        },
+        {
+          "field": "analysis",
+          "page": 8,
+          "quote": "a combination of affinity diagrams"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "明确探究IGAI如何支持参与式公共空间共设计",
+          "reason": "访谈与反思聚焦不同利益方沟通及价值引出",
+          "pages": [
+            2,
+            8
+          ],
+          "quote": "How can IGAI support participatory processes"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "边界对象概念与访谈三阶段、图像/话语/反思例证相连；纳入失败/满意却关闭对话的反例",
+          "reason": "质性构念在具体案例中有内容和解释依据",
+          "pages": [
+            8,
+            9,
+            10,
+            15,
+            16
+          ],
+          "quote": "Fake Perfects"
+        },
+        {
+          "standard": "A3",
+          "status": "P",
+          "facts": "访谈+图像+个体反思+两次工作坊；亲和图与轴心编码；研究者立场声明",
+          "reason": "提供三角互证和反思措施，未充分交代编码分工及分析轨迹",
+          "pages": [
+            8,
+            9
+          ],
+          "quote": "a combination of affinity diagrams"
+        },
+        {
+          "standard": "A4",
+          "status": "S",
+          "facts": "参与者背景、NGO招募、60分钟、工具/角色/三阶段/停止规则均明确",
+          "reason": "真实场景及人的角色可理解",
+          "pages": [
+            7,
+            8,
+            9,
+            33
+          ],
+          "quote": "Each interview was done in English and lasted approximately 60 minutes."
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "探索案例研究，借先期无AI访谈作质性对照，提供具体对话和图像",
+          "reason": "适合发现体验/交互模式，不估计总体因果效果",
+          "pages": [
+            8,
+            13,
+            14,
+            24
+          ],
+          "quote": "are constrained by the context"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "主张以参与者/实践者ID、对话、图像及反例呈现，限定为特定群体和主持条件",
+          "reason": "推理可追溯且展示条件性",
+          "pages": [
+            10,
+            15,
+            16,
+            24
+          ],
+          "quote": "the success of IGAI as a boundary object between the designer and stakeholders is subject to the designers’ capabilities"
+        },
+        {
+          "standard": "E1",
+          "status": "S",
+          "facts": "研究时间线、角色、访谈结构、生成提示、软件和反思程序及案例引文记录",
+          "reason": "足以审视质性方法/推理，未开放全部录音不自动扣分",
+          "pages": [
+            5,
+            8,
+            11,
+            15,
+            31,
+            32,
+            33
+          ],
+          "quote": "Interview Structure"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [
+            237,
+            239
+          ],
+          "claim_quote": "This allows richer conversations and their voices to be heard.",
+          "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+          "claim_type": "C4",
+          "construct_raw": "rich / space-aware conversations",
+          "indicator_raw": "rich / space-aware conversations",
+          "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+          "dimension_code": "D",
+          "indicator_code": "D8",
+          "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+          "tool_family_codes": [
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+          "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+          "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+          "result_quote": "This allows richer conversations and their voices to be heard.",
+          "effect_direction": "条件性正向",
+          "pages": [
+            8,
+            9,
+            12,
+            13
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            238
+          ],
+          "claim_quote": "I do remember my mom talking a lot about murals back where she is from",
+          "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+          "claim_type": "C4",
+          "construct_raw": "memories and cultural values",
+          "indicator_raw": "memories and cultural values",
+          "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+          "dimension_code": "E",
+          "indicator_code": "E4",
+          "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+          "tool_family_codes": [
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+          "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+          "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+          "result_quote": "I do remember my mom talking a lot about murals back where she is from",
+          "effect_direction": "条件性正向",
+          "pages": [
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            240
+          ],
+          "claim_quote": "It was exactly like this one",
+          "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+          "claim_type": "C4",
+          "construct_raw": "image alignment and satisfaction",
+          "indicator_raw": "image alignment and satisfaction",
+          "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+          "dimension_code": "A",
+          "indicator_code": "A5",
+          "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+          "tool_family_codes": [
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+          "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+          "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+          "result_quote": "It was exactly like this one",
+          "effect_direction": "混合（满意可能终止探索）",
+          "pages": [
+            8,
+            9,
+            15,
+            16
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            241
+          ],
+          "claim_quote": "Images without a starting point seem idealized and US-looking.",
+          "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+          "claim_type": "C4",
+          "construct_raw": "cultural biases / stereotypes",
+          "indicator_raw": "cultural biases / stereotypes",
+          "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+          "dimension_code": "E",
+          "indicator_code": "E5",
+          "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+          "tool_family_codes": [
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+          "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+          "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+          "result_quote": "Images without a starting point seem idealized and US-looking.",
+          "effect_direction": "风险/条件性",
+          "pages": [
+            8,
+            9,
+            17
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "Whimsical unrealistic images can be generative in helping participants to think more creatively",
+          "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+          "claim_type": "C4",
+          "construct_raw": "creative inspiration",
+          "indicator_raw": "creative inspiration",
+          "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+          "dimension_code": "C",
+          "indicator_code": "C1",
+          "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+          "tool_family_codes": [
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+          "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+          "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+          "result_quote": "Whimsical unrealistic images can be generative in helping participants to think more creatively",
+          "effect_direction": "正向",
+          "pages": [
+            8,
+            9,
+            12
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "It helped the interviewees to engage with the questions and reduced resistance",
+          "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+          "claim_type": "C4",
+          "construct_raw": "engagement",
+          "indicator_raw": "engagement",
+          "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+          "dimension_code": "C",
+          "indicator_code": "C4",
+          "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+          "tool_family_codes": [
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+          "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+          "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+          "result_quote": "It helped the interviewees to engage with the questions and reduced resistance",
+          "effect_direction": "正向",
+          "pages": [
+            8,
+            9,
+            14
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "engagement with the participants increased since they could feel ownership of what we were thinking and designing",
+          "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+          "claim_type": "C4",
+          "construct_raw": "ownership",
+          "indicator_raw": "ownership",
+          "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+          "dimension_code": "D",
+          "indicator_code": "D6",
+          "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+          "tool_family_codes": [
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+          "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+          "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+          "result_quote": "engagement with the participants increased since they could feel ownership of what we were thinking and designing",
+          "effect_direction": "正向",
+          "pages": [
+            8,
+            9,
+            14
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "We don’t know if the AI is driving too much",
+          "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+          "claim_type": "C4",
+          "construct_raw": "AI opacity",
+          "indicator_raw": "AI opacity",
+          "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+          "dimension_code": "D",
+          "indicator_code": "D4",
+          "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+          "tool_family_codes": [
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+          "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+          "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+          "result_quote": "We don’t know if the AI is driving too much",
+          "effect_direction": "负向",
+          "pages": [
+            8,
+            9,
+            17
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "The use of partial arrangements on a chosen reference image perhaps limited the possibilities to unveil imaginaries",
+          "claim_summary": "IGAI作为公共空间参与式设计边界对象的感知作用",
+          "claim_type": "C4",
+          "construct_raw": "anchoring expectations",
+          "indicator_raw": "anchoring expectations",
+          "item_quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+          "dimension_code": "C",
+          "indicator_code": "C7",
+          "instrument_raw": "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+          "tool_family_codes": [
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "adaptation": "NR",
+          "response_scoring": "亲和图+轴心编码；主题与反例，不计量表分数",
+          "validity_evidence": "边界对象理论、Convivial Public Space Framework及具体参与者/实践者引文支持构念解释",
+          "reliability_evidence": "多阶段/多来源材料、个体反思及集体研讨、研究者立场声明；编码审计细节不足",
+          "result_quote": "The use of partial arrangements on a chosen reference image perhaps limited the possibilities to unveil imaginaries",
+          "effect_direction": "风险/条件性",
+          "pages": [
+            8,
+            9,
+            17
+          ],
+          "audit_overrides": []
+        }
+      ]
+    }
+  ],
+  "excluded_legacy_rows": [],
+  "added_evidence_notes": "正文1–24页、附录31–33页核查；31–32页图示已渲染确认。旧239空间意识为对话空间化并入D8，旧240满意/探索不属使用意愿，重归A5图像与记忆匹配；未另造定量满意度。新设非原量表的质性构念仅使用固定代码。",
+  "category_gaps": [
+    "室外景观/公共空间不属既定六设计领域，UNMAPPED。"
+  ],
+  "metadata_corrections": {}
+}

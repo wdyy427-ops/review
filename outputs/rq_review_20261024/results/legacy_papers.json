@@ -1,0 +1,2439 @@
+[
+  {
+    "paper_id": 1,
+    "year": 2026,
+    "title": "A comprehensive framework for AI-driven chair design integrating finite element analysis, ergonomics, and manufacturing constraints",
+    "doi": "10.1080/14606925.2026.2625753",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "review_status": "PDF全文复核完成",
+    "pdf_pages": 21
+  },
+  {
+    "paper_id": 2,
+    "year": 2026,
+    "title": "A human–AI collaborative design and evaluation model for product Kansei engineering",
+    "doi": "10.1080/09544828.2026.2629765",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F6"
+    ],
+    "review_status": "PDF全文复核完成",
+    "pdf_pages": 38
+  },
+  {
+    "paper_id": 3,
+    "year": 2026,
+    "title": "A method for identifying product opportunities and innovative design based on dynamic demand evolution",
+    "doi": "10.1080/09544828.2026.2702649",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5"
+    ],
+    "review_status": "PDF全文复核完成",
+    "pdf_pages": 30
+  },
+  {
+    "paper_id": 4,
+    "year": 2026,
+    "title": "A multimodal knowledge graph and two-stage reinforcement learning-based intelligent configuration approach of improvement design scheme for complex products",
+    "doi": "10.1080/09544828.2026.2700682",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "review_status": "PDF全文复核完成",
+    "pdf_pages": 47
+  },
+  {
+    "paper_id": 5,
+    "year": 2026,
+    "title": "Affectivegen: an exploring methodology for emotional design implementation",
+    "doi": "10.1080/09544828.2026.2650610",
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 47
+  },
+  {
+    "paper_id": 6,
+    "year": 2026,
+    "title": "An agentic knowledge-infused reasoning framework for engineering design based on large language models",
+    "doi": "10.1080/09544828.2026.2680617",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 30
+  },
+  {
+    "paper_id": 7,
+    "year": 2026,
+    "title": "An intelligent knowledge-driven module division framework for complex products",
+    "doi": "10.1080/09544828.2026.2680616",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 25
+  },
+  {
+    "paper_id": 8,
+    "year": 2026,
+    "title": "Analogical reasoning with large language models: a co-creative framework and benchmarking of LLMs in design ideation",
+    "doi": "10.1017/dsj.2025.10044",
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 34
+  },
+  {
+    "paper_id": 9,
+    "year": 2026,
+    "title": "Automating product styling: a novel design approach for emotional product styling based on neural style transfer and MVSNet",
+    "doi": "10.1080/09544828.2026.2680618",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 40
+  },
+  {
+    "paper_id": 10,
+    "year": 2026,
+    "title": "ChatPreference: a large language model for customer preference understanding in the apparel industry",
+    "doi": "10.1080/09544828.2026.2655935",
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S1"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 31
+  },
+  {
+    "paper_id": 11,
+    "year": 2026,
+    "title": "Dynamic 3D product aesthetic quality evaluation: integration and evaluation of multimodal physiological signals and machine learning methods",
+    "doi": "10.1080/09544828.2026.2687686",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 17
+  },
+  {
+    "paper_id": 12,
+    "year": 2026,
+    "title": "Empathetic narrative design: Food brand storytelling in the AI context",
+    "doi": "10.1080/14606925.2026.2663041",
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 20
+  },
+  {
+    "paper_id": 13,
+    "year": 2026,
+    "title": "Exploring LLMs for Generating Communicational Actions of External Interfaces on Autonomous Vehicles",
+    "doi": "10.1145/3810200",
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3",
+      "S4"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 28
+  },
+  {
+    "paper_id": 14,
+    "year": 2026,
+    "title": "From imprecision to precision in virtual reality: a machine learning approach to parametric CAD modelling",
+    "doi": "10.1080/09544828.2026.2616581",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 29
+  },
+  {
+    "paper_id": 15,
+    "year": 2026,
+    "title": "Functional requirements mining for mass personalisation: a heterogeneous data-driven knowledge graph approach to enable product rapid design",
+    "doi": "10.1080/09544828.2026.2700685",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 42
+  },
+  {
+    "paper_id": 16,
+    "year": 2026,
+    "title": "GED-Net: A Multi-modal Reconstruction Network for CAD Parametric Models based on Grouped Entity Decoding",
+    "doi": "10.1145/3806057",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 29
+  },
+  {
+    "paper_id": 17,
+    "year": 2026,
+    "title": "Generative AI as a Mediator in Creator Collaboration: Challenges, Design Opportunities, and Concerns",
+    "doi": "10.1145/3816940",
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 37
+  },
+  {
+    "paper_id": 18,
+    "year": 2026,
+    "title": "Generative AI for interdisciplinary collaborative design: an agent-based workflow orchestration framework guided by R3 invariants",
+    "doi": "10.1080/09544828.2026.2629762",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 36
+  },
+  {
+    "paper_id": 19,
+    "year": 2026,
+    "title": "Generative product design Kansei mapping by an integrated temporal convolutional network-transformer-gated recurrent unit and stable diffusion model",
+    "doi": "10.1080/09544828.2026.2612682",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 34
+  },
+  {
+    "paper_id": 20,
+    "year": 2026,
+    "title": "Kansei analysis for interior design of new energy vehicles: combining rough set theory, eye tracking, and improved gated recurrent unit",
+    "doi": "10.1080/09544828.2026.2683730",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 43
+  },
+  {
+    "paper_id": 21,
+    "year": 2026,
+    "title": "Leveraging large language models for participatory digital personas in future-oriented design: a case study of autonomous vehicle intelligent cockpits",
+    "doi": "10.1080/09544828.2026.2639927",
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 52
+  },
+  {
+    "paper_id": 22,
+    "year": 2026,
+    "title": "Multimodal generative AI product design based on cultural philosophy and quantitative constraints",
+    "doi": "10.1080/09544828.2026.2637036",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 57
+  },
+  {
+    "paper_id": 23,
+    "year": 2026,
+    "title": "Sustainable design of new energy vehicle forms based on visual attention sequences and the Kolmogorov-Arnold Transformer",
+    "doi": "10.1080/09544828.2026.2698391",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 35
+  },
+  {
+    "paper_id": 24,
+    "year": 2026,
+    "title": "Towards collaborative intelligence: Reimagining human-agent co-design in traditional craft design through multiagent Empathic Handover",
+    "doi": "10.1080/15710882.2026.2647077",
+    "domain_codes": [
+      "D1",
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 24
+  },
+  {
+    "paper_id": 25,
+    "year": 2026,
+    "title": "A lightweight EEG-based cognitive state recognition method integrating vision transformer and genetic algorithms for multi-tasking product design",
+    "doi": "10.1080/09544828.2026.2680620",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 30
+  },
+  {
+    "paper_id": 26,
+    "year": 2026,
+    "title": "An LLM-based multi-agent system to assist early-stage product design and evaluation",
+    "doi": "10.1080/09544828.2026.2616583",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 37
+  },
+  {
+    "paper_id": 27,
+    "year": 2026,
+    "title": "AutoPCM – An automated LLM-based approach to identify potentials for circular design in automotive electronics",
+    "doi": "10.1080/09544828.2026.2622886",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 31
+  },
+  {
+    "paper_id": 28,
+    "year": 2026,
+    "title": "CarvGPT: a multi-agent collaborative framework for cultural translation and digital innovation in traditional craft design",
+    "doi": "10.1080/09544828.2026.2719218",
+    "domain_codes": [
+      "D1",
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 35
+  },
+  {
+    "paper_id": 29,
+    "year": 2026,
+    "title": "Comparing human- and AI-generated system requirements: an industrial case study",
+    "doi": "10.1080/09544828.2026.2683735",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 26
+  },
+  {
+    "paper_id": 30,
+    "year": 2026,
+    "title": "Exploring Human-AI Collaboration in E-Textile Design: A Case Study on Flex Sensor Placement for Shoulder Motion Detection",
+    "doi": "10.1145/3816771",
+    "domain_codes": [
+      "D2",
+      "D3"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 78
+  },
+  {
+    "paper_id": 31,
+    "year": 2026,
+    "title": "From diagnosis to design: a hybrid human–LLM framework integrating fsQCA and TRIZ for cultural service innovation",
+    "doi": "10.1080/09544828.2026.2714470",
+    "domain_codes": [
+      "D5"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 30
+  },
+  {
+    "paper_id": 32,
+    "year": 2026,
+    "title": "Human-machine collaboration processes for AI-enabled product design with expert intervention: an example from research vessel design",
+    "doi": "10.1080/09544828.2026.2620967",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 52
+  },
+  {
+    "paper_id": 33,
+    "year": 2026,
+    "title": "Impact of image-generation tool on designers’ cognitive styles and design performance during product conceptual design",
+    "doi": "10.1080/09544828.2026.2622887",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 37
+  },
+  {
+    "paper_id": 34,
+    "year": null,
+    "title": "Large Language Model Agent as a Mechanical Designer",
+    "doi": "未报告／未确认",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 19
+  },
+  {
+    "paper_id": 35,
+    "year": 2026,
+    "title": "Multimodal-Conditioned Latent Diffusion Models for Fashion Image Editing",
+    "doi": "10.1145/3789212",
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 27
+  },
+  {
+    "paper_id": 36,
+    "year": 2026,
+    "title": "Real-time dynamic graph construction and reasoning to support human-AI collaborative product conceptual design",
+    "doi": "10.1080/09544828.2026.2680619",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 28
+  },
+  {
+    "paper_id": 37,
+    "year": 2026,
+    "title": "The hidden costs of AI-assisted ideation: empirical findings on ChatGPT’s impact on novice designers’ creative confidence and design process",
+    "doi": "10.1017/dsj.2026.10060",
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 38
+  },
+  {
+    "paper_id": 38,
+    "year": 2026,
+    "title": "The research on the aesthetic Metric Entropy Evaluation Model (MEM) and verification for Intelligent screening of automotive design schemes",
+    "doi": "10.1080/09544828.2026.2639930",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 44
+  },
+  {
+    "paper_id": 39,
+    "year": 2026,
+    "title": "Understanding the interaction between human and LLMs-based AI in creative tasks: Insights from UX professionals' collaboration and communication with ChatGPT",
+    "doi": "10.1016/j.destud.2026.101403",
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 45
+  },
+  {
+    "paper_id": 40,
+    "year": 2026,
+    "title": "A tea packaging design method based on artificial intelligence generated content",
+    "doi": "10.1080/09544828.2025.2489647",
+    "domain_codes": [
+      "D1",
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 34
+  },
+  {
+    "paper_id": 41,
+    "year": 2026,
+    "title": "Combining Kansei Engineering and SSA-XGBoost for new energy vehicle front-face form design",
+    "doi": "10.1080/09544828.2025.2546838",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 40
+  },
+  {
+    "paper_id": 42,
+    "year": 2025,
+    "title": "DesignManager: An Agent-Powered Copilot for Designers to Integrate AI Design Tools into Creative Workflows",
+    "doi": "10.1145/3730919",
+    "domain_codes": [
+      "D1",
+      "D4"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 26
+  },
+  {
+    "paper_id": 43,
+    "year": 2026,
+    "title": "DM-CAM: A novel product design method combining diffusion models and class activation mapping for enhanced user-driven design",
+    "doi": "10.1080/09544828.2025.2541521",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "review_status": "PDF全文复核完成",
+    "pdf_pages": 37
+  },
+  {
+    "paper_id": 44,
+    "year": 2025,
+    "title": "Enhancing design concept diversity: multi-persona prompting strategies for large language models",
+    "doi": "10.1017/dsj.2025.10037",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F6"
+    ],
+    "review_status": "PDF全文复核完成",
+    "pdf_pages": 31
+  },
+  {
+    "paper_id": 45,
+    "year": 2026,
+    "title": "Experimental study on improving the quality of interdisciplinary design: Collaborate with AI psychology experts for design develop process",
+    "doi": "10.1016/j.destud.2025.101371",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "review_status": "PDF全文复核完成",
+    "pdf_pages": 40
+  },
+  {
+    "paper_id": 46,
+    "year": 2025,
+    "title": "From Fake Perfects to Conversational Imperfects: Exploring Image-Generative AI as a Boundary Object for Participatory Design of Public Spaces",
+    "doi": "10.1145/3710912",
+    "domain_codes": [
+      "D4"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "review_status": "PDF全文复核完成",
+    "pdf_pages": 33
+  },
+  {
+    "paper_id": 47,
+    "year": 2026,
+    "title": "From Metrics to Meaning: Time to Rethink Evaluation in Human–AI Collaborative Design",
+    "doi": "10.1145/3773292",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "review_status": "PDF全文复核完成",
+    "pdf_pages": 31
+  },
+  {
+    "paper_id": 48,
+    "year": 2025,
+    "title": "Generative adversarial network model-based knowledge recommendation with knowledge graph in product design",
+    "doi": "10.1080/09544828.2025.2450764",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 32
+  },
+  {
+    "paper_id": 49,
+    "year": 2025,
+    "title": "How Good Is ChatGPT in Giving Advice on Your Visualization Design?",
+    "doi": "10.1145/3745768",
+    "domain_codes": [
+      "D1",
+      "D6"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 33
+  },
+  {
+    "paper_id": 50,
+    "year": 2026,
+    "title": "Integrating Kansei engineering and GA-CNN-Attention for emotionally driven design: a methodological approach to aligning product features with user preferences",
+    "doi": "10.1080/09544828.2025.2564621",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 48
+  },
+  {
+    "paper_id": 51,
+    "year": 2025,
+    "title": "Pattern Redesign Imitating Ethnic Clothing Color Styles via Palette-guided GAN",
+    "doi": "10.1145/3771996",
+    "domain_codes": [
+      "D1",
+      "D3"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 18
+  },
+  {
+    "paper_id": 52,
+    "year": 2026,
+    "title": "Research on emotional design of smart home products for the elderly based on technology acceptance modelling",
+    "doi": "10.1080/09544828.2025.2518655",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 30
+  },
+  {
+    "paper_id": 53,
+    "year": 2026,
+    "title": "Sustainable design of bamboo weaving products based on style generative adversarial network and Grasshopper technology",
+    "doi": "10.1080/09544828.2025.2500860",
+    "domain_codes": [
+      "D2",
+      "D3"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3",
+      "S4"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 23
+  },
+  {
+    "paper_id": 54,
+    "year": 2025,
+    "title": "A comparative study on retrieval-augmented generation and chain-of-thought applications for LLM-assisted engineering design ideation",
+    "doi": "10.1080/09544828.2025.2574209",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 42
+  },
+  {
+    "paper_id": 55,
+    "year": 2026,
+    "title": "A generation framework of conceptual solutions integrating link prediction and large language model",
+    "doi": "10.1080/09544828.2025.2558333",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 27
+  },
+  {
+    "paper_id": 56,
+    "year": 2026,
+    "title": "A novel product shape innovation design method based on Kansei Engineering and GAN model with limited sample data",
+    "doi": "10.1080/09544828.2025.2515553",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 27
+  },
+  {
+    "paper_id": 57,
+    "year": 2025,
+    "title": "An approach to design resource retrieval for large language models based on chain-ofthoughts prompts derived from designer thinking patterns",
+    "doi": "10.1080/09544828.2025.2588551",
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 33
+  },
+  {
+    "paper_id": 58,
+    "year": 2025,
+    "title": "An evaluation study of AiLoupe: An AI driven design tool to source and select textile materials",
+    "doi": "10.1080/14606925.2025.2579120",
+    "domain_codes": [
+      "D2",
+      "D3"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 25
+  },
+  {
+    "paper_id": 59,
+    "year": 2025,
+    "title": "An intelligent prompt system for product generative design based on style perception preference values",
+    "doi": "10.1080/09544828.2025.2546840",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 49
+  },
+  {
+    "paper_id": 60,
+    "year": 2026,
+    "title": "AskNatureGPT: an LLM-driven concept generation method based on bio-inspired design knowledge",
+    "doi": "10.1080/09544828.2025.2481536",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 36
+  },
+  {
+    "paper_id": 61,
+    "year": 2025,
+    "title": "Design coco-pilot: QFD as decision logic for conflict-aware human–LLM collaborative product conceptual design",
+    "doi": "10.1080/09544828.2025.2578826",
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 25
+  },
+  {
+    "paper_id": 62,
+    "year": 2026,
+    "title": "GEDO: a method for product design generation and explainable design optimisation based on crossmodal alignment of text and images",
+    "doi": "10.1080/09544828.2025.2567156",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 32
+  },
+  {
+    "paper_id": 63,
+    "year": 2025,
+    "title": "How generative AI supports human in conceptual design",
+    "doi": "10.1017/dsj.2025.2",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 23
+  },
+  {
+    "paper_id": 64,
+    "year": 2026,
+    "title": "Human-AI co-ideation via combinational generative model",
+    "doi": "10.1080/09544828.2025.2504309",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 38
+  },
+  {
+    "paper_id": 65,
+    "year": 2025,
+    "title": "Intelligent matching of wood grain texture and furniture design styles driven by emotional imagery",
+    "doi": "10.1080/09544828.2025.2578828",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 38
+  },
+  {
+    "paper_id": 66,
+    "year": 2026,
+    "title": "Investigating intelligent generation of multimodal creative stimuli in conceptual design: strategies and implications",
+    "doi": "10.1080/09544828.2025.2527517",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 39
+  },
+  {
+    "paper_id": 67,
+    "year": 2026,
+    "title": "IXAI: generative design of automotive styling based on inception convolution with explainable AI",
+    "doi": "10.1080/09544828.2025.2481537",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 30
+  },
+  {
+    "paper_id": 68,
+    "year": 2026,
+    "title": "Machine learning-integrated random shape generation for brand-styled mouse design",
+    "doi": "10.1080/09544828.2025.2558334",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 29
+  },
+  {
+    "paper_id": 69,
+    "year": 2025,
+    "title": "Order Matters: Learning Element Ordering for Graphic Design Generation",
+    "doi": "10.1145/3730858",
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 16
+  },
+  {
+    "paper_id": 70,
+    "year": 2025,
+    "title": "Prompting for products: investigating design space exploration strategies for text-to-image generative models",
+    "doi": "10.1017/dsj.2024.51",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 22
+  },
+  {
+    "paper_id": 71,
+    "year": 2025,
+    "title": "PSR-GAN: a product concept sketch rendering method based on generative adversarial network and colour tags",
+    "doi": "10.1080/09544828.2025.2450760",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 24
+  },
+  {
+    "paper_id": 72,
+    "year": 2026,
+    "title": "Semantic characterization of ideation: a computational framework using vector embedding and clustering",
+    "doi": "10.1080/09544828.2025.2537465",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 46
+  },
+  {
+    "paper_id": 73,
+    "year": 2026,
+    "title": "Towards Human–AI Synergy in UI Design: Supporting Iterative Generation with LLMs",
+    "doi": "10.1145/3773035",
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 45
+  },
+  {
+    "paper_id": 74,
+    "year": 2025,
+    "title": "Understanding Collaboration between Professional Designers and Decision-making AI: A Case Study in the Workplace",
+    "doi": "10.1145/3757686",
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3",
+      "S4"
+    ],
+    "ai_function_codes": [
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 26
+  },
+  {
+    "paper_id": 75,
+    "year": 2024,
+    "title": "An application of generative AI for knitted textile design in fashion",
+    "doi": "10.1080/14606925.2024.2303236",
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 22
+  },
+  {
+    "paper_id": 76,
+    "year": 2025,
+    "title": "Cognitive intelligence-enabled requirements elicitation for design optimisation of smart product-service system",
+    "doi": "10.1080/09544828.2024.2373036",
+    "domain_codes": [
+      "D2",
+      "D5"
+    ],
+    "stage_codes": [
+      "S1",
+      "S4"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 26
+  },
+  {
+    "paper_id": 77,
+    "year": 2024,
+    "title": "DCG-GAN: design concept generation with generative adversarial networks",
+    "doi": "10.1017/dsj.2024.13",
+    "domain_codes": [
+      "D2",
+      "D3"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 36
+  },
+  {
+    "paper_id": 78,
+    "year": 2024,
+    "title": "DesignPrompt: Using Multimodal Interaction for Design Exploration with Generative AI",
+    "doi": "10.1145/3643834.3661588",
+    "domain_codes": [
+      "D4"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 15
+  },
+  {
+    "paper_id": 79,
+    "year": 2024,
+    "title": "Exploring Optimal Combinations: The Impact of Sequential Multimodal Inspirational Stimuli in Design Concepts on Creativity",
+    "doi": "10.1145/3643834.3661501",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 14
+  },
+  {
+    "paper_id": 80,
+    "year": 2025,
+    "title": "Exploring synergies between AIGC and TRIZ in the optimisation of road cone design through integrated innovation methods",
+    "doi": "10.1080/09544828.2024.2373038",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 21
+  },
+  {
+    "paper_id": 81,
+    "year": 2025,
+    "title": "Exploring the efficacy of hybrid-sketch: an investigation into conceptual support in the early design stage",
+    "doi": "10.1080/09544828.2024.2365118",
+    "domain_codes": [
+      "D2",
+      "D3"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 24
+  },
+  {
+    "paper_id": 82,
+    "year": 2024,
+    "title": "Exploring the Impact of Artificial Intelligence-Generated Content (AIGC) Tools on Social Dynamics in UX Collaboration",
+    "doi": "10.1145/3643834.3660703",
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3",
+      "S4"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 13
+  },
+  {
+    "paper_id": 83,
+    "year": 2025,
+    "title": "Image Generative AI to Design Public Spaces: a Reflection of How AI Could Improve Co-Design of Public Parks",
+    "doi": "10.1145/3656588",
+    "domain_codes": [
+      "D4"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 14
+  },
+  {
+    "paper_id": 84,
+    "year": 2025,
+    "title": "Intelligent emotion recognition in product design using multimodal physiological signals and machine learning",
+    "doi": "10.1080/09544828.2024.2362589",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 22
+  },
+  {
+    "paper_id": 85,
+    "year": 2024,
+    "title": "MemoVis: A GenAIPowered Tool for Creating Companion Reference Images for 3D Design Feedback",
+    "doi": "10.1145/3694681",
+    "domain_codes": [
+      "D2",
+      "D4"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F5"
+    ],
+    "review_status": "PDF全文复核完成",
+    "pdf_pages": 41
+  },
+  {
+    "paper_id": 86,
+    "year": 2024,
+    "title": "Research on multi-objective optimisation of product form design based on kansei engineering",
+    "doi": "10.1080/09544828.2024.2355762",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5",
+      "F6"
+    ],
+    "review_status": "PDF全文复核完成",
+    "pdf_pages": 27
+  },
+  {
+    "paper_id": 87,
+    "year": 2024,
+    "title": "Sketchar: Supporting Character Design and Illustration Prototyping Using Generative AI",
+    "doi": "10.1145/3677102",
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "review_status": "PDF全文复核完成",
+    "pdf_pages": 28
+  },
+  {
+    "paper_id": 88,
+    "year": 2024,
+    "title": "Smart “Error”! Exploring Imperfect AI to Support Creative Ideation",
+    "doi": "10.1145/3637398",
+    "domain_codes": [
+      "D1",
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 28
+  },
+  {
+    "paper_id": 89,
+    "year": 2024,
+    "title": "StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI",
+    "doi": "10.1145/3687054",
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 31
+  },
+  {
+    "paper_id": 90,
+    "year": 2025,
+    "title": "Vivid-persona: customizable persona tool with interactive and immersive experiences",
+    "doi": "10.1080/09544828.2024.2383543",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 23
+  },
+  {
+    "paper_id": 91,
+    "year": 2025,
+    "title": "A case-based knowledge graph with reinforcement learning for intelligent design approach of complex product",
+    "doi": "10.1080/09544828.2024.2355756",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 29
+  },
+  {
+    "paper_id": 92,
+    "year": 2024,
+    "title": "A foundation model enhanced approach for generative design in combinational creativity",
+    "doi": "10.1080/09544828.2024.2356707",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 28
+  },
+  {
+    "paper_id": 93,
+    "year": 2024,
+    "title": "A Hybrid Prototype Method Combining Physical Models and Generative Artificial Intelligence to Support Creativity in Conceptual Design",
+    "doi": "10.1145/3689433",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 34
+  },
+  {
+    "paper_id": 94,
+    "year": 2025,
+    "title": "Combinediff: a GenAI creative support tool for image combination exploration",
+    "doi": "10.1080/09544828.2024.2358722",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 28
+  },
+  {
+    "paper_id": 95,
+    "year": 2024,
+    "title": "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design",
+    "doi": "10.1145/3643542",
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 27
+  },
+  {
+    "paper_id": 96,
+    "year": 2024,
+    "title": "DressCode: Autoregressively Sewing and Generating Garments from Text Guidance",
+    "doi": "10.1145/3658147",
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 13
+  },
+  {
+    "paper_id": 97,
+    "year": 2025,
+    "title": "Exploring human-machine collaboration paths in the context of AIgeneration content creation: a case study in product styling design",
+    "doi": "10.1080/09544828.2024.2396199",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 28
+  },
+  {
+    "paper_id": 98,
+    "year": 2024,
+    "title": "HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design",
+    "doi": "10.1145/3678518",
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 27
+  },
+  {
+    "paper_id": 99,
+    "year": 2025,
+    "title": "Leveraging deep reinforcement learning for design space exploration with multi-fidelity surrogate model",
+    "doi": "10.1080/09544828.2024.2366686",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 41
+  },
+  {
+    "paper_id": 100,
+    "year": 2024,
+    "title": "Lumos: AI-driven prompt optimisation tool for assisting conceptual design",
+    "doi": "10.1080/09544828.2024.2396195",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 28
+  },
+  {
+    "paper_id": 101,
+    "year": 2024,
+    "title": "PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows",
+    "doi": "10.1145/3643834.3661613",
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F4",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 14
+  },
+  {
+    "paper_id": 102,
+    "year": 2023,
+    "title": "Data-driven Digital Lighting Design for Residential Indoor Spaces",
+    "doi": "10.1145/3582001",
+    "domain_codes": [
+      "D4"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 18
+  },
+  {
+    "paper_id": 103,
+    "year": 2024,
+    "title": "Haisor: Human-aware Indoor Scene Optimization via Deep Reinforcement Learning",
+    "doi": "10.1145/3632947",
+    "domain_codes": [
+      "D4"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 17
+  },
+  {
+    "paper_id": 104,
+    "year": 2023,
+    "title": "Understanding inspiration: Insights into how designers discover inspirational stimuli using an AI-enabled platform",
+    "doi": "10.1016/j.destud.2023.101202",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 36
+  },
+  {
+    "paper_id": 105,
+    "year": 2023,
+    "title": "GEO: A Computational Design Framework for Automotive Exterior Facelift",
+    "doi": "10.1145/3578521",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 20
+  },
+  {
+    "paper_id": 106,
+    "year": 2023,
+    "title": "Designing dual ontological products for human factors: a machine learning and harmonistic knowledge-based computational support tool",
+    "doi": "10.1080/09544828.2023.2248801",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 29
+  },
+  {
+    "paper_id": 107,
+    "year": 2023,
+    "title": "Image regression-based digital qualification for simulation-driven design processes, case study on curtain airbag",
+    "doi": "10.1080/09544828.2022.2164440",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 23
+  },
+  {
+    "paper_id": 108,
+    "year": 2023,
+    "title": "Human-Computer Collaborative Visual Design Creation Assisted by ArtificialIntelligence",
+    "doi": "10.1145/3554735",
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 21
+  },
+  {
+    "paper_id": 109,
+    "year": 2023,
+    "title": "Toward Intelligent Fashion Design: A Texture and Shape Disentangled Generative Adversarial Network",
+    "doi": "10.1145/3567596",
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 23
+  },
+  {
+    "paper_id": 110,
+    "year": 2023,
+    "title": "Sand-in-the-loop: Investigating embodied co-creation for shared understandings of generative AI",
+    "doi": "10.1145/3563703.3596652",
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 5
+  },
+  {
+    "paper_id": 111,
+    "year": 2023,
+    "title": "DeepMorpher: deep learning-based design space dimensionality reduction for shape optimisation",
+    "doi": "10.1080/09544828.2023.2192606",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 18
+  },
+  {
+    "paper_id": 112,
+    "year": 2024,
+    "title": "Research on Product Advertising Design Combining Feature Extraction Technology and Web3D Technology",
+    "doi": "10.1145/3608948",
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 13
+  },
+  {
+    "paper_id": 113,
+    "year": 2023,
+    "title": "Reconstruction of Machine-Made Shapes from Bitmap Sketches",
+    "doi": "10.1145/3618361",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 16
+  },
+  {
+    "paper_id": 114,
+    "year": 2023,
+    "title": "An Interactive Framework for Visually Realistic 3D Motion Synthesis using Evolutionarily-trained Spiking Neural Networks",
+    "doi": "10.1145/3585509",
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 19
+  },
+  {
+    "paper_id": 115,
+    "year": 2022,
+    "title": "Differentiating online products using customer perceptions of sustainability",
+    "doi": "10.1017/dsj.2022.14",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 31
+  },
+  {
+    "paper_id": 116,
+    "year": 2022,
+    "title": "Icon Art Design Language Combined with Real-time Intelligent Image Processing under Internet of Things",
+    "doi": "10.1145/3522574",
+    "domain_codes": [
+      "D1",
+      "D6"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 11
+  },
+  {
+    "paper_id": 117,
+    "year": 2022,
+    "title": "Neural Brushstroke Engine: Learning a Latent Style Space of Interactive Drawing Tools",
+    "doi": "10.1145/3550454.3555472",
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3",
+      "S4"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 18
+  },
+  {
+    "paper_id": 118,
+    "year": 2022,
+    "title": "GANSpiration: Balancing Targeted and Serendipitous Inspiration in User Interface Design with Style-Based Generative Adversarial Network",
+    "doi": "10.1145/3491102.3517511",
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 15
+  },
+  {
+    "paper_id": 119,
+    "year": 2022,
+    "title": "Predicting and Explaining Mobile UI Tappability with Vision Modeling and Saliency Analysis",
+    "doi": "10.1145/3491102.3517497",
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 21
+  },
+  {
+    "paper_id": 120,
+    "year": 2022,
+    "title": "Reference Based Sketch Extraction via Attention Mechanism",
+    "doi": "10.1145/3550454.3555504",
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 16
+  },
+  {
+    "paper_id": 121,
+    "year": 2022,
+    "title": "NeuralTailor: Reconstructing Sewing Pattern Structures from 3D Point Clouds of Garments",
+    "doi": "10.1145/3528223.3530179",
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 16
+  },
+  {
+    "paper_id": 122,
+    "year": 2022,
+    "title": "DeepFaceVideoEditing: Sketch-based Deep Editing of Face Videos",
+    "doi": "未报告／未确认",
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 16
+  },
+  {
+    "paper_id": 123,
+    "year": 2022,
+    "title": "Auto-Icon+: An Automated End-to-End Code Generation Tool for Icon Designs in UI Development",
+    "doi": "10.1145/3531065",
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S3",
+      "S4"
+    ],
+    "ai_function_codes": [
+      "F4"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 25
+  },
+  {
+    "paper_id": 124,
+    "year": 2022,
+    "title": "Robust design using multiobjective optimisation and artificial neural networks with application to a heat pump radial compressor",
+    "doi": "10.1017/dsj.2021.25",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F5",
+      "F6"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 31
+  },
+  {
+    "paper_id": 125,
+    "year": 2022,
+    "title": "Identification of similar design principles of passenger cars using deep neural networks",
+    "doi": "10.1504/JDR.2022.10051661",
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5"
+    ],
+    "review_status": "仅旧表首轮编码；待全文复核",
+    "pdf_pages": 27
+  }
+]

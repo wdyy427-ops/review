@@ -1,0 +1,6 @@
+﻿comparison,n,agreements,agreement_proportion,cohen_kappa,confusion_labels,confusion_matrix_rows_a_cols_b
+title_abstract_model_model,999,965,0.965965965965966,0.7467510680654037,exclude;include;unclear,"[[914, 10, 12], [3, 50, 3], [2, 4, 1]]"
+title_abstract_model_human,21,20,0.9523809523809523,0.6440677966101694,exclude;include;unclear,"[[19, 1, 0], [0, 1, 0], [0, 0, 0]]"
+later_screening_model_human_all_rows,115,86,0.7478260869565218,0.5014947683109119,exclude;include;unclear,"[[32, 13, 0], [11, 54, 0], [4, 1, 0]]"
+later_screening_model_human_unique_records,109,82,0.7522935779816514,0.5157946692991116,exclude;include;unclear,"[[32, 11, 0], [11, 50, 0], [4, 1, 0]]"
+later_screening_fulltext_basis_only,77,61,0.7922077922077922,0.36527563111798045,exclude;include;unclear,"[[7, 13, 0], [2, 54, 0], [0, 1, 0]]"

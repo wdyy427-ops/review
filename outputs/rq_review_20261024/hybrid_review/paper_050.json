@@ -1,0 +1,393 @@
+{
+  "paper_id": 50,
+  "title": "Integrating Kansei engineering and GA-CNN-Attention for emotionally driven design: a methodological approach to aligning product features with user preferences",
+  "doi": "10.1080/09544828.2025.2564621",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    10,
+    26,
+    27,
+    28,
+    31,
+    32,
+    36,
+    37,
+    40,
+    41,
+    44,
+    45,
+    46,
+    47
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2",
+    "D3"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U6"
+  ],
+  "context_summary": "The paper integrates Kansei engineering and GA-CNN-Attention to align product features with user preferences in emotionally driven design. It uses BERTopic, GRA, and GA-CNN-Attention to analyze user emotions and optimize design.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "050-E1",
+      "purpose_codes": [
+        "P1",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O3",
+        "O6"
+      ],
+      "evaluator_codes": [
+        "V3"
+      ],
+      "source_codes": [
+        "H1"
+      ],
+      "setting_code": "NR",
+      "design_code": "G1",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [],
+      "sample_n": 102,
+      "sample_description": "inordertoavoidsubjectivebiasinusers’emotionalvocabularyevaluationcausedbyimage",
+      "recruitment": "",
+      "task": "",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 26,
+          "quote": "inordertoavoidsubjectivebiasinusers’emotionalvocabularyevaluationcausedbyimage"
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "We performed a survey of users' affective intentions based on a 1-5 point Likert scale through 'Wenjuanxin', the largest questionnaire collection platform in China.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "We performed a survey of users' affective intentions based on a 1-5 point Likert scale through 'Wenjuanxin', the largest questionnaire collection platform in China.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "tograyscaleimagestoremovecolourinterferenceandblurredorhiddenthebrandlogoin",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "users’affectiveintentionsbasedona1-5pointLikertscalethrough‘Wenjuanxin’,thelargest",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            26
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "quote": "tograyscaleimagestoremovecolourinterferenceandblurredorhiddenthebrandlogoin"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "quote": "adjustedtoensureconsistentimagequalityandvisualimpactforthesample.Considering"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "quote": "tograyscaleimagestoremovecolourinterferenceandblurredorhiddenthebrandlogoin"
+        }
+      ]
+    },
+    {
+      "eval_id": "050-E2",
+      "purpose_codes": [
+        "P3",
+        "P4"
+      ],
+      "object_codes": [
+        "O1"
+      ],
+      "evaluator_codes": [],
+      "source_codes": [
+        "H1"
+      ],
+      "setting_code": "NR",
+      "design_code": "G7",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [],
+      "sample_n": 20,
+      "sample_description": "During the evaluation process, we invited 6 experts in the field of lamp design, as well as 14 randomly selected participants from previous surveys, for a total of 20 people.",
+      "recruitment": "",
+      "task": "makingitmorerobustinsentimentpredictiontasks.Intermsoftrainingstability,BPNNhas",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "glareandoptimisingthereadingandworkingenvironment.Thelampbaseadoptsanoval",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 36,
+          "quote": "During the evaluation process, we invited 6 experts in the field of lamp design, as well as 14 randomly selected participants from previous surveys, for a total of 20 people."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "During the evaluation process, we invited 6 experts in the field of lamp design, as well as 14 randomly selected participants from previous surveys, for a total of 20 people.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "During the evaluation process, we invited 6 experts in the field of lamp design, as well as 14 randomly selected participants from previous surveys, for a total of 20 people.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "vious surveys, for a total of 20 people to rate the emotional experience of 6 table lamp",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "products.Participantsevaluated6productsona1to5pointLikertscale,withthe6thprod-",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            36
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            34,
+            35,
+            36,
+            37,
+            38
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            34,
+            35,
+            36,
+            37,
+            38
+          ],
+          "quote": "vious surveys, for a total of 20 people to rate the emotional experience of 6 table lamp"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            34,
+            35,
+            36,
+            37,
+            38
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            34,
+            35,
+            36,
+            37,
+            38
+          ],
+          "quote": "experts in the field of lamp design, as well as 14 randomly selected participants from pre-"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            34,
+            35,
+            36,
+            37,
+            38
+          ],
+          "quote": "glareandoptimisingthereadingandworkingenvironment.Thelampbaseadoptsanoval"
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            34,
+            35,
+            36,
+            37,
+            38
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            34,
+            35,
+            36,
+            37,
+            38
+          ],
+          "quote": "vious surveys, for a total of 20 people to rate the emotional experience of 6 table lamp"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\50.pdf"
+}

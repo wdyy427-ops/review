@@ -1,0 +1,868 @@
+{
+  "paper_id": 12,
+  "title": "Empathetic narrative design: Food brand storytelling in the AI context",
+  "doi": "10.1080/14606925.2026.2663041",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    14,
+    15,
+    16,
+    19
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D5"
+  ],
+  "stage_codes": [
+    "S1",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F5"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U6"
+  ],
+  "context_summary": "Study explores AI-driven empathetic narrative design for food brands, using KANO model and A/B testing to evaluate user needs and satisfaction.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "012-E1",
+      "purpose_codes": [
+        "P1",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O3",
+        "O6"
+      ],
+      "evaluator_codes": [
+        "V2",
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q3",
+        "Q6"
+      ],
+      "sample_n": 18,
+      "sample_description": "All interviewees had long-term exposure to the Su Nan Ingredients brand.",
+      "recruitment": "employing a hybrid strategy combining purposive sampling with quota sam -",
+      "task": "",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "The case selection was based on four considerations: First, the brand holds industry representativeness in the campus food distribution sector; second, it exhibits significant room for optimisation in visual design and communication methods; Third, researchers could access ample materials through corporate documents, official account content, and field visits (see Figure 1 ).",
+      "limitations": "",
+      "ethics": "The entire research process strictly adhered to academic ethics standards.",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 7,
+          "quote": "All interviewees had long-term exposure to the Su Nan Ingredients brand."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "The case selection was based on four considerations: First, the brand holds industry representativeness in the campus food distribution sector; second, it exhibits significant room for optimisation in visual design and communication methods; Third, researchers could access ample materials through corporate documents, official account content, and field visits (see Figure 1 ).",
+          "claim_summary": "The case selection was based on four considerations: First, the brand holds industry representativeness in the campus food distribution sector; second, it exhibits significant room for optimisation in visual design and communication methods; Third, researchers could access ample materials through co",
+          "claim_type": "C1",
+          "construct_raw": "representativeness",
+          "indicator_raw": "representativeness",
+          "item_quote": "The case selection was based on four considerations: First, the brand holds industry representativeness in the campus food distribution sector; second, it exhibits significant room for optimisation in visual design and communication methods; Third, researchers could access ample materials through corporate documents, official account content, and field visits (see Figure 1 ).",
+          "dimension_code": "A",
+          "indicator_code": "A5",
+          "instrument_raw": "Based on this framework, a questionnaire incorporating both positive and negative items was designed.；Research methods In this study, we first employed semi-structured interviews to identify primary and secondary user needs.；THE DESIGN JOURNAL 1575 This method systematically analyses user behavioural data from social media interactions with a brand, aiming to precisely identify core",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To ensure the reliability of the independent sample t-test, the normality and homogeneity of variance tests were first conducted on the questionnaire data.",
+          "result_quote": "The case selection was based on four considerations: First, the brand holds industry representativeness in the campus food distribution sector; second, it exhibits significant room for optimisation in visual design and communication methods; Third, researchers could access ample materials through corporate documents, official account content, and field visits (see Figure 1 ).",
+          "effect_direction": "NR",
+          "pages": [
+            6
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Primary needs secondary needs Visual needs r egional cultural characteristics, Vitality and liveliness, Vibrant colours, Prominent symbols, Traditional decorations Value needs emphasising health concepts, Demonstrating quality assurance, a dvocating cultural heritage, e voking emotional resonance Content needs incorporating fun, s torytelling elements, a sense of belonging, interactivity, e ducational orientation, Contemporaneity Through interviews, three primary requirements and fifteen secondary requirements were ultimately identified. subsequent K ano model requirement analysis will be based on this table.",
+          "claim_summary": "Primary needs secondary needs Visual needs r egional cultural characteristics, Vitality and liveliness, Vibrant colours, Prominent symbols, Traditional decorations Value needs emphasising health concepts, Demonstrating quality assurance, a dvocating cultural heritage, e voking emotional resonance Co",
+          "claim_type": "C1",
+          "construct_raw": "fun",
+          "indicator_raw": "fun",
+          "item_quote": "Primary needs secondary needs Visual needs r egional cultural characteristics, Vitality and liveliness, Vibrant colours, Prominent symbols, Traditional decorations Value needs emphasising health concepts, Demonstrating quality assurance, a dvocating cultural heritage, e voking emotional resonance Content needs incorporating fun, s torytelling elements, a sense of belonging, interactivity, e ducational orientation, Contemporaneity Through interviews, three primary requirements and fifteen secondary requirements were ultimately identified. subsequent K ano model requirement analysis will be based on this table.",
+          "dimension_code": "C",
+          "indicator_code": "C5",
+          "instrument_raw": "Based on this framework, a questionnaire incorporating both positive and negative items was designed.；Research methods In this study, we first employed semi-structured interviews to identify primary and secondary user needs.；THE DESIGN JOURNAL 1575 This method systematically analyses user behavioural data from social media interactions with a brand, aiming to precisely identify core",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To ensure the reliability of the independent sample t-test, the normality and homogeneity of variance tests were first conducted on the questionnaire data.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            8
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflect regional cultural characteristics, how would you rate them?” Respondents rated each item on a five-point Likert scale, ranging from “Strongly Dislike” (1 point) to “Strongly Like” (5 points).",
+          "claim_summary": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflec",
+          "claim_type": "C1",
+          "construct_raw": "reflect",
+          "indicator_raw": "reflect",
+          "item_quote": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflect regional cultural characteristics, how would you rate them?” Respondents rated each item on a five-point Likert scale, ranging from “Strongly Dislike” (1 point) to “Strongly Like” (5 points).",
+          "dimension_code": "C",
+          "indicator_code": "C6",
+          "instrument_raw": "Based on this framework, a questionnaire incorporating both positive and negative items was designed.；Research methods In this study, we first employed semi-structured interviews to identify primary and secondary user needs.；THE DESIGN JOURNAL 1575 This method systematically analyses user behavioural data from social media interactions with a brand, aiming to precisely identify core",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To ensure the reliability of the independent sample t-test, the normality and homogeneity of variance tests were first conducted on the questionnaire data.",
+          "result_quote": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflect regional cultural characteristics, how would you rate them?” Respondents rated each item on a five-point Likert scale, ranging from “Strongly Dislike” (1 point) to “Strongly Like” (5 points).",
+          "effect_direction": "正向",
+          "pages": [
+            8
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Photographs from an on-site survey of Wuxi su nan Food Distribution Company. l eft: s taff organising ingredients in front of refrigerated cabinets. r ight: The “Five-Pronged a ssurance” quality control system wall.",
+          "claim_summary": "Photographs from an on-site survey of Wuxi su nan Food Distribution Company. l eft: s taff organising ingredients in front of refrigerated cabinets. r ight: The “Five-Pronged a ssurance” quality control system wall.",
+          "claim_type": "C1",
+          "construct_raw": "control",
+          "indicator_raw": "control",
+          "item_quote": "Photographs from an on-site survey of Wuxi su nan Food Distribution Company. l eft: s taff organising ingredients in front of refrigerated cabinets. r ight: The “Five-Pronged a ssurance” quality control system wall.",
+          "dimension_code": "D",
+          "indicator_code": "D3",
+          "instrument_raw": "Based on this framework, a questionnaire incorporating both positive and negative items was designed.；Research methods In this study, we first employed semi-structured interviews to identify primary and secondary user needs.；THE DESIGN JOURNAL 1575 This method systematically analyses user behavioural data from social media interactions with a brand, aiming to precisely identify core",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To ensure the reliability of the independent sample t-test, the normality and homogeneity of variance tests were first conducted on the questionnaire data.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            7
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "WU value of different characteristics in achieving emotional resonance and visual communication effectiveness.",
+          "claim_summary": "WU value of different characteristics in achieving emotional resonance and visual communication effectiveness.",
+          "claim_type": "C1",
+          "construct_raw": "communication",
+          "indicator_raw": "communication",
+          "item_quote": "The case selection was based on four considerations: First, the brand holds industry representativeness in the campus food distribution sector; second, it exhibits significant room for optimisation in visual design and communication methods; Third, researchers could access ample materials through corporate documents, official account content, and field visits (see Figure 1 ).",
+          "dimension_code": "D",
+          "indicator_code": "D8",
+          "instrument_raw": "Based on this framework, a questionnaire incorporating both positive and negative items was designed.；Research methods In this study, we first employed semi-structured interviews to identify primary and secondary user needs.；THE DESIGN JOURNAL 1575 This method systematically analyses user behavioural data from social media interactions with a brand, aiming to precisely identify core",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To ensure the reliability of the independent sample t-test, the normality and homogeneity of variance tests were first conducted on the questionnaire data.",
+          "result_quote": "The case selection was based on four considerations: First, the brand holds industry representativeness in the campus food distribution sector; second, it exhibits significant room for optimisation in visual design and communication methods; Third, researchers could access ample materials through corporate documents, official account content, and field visits (see Figure 1 ).",
+          "effect_direction": "NR",
+          "pages": [
+            6,
+            7
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflect regional cultural characteristics, how would you rate them?” Respondents rated each item on a five-point Likert scale, ranging from “Strongly Dislike” (1 point) to “Strongly Like” (5 points).",
+          "claim_summary": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflec",
+          "claim_type": "C1",
+          "construct_raw": "Cultur",
+          "indicator_raw": "Cultur",
+          "item_quote": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflect regional cultural characteristics, how would you rate them?” Respondents rated each item on a five-point Likert scale, ranging from “Strongly Dislike” (1 point) to “Strongly Like” (5 points).",
+          "dimension_code": "E",
+          "indicator_code": "E4",
+          "instrument_raw": "Based on this framework, a questionnaire incorporating both positive and negative items was designed.；Research methods In this study, we first employed semi-structured interviews to identify primary and secondary user needs.；THE DESIGN JOURNAL 1575 This method systematically analyses user behavioural data from social media interactions with a brand, aiming to precisely identify core",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To ensure the reliability of the independent sample t-test, the normality and homogeneity of variance tests were first conducted on the questionnaire data.",
+          "result_quote": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflect regional cultural characteristics, how would you rate them?” Respondents rated each item on a five-point Likert scale, ranging from “Strongly Dislike” (1 point) to “Strongly Like” (5 points).",
+          "effect_direction": "正向",
+          "pages": [
+            8
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Through this closed-loop integration of emotion recognition, narrative generation, and dynamic feedback, AI effectively bridges meaning construc - tion and user empathy, creating a sustainable cycle for brand narrative insight, generation, and optimisation.",
+          "claim_summary": "Through this closed-loop integration of emotion recognition, narrative generation, and dynamic feedback, AI effectively bridges meaning construc - tion and user empathy, creating a sustainable cycle for brand narrative insight, generation, and optimisation.",
+          "claim_type": "C1",
+          "construct_raw": "brand",
+          "indicator_raw": "brand",
+          "item_quote": "User need acquisition and KANO questionnaire collection During the user need acquisition phase, the research team conducted offline interviews at five schools within the service scope of the Su Nan Ingredients brand.",
+          "dimension_code": "E",
+          "indicator_code": "E7",
+          "instrument_raw": "Based on this framework, a questionnaire incorporating both positive and negative items was designed.；Research methods In this study, we first employed semi-structured interviews to identify primary and secondary user needs.；THE DESIGN JOURNAL 1575 This method systematically analyses user behavioural data from social media interactions with a brand, aiming to precisely identify core",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To ensure the reliability of the independent sample t-test, the normality and homogeneity of variance tests were first conducted on the questionnaire data.",
+          "result_quote": "The case selection was based on four considerations: First, the brand holds industry representativeness in the campus food distribution sector; second, it exhibits significant room for optimisation in visual design and communication methods; Third, researchers could access ample materials through corporate documents, official account content, and field visits (see Figure 1 ).",
+          "effect_direction": "NR",
+          "pages": [
+            6,
+            7
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "quote": "In this study, we first employed semi-structured interviews to identify primary"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "quote": "rate them?” Respondents rated each item on a five-point Likert scale, ranging"
+        },
+        {
+          "standard": "A6",
+          "status": "P",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "P",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "quote": "The case selection was based on four considerations: First, the brand holds industry representativeness in the campus food distribution sector; second, it exhibits significant room for optimisation in visual design and communication methods; Third, researchers could access ample materials through corporate documents, official account content, and f"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "quote": "In this study, we first employed semi-structured interviews to identify primary"
+        }
+      ]
+    },
+    {
+      "eval_id": "012-E2",
+      "purpose_codes": [
+        "P2",
+        "P1"
+      ],
+      "object_codes": [
+        "O3",
+        "O4",
+        "O6"
+      ],
+      "evaluator_codes": [
+        "V5"
+      ],
+      "source_codes": [
+        "H1",
+        "H4",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G8",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K5",
+        "K6",
+        "K7"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 80,
+      "sample_description": "We independently recruited 80 participants from the brand’s core audience.",
+      "recruitment": "We independently recruited 80 participants from the brand’s core",
+      "task": "",
+      "comparator": "generated using AI technology; while the control group ( n = 40) viewed the",
+      "procedure": "",
+      "analysis": "To ensure the reliability of the independent sample t-test, the normality",
+      "actual_results": "",
+      "limitations": "However, it must be acknowledged that this research has certain limitations.",
+      "ethics": "methods to reduce cultural translation bias; and establishing an ethical evalu -",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 15,
+          "quote": "We independently recruited 80 participants from the brand’s core audience."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "The measurement tool is a satisfaction questionnaire strictly constructed based on the demand hierarchy of the KANO model.",
+          "claim_summary": "The measurement tool is a satisfaction questionnaire strictly constructed based on the demand hierarchy of the KANO model.",
+          "claim_type": "C1",
+          "construct_raw": "satisfaction",
+          "indicator_raw": "satisfaction",
+          "item_quote": "The measurement tool is a satisfaction questionnaire strictly constructed based on the demand hierarchy of the KANO model.",
+          "dimension_code": "E",
+          "indicator_code": "E1",
+          "instrument_raw": "Based on this framework, a questionnaire incorporating both positive and negative items was designed.；Research methods In this study, we first employed semi-structured interviews to identify primary and secondary user needs.；THE DESIGN JOURNAL 1575 This method systematically analyses user behavioural data from social media interactions with a brand, aiming to precisely identify core",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To ensure the reliability of the independent sample t-test, the normality and homogeneity of variance tests were first conducted on the questionnaire data.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            15
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "strategy system integrating AI technology with empathy theory."
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "To ensure the reliability of the independent sample t-test, the normality"
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "We independently recruited 80 participants from the brand’s core"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "To ensure the reliability of the independent sample t-test, the normality"
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "strategy system integrating AI technology with empathy theory."
+        }
+      ]
+    },
+    {
+      "eval_id": "012-E3",
+      "purpose_codes": [
+        "P1",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O3",
+        "O6"
+      ],
+      "evaluator_codes": [
+        "V2",
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K5",
+        "K7"
+      ],
+      "constraint_codes": [
+        "Q6"
+      ],
+      "sample_n": 18,
+      "sample_description": "The survey distributed 128 questionnaires via the Credamo platform, with 128 completions.",
+      "recruitment": "employing a hybrid strategy combining purposive sampling with quota sam -",
+      "task": "visual identity system has become the primary task for brand upgrading.",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflect regional cultural characteristics, how would you rate them?” Respondents rated each item on a five-point Likert scale, ranging from “Strongly Dislike” (1 point) to “Strongly Like” (5 points).",
+      "limitations": "",
+      "ethics": "The entire research process strictly adhered to academic ethics standards.",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 9,
+          "quote": "The survey distributed 128 questionnaires via the Credamo platform, with 128 completions."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Primary needs secondary needs Visual needs r egional cultural characteristics, Vitality and liveliness, Vibrant colours, Prominent symbols, Traditional decorations Value needs emphasising health concepts, Demonstrating quality assurance, a dvocating cultural heritage, e voking emotional resonance Content needs incorporating fun, s torytelling elements, a sense of belonging, interactivity, e ducational orientation, Contemporaneity Through interviews, three primary requirements and fifteen secondary requirements were ultimately identified. subsequent K ano model requirement analysis will be based on this table.",
+          "claim_summary": "Primary needs secondary needs Visual needs r egional cultural characteristics, Vitality and liveliness, Vibrant colours, Prominent symbols, Traditional decorations Value needs emphasising health concepts, Demonstrating quality assurance, a dvocating cultural heritage, e voking emotional resonance Co",
+          "claim_type": "C1",
+          "construct_raw": "fun",
+          "indicator_raw": "fun",
+          "item_quote": "Primary needs secondary needs Visual needs r egional cultural characteristics, Vitality and liveliness, Vibrant colours, Prominent symbols, Traditional decorations Value needs emphasising health concepts, Demonstrating quality assurance, a dvocating cultural heritage, e voking emotional resonance Content needs incorporating fun, s torytelling elements, a sense of belonging, interactivity, e ducational orientation, Contemporaneity Through interviews, three primary requirements and fifteen secondary requirements were ultimately identified. subsequent K ano model requirement analysis will be based on this table.",
+          "dimension_code": "C",
+          "indicator_code": "C5",
+          "instrument_raw": "Based on this framework, a questionnaire incorporating both positive and negative items was designed.；Research methods In this study, we first employed semi-structured interviews to identify primary and secondary user needs.；THE DESIGN JOURNAL 1575 This method systematically analyses user behavioural data from social media interactions with a brand, aiming to precisely identify core",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To ensure the reliability of the independent sample t-test, the normality and homogeneity of variance tests were first conducted on the questionnaire data.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            8
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflect regional cultural characteristics, how would you rate them?” Respondents rated each item on a five-point Likert scale, ranging from “Strongly Dislike” (1 point) to “Strongly Like” (5 points).",
+          "claim_summary": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflec",
+          "claim_type": "C1",
+          "construct_raw": "reflect",
+          "indicator_raw": "reflect",
+          "item_quote": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflect regional cultural characteristics, how would you rate them?” Respondents rated each item on a five-point Likert scale, ranging from “Strongly Dislike” (1 point) to “Strongly Like” (5 points).",
+          "dimension_code": "C",
+          "indicator_code": "C6",
+          "instrument_raw": "Based on this framework, a questionnaire incorporating both positive and negative items was designed.；Research methods In this study, we first employed semi-structured interviews to identify primary and secondary user needs.；THE DESIGN JOURNAL 1575 This method systematically analyses user behavioural data from social media interactions with a brand, aiming to precisely identify core",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To ensure the reliability of the independent sample t-test, the normality and homogeneity of variance tests were first conducted on the questionnaire data.",
+          "result_quote": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflect regional cultural characteristics, how would you rate them?” Respondents rated each item on a five-point Likert scale, ranging from “Strongly Dislike” (1 point) to “Strongly Like” (5 points).",
+          "effect_direction": "正向",
+          "pages": [
+            8
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Photographs from an on-site survey of Wuxi su nan Food Distribution Company. l eft: s taff organising ingredients in front of refrigerated cabinets. r ight: The “Five-Pronged a ssurance” quality control system wall.",
+          "claim_summary": "Photographs from an on-site survey of Wuxi su nan Food Distribution Company. l eft: s taff organising ingredients in front of refrigerated cabinets. r ight: The “Five-Pronged a ssurance” quality control system wall.",
+          "claim_type": "C1",
+          "construct_raw": "control",
+          "indicator_raw": "control",
+          "item_quote": "Photographs from an on-site survey of Wuxi su nan Food Distribution Company. l eft: s taff organising ingredients in front of refrigerated cabinets. r ight: The “Five-Pronged a ssurance” quality control system wall.",
+          "dimension_code": "D",
+          "indicator_code": "D3",
+          "instrument_raw": "Based on this framework, a questionnaire incorporating both positive and negative items was designed.；Research methods In this study, we first employed semi-structured interviews to identify primary and secondary user needs.；THE DESIGN JOURNAL 1575 This method systematically analyses user behavioural data from social media interactions with a brand, aiming to precisely identify core",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To ensure the reliability of the independent sample t-test, the normality and homogeneity of variance tests were first conducted on the questionnaire data.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            7
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "WU value of different characteristics in achieving emotional resonance and visual communication effectiveness.",
+          "claim_summary": "WU value of different characteristics in achieving emotional resonance and visual communication effectiveness.",
+          "claim_type": "C1",
+          "construct_raw": "communication",
+          "indicator_raw": "communication",
+          "item_quote": "The case selection was based on four considerations: First, the brand holds industry representativeness in the campus food distribution sector; second, it exhibits significant room for optimisation in visual design and communication methods; Third, researchers could access ample materials through corporate documents, official account content, and field visits (see Figure 1 ).",
+          "dimension_code": "D",
+          "indicator_code": "D8",
+          "instrument_raw": "Based on this framework, a questionnaire incorporating both positive and negative items was designed.；Research methods In this study, we first employed semi-structured interviews to identify primary and secondary user needs.；THE DESIGN JOURNAL 1575 This method systematically analyses user behavioural data from social media interactions with a brand, aiming to precisely identify core",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To ensure the reliability of the independent sample t-test, the normality and homogeneity of variance tests were first conducted on the questionnaire data.",
+          "result_quote": "The case selection was based on four considerations: First, the brand holds industry representativeness in the campus food distribution sector; second, it exhibits significant room for optimisation in visual design and communication methods; Third, researchers could access ample materials through corporate documents, official account content, and field visits (see Figure 1 ).",
+          "effect_direction": "NR",
+          "pages": [
+            6,
+            7
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflect regional cultural characteristics, how would you rate them?” Respondents rated each item on a five-point Likert scale, ranging from “Strongly Dislike” (1 point) to “Strongly Like” (5 points).",
+          "claim_summary": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflec",
+          "claim_type": "C1",
+          "construct_raw": "Cultur",
+          "indicator_raw": "Cultur",
+          "item_quote": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflect regional cultural characteristics, how would you rate them?” Respondents rated each item on a five-point Likert scale, ranging from “Strongly Dislike” (1 point) to “Strongly Like” (5 points).",
+          "dimension_code": "E",
+          "indicator_code": "E4",
+          "instrument_raw": "Based on this framework, a questionnaire incorporating both positive and negative items was designed.；Research methods In this study, we first employed semi-structured interviews to identify primary and secondary user needs.；THE DESIGN JOURNAL 1575 This method systematically analyses user behavioural data from social media interactions with a brand, aiming to precisely identify core",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To ensure the reliability of the independent sample t-test, the normality and homogeneity of variance tests were first conducted on the questionnaire data.",
+          "result_quote": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflect regional cultural characteristics, how would you rate them?” Respondents rated each item on a five-point Likert scale, ranging from “Strongly Dislike” (1 point) to “Strongly Like” (5 points).",
+          "effect_direction": "正向",
+          "pages": [
+            8
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Through this closed-loop integration of emotion recognition, narrative generation, and dynamic feedback, AI effectively bridges meaning construc - tion and user empathy, creating a sustainable cycle for brand narrative insight, generation, and optimisation.",
+          "claim_summary": "Through this closed-loop integration of emotion recognition, narrative generation, and dynamic feedback, AI effectively bridges meaning construc - tion and user empathy, creating a sustainable cycle for brand narrative insight, generation, and optimisation.",
+          "claim_type": "C1",
+          "construct_raw": "brand",
+          "indicator_raw": "brand",
+          "item_quote": "User need acquisition and KANO questionnaire collection During the user need acquisition phase, the research team conducted offline interviews at five schools within the service scope of the Su Nan Ingredients brand.",
+          "dimension_code": "E",
+          "indicator_code": "E7",
+          "instrument_raw": "Based on this framework, a questionnaire incorporating both positive and negative items was designed.；Research methods In this study, we first employed semi-structured interviews to identify primary and secondary user needs.；THE DESIGN JOURNAL 1575 This method systematically analyses user behavioural data from social media interactions with a brand, aiming to precisely identify core",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M7"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To ensure the reliability of the independent sample t-test, the normality and homogeneity of variance tests were first conducted on the questionnaire data.",
+          "result_quote": "The case selection was based on four considerations: First, the brand holds industry representativeness in the campus food distribution sector; second, it exhibits significant room for optimisation in visual design and communication methods; Third, researchers could access ample materials through corporate documents, official account content, and field visits (see Figure 1 ).",
+          "effect_direction": "NR",
+          "pages": [
+            6,
+            7
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "quote": "In this study, we first employed semi-structured interviews to identify primary"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "quote": "rate them?” Respondents rated each item on a five-point Likert scale, ranging"
+        },
+        {
+          "standard": "A6",
+          "status": "C",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "C",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "quote": "For example, for the secondary need “Regional Cultural Characteristics, ” the positive question was “If the brand visuals of Su Nan Ingredients reflect regional cultural characteristics, how would you rate them?” and the negative question was “If the brand visuals of Su Nan Ingredients do not reflect regional cultural characteristics, how would you"
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "quote": "In this study, we first employed semi-structured interviews to identify primary"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\12.pdf"
+}

@@ -1,0 +1,758 @@
+{
+  "paper_id": 59,
+  "title": "An intelligent prompt system for product generative design based on style perception preference values",
+  "doi": "10.1080/09544828.2025.2546840",
+  "year": 2025,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    8,
+    11,
+    16,
+    17,
+    23,
+    24,
+    25,
+    26,
+    27,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    38,
+    39,
+    40,
+    48
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1",
+    "D2"
+  ],
+  "stage_codes": [
+    "S1"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R1",
+    "R2"
+  ],
+  "target_user_codes": [
+    "U6",
+    "U1"
+  ],
+  "context_summary": "This study proposes an intelligent prompt system for product generative design based on style perception preference values. The system collects and analyzes design prompts, constructs a mapping model between design elements and style perception, and integrates it with a diffusion model to generate designs. The system is validated through experiments comparing its performance with traditional methods.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "059-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1"
+      ],
+      "source_codes": [
+        "H1",
+        "H3",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [
+        "Q3",
+        "Q6"
+      ],
+      "sample_n": 300,
+      "sample_description": "A total of 217 valid questionnaire responses were ultimately collected, and this data will be input into a neural network model to train machine learning algorithms on users’ preferences for style perception related to various design elements across different dimensions.",
+      "recruitment": "Kaiser-Meyer-Olkin(KMO)MeasureofSamplingAdequacy 0.7463",
+      "task": "dents were required to rate 15 product form design elements across four style perception",
+      "comparator": "by the participants for the generated images were compared with the style perception",
+      "procedure": "The experimental procedure is illustrated in Figure 11:",
+      "analysis": "p <0.001",
+      "actual_results": "The loss function is defined as the Mean Squared Error (MSE), which is formulated in Equation (13): L = 1 N N∑ i=1 (Qi − ˆQi)2 (13) where Qi represents the Q-value predicted by the model, ˆQi denotes the true Q-value, and N is the number of samples.",
+      "limitations": "as DALLE-3, Midjourney, impose limitations on user customisation due to their closed-",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 24,
+          "quote": "A total of 217 valid questionnaire responses were ultimately collected, and this data will be input into a neural network model to train machine learning algorithms on users’ preferences for style perception related to various design elements across different dimensions."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Constructing the mapping model through reinforcement learning To achieve an effective mapping between design elements and users’ style perception dimensions, this study employs Deep Q-Networks (DQN) from deep reinforcement learn- ing to construct the mapping model.",
+          "claim_summary": "Constructing the mapping model through reinforcement learning To achieve an effective mapping between design elements and users’ style perception dimensions, this study employs Deep Q-Networks (DQN) from deep reinforcement learn- ing to construct the mapping model.",
+          "claim_type": "C1",
+          "construct_raw": "learn",
+          "indicator_raw": "learn",
+          "item_quote": "Constructing the mapping model through reinforcement learning To achieve an effective mapping between design elements and users’ style perception dimensions, this study employs Deep Q-Networks (DQN) from deep reinforcement learn- ing to construct the mapping model.",
+          "dimension_code": "C",
+          "indicator_code": "C2",
+          "instrument_raw": "In this study, Exploratory Factor Analysis (EFA) is employed to examine the structural validity of the questionnaire.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "Validity analysis is a statistical method used to assess whether a measurement instru- ment accurately reflects the research variables or latent constructs.",
+          "reliability_evidence": "Reliabilityanalysisofeachstyleperceptiondimension.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            26
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Figure 7 illustrates the trend of the maximum Q-value across epochs, show- ing that after approximately 100 epochs, the fluctuation range of Q-values significantly decreases, indicating that the model has effectively approximated the Q-value function at this stage.",
+          "claim_summary": "Figure 7 illustrates the trend of the maximum Q-value across epochs, show- ing that after approximately 100 epochs, the fluctuation range of Q-values significantly decreases, indicating that the model has effectively approximated the Q-value function at this stage.",
+          "claim_type": "C1",
+          "construct_raw": "fun",
+          "indicator_raw": "fun",
+          "item_quote": "The loss function is defined as the Mean Squared Error (MSE), which is formulated in Equation (13): L = 1 N N∑ i=1 (Qi − ˆQi)2 (13) where Qi represents the Q-value predicted by the model, ˆQi denotes the true Q-value, and N is the number of samples.",
+          "dimension_code": "C",
+          "indicator_code": "C5",
+          "instrument_raw": "In this study, Exploratory Factor Analysis (EFA) is employed to examine the structural validity of the questionnaire.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "Validity analysis is a statistical method used to assess whether a measurement instru- ment accurately reflects the research variables or latent constructs.",
+          "reliability_evidence": "Reliabilityanalysisofeachstyleperceptiondimension.",
+          "result_quote": "The loss function is defined as the Mean Squared Error (MSE), which is formulated in Equation (13): L = 1 N N∑ i=1 (Qi − ˆQi)2 (13) where Qi represents the Q-value predicted by the model, ˆQi denotes the true Q-value, and N is the number of samples.",
+          "effect_direction": "NR",
+          "pages": [
+            27,
+            28
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Validity analysis is a statistical method used to assess whether a measurement instru- ment accurately reflects the research variables or latent constructs.",
+          "claim_summary": "Validity analysis is a statistical method used to assess whether a measurement instru- ment accurately reflects the research variables or latent constructs.",
+          "claim_type": "C1",
+          "construct_raw": "reflect",
+          "indicator_raw": "reflect",
+          "item_quote": "Validity analysis is a statistical method used to assess whether a measurement instru- ment accurately reflects the research variables or latent constructs.",
+          "dimension_code": "C",
+          "indicator_code": "C6",
+          "instrument_raw": "In this study, Exploratory Factor Analysis (EFA) is employed to examine the structural validity of the questionnaire.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "Validity analysis is a statistical method used to assess whether a measurement instru- ment accurately reflects the research variables or latent constructs.",
+          "reliability_evidence": "Reliabilityanalysisofeachstyleperceptiondimension.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            26
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Systemeffectivenessverification This study conducts a comprehensive evaluation and comparison from two main dimen- sions: system performance assessment and system usability assessment, integrating both quantitative evaluation of system performance and qualitative evaluation of usability.",
+          "claim_summary": "Systemeffectivenessverification This study conducts a comprehensive evaluation and comparison from two main dimen- sions: system performance assessment and system usability assessment, integrating both quantitative evaluation of system performance and qualitative evaluation of usability.",
+          "claim_type": "C1",
+          "construct_raw": "usability",
+          "indicator_raw": "usability",
+          "item_quote": "Systemeffectivenessverification This study conducts a comprehensive evaluation and comparison from two main dimen- sions: system performance assessment and system usability assessment, integrating both quantitative evaluation of system performance and qualitative evaluation of usability.",
+          "dimension_code": "D",
+          "indicator_code": "D1",
+          "instrument_raw": "In this study, Exploratory Factor Analysis (EFA) is employed to examine the structural validity of the questionnaire.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "Validity analysis is a statistical method used to assess whether a measurement instru- ment accurately reflects the research variables or latent constructs.",
+          "reliability_evidence": "Reliabilityanalysisofeachstyleperceptiondimension.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            33
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The precise control and visualisation capabilities based on the preference values of affective word pairs enable designers to intuitively adjust the weights between affective vocabulary, ensur- ing that the generated products better meet their expected outcomes.",
+          "claim_summary": "The precise control and visualisation capabilities based on the preference values of affective word pairs enable designers to intuitively adjust the weights between affective vocabulary, ensur- ing that the generated products better meet their expected outcomes.",
+          "claim_type": "C1",
+          "construct_raw": "control",
+          "indicator_raw": "control",
+          "item_quote": "The precise control and visualisation capabilities based on the preference values of affective word pairs enable designers to intuitively adjust the weights between affective vocabulary, ensur- ing that the generated products better meet their expected outcomes.",
+          "dimension_code": "D",
+          "indicator_code": "D3",
+          "instrument_raw": "In this study, Exploratory Factor Analysis (EFA) is employed to examine the structural validity of the questionnaire.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "Validity analysis is a statistical method used to assess whether a measurement instru- ment accurately reflects the research variables or latent constructs.",
+          "reliability_evidence": "Reliabilityanalysisofeachstyleperceptiondimension.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            32
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "By employing a dual-layer evaluation framework combining quantitative and qualitative methods, this study not only assesses the technical feasibility and style prediction perfor- mance of the proposed recommendation system driven by style perception preferences, but also verifies its effectiveness from the perspective of user experience.",
+          "claim_summary": "By employing a dual-layer evaluation framework combining quantitative and qualitative methods, this study not only assesses the technical feasibility and style prediction perfor- mance of the proposed recommendation system driven by style perception preferences, but also verifies its effectiveness f",
+          "claim_type": "C1",
+          "construct_raw": "preference",
+          "indicator_raw": "preference",
+          "item_quote": "The precise control and visualisation capabilities based on the preference values of affective word pairs enable designers to intuitively adjust the weights between affective vocabulary, ensur- ing that the generated products better meet their expected outcomes.",
+          "dimension_code": "E",
+          "indicator_code": "E1",
+          "instrument_raw": "In this study, Exploratory Factor Analysis (EFA) is employed to examine the structural validity of the questionnaire.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "Validity analysis is a statistical method used to assess whether a measurement instru- ment accurately reflects the research variables or latent constructs.",
+          "reliability_evidence": "Reliabilityanalysisofeachstyleperceptiondimension.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            32,
+            33
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Bartlett’s test of sphericity yields χ⊃2(1770) = 6509.97, p< 0.001, sug- gesting that the observed correlation matrix significantly deviates from the identity matrix, and the correlations among the items are significant and non-random.",
+          "claim_summary": "Bartlett’s test of sphericity yields χ⊃2(1770) = 6509.97, p< 0.001, sug- gesting that the observed correlation matrix significantly deviates from the identity matrix, and the correlations among the items are significant and non-random.",
+          "claim_type": "C1",
+          "construct_raw": "identity",
+          "indicator_raw": "identity",
+          "item_quote": "Bartlett’s test of sphericity yields χ⊃2(1770) = 6509.97, p< 0.001, sug- gesting that the observed correlation matrix significantly deviates from the identity matrix, and the correlations among the items are significant and non-random.",
+          "dimension_code": "E",
+          "indicator_code": "E4",
+          "instrument_raw": "In this study, Exploratory Factor Analysis (EFA) is employed to examine the structural validity of the questionnaire.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "Validity analysis is a statistical method used to assess whether a measurement instru- ment accurately reflects the research variables or latent constructs.",
+          "reliability_evidence": "Reliabilityanalysisofeachstyleperceptiondimension.",
+          "result_quote": "Bartlett’s test of sphericity yields χ⊃2(1770) = 6509.97, p< 0.001, sug- gesting that the observed correlation matrix significantly deviates from the identity matrix, and the correlations among the items are significant and non-random.",
+          "effect_direction": "NR",
+          "pages": [
+            26
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "quote": "silhouette coefficient was employed to evaluate the effects of selecting different num-"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "quote": "porating a Prompt ID to indicate which words belong to the same prompt."
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "quote": "tionnaire data were further tested for reliability and validity."
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "quote": "tion analysis of commonly found humidifier samples in the market, as shown in Table 2."
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "quote": "p <0.001"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "quote": "The loss function is defined as the Mean Squared Error (MSE), which is formulated in Equation (13): L = 1 N N∑ i=1 (Qi − ˆQi)2 (13) where Qi represents the Q-value predicted by the model, ˆQi denotes the true Q-value, and N is the number of samples."
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "quote": "porating a Prompt ID to indicate which words belong to the same prompt."
+        }
+      ]
+    },
+    {
+      "eval_id": "059-E2",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1"
+      ],
+      "source_codes": [
+        "H1",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 20,
+      "sample_description": "sions: system performance assessment and system usability assessment, integrating both",
+      "recruitment": "",
+      "task": "dynamic decision-making and sequential prediction tasks (Mnih et al.",
+      "comparator": "by the participants for the generated images were compared with the style perception",
+      "procedure": "The experimental procedure is illustrated in Figure 11:",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "as DALLE-3, Midjourney, impose limitations on user customisation due to their closed-",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 34,
+          "quote": "sions: system performance assessment and system usability assessment, integrating both"
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Systemeffectivenessverification This study conducts a comprehensive evaluation and comparison from two main dimen- sions: system performance assessment and system usability assessment, integrating both quantitative evaluation of system performance and qualitative evaluation of usability.",
+          "claim_summary": "Systemeffectivenessverification This study conducts a comprehensive evaluation and comparison from two main dimen- sions: system performance assessment and system usability assessment, integrating both quantitative evaluation of system performance and qualitative evaluation of usability.",
+          "claim_type": "C1",
+          "construct_raw": "usability",
+          "indicator_raw": "usability",
+          "item_quote": "Systemeffectivenessverification This study conducts a comprehensive evaluation and comparison from two main dimen- sions: system performance assessment and system usability assessment, integrating both quantitative evaluation of system performance and qualitative evaluation of usability.",
+          "dimension_code": "D",
+          "indicator_code": "D1",
+          "instrument_raw": "In this study, Exploratory Factor Analysis (EFA) is employed to examine the structural validity of the questionnaire.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "Validity analysis is a statistical method used to assess whether a measurement instru- ment accurately reflects the research variables or latent constructs.",
+          "reliability_evidence": "Reliabilityanalysisofeachstyleperceptiondimension.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            33
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The precise control and visualisation capabilities based on the preference values of affective word pairs enable designers to intuitively adjust the weights between affective vocabulary, ensur- ing that the generated products better meet their expected outcomes.",
+          "claim_summary": "The precise control and visualisation capabilities based on the preference values of affective word pairs enable designers to intuitively adjust the weights between affective vocabulary, ensur- ing that the generated products better meet their expected outcomes.",
+          "claim_type": "C1",
+          "construct_raw": "control",
+          "indicator_raw": "control",
+          "item_quote": "The precise control and visualisation capabilities based on the preference values of affective word pairs enable designers to intuitively adjust the weights between affective vocabulary, ensur- ing that the generated products better meet their expected outcomes.",
+          "dimension_code": "D",
+          "indicator_code": "D3",
+          "instrument_raw": "In this study, Exploratory Factor Analysis (EFA) is employed to examine the structural validity of the questionnaire.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "Validity analysis is a statistical method used to assess whether a measurement instru- ment accurately reflects the research variables or latent constructs.",
+          "reliability_evidence": "Reliabilityanalysisofeachstyleperceptiondimension.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            32
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "By employing a dual-layer evaluation framework combining quantitative and qualitative methods, this study not only assesses the technical feasibility and style prediction perfor- mance of the proposed recommendation system driven by style perception preferences, but also verifies its effectiveness from the perspective of user experience.",
+          "claim_summary": "By employing a dual-layer evaluation framework combining quantitative and qualitative methods, this study not only assesses the technical feasibility and style prediction perfor- mance of the proposed recommendation system driven by style perception preferences, but also verifies its effectiveness f",
+          "claim_type": "C1",
+          "construct_raw": "preference",
+          "indicator_raw": "preference",
+          "item_quote": "The precise control and visualisation capabilities based on the preference values of affective word pairs enable designers to intuitively adjust the weights between affective vocabulary, ensur- ing that the generated products better meet their expected outcomes.",
+          "dimension_code": "E",
+          "indicator_code": "E1",
+          "instrument_raw": "In this study, Exploratory Factor Analysis (EFA) is employed to examine the structural validity of the questionnaire.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "Validity analysis is a statistical method used to assess whether a measurement instru- ment accurately reflects the research variables or latent constructs.",
+          "reliability_evidence": "Reliabilityanalysisofeachstyleperceptiondimension.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            32,
+            33
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "quote": "This step aims to determine whether the prompt mechanism constructed"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "quote": "sions: system performance assessment and system usability assessment, integrating both"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "quote": "the generalisability and reliability of the system under various style parameter inputs."
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "quote": "by the participants for the generated images were compared with the style perception"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "quote": "sions: system performance assessment and system usability assessment, integrating both"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\59.pdf"
+}

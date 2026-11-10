@@ -1,0 +1,53 @@
+{
+  "paper_id": 104,
+  "title": "Understanding inspiration: Insights into how designers discover inspirational stimuli using an AI-enabled platform",
+  "doi": "10.1016/j.destud.2023.101202",
+  "year": 2023,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    11,
+    12,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    30
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F5"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "The paper investigates how designers search for inspirational stimuli using an AI-enabled multi-modal search platform. It explores the impact of search modalities on design behaviors and the rationale behind designers' evaluation and selection of search results.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": "The paper does not include pure automatic indicators, objective performance, logs, simulations, author discussions, citations of existing research, or future research plans.",
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\104.pdf"
+}

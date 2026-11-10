@@ -1,0 +1,4 @@
+step,recommendation_target,robust_contextual_inputs,combined_ranking_weights,progressive_output
+1,Evaluation dimensions,"G4 Evaluation object; G1 Evaluation purpose","G4 96.3%; G1 2.7%","Ranked dimensions; user confirms one dimension"
+2,Subjective indicators,"G4 Evaluation object; G2 Design domain; G6 Target users","G4 55.7%; G2 17.2%; G6 10.3%","Inherit confirmed dimension; rank indicators; user confirms one indicator"
+3,Tools,"G1 Evaluation purpose; G7 AI function; G4 Evaluation object; G3 Design stage","G1 38.7%; G7 19.8%; G4 14.6%; G3 10.1%","Inherit confirmed dimension and indicator; rank tool classes and supporting evidence"

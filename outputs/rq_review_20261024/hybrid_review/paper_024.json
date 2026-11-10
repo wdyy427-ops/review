@@ -1,0 +1,432 @@
+{
+  "paper_id": 24,
+  "title": "Towards collaborative intelligence: Reimagining human-agent co-design in traditional craft design through multi-agent Empathic Handover",
+  "doi": "10.1080/15710882.2026.2647077",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    6,
+    8,
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [],
+  "stage_codes": [
+    "S1",
+    "S2"
+  ],
+  "ai_function_codes": [
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U3",
+    "U6",
+    "U1"
+  ],
+  "context_summary": "Study explores human-agent co-design in traditional handicrafts using Empathic Handover framework, comparing human stakeholders and multi-agent roles in Mongolian leather-carving modernization.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [
+    "No direct quotes from human participants about their subjective experiences or opinions.",
+    "No mention of individual participants' personal feelings or attitudes.",
+    "No evidence of collecting subjective evaluations through interviews or surveys with human participants."
+  ],
+  "evaluations": [
+    {
+      "eval_id": "024-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4"
+      ],
+      "setting_code": "L1",
+      "design_code": "G7",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 151,
+      "sample_description": "The post-experiment questionnaire survey was instrumental in assessing consumer satisfaction and verifying the generalisability of the design outcomes derived from the collaborative process.",
+      "recruitment": "KMO sampling suitability measure.",
+      "task": "",
+      "comparator": "",
+      "procedure": "step-by-step procedures, serving as ‘context simulators’ and ‘role switchers’ in the",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "cognitive limitations and enriching choices for human decision-making.",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 15,
+          "quote": "The post-experiment questionnaire survey was instrumental in assessing consumer satisfaction and verifying the generalisability of the design outcomes derived from the collaborative process."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "The post-experiment questionnaire survey was instrumental in assessing consumer satisfaction and verifying the generalisability of the design outcomes derived from the collaborative process.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "The post-experiment questionnaire survey was instrumental in assessing consumer satisfaction and verifying the generalisability of the design outcomes derived from the collaborative process.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "Post-experiment questionnaire survey",
+          "tool_family_codes": [
+            "M4"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "point Likert scale to evaluate satisfaction across design elements and prototypes, along -",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            15
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": "point Likert scale to evaluate satisfaction across design elements and prototypes, along -"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": "critiquing a manufacturer’s cost-saving measure)."
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": "Reliability analysis yielded a total Cronbach’s $\\alpha$"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": "Participants refined Prototype 1 into Prototype 2, transforming shared empathy into"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "quote": "critiquing a manufacturer’s cost-saving measure)."
+        }
+      ]
+    },
+    {
+      "eval_id": "024-E3",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3",
+        "H4"
+      ],
+      "setting_code": "L1",
+      "design_code": "G7",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [
+        "Q2",
+        "Q3"
+      ],
+      "sample_n": 9,
+      "sample_description": "User feedback shows that AI-generated designs perform better in 'conceptual diversity' and 'depth of cultural interpretation'.",
+      "recruitment": "KMO sampling suitability measure.",
+      "task": "remains an imperative task to ensure a responsible and culture-respecting paradigm for",
+      "comparator": "",
+      "procedure": "step-by-step procedures, serving as ‘context simulators’ and ‘role switchers’ in the",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "cognitive limitations and enriching choices for human decision-making.",
+      "ethics": "Critical ethical and cultural considerations",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 20,
+          "quote": "User feedback shows that AI-generated designs perform better in 'conceptual diversity' and 'depth of cultural interpretation'."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "User feedback shows that AI-generated designs perform better in 'conceptual diversity' and 'depth of cultural interpretation'.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "User feedback shows that AI-generated designs perform better in 'conceptual diversity' and 'depth of cultural interpretation'.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "To ensure the scientific rigour of the instrument, the questionnaire utilised a five-",
+          "tool_family_codes": [
+            "M4"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "point Likert scale to evaluate satisfaction across design elements and prototypes, along -",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            18
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "point Likert scale to evaluate satisfaction across design elements and prototypes, along -"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "To ensure the scientific rigour of the instrument, the questionnaire utilised a five-"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "Reliability analysis yielded a total Cronbach’s $\\alpha$"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "Demographically, the majority of respondents were concentrated in the 19–24 and"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "To ensure the scientific rigour of the instrument, the questionnaire utilised a five-"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\24.pdf"
+}

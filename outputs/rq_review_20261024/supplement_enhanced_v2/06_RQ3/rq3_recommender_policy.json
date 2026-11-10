@@ -1,0 +1,67 @@
+{
+  "method": "20次论文级分组交叉验证；仅保留删组重训与测试集置换95%置信区间均高于0的情境因素，并按综合权重排序",
+  "runtime_mode": "所有双重稳健情境因素参与相应层级的推荐；其他因素不显示且不计分",
+  "core_rule": "删组重训与测试集置换的95% bootstrap置信区间均高于0",
+  "supplemental_rule": "非双重稳健因素仅保留作敏感性分析，不进入推荐器运行逻辑",
+  "display_floor": 0.01,
+  "layers": {
+    "评价维度": {
+      "one_se_threshold": 0.027008334914237167,
+      "core": [
+        "G4_评价对象",
+        "G1_评价目的"
+      ],
+      "stable_supplemental": [],
+      "exploratory_supplemental": [],
+      "excluded_below_display_floor": [
+        "G6_目标用户",
+        "G3_设计阶段",
+        "G2_设计领域",
+        "G5_评价主体",
+        "G7_AI功能"
+      ],
+      "selected_macro_f1": 0.571766761316456,
+      "best_macro_f1": 0.571766761316456,
+      "one_se_cutoff": 0.5685948271019415
+    },
+    "主观指标": {
+      "one_se_threshold": 0.10263977157024395,
+      "core": [
+        "G4_评价对象",
+        "G2_设计领域",
+        "G6_目标用户"
+      ],
+      "stable_supplemental": [],
+      "exploratory_supplemental": [
+        "G1_评价目的",
+        "G3_设计阶段",
+        "G5_评价主体"
+      ],
+      "excluded_below_display_floor": [
+        "G7_AI功能"
+      ],
+      "selected_macro_f1": 0.37848230829000057,
+      "best_macro_f1": 0.37848230829000057,
+      "one_se_cutoff": 0.37287532646797844
+    },
+    "测量工具类别": {
+      "one_se_threshold": 0.19768568913045045,
+      "core": [
+        "G1_评价目的",
+        "G7_AI功能",
+        "G4_评价对象",
+        "G3_设计阶段"
+      ],
+      "stable_supplemental": [],
+      "exploratory_supplemental": [
+        "G6_目标用户",
+        "G2_设计领域",
+        "G5_评价主体"
+      ],
+      "excluded_below_display_floor": [],
+      "selected_macro_f1": 0.3026822589747585,
+      "best_macro_f1": 0.3026822589747585,
+      "one_se_cutoff": 0.2981757862201555
+    }
+  }
+}

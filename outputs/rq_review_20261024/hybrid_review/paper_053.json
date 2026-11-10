@@ -1,0 +1,52 @@
+{
+  "paper_id": 53,
+  "title": "Sustainable design of bamboo weaving products based on style generative adversarial network and Grasshopper technology",
+  "doi": "10.1080/09544828.2025.2500860",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    8,
+    9,
+    11,
+    12,
+    14,
+    15,
+    16,
+    17,
+    18,
+    20,
+    21
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2",
+    "D3"
+  ],
+  "stage_codes": [
+    "S3",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F4",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R3"
+  ],
+  "target_user_codes": [
+    "U5",
+    "U6",
+    "U1"
+  ],
+  "context_summary": "The paper proposes a method combining StyleGAN and Grasshopper (GH) for sustainable bamboo weaving design. It aims to generate new patterns and apply them to products, using AI and parametric modeling.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": "No human evaluations found.",
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\53.pdf"
+}

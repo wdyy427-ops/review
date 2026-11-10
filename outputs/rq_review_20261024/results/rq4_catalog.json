@@ -1,0 +1,3101 @@
+[
+  {
+    "dimension_code": "A",
+    "indicator_code": "A1",
+    "tool_family_code": "M1",
+    "dimension": "设计成果质量",
+    "indicator": "新颖性",
+    "tool_family": "自编数值等级／语义差异评分",
+    "papers_n": 3,
+    "cases_n": 3,
+    "chains_n": 3,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 2,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F1",
+        "F2",
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V3",
+        "V4"
+      ],
+      "object": [
+        "O1",
+        "O6"
+      ]
+    },
+    "instruments": [
+      "专家5点Likert单项准则评分",
+      "自编15题七点评分",
+      "自编7点Likert问卷；Table 2"
+    ],
+    "chain_ids": [
+      "001-E1-C01",
+      "43-R1-C03",
+      "45-R1-C01"
+    ],
+    "paper_ids": [
+      1,
+      43,
+      45
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "A",
+    "indicator_code": "A1",
+    "tool_family_code": "M3",
+    "dimension": "设计成果质量",
+    "indicator": "新颖性",
+    "tool_family": "成对比较／排序／偏好选择",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V2"
+      ],
+      "object": [
+        "O1",
+        "O2",
+        "O3"
+      ]
+    },
+    "instruments": [
+      "基于Knijnenburg等推荐系统评价框架的条件偏好选择题"
+    ],
+    "chain_ids": [
+      "47-R1-C04"
+    ],
+    "paper_ids": [
+      47
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "A",
+    "indicator_code": "A2",
+    "tool_family_code": "M1",
+    "dimension": "设计成果质量",
+    "indicator": "美观性",
+    "tool_family": "自编数值等级／语义差异评分",
+    "papers_n": 3,
+    "cases_n": 4,
+    "chains_n": 4,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 2,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P2",
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V3",
+        "V4"
+      ],
+      "object": [
+        "O1",
+        "O6",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "感性工学自编语义一致性7级评分（作者称7-point Likert）",
+      "沿用7级感性语义评分",
+      "自编15题七点评分",
+      "自编7点Likert问卷；Table 2"
+    ],
+    "chain_ids": [
+      "001-E1-C09",
+      "43-R1-C05",
+      "86-E1-C03",
+      "86-E2-C02"
+    ],
+    "paper_ids": [
+      1,
+      43,
+      86
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "A",
+    "indicator_code": "A2",
+    "tool_family_code": "M6",
+    "dimension": "设计成果质量",
+    "indicator": "美观性",
+    "tool_family": "多准则赋权／感性工学评价",
+    "papers_n": 1,
+    "cases_n": 2,
+    "chains_n": 2,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 2,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F4",
+        "F6"
+      ],
+      "purpose": [
+        "P3"
+      ],
+      "evaluator": [
+        "V1"
+      ],
+      "object": [
+        "O1"
+      ]
+    },
+    "instruments": [
+      "0–1专家评分＋Grey Relational Analysis (GRA)"
+    ],
+    "chain_ids": [
+      "002-E3-C02",
+      "002-E10-C02"
+    ],
+    "paper_ids": [
+      2
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "A",
+    "indicator_code": "A3",
+    "tool_family_code": "M1",
+    "dimension": "设计成果质量",
+    "indicator": "适用性",
+    "tool_family": "自编数值等级／语义差异评分",
+    "papers_n": 3,
+    "cases_n": 3,
+    "chains_n": 3,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 2,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F1",
+        "F2",
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V3",
+        "V4"
+      ],
+      "object": [
+        "O1",
+        "O6"
+      ]
+    },
+    "instruments": [
+      "专家5点Likert单项准则评分",
+      "自编15题七点评分",
+      "自编7点Likert问卷；Table 2"
+    ],
+    "chain_ids": [
+      "001-E1-C05",
+      "43-R1-C02",
+      "45-R1-C03"
+    ],
+    "paper_ids": [
+      1,
+      43,
+      45
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "A",
+    "indicator_code": "A3",
+    "tool_family_code": "M3",
+    "dimension": "设计成果质量",
+    "indicator": "适用性",
+    "tool_family": "成对比较／排序／偏好选择",
+    "papers_n": 2,
+    "cases_n": 2,
+    "chains_n": 2,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 2,
+    "contexts": {
+      "domain": [
+        "D1",
+        "D2"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2"
+      ],
+      "object": [
+        "O1",
+        "O2",
+        "O3"
+      ]
+    },
+    "instruments": [
+      "专家排序并筛选合格参考图",
+      "基于Knijnenburg等推荐系统评价框架的条件偏好选择题"
+    ],
+    "chain_ids": [
+      "47-R1-C01",
+      "87-E3-C01"
+    ],
+    "paper_ids": [
+      47,
+      87
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "A",
+    "indicator_code": "A3",
+    "tool_family_code": "M6",
+    "dimension": "设计成果质量",
+    "indicator": "适用性",
+    "tool_family": "多准则赋权／感性工学评价",
+    "papers_n": 2,
+    "cases_n": 3,
+    "chains_n": 3,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 3,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F1",
+        "F2",
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P2",
+        "P3"
+      ],
+      "evaluator": [
+        "V1"
+      ],
+      "object": [
+        "O1"
+      ]
+    },
+    "instruments": [
+      "0–1专家评分＋Grey Relational Analysis (GRA)",
+      "Fuzzy Analytic Hierarchy Process (FAHP)"
+    ],
+    "chain_ids": [
+      "002-E3-C03",
+      "002-E10-C03",
+      "004-E1-C02"
+    ],
+    "paper_ids": [
+      2,
+      4
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "A",
+    "indicator_code": "A4",
+    "tool_family_code": "M1",
+    "dimension": "设计成果质量",
+    "indicator": "可行性",
+    "tool_family": "自编数值等级／语义差异评分",
+    "papers_n": 2,
+    "cases_n": 2,
+    "chains_n": 2,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 2,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F2",
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V3",
+        "V4"
+      ],
+      "object": [
+        "O1",
+        "O6"
+      ]
+    },
+    "instruments": [
+      "专家5点Likert单项准则评分",
+      "自编7点Likert问卷；Table 2"
+    ],
+    "chain_ids": [
+      "001-E1-C04",
+      "45-R1-C02"
+    ],
+    "paper_ids": [
+      1,
+      45
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "A",
+    "indicator_code": "A4",
+    "tool_family_code": "M6",
+    "dimension": "设计成果质量",
+    "indicator": "可行性",
+    "tool_family": "多准则赋权／感性工学评价",
+    "papers_n": 2,
+    "cases_n": 3,
+    "chains_n": 3,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 3,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F1",
+        "F2",
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P2",
+        "P3"
+      ],
+      "evaluator": [
+        "V1"
+      ],
+      "object": [
+        "O1"
+      ]
+    },
+    "instruments": [
+      "0–1专家评分＋Grey Relational Analysis (GRA)",
+      "Fuzzy Analytic Hierarchy Process (FAHP)"
+    ],
+    "chain_ids": [
+      "002-E3-C04",
+      "002-E10-C04",
+      "004-E1-C01"
+    ],
+    "paper_ids": [
+      2,
+      4
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "A",
+    "indicator_code": "A5",
+    "tool_family_code": "M1",
+    "dimension": "设计成果质量",
+    "indicator": "保真度",
+    "tool_family": "自编数值等级／语义差异评分",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2",
+        "D4"
+      ],
+      "stage": [
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V2"
+      ],
+      "object": [
+        "O1",
+        "O4"
+      ]
+    },
+    "instruments": [
+      "自编5级图文对应评价及文字理由"
+    ],
+    "chain_ids": [
+      "85-E2-C01"
+    ],
+    "paper_ids": [
+      85
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "A",
+    "indicator_code": "A5",
+    "tool_family_code": "M4",
+    "dimension": "设计成果质量",
+    "indicator": "保真度",
+    "tool_family": "访谈／焦点小组",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3"
+      ],
+      "evaluator": [
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O2",
+        "O4",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏"
+    ],
+    "chain_ids": [
+      "46-R1-C03"
+    ],
+    "paper_ids": [
+      46
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "A",
+    "indicator_code": "A5",
+    "tool_family_code": "M5",
+    "dimension": "设计成果质量",
+    "indicator": "保真度",
+    "tool_family": "开放文本／观察／思维口述",
+    "papers_n": 2,
+    "cases_n": 2,
+    "chains_n": 2,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 2,
+    "contexts": {
+      "domain": [
+        "D2",
+        "D4",
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3",
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O1",
+        "O2",
+        "O4",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+      "自编5级图文对应评价及文字理由"
+    ],
+    "chain_ids": [
+      "46-R1-C03",
+      "85-E2-C01"
+    ],
+    "paper_ids": [
+      46,
+      85
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "A",
+    "indicator_code": "A6",
+    "tool_family_code": "M1",
+    "dimension": "设计成果质量",
+    "indicator": "全面性",
+    "tool_family": "自编数值等级／语义差异评分",
+    "papers_n": 2,
+    "cases_n": 2,
+    "chains_n": 2,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S1",
+        "S2"
+      ],
+      "ai_function": [
+        "F1",
+        "F2",
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1"
+      ],
+      "object": [
+        "O1"
+      ]
+    },
+    "instruments": [
+      "专家5点Likert单项准则评分",
+      "自编15题七点评分"
+    ],
+    "chain_ids": [
+      "43-R1-C01",
+      "45-R1-C04"
+    ],
+    "paper_ids": [
+      43,
+      45
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "A",
+    "indicator_code": "UNMAPPED",
+    "tool_family_code": "M1",
+    "dimension": "设计成果质量",
+    "indicator": "UNMAPPED",
+    "tool_family": "自编数值等级／语义差异评分",
+    "papers_n": 2,
+    "cases_n": 2,
+    "chains_n": 3,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 2,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V3",
+        "V4"
+      ],
+      "object": [
+        "O1",
+        "O6"
+      ]
+    },
+    "instruments": [
+      "自编15题七点评分",
+      "自编7点Likert问卷；Table 2"
+    ],
+    "chain_ids": [
+      "001-E1-C03",
+      "001-E1-C06",
+      "43-R1-C04"
+    ],
+    "paper_ids": [
+      1,
+      43
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "A",
+    "indicator_code": "UNMAPPED",
+    "tool_family_code": "M3",
+    "dimension": "设计成果质量",
+    "indicator": "UNMAPPED",
+    "tool_family": "成对比较／排序／偏好选择",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V2"
+      ],
+      "object": [
+        "O1",
+        "O2",
+        "O3"
+      ]
+    },
+    "instruments": [
+      "基于Knijnenburg等推荐系统评价框架的条件偏好选择题"
+    ],
+    "chain_ids": [
+      "47-R1-C02"
+    ],
+    "paper_ids": [
+      47
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "B",
+    "indicator_code": "B1",
+    "tool_family_code": "M5",
+    "dimension": "设计过程质量",
+    "indicator": "时间效率",
+    "tool_family": "开放文本／观察／思维口述",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S2"
+      ],
+      "ai_function": [
+        "F2",
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4",
+        "O5"
+      ]
+    },
+    "instruments": [
+      "实验后开放问卷（表2五个示例问题）"
+    ],
+    "chain_ids": [
+      "45-R2-C05"
+    ],
+    "paper_ids": [
+      45
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "B",
+    "indicator_code": "B2",
+    "tool_family_code": "M5",
+    "dimension": "设计过程质量",
+    "indicator": "工作负荷",
+    "tool_family": "开放文本／观察／思维口述",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V2"
+      ],
+      "object": [
+        "O1",
+        "O2",
+        "O3"
+      ]
+    },
+    "instruments": [
+      "实验后开放回答+演绎式质性内容分析"
+    ],
+    "chain_ids": [
+      "47-R1-C07"
+    ],
+    "paper_ids": [
+      47
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "B",
+    "indicator_code": "B3",
+    "tool_family_code": "M5",
+    "dimension": "设计过程质量",
+    "indicator": "迭代效率",
+    "tool_family": "开放文本／观察／思维口述",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S2"
+      ],
+      "ai_function": [
+        "F2",
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4",
+        "O5"
+      ]
+    },
+    "instruments": [
+      "实验后开放问卷（表2五个示例问题）"
+    ],
+    "chain_ids": [
+      "45-R2-C03"
+    ],
+    "paper_ids": [
+      45
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "B",
+    "indicator_code": "B4",
+    "tool_family_code": "M5",
+    "dimension": "设计过程质量",
+    "indicator": "决策支持",
+    "tool_family": "开放文本／观察／思维口述",
+    "papers_n": 2,
+    "cases_n": 2,
+    "chains_n": 2,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 2,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F2",
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2"
+      ],
+      "object": [
+        "O1",
+        "O2",
+        "O3",
+        "O4",
+        "O5"
+      ]
+    },
+    "instruments": [
+      "实验后开放回答+演绎式质性内容分析",
+      "实验后开放问卷（表2五个示例问题）"
+    ],
+    "chain_ids": [
+      "45-R2-C02",
+      "47-R1-C06"
+    ],
+    "paper_ids": [
+      45,
+      47
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "C",
+    "indicator_code": "C1",
+    "tool_family_code": "M1",
+    "dimension": "设计者认知、情感与能力",
+    "indicator": "灵感刺激",
+    "tool_family": "自编数值等级／语义差异评分",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2",
+        "D4"
+      ],
+      "stage": [
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "NR"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4",
+        "O5"
+      ]
+    },
+    "instruments": [
+      "自编Q4 5级同意评分；访谈（不是CSI）"
+    ],
+    "chain_ids": [
+      "85-E1-C03"
+    ],
+    "paper_ids": [
+      85
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "C",
+    "indicator_code": "C1",
+    "tool_family_code": "M2",
+    "dimension": "设计者认知、情感与能力",
+    "indicator": "灵感刺激",
+    "tool_family": "具名量表",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 0,
+    "contexts": {
+      "domain": [
+        "D1"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F4",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4"
+      ]
+    },
+    "instruments": [
+      "CSI Exploration分量表"
+    ],
+    "chain_ids": [
+      "87-E1-C04"
+    ],
+    "paper_ids": [
+      87
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "C",
+    "indicator_code": "C1",
+    "tool_family_code": "M4",
+    "dimension": "设计者认知、情感与能力",
+    "indicator": "灵感刺激",
+    "tool_family": "访谈／焦点小组",
+    "papers_n": 3,
+    "cases_n": 3,
+    "chains_n": 3,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 3,
+    "contexts": {
+      "domain": [
+        "D1",
+        "D2",
+        "D4",
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3",
+        "P4"
+      ],
+      "evaluator": [
+        "NR",
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4",
+        "O5",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+      "半结构访谈",
+      "自编Q4 5级同意评分；访谈（不是CSI）"
+    ],
+    "chain_ids": [
+      "46-R1-C05",
+      "85-E1-C03",
+      "87-E2-C02"
+    ],
+    "paper_ids": [
+      46,
+      85,
+      87
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "C",
+    "indicator_code": "C1",
+    "tool_family_code": "M5",
+    "dimension": "设计者认知、情感与能力",
+    "indicator": "灵感刺激",
+    "tool_family": "开放文本／观察／思维口述",
+    "papers_n": 2,
+    "cases_n": 2,
+    "chains_n": 2,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 2,
+    "contexts": {
+      "domain": [
+        "D2",
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2"
+      ],
+      "ai_function": [
+        "F1",
+        "F2",
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3",
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4",
+        "O5",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+      "实验后开放问卷（表2五个示例问题）"
+    ],
+    "chain_ids": [
+      "45-R2-C06",
+      "46-R1-C05"
+    ],
+    "paper_ids": [
+      45,
+      46
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "C",
+    "indicator_code": "C2",
+    "tool_family_code": "M5",
+    "dimension": "设计者认知、情感与能力",
+    "indicator": "知识获得",
+    "tool_family": "开放文本／观察／思维口述",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S2"
+      ],
+      "ai_function": [
+        "F2",
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4",
+        "O5"
+      ]
+    },
+    "instruments": [
+      "实验后开放问卷（表2五个示例问题）"
+    ],
+    "chain_ids": [
+      "45-R2-C01"
+    ],
+    "paper_ids": [
+      45
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "C",
+    "indicator_code": "C4",
+    "tool_family_code": "M2",
+    "dimension": "设计者认知、情感与能力",
+    "indicator": "参与沉浸",
+    "tool_family": "具名量表",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 0,
+    "contexts": {
+      "domain": [
+        "D1"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F4",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4"
+      ]
+    },
+    "instruments": [
+      "CSI Immersion分量表"
+    ],
+    "chain_ids": [
+      "87-E1-C06"
+    ],
+    "paper_ids": [
+      87
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "C",
+    "indicator_code": "C4",
+    "tool_family_code": "M4",
+    "dimension": "设计者认知、情感与能力",
+    "indicator": "参与沉浸",
+    "tool_family": "访谈／焦点小组",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3"
+      ],
+      "evaluator": [
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O2",
+        "O4",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏"
+    ],
+    "chain_ids": [
+      "46-R1-C06"
+    ],
+    "paper_ids": [
+      46
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "C",
+    "indicator_code": "C4",
+    "tool_family_code": "M5",
+    "dimension": "设计者认知、情感与能力",
+    "indicator": "参与沉浸",
+    "tool_family": "开放文本／观察／思维口述",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3"
+      ],
+      "evaluator": [
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O2",
+        "O4",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏"
+    ],
+    "chain_ids": [
+      "46-R1-C06"
+    ],
+    "paper_ids": [
+      46
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "C",
+    "indicator_code": "C5",
+    "tool_family_code": "M2",
+    "dimension": "设计者认知、情感与能力",
+    "indicator": "愉悦",
+    "tool_family": "具名量表",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 0,
+    "contexts": {
+      "domain": [
+        "D1"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F4",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4"
+      ]
+    },
+    "instruments": [
+      "CSI Enjoyment分量表"
+    ],
+    "chain_ids": [
+      "87-E1-C03"
+    ],
+    "paper_ids": [
+      87
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "C",
+    "indicator_code": "C7",
+    "tool_family_code": "M4",
+    "dimension": "设计者认知、情感与能力",
+    "indicator": "固着依赖",
+    "tool_family": "访谈／焦点小组",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3"
+      ],
+      "evaluator": [
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O2",
+        "O4",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏"
+    ],
+    "chain_ids": [
+      "46-R1-C09"
+    ],
+    "paper_ids": [
+      46
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "C",
+    "indicator_code": "C7",
+    "tool_family_code": "M5",
+    "dimension": "设计者认知、情感与能力",
+    "indicator": "固着依赖",
+    "tool_family": "开放文本／观察／思维口述",
+    "papers_n": 2,
+    "cases_n": 2,
+    "chains_n": 2,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 2,
+    "contexts": {
+      "domain": [
+        "D2",
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2"
+      ],
+      "ai_function": [
+        "F1",
+        "F2",
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3",
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4",
+        "O5",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+      "实验后开放问卷（表2五个示例问题）"
+    ],
+    "chain_ids": [
+      "45-R2-C07",
+      "46-R1-C09"
+    ],
+    "paper_ids": [
+      45,
+      46
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "C",
+    "indicator_code": "C8",
+    "tool_family_code": "M2",
+    "dimension": "设计者认知、情感与能力",
+    "indicator": "能力扩展",
+    "tool_family": "具名量表",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 0,
+    "contexts": {
+      "domain": [
+        "D1"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F4",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4"
+      ]
+    },
+    "instruments": [
+      "CSI Expressiveness分量表"
+    ],
+    "chain_ids": [
+      "87-E1-C05"
+    ],
+    "paper_ids": [
+      87
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "C",
+    "indicator_code": "C8",
+    "tool_family_code": "M5",
+    "dimension": "设计者认知、情感与能力",
+    "indicator": "能力扩展",
+    "tool_family": "开放文本／观察／思维口述",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S2"
+      ],
+      "ai_function": [
+        "F2",
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4",
+        "O5"
+      ]
+    },
+    "instruments": [
+      "实验后开放问卷（表2五个示例问题）"
+    ],
+    "chain_ids": [
+      "45-R2-C09"
+    ],
+    "paper_ids": [
+      45
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "D",
+    "indicator_code": "D1",
+    "tool_family_code": "M1",
+    "dimension": "人机交互体验",
+    "indicator": "易用性",
+    "tool_family": "自编数值等级／语义差异评分",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2",
+        "D4"
+      ],
+      "stage": [
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "NR"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4",
+        "O5"
+      ]
+    },
+    "instruments": [
+      "自编Q1/Q2 5级同意评分；半结构访谈"
+    ],
+    "chain_ids": [
+      "85-E1-C01"
+    ],
+    "paper_ids": [
+      85
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "D",
+    "indicator_code": "D1",
+    "tool_family_code": "M4",
+    "dimension": "人机交互体验",
+    "indicator": "易用性",
+    "tool_family": "访谈／焦点小组",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2",
+        "D4"
+      ],
+      "stage": [
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "NR"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4",
+        "O5"
+      ]
+    },
+    "instruments": [
+      "自编Q1/Q2 5级同意评分；半结构访谈"
+    ],
+    "chain_ids": [
+      "85-E1-C01"
+    ],
+    "paper_ids": [
+      85
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "D",
+    "indicator_code": "D1",
+    "tool_family_code": "M5",
+    "dimension": "人机交互体验",
+    "indicator": "易用性",
+    "tool_family": "开放文本／观察／思维口述",
+    "papers_n": 2,
+    "cases_n": 2,
+    "chains_n": 2,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 2,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F2",
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2"
+      ],
+      "object": [
+        "O1",
+        "O2",
+        "O3",
+        "O4",
+        "O5"
+      ]
+    },
+    "instruments": [
+      "实验后开放回答+演绎式质性内容分析",
+      "实验后开放问卷（表2五个示例问题）"
+    ],
+    "chain_ids": [
+      "45-R2-C04",
+      "47-R1-C05"
+    ],
+    "paper_ids": [
+      45,
+      47
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "D",
+    "indicator_code": "D4",
+    "tool_family_code": "M4",
+    "dimension": "人机交互体验",
+    "indicator": "可解释性",
+    "tool_family": "访谈／焦点小组",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3"
+      ],
+      "evaluator": [
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O2",
+        "O4",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏"
+    ],
+    "chain_ids": [
+      "46-R1-C08"
+    ],
+    "paper_ids": [
+      46
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "D",
+    "indicator_code": "D4",
+    "tool_family_code": "M5",
+    "dimension": "人机交互体验",
+    "indicator": "可解释性",
+    "tool_family": "开放文本／观察／思维口述",
+    "papers_n": 2,
+    "cases_n": 2,
+    "chains_n": 2,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 2,
+    "contexts": {
+      "domain": [
+        "D2",
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3",
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O1",
+        "O2",
+        "O3",
+        "O4",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+      "实验后开放回答+演绎式质性内容分析"
+    ],
+    "chain_ids": [
+      "46-R1-C08",
+      "47-R1-C09"
+    ],
+    "paper_ids": [
+      46,
+      47
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "D",
+    "indicator_code": "D5",
+    "tool_family_code": "M5",
+    "dimension": "人机交互体验",
+    "indicator": "信任感",
+    "tool_family": "开放文本／观察／思维口述",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V2"
+      ],
+      "object": [
+        "O1",
+        "O2",
+        "O3"
+      ]
+    },
+    "instruments": [
+      "实验后开放回答+演绎式质性内容分析"
+    ],
+    "chain_ids": [
+      "47-R1-C08"
+    ],
+    "paper_ids": [
+      47
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "D",
+    "indicator_code": "D6",
+    "tool_family_code": "M4",
+    "dimension": "人机交互体验",
+    "indicator": "主体性",
+    "tool_family": "访谈／焦点小组",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3"
+      ],
+      "evaluator": [
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O2",
+        "O4",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏"
+    ],
+    "chain_ids": [
+      "46-R1-C07"
+    ],
+    "paper_ids": [
+      46
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "D",
+    "indicator_code": "D6",
+    "tool_family_code": "M5",
+    "dimension": "人机交互体验",
+    "indicator": "主体性",
+    "tool_family": "开放文本／观察／思维口述",
+    "papers_n": 2,
+    "cases_n": 2,
+    "chains_n": 2,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 2,
+    "contexts": {
+      "domain": [
+        "D2",
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2"
+      ],
+      "ai_function": [
+        "F1",
+        "F2",
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3",
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4",
+        "O5",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+      "实验后开放问卷（表2五个示例问题）"
+    ],
+    "chain_ids": [
+      "45-R2-C08",
+      "46-R1-C07"
+    ],
+    "paper_ids": [
+      45,
+      46
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "D",
+    "indicator_code": "D8",
+    "tool_family_code": "M1",
+    "dimension": "人机交互体验",
+    "indicator": "沟通、协调、冲突与共同理解",
+    "tool_family": "自编数值等级／语义差异评分",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2",
+        "D4"
+      ],
+      "stage": [
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "NR"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4",
+        "O5"
+      ]
+    },
+    "instruments": [
+      "自编Q3 5级同意评分；半结构访谈"
+    ],
+    "chain_ids": [
+      "85-E1-C02"
+    ],
+    "paper_ids": [
+      85
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "D",
+    "indicator_code": "D8",
+    "tool_family_code": "M2",
+    "dimension": "人机交互体验",
+    "indicator": "沟通、协调、冲突与共同理解",
+    "tool_family": "具名量表",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 0,
+    "contexts": {
+      "domain": [
+        "D1"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F4",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4"
+      ]
+    },
+    "instruments": [
+      "CSI Collaboration分量表"
+    ],
+    "chain_ids": [
+      "87-E1-C02"
+    ],
+    "paper_ids": [
+      87
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "D",
+    "indicator_code": "D8",
+    "tool_family_code": "M4",
+    "dimension": "人机交互体验",
+    "indicator": "沟通、协调、冲突与共同理解",
+    "tool_family": "访谈／焦点小组",
+    "papers_n": 3,
+    "cases_n": 3,
+    "chains_n": 3,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 3,
+    "contexts": {
+      "domain": [
+        "D1",
+        "D2",
+        "D4",
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3",
+        "P4"
+      ],
+      "evaluator": [
+        "NR",
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4",
+        "O5",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+      "半结构访谈与观察主题分析",
+      "自编Q3 5级同意评分；半结构访谈"
+    ],
+    "chain_ids": [
+      "46-R1-C01",
+      "85-E1-C02",
+      "87-E2-C01"
+    ],
+    "paper_ids": [
+      46,
+      85,
+      87
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "D",
+    "indicator_code": "D8",
+    "tool_family_code": "M5",
+    "dimension": "人机交互体验",
+    "indicator": "沟通、协调、冲突与共同理解",
+    "tool_family": "开放文本／观察／思维口述",
+    "papers_n": 3,
+    "cases_n": 3,
+    "chains_n": 3,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 3,
+    "contexts": {
+      "domain": [
+        "D1",
+        "D2",
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F1",
+        "F2",
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3",
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4",
+        "O5",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏",
+      "半结构访谈与观察主题分析",
+      "实验后开放问卷（表2五个示例问题）"
+    ],
+    "chain_ids": [
+      "45-R2-C10",
+      "46-R1-C01",
+      "87-E2-C01"
+    ],
+    "paper_ids": [
+      45,
+      46,
+      87
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "D",
+    "indicator_code": "UNMAPPED",
+    "tool_family_code": "M3",
+    "dimension": "人机交互体验",
+    "indicator": "UNMAPPED",
+    "tool_family": "成对比较／排序／偏好选择",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V2"
+      ],
+      "object": [
+        "O1",
+        "O2",
+        "O3"
+      ]
+    },
+    "instruments": [
+      "基于Knijnenburg等推荐系统评价框架的条件偏好选择题"
+    ],
+    "chain_ids": [
+      "47-R1-C03"
+    ],
+    "paper_ids": [
+      47
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "E",
+    "indicator_code": "E1",
+    "tool_family_code": "M1",
+    "dimension": "社会情境价值",
+    "indicator": "终端用户体验与接受",
+    "tool_family": "自编数值等级／语义差异评分",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V3",
+        "V4"
+      ],
+      "object": [
+        "O1",
+        "O6"
+      ]
+    },
+    "instruments": [
+      "自编7点Likert问卷；Table 2"
+    ],
+    "chain_ids": [
+      "001-E1-C07"
+    ],
+    "paper_ids": [
+      1
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "E",
+    "indicator_code": "E1",
+    "tool_family_code": "M7",
+    "dimension": "社会情境价值",
+    "indicator": "终端用户体验与接受",
+    "tool_family": "既有文本感知分析",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S1",
+        "S2"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F5"
+      ],
+      "purpose": [
+        "P1"
+      ],
+      "evaluator": [
+        "V3"
+      ],
+      "object": [
+        "O7"
+      ]
+    },
+    "instruments": [
+      "LLM评论情绪抽取＋(正面评论数−负面评论数)/(两者之和+epsilon)"
+    ],
+    "chain_ids": [
+      "003-E1-C01"
+    ],
+    "paper_ids": [
+      3
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "E",
+    "indicator_code": "E2",
+    "tool_family_code": "M1",
+    "dimension": "社会情境价值",
+    "indicator": "用户需求、情境与人群适配",
+    "tool_family": "自编数值等级／语义差异评分",
+    "papers_n": 2,
+    "cases_n": 8,
+    "chains_n": 8,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 8,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F1",
+        "F2",
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3",
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V3"
+      ],
+      "object": [
+        "O1",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "专家5点Likert单项准则评分",
+      "自编感性评分问卷"
+    ],
+    "chain_ids": [
+      "002-E1-C01",
+      "002-E2-C01",
+      "002-E6-C01",
+      "002-E7-C01",
+      "002-E9-C01",
+      "002-E12-C01",
+      "002-E13-C01",
+      "45-R1-C05"
+    ],
+    "paper_ids": [
+      2,
+      45
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "E",
+    "indicator_code": "E2",
+    "tool_family_code": "M6",
+    "dimension": "社会情境价值",
+    "indicator": "用户需求、情境与人群适配",
+    "tool_family": "多准则赋权／感性工学评价",
+    "papers_n": 1,
+    "cases_n": 7,
+    "chains_n": 7,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 7,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F4",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3"
+      ],
+      "evaluator": [
+        "V1",
+        "V3"
+      ],
+      "object": [
+        "O1"
+      ]
+    },
+    "instruments": [
+      "0–1专家评分＋Grey Relational Analysis (GRA)",
+      "感性问卷结合M6"
+    ],
+    "chain_ids": [
+      "002-E3-C01",
+      "002-E4-C01",
+      "002-E5-C01",
+      "002-E8-C01",
+      "002-E10-C01",
+      "002-E11-C01",
+      "002-E14-C01"
+    ],
+    "paper_ids": [
+      2
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "E",
+    "indicator_code": "E3",
+    "tool_family_code": "M4",
+    "dimension": "社会情境价值",
+    "indicator": "专业与组织工作适配",
+    "tool_family": "访谈／焦点小组",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D1"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F4",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4",
+        "O5"
+      ]
+    },
+    "instruments": [
+      "半结构访谈"
+    ],
+    "chain_ids": [
+      "87-E2-C03"
+    ],
+    "paper_ids": [
+      87
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "E",
+    "indicator_code": "E4",
+    "tool_family_code": "M4",
+    "dimension": "社会情境价值",
+    "indicator": "文化、社会与公共价值",
+    "tool_family": "访谈／焦点小组",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3"
+      ],
+      "evaluator": [
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O2",
+        "O4",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏"
+    ],
+    "chain_ids": [
+      "46-R1-C02"
+    ],
+    "paper_ids": [
+      46
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "E",
+    "indicator_code": "E4",
+    "tool_family_code": "M5",
+    "dimension": "社会情境价值",
+    "indicator": "文化、社会与公共价值",
+    "tool_family": "开放文本／观察／思维口述",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3"
+      ],
+      "evaluator": [
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O2",
+        "O4",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏"
+    ],
+    "chain_ids": [
+      "46-R1-C02"
+    ],
+    "paper_ids": [
+      46
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "E",
+    "indicator_code": "E5",
+    "tool_family_code": "M4",
+    "dimension": "社会情境价值",
+    "indicator": "伦理、公平、偏见与包容",
+    "tool_family": "访谈／焦点小组",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3"
+      ],
+      "evaluator": [
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O2",
+        "O4",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏"
+    ],
+    "chain_ids": [
+      "46-R1-C04"
+    ],
+    "paper_ids": [
+      46
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "E",
+    "indicator_code": "E5",
+    "tool_family_code": "M5",
+    "dimension": "社会情境价值",
+    "indicator": "伦理、公平、偏见与包容",
+    "tool_family": "开放文本／观察／思维口述",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "UNMAPPED"
+      ],
+      "stage": [
+        "S1",
+        "S2"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P3"
+      ],
+      "evaluator": [
+        "V1",
+        "V2",
+        "V3",
+        "V6"
+      ],
+      "object": [
+        "O2",
+        "O4",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "AI介导半结构访谈、研究者/实践者反思工作坊、图像和录屏"
+    ],
+    "chain_ids": [
+      "46-R1-C04"
+    ],
+    "paper_ids": [
+      46
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "E",
+    "indicator_code": "E7",
+    "tool_family_code": "M1",
+    "dimension": "社会情境价值",
+    "indicator": "商业、品牌与市场价值",
+    "tool_family": "自编数值等级／语义差异评分",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V3",
+        "V4"
+      ],
+      "object": [
+        "O1",
+        "O6"
+      ]
+    },
+    "instruments": [
+      "自编7点Likert问卷；Table 2"
+    ],
+    "chain_ids": [
+      "001-E1-C08"
+    ],
+    "paper_ids": [
+      1
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "E",
+    "indicator_code": "UNMAPPED",
+    "tool_family_code": "M6",
+    "dimension": "社会情境价值",
+    "indicator": "UNMAPPED",
+    "tool_family": "多准则赋权／感性工学评价",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 1,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 1,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S1",
+        "S2"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F5"
+      ],
+      "purpose": [
+        "P1"
+      ],
+      "evaluator": [
+        "V1"
+      ],
+      "object": [
+        "O7"
+      ]
+    },
+    "instruments": [
+      "Analytic Hierarchy Process (AHP), Saaty 1–9"
+    ],
+    "chain_ids": [
+      "003-E2-C01"
+    ],
+    "paper_ids": [
+      3
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "UNMAPPED",
+    "indicator_code": "UNMAPPED",
+    "tool_family_code": "M1",
+    "dimension": "UNMAPPED",
+    "indicator": "UNMAPPED",
+    "tool_family": "自编数值等级／语义差异评分",
+    "papers_n": 3,
+    "cases_n": 4,
+    "chains_n": 8,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 6,
+    "contexts": {
+      "domain": [
+        "D2"
+      ],
+      "stage": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F1",
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "purpose": [
+        "P1",
+        "P2",
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V3",
+        "V4"
+      ],
+      "object": [
+        "O1",
+        "O6",
+        "O7"
+      ]
+    },
+    "instruments": [
+      "专家综合评分（量尺NR）＋XGBoost校准",
+      "感性工学自编语义一致性7级评分（作者称7-point Likert）",
+      "沿用7级感性语义评分",
+      "自编7点Likert问卷；Table 2"
+    ],
+    "chain_ids": [
+      "001-E1-C02",
+      "003-E3-C01",
+      "86-E1-C01",
+      "86-E1-C02",
+      "86-E1-C04",
+      "86-E1-C05",
+      "86-E2-C01",
+      "86-E2-C03"
+    ],
+    "paper_ids": [
+      1,
+      3,
+      86
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  },
+  {
+    "dimension_code": "UNMAPPED",
+    "indicator_code": "UNMAPPED",
+    "tool_family_code": "M2",
+    "dimension": "UNMAPPED",
+    "indicator": "UNMAPPED",
+    "tool_family": "具名量表",
+    "papers_n": 1,
+    "cases_n": 1,
+    "chains_n": 2,
+    "strict_chains_n": 0,
+    "sensitivity_chains_n": 0,
+    "contexts": {
+      "domain": [
+        "D1"
+      ],
+      "stage": [
+        "S2",
+        "S3"
+      ],
+      "ai_function": [
+        "F3",
+        "F4",
+        "F6"
+      ],
+      "purpose": [
+        "P4"
+      ],
+      "evaluator": [
+        "V1",
+        "V2"
+      ],
+      "object": [
+        "O2",
+        "O3",
+        "O4"
+      ]
+    },
+    "instruments": [
+      "CSI Results Worth Effort分量表",
+      "Creativity Support Index (Cherry & Latulipe 2014)，改编语境"
+    ],
+    "chain_ids": [
+      "87-E1-C01",
+      "87-E1-C07"
+    ],
+    "paper_ids": [
+      87
+    ],
+    "recommendation_status": "可查询原研究；须核对目标情境与原工具，使用频次不代表适用性验证"
+  }
+]

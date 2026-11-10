@@ -1,0 +1,6 @@
+﻿metric,baseline,revised,delta
+evaluation_cases,158,159,1
+evidence_chains,490,514,24
+mapped_dimension_chains,432,460,28
+complete_modelable_chains,426,454,28
+measure_instances,600,624,24

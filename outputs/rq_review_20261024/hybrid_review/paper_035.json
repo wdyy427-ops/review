@@ -1,0 +1,52 @@
+{
+  "paper_id": 35,
+  "title": "Multimodal-Conditioned Latent Diffusion Models for Fashion Image Editing",
+  "doi": "10.1145/3789212",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    9,
+    12,
+    13,
+    14,
+    15,
+    17,
+    18,
+    19,
+    21,
+    22,
+    23,
+    25,
+    26
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1",
+    "D2"
+  ],
+  "stage_codes": [
+    "S2"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F3",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R1",
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "This paper introduces a multimodal-conditioned fashion image editing framework using latent diffusion models. The approach incorporates text, body pose, garment sketches, and fabric textures to guide the generation process. The study extends existing fashion datasets with multimodal annotations and evaluates the realism and coherence of generated images using quantitative metrics and human evaluations.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\35.pdf"
+}

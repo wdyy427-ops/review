@@ -1,0 +1,45 @@
+{
+  "paper_id": 118,
+  "title": "GANSpiration: Balancing Targeted and Serendipitous Inspiration in User Interface Design with Style-Based Generative Adversarial Network",
+  "doi": "10.1145/3491102.3517511",
+  "year": 2022,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    6,
+    8,
+    11,
+    12,
+    13,
+    14
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1",
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S3"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "This paper proposes GANSpiration, a system that uses StyleGAN to generate design examples for user interface design, balancing targeted and serendipitous inspiration. It includes a user study with professional UI/UX practitioners.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\118.pdf"
+}

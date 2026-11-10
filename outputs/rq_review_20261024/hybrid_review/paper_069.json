@@ -1,0 +1,45 @@
+{
+  "paper_id": 69,
+  "title": "Order Matters: Learning Element Ordering for Graphic Design Generation",
+  "doi": "10.1145/3730858",
+  "year": 2025,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    16
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F4",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [],
+  "context_summary": "This paper introduces a model called Generative Order Learner (GOL) to learn optimal element ordering for graphic design generation. The model uses an autoregressive generator and an ordering network to improve the quality of generated designs. The study compares different ordering strategies and shows that the neural order significantly improves visual quality and layout variations.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\69.pdf"
+}

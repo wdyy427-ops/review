@@ -1,0 +1,623 @@
+{
+  "paper_id": 41,
+  "title": "Combining Kansei Engineering and SSA-XGBoost for new energy vehicle front-face form design",
+  "doi": "10.1080/09544828.2025.2546838",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    6,
+    7,
+    10,
+    13,
+    16,
+    18,
+    19,
+    23,
+    24,
+    25,
+    26,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    39,
+    40
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2",
+    "D3"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F3",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [],
+  "target_user_codes": [
+    "U6",
+    "U1"
+  ],
+  "context_summary": "This paper proposes a novel front-face design method for NEV by integrating Kansei Engineering (KE) with the Sparrow Search Algorithm-Extreme Gradient Boosting (SSA-XGBoost) to enhance emotional appeal. The research involves four stages, including generating new NEV images, deconstructing front-face forms, ranking Kansei words using Entropy-AHP, and establishing a mapping between user emotions and design features.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": "The paper does not collect human subjective evaluations through direct interaction with participants, nor does it use pure automatic indicators, objective performance, logs, simulations, or author discussions. The human evaluations are collected through structured questionnaires and expert panels.",
+  "evaluations": [
+    {
+      "eval_id": "041-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O3",
+        "O6"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3"
+      ],
+      "setting_code": "NR",
+      "design_code": "G7",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [],
+      "sample_n": 15,
+      "sample_description": "15 experts in the field of automotive design were selected as participants in this study.",
+      "recruitment": "",
+      "task": "",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 30,
+          "quote": "15 experts in the field of automotive design were selected as participants in this study."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "15 experts in the field of automotive design were selected as participants in this study.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "15 experts in the field of automotive design were selected as participants in this study.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "the accurate geometric large-scale model and generate 300 images in the SDM software.",
+          "tool_family_codes": [
+            "M4"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "bined with 12 Kansei words to create a seven-level Likert scale questionnaire.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            18
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": "introduced to evaluate the feasibility of the selected scheme."
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": "the accurate geometric large-scale model and generate 300 images in the SDM software."
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": "The final questionnaire reliability was 0.79, indicating that the questionnaire is"
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": "Basis Function (Decision Tree): The decision tree partitions the sample space into T leaf"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": "the accurate geometric large-scale model and generate 300 images in the SDM software."
+        }
+      ]
+    },
+    {
+      "eval_id": "041-E2",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O6",
+        "O7"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H3"
+      ],
+      "setting_code": "NR",
+      "design_code": "G7",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [],
+      "sample_n": 99,
+      "sample_description": "After eliminating the pictures that do not meet the standards, invite 10 automobile-related experts to select 99 high-quality front-face shape images of NEV as samples from the generated images through group discussion;",
+      "recruitment": "",
+      "task": "",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 18,
+          "quote": "After eliminating the pictures that do not meet the standards, invite 10 automobile-related experts to select 99 high-quality front-face shape images of NEV as samples from the generated images through group discussion;"
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "After eliminating the pictures that do not meet the standards, invite 10 automobile-related experts to select 99 high-quality front-face shape images of NEV as samples from the generated images through group discussion;",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "After eliminating the pictures that do not meet the standards, invite 10 automobile-related experts to select 99 high-quality front-face shape images of NEV as samples from the generated images through group discussion;",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "the accurate geometric large-scale model and generate 300 images in the SDM software.",
+          "tool_family_codes": [
+            "M4"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "bined with 12 Kansei words to create a seven-level Likert scale questionnaire.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            18
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "the accurate geometric large-scale model and generate 300 images in the SDM software."
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "The final questionnaire reliability was 0.79, indicating that the questionnaire is"
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "Basis Function (Decision Tree): The decision tree partitions the sample space into T leaf"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "the accurate geometric large-scale model and generate 300 images in the SDM software."
+        }
+      ]
+    },
+    {
+      "eval_id": "041-E3",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O3",
+        "O6"
+      ],
+      "evaluator_codes": [
+        "V1"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "NR",
+      "design_code": "G1",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [],
+      "sample_n": 15,
+      "sample_description": "15 experts in the field of automotive design were selected as participants in this study.",
+      "recruitment": "",
+      "task": "",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 30,
+          "quote": "15 experts in the field of automotive design were selected as participants in this study."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "15 experts in the field of automotive design were selected as participants in this study.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "15 experts in the field of automotive design were selected as participants in this study.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "the existing models in understanding the text and generating the output.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "For three typical front designs of cars, a seven-point Likert scale (1 = highly mismatched,",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            30
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": "introduced to evaluate the feasibility of the selected scheme."
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": "the existing models in understanding the text and generating the output."
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": "imported into SPSS for reliability and validity tests."
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": "15 experts in the field of automotive design were selected as participants in this study."
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "quote": "the existing models in understanding the text and generating the output."
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\41.pdf"
+}

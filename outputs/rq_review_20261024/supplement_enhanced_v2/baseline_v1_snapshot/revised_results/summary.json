@@ -1,0 +1,93 @@
+{
+  "papers": 125,
+  "evaluation_cases": 158,
+  "evidence_chains": 490,
+  "measure_instances": 600,
+  "mapped_dimension_chains": 432,
+  "mapped_indicator_chains": 426,
+  "Q1_high_confidence": 6,
+  "Q2_usable": 42,
+  "Q3_descriptive_or_sensitivity": 436,
+  "excluded": 6,
+  "main_model_chains": 48,
+  "sensitivity_model_chains": 155,
+  "model_metadata": [
+    {
+      "target": "评价维度",
+      "n": 46,
+      "papers": 20,
+      "classes": 4,
+      "best_model": "L2多项逻辑回归",
+      "status": "完成",
+      "analysis_tier": "主要规范集"
+    },
+    {
+      "target": "主观指标",
+      "n": 6,
+      "classes": 1,
+      "status": "样本不足",
+      "analysis_tier": "主要规范集"
+    },
+    {
+      "target": "测量工具类别",
+      "n": 53,
+      "papers": 21,
+      "classes": 4,
+      "best_model": "直方图梯度提升",
+      "status": "完成",
+      "analysis_tier": "主要规范集"
+    },
+    {
+      "target": "评价维度",
+      "n": 155,
+      "papers": 38,
+      "classes": 5,
+      "best_model": "直方图梯度提升",
+      "status": "完成",
+      "analysis_tier": "扩展规范集"
+    },
+    {
+      "target": "主观指标",
+      "n": 95,
+      "papers": 27,
+      "classes": 10,
+      "best_model": "随机森林",
+      "status": "完成",
+      "analysis_tier": "扩展规范集"
+    },
+    {
+      "target": "测量工具类别",
+      "n": 182,
+      "papers": 38,
+      "classes": 5,
+      "best_model": "L2多项逻辑回归",
+      "status": "完成",
+      "analysis_tier": "扩展规范集"
+    }
+  ],
+  "tool_distribution": {
+    "M2": 180,
+    "M3": 130,
+    "M4": 112,
+    "M1": 97,
+    "M5": 65
+  },
+  "context_tests": [
+    {
+      "field": "domains",
+      "n": 546,
+      "chi_square": 27.54417477499194,
+      "df": 20,
+      "p_value": 0.12063642203680604,
+      "cramers_v": 0.11230227796844137
+    },
+    {
+      "field": "stages",
+      "n": 1015,
+      "chi_square": 13.196800407132486,
+      "df": 12,
+      "p_value": 0.3549002096895166,
+      "cramers_v": 0.0658325497003079
+    }
+  ]
+}

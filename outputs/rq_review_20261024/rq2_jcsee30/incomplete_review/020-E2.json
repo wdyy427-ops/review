@@ -1,0 +1,27 @@
+{
+  "paper_id": 1,
+  "eval_id": "020-E2",
+  "decision": "exclude",
+  "reason": "缺少具体感知构念或属性",
+  "chains": [],
+  "reviewed_pages": [
+    4,
+    14,
+    16,
+    18,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "usage": {
+    "completion_tokens": 39,
+    "prompt_tokens": 7930,
+    "total_tokens": 7969,
+    "prompt_tokens_details": {
+      "cached_tokens": 414
+    }
+  }
+}

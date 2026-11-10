@@ -1,0 +1,50 @@
+{
+  "paper_id": 112,
+  "title": "Research on Product Advertising Design Combining Feature Extraction Technology and Web3D Technology",
+  "doi": "10.1145/3608948",
+  "year": 2024,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1",
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S3"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U5",
+    "U1"
+  ],
+  "context_summary": "The paper explores product advertising design using feature extraction and Web3D technology, aiming to improve efficiency and visual communication. It integrates natural systems and design methods.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": "No human evaluations found in the text.",
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\112.pdf"
+}

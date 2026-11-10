@@ -1,0 +1,353 @@
+{
+  "paper_id": 110,
+  "title": "Sand-in-the-loop: Investigating embodied co-creation for shared understandings of generative AI",
+  "doi": "10.1145/3563703.3596652",
+  "year": 2023,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D6"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S3"
+  ],
+  "ai_function_codes": [
+    "F4",
+    "F5"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "The paper explores human-AI co-creation using a tangible interface with sand, aiming to enhance understanding of generative AI through physical interactions.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "110-E1",
+      "purpose_codes": [
+        "P3",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [],
+      "source_codes": [
+        "H1",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K2",
+        "K3",
+        "K4",
+        "K6"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 10,
+      "sample_description": "One participant appreciated the imperfectness and perceived it as co-creation: 'It didn’t copy perfectly, so it was like a feedback between me and the machine.'",
+      "recruitment": "recruited 10 participants with at least four years of experience in",
+      "task": "",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "enables designers to understand these tools’ limitations and capa-",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 3,
+          "quote": "One participant appreciated the imperfectness and perceived it as co-creation: 'It didn’t copy perfectly, so it was like a feedback between me and the machine.'"
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "This understanding could not only increase trust in an AI system but could transform both the processes and culture of creative practices.",
+          "claim_summary": "This understanding could not only increase trust in an AI system but could transform both the processes and culture of creative practices.",
+          "claim_type": "C4",
+          "construct_raw": "novel",
+          "indicator_raw": "novel",
+          "item_quote": "The metal ball then moves to the position and extends the user’s drawing with a novel stroke from one generated sketch.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "The survey included selected questions from the CSI [3] and USE Questionnaire [13] to evaluate if the interface efectively supports co-creative activities.；We asked the participants to fll out a survey.；During the post- workshop interview, we asked questions structured around: in- vestigating participant’s perception about collaboration with the interface, eval",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "Each ques- tion enabled users to rate with a 7-point Likert scale ranging from strongly disagree to strongly agree.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            2,
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "In this paper, we investigate how the human-AI co-creation process on a tangible interface enhances a non-expert’s understanding of a generative AI system.",
+          "claim_summary": "In this paper, we investigate how the human-AI co-creation process on a tangible interface enhances a non-expert’s understanding of a generative AI system.",
+          "claim_type": "C4",
+          "construct_raw": "Learn",
+          "indicator_raw": "Learn",
+          "item_quote": "The survey consisted of 24 questions, rating the interface according to eight factors: 1) Collaboration, 2) Enjoy- ment, 3) Exploration, 4) Expressiveness, 5) Immersion, 6) Results Worth Efort, 7) Ease of Use, and 8) Ease of Learning.",
+          "dimension_code": "C",
+          "indicator_code": "C2",
+          "instrument_raw": "The survey included selected questions from the CSI [3] and USE Questionnaire [13] to evaluate if the interface efectively supports co-creative activities.；We asked the participants to fll out a survey.；During the post- workshop interview, we asked questions structured around: in- vestigating participant’s perception about collaboration with the interface, eval",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "Each ques- tion enabled users to rate with a 7-point Likert scale ranging from strongly disagree to strongly agree.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            2,
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The survey consisted of 24 questions, rating the interface according to eight factors: 1) Collaboration, 2) Enjoy- ment, 3) Exploration, 4) Expressiveness, 5) Immersion, 6) Results Worth Efort, 7) Ease of Use, and 8) Ease of Learning.",
+          "claim_summary": "The survey consisted of 24 questions, rating the interface according to eight factors: 1) Collaboration, 2) Enjoy- ment, 3) Exploration, 4) Expressiveness, 5) Immersion, 6) Results Worth Efort, 7) Ease of Use, and 8) Ease of Learning.",
+          "claim_type": "C1",
+          "construct_raw": "Immersion",
+          "indicator_raw": "Immersion",
+          "item_quote": "The survey consisted of 24 questions, rating the interface according to eight factors: 1) Collaboration, 2) Enjoy- ment, 3) Exploration, 4) Expressiveness, 5) Immersion, 6) Results Worth Efort, 7) Ease of Use, and 8) Ease of Learning.",
+          "dimension_code": "C",
+          "indicator_code": "C4",
+          "instrument_raw": "The survey included selected questions from the CSI [3] and USE Questionnaire [13] to evaluate if the interface efectively supports co-creative activities.；We asked the participants to fll out a survey.；During the post- workshop interview, we asked questions structured around: in- vestigating participant’s perception about collaboration with the interface, eval",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "Each ques- tion enabled users to rate with a 7-point Likert scale ranging from strongly disagree to strongly agree.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The survey consisted of 24 questions, rating the interface according to eight factors: 1) Collaboration, 2) Enjoy- ment, 3) Exploration, 4) Expressiveness, 5) Immersion, 6) Results Worth Efort, 7) Ease of Use, and 8) Ease of Learning.",
+          "claim_summary": "The survey consisted of 24 questions, rating the interface according to eight factors: 1) Collaboration, 2) Enjoy- ment, 3) Exploration, 4) Expressiveness, 5) Immersion, 6) Results Worth Efort, 7) Ease of Use, and 8) Ease of Learning.",
+          "claim_type": "C1",
+          "construct_raw": "Enjoy",
+          "indicator_raw": "Enjoy",
+          "item_quote": "The survey consisted of 24 questions, rating the interface according to eight factors: 1) Collaboration, 2) Enjoy- ment, 3) Exploration, 4) Expressiveness, 5) Immersion, 6) Results Worth Efort, 7) Ease of Use, and 8) Ease of Learning.",
+          "dimension_code": "C",
+          "indicator_code": "C5",
+          "instrument_raw": "The survey included selected questions from the CSI [3] and USE Questionnaire [13] to evaluate if the interface efectively supports co-creative activities.；We asked the participants to fll out a survey.；During the post- workshop interview, we asked questions structured around: in- vestigating participant’s perception about collaboration with the interface, eval",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "Each ques- tion enabled users to rate with a 7-point Likert scale ranging from strongly disagree to strongly agree.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The survey consisted of 24 questions, rating the interface according to eight factors: 1) Collaboration, 2) Enjoy- ment, 3) Exploration, 4) Expressiveness, 5) Immersion, 6) Results Worth Efort, 7) Ease of Use, and 8) Ease of Learning.",
+          "claim_summary": "The survey consisted of 24 questions, rating the interface according to eight factors: 1) Collaboration, 2) Enjoy- ment, 3) Exploration, 4) Expressiveness, 5) Immersion, 6) Results Worth Efort, 7) Ease of Use, and 8) Ease of Learning.",
+          "claim_type": "C1",
+          "construct_raw": "Ease of Use",
+          "indicator_raw": "Ease of Use",
+          "item_quote": "The survey consisted of 24 questions, rating the interface according to eight factors: 1) Collaboration, 2) Enjoy- ment, 3) Exploration, 4) Expressiveness, 5) Immersion, 6) Results Worth Efort, 7) Ease of Use, and 8) Ease of Learning.",
+          "dimension_code": "D",
+          "indicator_code": "D1",
+          "instrument_raw": "The survey included selected questions from the CSI [3] and USE Questionnaire [13] to evaluate if the interface efectively supports co-creative activities.；We asked the participants to fll out a survey.；During the post- workshop interview, we asked questions structured around: in- vestigating participant’s perception about collaboration with the interface, eval",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "Each ques- tion enabled users to rate with a 7-point Likert scale ranging from strongly disagree to strongly agree.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "In this paper, we investigate how the human-AI co-creation process on a tangible interface enhances a non-expert’s understanding of a generative AI system.",
+          "claim_summary": "In this paper, we investigate how the human-AI co-creation process on a tangible interface enhances a non-expert’s understanding of a generative AI system.",
+          "claim_type": "C4",
+          "construct_raw": "Collaborat",
+          "indicator_raw": "Collaborat",
+          "item_quote": "The survey consisted of 24 questions, rating the interface according to eight factors: 1) Collaboration, 2) Enjoy- ment, 3) Exploration, 4) Expressiveness, 5) Immersion, 6) Results Worth Efort, 7) Ease of Use, and 8) Ease of Learning.",
+          "dimension_code": "D",
+          "indicator_code": "D8",
+          "instrument_raw": "The survey included selected questions from the CSI [3] and USE Questionnaire [13] to evaluate if the interface efectively supports co-creative activities.；We asked the participants to fll out a survey.；During the post- workshop interview, we asked questions structured around: in- vestigating participant’s perception about collaboration with the interface, eval",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "Each ques- tion enabled users to rate with a 7-point Likert scale ranging from strongly disagree to strongly agree.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            2,
+            3
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "quote": "We aim to"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "quote": "workshop interview, we asked questions structured around: in-"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "quote": "Playground, we conducted a workshop and invited participants"
+        },
+        {
+          "standard": "A6",
+          "status": "C",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "C",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "quote": "workshop interview, we asked questions structured around: in-"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\110.pdf"
+}

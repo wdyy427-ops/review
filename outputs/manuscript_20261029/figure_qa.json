@@ -1,0 +1,208 @@
+{
+  "figures": 11,
+  "main_figures": 7,
+  "supplementary_figures": 4,
+  "file_checks": "pass",
+  "png_visual_inspection": "All 11 final layouts inspected; overlapping panel titles and crowded heatmap labels repaired. Figure 2 widened to preserve readable labels in manuscript.",
+  "data_checks": [
+    "514 audit records; each criterion totals 514",
+    "A3 literal NA retained: 40",
+    "460 dimension records; 454 indicator records; 608 classified tool instances",
+    "Corrective Figure 6 excludes G4 and uses original G5; partition SD is not a population confidence interval"
+  ],
+  "figures_checked": [
+    {
+      "id": "fig01_evidence_architecture",
+      "pixels": [
+        2286,
+        1562
+      ],
+      "dpi": [
+        319.9892,
+        319.9892
+      ],
+      "source_tables": 1,
+      "visually_inspected": true
+    },
+    {
+      "id": "fig02_evidence_distributions",
+      "pixels": [
+        2196,
+        2245
+      ],
+      "dpi": [
+        319.9892,
+        319.9892
+      ],
+      "source_tables": 3,
+      "visually_inspected": true
+    },
+    {
+      "id": "fig03_temporal_composition",
+      "pixels": [
+        2276,
+        1127
+      ],
+      "dpi": [
+        319.9892,
+        319.9892
+      ],
+      "source_tables": 2,
+      "visually_inspected": true
+    },
+    {
+      "id": "fig04_context_distributions",
+      "pixels": [
+        2263,
+        1784
+      ],
+      "dpi": [
+        319.9892,
+        319.9892
+      ],
+      "source_tables": 1,
+      "visually_inspected": true
+    },
+    {
+      "id": "fig05_reported_evaluation_quality",
+      "pixels": [
+        2357,
+        1317
+      ],
+      "dpi": [
+        319.9892,
+        319.9892
+      ],
+      "source_tables": 2,
+      "visually_inspected": true
+    },
+    {
+      "id": "fig06_corrective_model_performance",
+      "pixels": [
+        2229,
+        1107
+      ],
+      "dpi": [
+        319.9892,
+        319.9892
+      ],
+      "source_tables": 1,
+      "visually_inspected": true
+    },
+    {
+      "id": "fig07_progressive_evidence_guidance",
+      "pixels": [
+        2286,
+        1632
+      ],
+      "dpi": [
+        319.9892,
+        319.9892
+      ],
+      "source_tables": 1,
+      "visually_inspected": true
+    },
+    {
+      "id": "figS01_all_subjective_indicators",
+      "pixels": [
+        1958,
+        1995
+      ],
+      "dpi": [
+        319.9892,
+        319.9892
+      ],
+      "source_tables": 1,
+      "visually_inspected": true
+    },
+    {
+      "id": "figS02_distribution_robustness",
+      "pixels": [
+        2359,
+        1173
+      ],
+      "dpi": [
+        319.9892,
+        319.9892
+      ],
+      "source_tables": 1,
+      "visually_inspected": true
+    },
+    {
+      "id": "figS03_corrective_group_ablations",
+      "pixels": [
+        2101,
+        1043
+      ],
+      "dpi": [
+        319.9892,
+        319.9892
+      ],
+      "source_tables": 1,
+      "visually_inspected": true
+    },
+    {
+      "id": "figS04_original_g4_diagnostic",
+      "pixels": [
+        2152,
+        1056
+      ],
+      "dpi": [
+        319.9892,
+        319.9892
+      ],
+      "source_tables": 2,
+      "visually_inspected": true
+    }
+  ],
+  "scientific_label_revision": "Figure 5 describes unvalidated automated reporting-support labels, including known keyword false positives. Figure 6 and related captions describe provisional operational-screen subsets, not verified high-quality evidence.",
+  "revised_visual_inspection": [
+    "fig01_evidence_architecture",
+    "fig05_reported_evaluation_quality",
+    "fig06_corrective_model_performance"
+  ],
+  "journal_figure_label_revision": "Main Figure 5 is Reporting-support profile with coded statuses; Figure 6 uses Expanded analytical subset and conditional eligibility. Figures describe recorded categories, not validated methodological quality. Detailed automated-coding deficiencies remain in this QA record and separate author notes.",
+  "scientific_limitations_to_retain_in_author_notes": [
+    "A3 S=205 is an automated code count, not a verified count of reliable evaluations.",
+    "Keyword false positives include technical kappa, normality tests and future-work statements.",
+    "No human adjudication has validated reporting-support labels.",
+    "Operational analytical subsets therefore do not establish verified high-quality evidence."
+  ],
+  "publication_year_revision": "Figure 3 uses the Crossref published date for all 125 papers joined by paper_id. Coded-year and screening-year sensitivity tables are retained. No original dataset changed.",
+  "publication_year_counts": {
+    "papers": [
+      11,
+      11,
+      28,
+      33,
+      42
+    ],
+    "dimensions": [
+      11,
+      8,
+      131,
+      89,
+      221
+    ],
+    "indicators": [
+      11,
+      8,
+      131,
+      88,
+      216
+    ],
+    "tools": [
+      14,
+      10,
+      151,
+      121,
+      312
+    ]
+  },
+  "tool_label_revision": "M1 Named scales; M2 Bespoke structured ratings; M3 Qualitative verbal elicitation; M4 Non-scale structured judgments; M5 Analysis of existing perceptual material.",
+  "latest_visual_inspection": [
+    "fig02_evidence_distributions",
+    "fig03_temporal_composition",
+    "fig04_context_distributions"
+  ]
+}

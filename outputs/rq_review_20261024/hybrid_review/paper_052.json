@@ -1,0 +1,54 @@
+{
+  "paper_id": 52,
+  "title": "Research on emotional design of smart home products for the elderly based on technology acceptance modelling",
+  "doi": "10.1080/09544828.2025.2518655",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    8,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16,
+    17,
+    18,
+    21,
+    22,
+    24,
+    25,
+    26,
+    27
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1",
+    "D2"
+  ],
+  "stage_codes": [
+    "S1"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U6",
+    "U1"
+  ],
+  "context_summary": "The paper explores emotional design for smart home products for the elderly using the Technology Acceptance Model (TAM). It integrates generative AI and conducts empirical studies to enhance user acceptance through emotional resonance.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\52.pdf"
+}

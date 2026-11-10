@@ -1,0 +1,588 @@
+{
+  "paper_id": 100,
+  "title": "Lumos: AI-driven prompt optimisation tool for assisting conceptual design",
+  "doi": "10.1080/09544828.2024.2396195",
+  "year": 2024,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    6,
+    8,
+    9,
+    11,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1",
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F3",
+    "F4",
+    "F5"
+  ],
+  "ai_role_codes": [
+    "R1",
+    "R2"
+  ],
+  "target_user_codes": [
+    "U6",
+    "U1"
+  ],
+  "context_summary": "The paper presents Lumos, an AI tool for optimizing prompts in conceptual design, aiming to enhance efficiency and image usability. It includes experiments with designers and expert evaluations of generated images.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "100-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G1",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [
+        "Q2",
+        "Q3"
+      ],
+      "sample_n": 32,
+      "sample_description": "Designers were divided into groups to compare the efficiency differences between using Lumos as an assistant and not using it while using MJ.",
+      "recruitment": "The study recruited 32 participants (As shown in Table 6), divided into four groups: 8 junior",
+      "task": "now available to assist in tasks like finding reference images and sketching during the con-",
+      "comparator": "• Enhancing design efficiency and quality while optimising resource costs: Compared with",
+      "procedure": "Experimentalprocedure",
+      "analysis": "higher than A’’ (M = 225) (p = 0.048∗∗), B’ (M = 270) was significantly higher than B’’",
+      "actual_results": "After selecting ‘yes’, the experts assigned scores to the images ranging from 0 to 4, with higher scores indicating greater perceived usability.",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 2,
+          "quote": "Designers were divided into groups to compare the efficiency differences between using Lumos as an assistant and not using it while using MJ."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "The quality and usability of the generated images (S2-2) Designers using the Lumos tool can reduce work time and improve work efficiency when utilising AI for creative work.",
+          "claim_summary": "The quality and usability of the generated images (S2-2) Designers using the Lumos tool can reduce work time and improve work efficiency when utilising AI for creative work.",
+          "claim_type": "C1",
+          "construct_raw": "novelty",
+          "indicator_raw": "novelty",
+          "item_quote": "ExperimentalﬂowwithoutandwiththeLumos. stylistic genes of the provided images but also demonstrated a certain level of novelty and details.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "Additionally, the designers completed post- experiment feedback questionnaires.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The test results showed a high consistency in difficulty evaluation (Kendall’s W coefficient was 0.683).",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            18,
+            20
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The grouping information of the experiment was concealed in the questionnaire, and the images were evaluated based on three criteria: novelty, similar- ity, and detail completeness.",
+          "claim_summary": "The grouping information of the experiment was concealed in the questionnaire, and the images were evaluated based on three criteria: novelty, similar- ity, and detail completeness.",
+          "claim_type": "C1",
+          "construct_raw": "Completeness",
+          "indicator_raw": "Completeness",
+          "item_quote": "JOURNAL OF ENGINEERING DESIGN 1615 The evaluation criteria included: • Novelty (Hung and Chen 2012): Assessing the degree of creativity and divergence, comparing the appearance of the generated images with the original reference images. • Similarity (Shen, Yao, and Bao 2021): Determining whether the generated images pre- served the style of the original reference images. • Detail Completeness (Chai et al.",
+          "dimension_code": "A",
+          "indicator_code": "A6",
+          "instrument_raw": "Additionally, the designers completed post- experiment feedback questionnaires.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The test results showed a high consistency in difficulty evaluation (Kendall’s W coefficient was 0.683).",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            19,
+            20
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The quality and usability of the generated images (S2-2) Designers using the Lumos tool can reduce work time and improve work efficiency when utilising AI for creative work.",
+          "claim_summary": "The quality and usability of the generated images (S2-2) Designers using the Lumos tool can reduce work time and improve work efficiency when utilising AI for creative work.",
+          "claim_type": "C1",
+          "construct_raw": "usability",
+          "indicator_raw": "usability",
+          "item_quote": "The quality and usability of the generated images (S2-2) Designers using the Lumos tool can reduce work time and improve work efficiency when utilising AI for creative work.",
+          "dimension_code": "D",
+          "indicator_code": "D1",
+          "instrument_raw": "Additionally, the designers completed post- experiment feedback questionnaires.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The test results showed a high consistency in difficulty evaluation (Kendall’s W coefficient was 0.683).",
+          "result_quote": "After selecting ‘yes’, the experts assigned scores to the images ranging from 0 to 4, with higher scores indicating greater perceived usability.",
+          "effect_direction": "正向",
+          "pages": [
+            20
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Four professional designers were invited to rate the difficulty lev- els of these three images on a five-point scale based on criteria such as colour richness, CMF (Colour, Material, Finishing), number of features, technical requirements, and diversity of market applications (Closs et al.",
+          "claim_summary": "Four professional designers were invited to rate the difficulty lev- els of these three images on a five-point scale based on criteria such as colour richness, CMF (Colour, Material, Finishing), number of features, technical requirements, and diversity of market applications (Closs et al.",
+          "claim_type": "C1",
+          "construct_raw": "market",
+          "indicator_raw": "market",
+          "item_quote": "Four professional designers were invited to rate the difficulty lev- els of these three images on a five-point scale based on criteria such as colour richness, CMF (Colour, Material, Finishing), number of features, technical requirements, and diversity of market applications (Closs et al.",
+          "dimension_code": "E",
+          "indicator_code": "E7",
+          "instrument_raw": "Additionally, the designers completed post- experiment feedback questionnaires.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The test results showed a high consistency in difficulty evaluation (Kendall’s W coefficient was 0.683).",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            17
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "opment of a specialised AI prompt generation tool aims to bridge this gap by providing"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "the efficiency and usability of integrating AI drawing with prompt"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "The test results showed a high consistency in difficulty evaluation (Kendall’s"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "The study recruited 32 participants (As shown in Table 6), divided into four groups: 8 junior"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "higher than A’’ (M = 225) (p = 0.048∗∗), B’ (M = 270) was significantly higher than B’’"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "After selecting ‘yes’, the experts assigned scores to the images ranging from 0 to 4, with higher scores indicating greater perceived usability."
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "quote": "the efficiency and usability of integrating AI drawing with prompt"
+        }
+      ]
+    },
+    {
+      "eval_id": "100-E2",
+      "purpose_codes": [
+        "P3",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [],
+      "source_codes": [
+        "H1"
+      ],
+      "setting_code": "L1",
+      "design_code": "G1",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K3",
+        "K4",
+        "K5",
+        "K6"
+      ],
+      "constraint_codes": [
+        "Q2",
+        "Q3"
+      ],
+      "sample_n": 4,
+      "sample_description": "The questionnaire provided 'yes' and 'no' options for image selection, with 'yes' indicating that the generated image would be helpful for practical production.",
+      "recruitment": "",
+      "task": "Each participant was required to generate two images per product: one using MJ com-",
+      "comparator": "",
+      "procedure": "Participants were asked to fill out this questionnaire to understand",
+      "analysis": "higher than A’’ (M = 225) (p = 0.048∗∗), B’ (M = 270) was significantly higher than B’’",
+      "actual_results": "After selecting ‘yes’, the experts assigned scores to the images ranging from 0 to 4, with higher scores indicating greater perceived usability.",
+      "limitations": "may have limitations in accurately describing complex tasks.",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 20,
+          "quote": "The questionnaire provided 'yes' and 'no' options for image selection, with 'yes' indicating that the generated image would be helpful for practical production."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "The quality and usability of the generated images (S2-2) Designers using the Lumos tool can reduce work time and improve work efficiency when utilising AI for creative work.",
+          "claim_summary": "The quality and usability of the generated images (S2-2) Designers using the Lumos tool can reduce work time and improve work efficiency when utilising AI for creative work.",
+          "claim_type": "C1",
+          "construct_raw": "novelty",
+          "indicator_raw": "novelty",
+          "item_quote": "ExperimentalﬂowwithoutandwiththeLumos. stylistic genes of the provided images but also demonstrated a certain level of novelty and details.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "Additionally, the designers completed post- experiment feedback questionnaires.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The test results showed a high consistency in difficulty evaluation (Kendall’s W coefficient was 0.683).",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            18,
+            20
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The grouping information of the experiment was concealed in the questionnaire, and the images were evaluated based on three criteria: novelty, similar- ity, and detail completeness.",
+          "claim_summary": "The grouping information of the experiment was concealed in the questionnaire, and the images were evaluated based on three criteria: novelty, similar- ity, and detail completeness.",
+          "claim_type": "C1",
+          "construct_raw": "Completeness",
+          "indicator_raw": "Completeness",
+          "item_quote": "JOURNAL OF ENGINEERING DESIGN 1615 The evaluation criteria included: • Novelty (Hung and Chen 2012): Assessing the degree of creativity and divergence, comparing the appearance of the generated images with the original reference images. • Similarity (Shen, Yao, and Bao 2021): Determining whether the generated images pre- served the style of the original reference images. • Detail Completeness (Chai et al.",
+          "dimension_code": "A",
+          "indicator_code": "A6",
+          "instrument_raw": "Additionally, the designers completed post- experiment feedback questionnaires.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The test results showed a high consistency in difficulty evaluation (Kendall’s W coefficient was 0.683).",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            19,
+            20
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The quality and usability of the generated images (S2-2) Designers using the Lumos tool can reduce work time and improve work efficiency when utilising AI for creative work.",
+          "claim_summary": "The quality and usability of the generated images (S2-2) Designers using the Lumos tool can reduce work time and improve work efficiency when utilising AI for creative work.",
+          "claim_type": "C1",
+          "construct_raw": "usability",
+          "indicator_raw": "usability",
+          "item_quote": "The quality and usability of the generated images (S2-2) Designers using the Lumos tool can reduce work time and improve work efficiency when utilising AI for creative work.",
+          "dimension_code": "D",
+          "indicator_code": "D1",
+          "instrument_raw": "Additionally, the designers completed post- experiment feedback questionnaires.",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "The test results showed a high consistency in difficulty evaluation (Kendall’s W coefficient was 0.683).",
+          "result_quote": "After selecting ‘yes’, the experts assigned scores to the images ranging from 0 to 4, with higher scores indicating greater perceived usability.",
+          "effect_direction": "正向",
+          "pages": [
+            20
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "quote": "Four experts were invited to evaluate the generated images based on"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "quote": "After generating four images using"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "quote": "Each participant was required to generate two images per product: one using MJ com-"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "quote": "higher than A’’ (M = 225) (p = 0.048∗∗), B’ (M = 270) was significantly higher than B’’"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "quote": "After selecting ‘yes’, the experts assigned scores to the images ranging from 0 to 4, with higher scores indicating greater perceived usability."
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "quote": "After generating four images using"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\100.pdf"
+}

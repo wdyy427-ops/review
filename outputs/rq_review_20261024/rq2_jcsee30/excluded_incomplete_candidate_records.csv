@@ -1,0 +1,65 @@
+﻿paper_id,eval_id,candidate_record_id,exclusion_reason,construct_raw,indicator_raw,instrument_raw
+1,001-E1,001-E1-C2,评价维度或二级指标未映射,Effectiveness of FEA and Ergonomics Integration,Effectiveness of FEA and Ergonomics Integration,自编7点Likert问卷；Table 2
+1,001-E1,001-E1-C3,评价维度或二级指标未映射,Novelty and Safety Balance,Novelty and Safety Balance,自编7点Likert问卷；Table 2
+1,001-E1,001-E1-C6,评价维度或二级指标未映射,Design and Functionality Balance,Design and Functionality Balance,自编7点Likert问卷；Table 2
+3,003-E2,003-E2-C1,评价维度或二级指标未映射,Relative importance of opportunity indicators,Relative importance of opportunity indicators,"Analytic Hierarchy Process (AHP), Saaty 1–9"
+3,003-E3,003-E3-C1,评价维度或二级指标未映射,Innovation value of demand,Innovation value of demand,专家综合评分（量尺NR）＋XGBoost校准
+7,007-E1,007-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,A comparison between the expert ratings and the LLM-generated sim-
+19,019-E1,019-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"to a specific attribute, such as product ratings."
+19,019-E2,019-E2-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"and natural, seamlessly integrating with the body, while the edges of the lid are neat and"
+20,020-E1,020-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"In this study, a 5-step Likert scale (5 represents"
+20,020-E2,020-E2-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"evaluations used a 5-point Likert scale, as shown in Table 9, the complete dataset can be"
+20,020-E3,020-E3-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"In this study, a 5-step Likert scale (5 represents"
+24,024-E1,024-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,Post-experiment questionnaire survey
+24,024-E3,024-E3-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"To ensure the scientific rigour of the instrument, the questionnaire utilised a five-"
+28,028-E3,028-E3-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"r = 0.4243), interview feedback suggests that the system still supported creative diver-"
+29,029-E1,029-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"through methods such as interviews, surveys, and customer feedback (Mohedas, Daly, and"
+29,029-E2,029-E2-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,titative survey data provided numerical comparisons between AI- and human-generated
+39,039-E1,039-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"Second, all participants completed a diary survey that re-"
+41,041-E1,041-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,the accurate geometric large-scale model and generate 300 images in the SDM software.
+41,041-E2,041-E2-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,the accurate geometric large-scale model and generate 300 images in the SDM software.
+41,041-E3,041-E3-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,the existing models in understanding the text and generating the output.
+43,43-R1,43-R1-C4,评价维度或二级指标未映射,User Comprehensibility,User Comprehensibility,自编15题七点评分
+47,47-R1,47-R1-C2,评价维度或二级指标未映射,Subjective Diversity,Subjective Diversity,基于Knijnenburg等推荐系统评价框架的条件偏好选择题
+47,47-R1,47-R1-C3,评价维度或二级指标未映射,Subjective Satisfaction,Subjective Satisfaction,基于Knijnenburg等推荐系统评价框架的条件偏好选择题
+48,048-E1,048-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,The semantic extension rating vector forU4is obtained.
+50,050-E1,050-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,tograyscaleimagestoremovecolourinterferenceandblurredorhiddenthebrandlogoin
+50,050-E2,050-E2-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"vious surveys, for a total of 20 people to rate the emotional experience of 6 table lamp"
+57,057-E1,057-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,flows or generating design elements through structural decomposition (He et al.
+58,058-E1,058-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"closing the loop between research and procurement, integrating sourcing"
+60,060-E1,060-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,in generating concepts that are both practical and original.
+60,060-E2,060-E2-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,in generating concepts that are both practical and original.
+62,062-E1,062-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,was not tested on large-scale data.
+64,064-E1,064-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"user-friendliness of our interface, we conducted a user study using a Likert scale question-"
+65,065-E1,065-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"(1) Workflow Construction: In the node-based operating system of stable diffusion, a"
+65,065-E2,065-E2-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,We selected guidance scale= 7.5 and
+66,066-E2,066-E2-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"generating several design ideas, indicating a higher reliance on AI-generated ideas and"
+66,066-E3,066-E3-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,generating stimuli throughout the conceptual design process.
+67,067-E1,067-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,the optimised dataset in generating design solutions.
+70,070-E4,070-E4-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"ratings (feasibility, novelty and aesthetics)."
+71,071-E1,071-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,MS-SSIM further considers structural similarity at different scales based on structural sim-
+72,072-E2,072-E2-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,BarPlotofExpertResponsesfromQuestionnaireforSimilarityofIdeasGeneratedfortheSix
+75,075-E1,075-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"grayscale, intended to explore impact of eliminating colour from the"
+76,076-E1,076-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"‘monitoring operating parameters’ and ‘opening the ventilation fan under the transformer’,"
+77,077-E1,077-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,limitations in generating novel design concepts.
+83,083-E4,083-E4-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"Design models by incorporating qualitative performance objectives such as local characters, design aesthetics,"
+84,084-E1,084-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"views and surveys, for gathering product experience data are time-"
+84,084-E2,084-E2-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"views and surveys, for gathering product experience data are time-"
+86,86-E1,86-E1-C1,评价维度或二级指标未映射,Science-fiction,Science-fiction,感性工学自编语义一致性7级评分（作者称7-point Likert）
+86,86-E1,86-E1-C2,评价维度或二级指标未映射,Humanistic,Humanistic,感性工学自编语义一致性7级评分（作者称7-point Likert）
+86,86-E1,86-E1-C4,评价维度或二级指标未映射,Grand,Grand,感性工学自编语义一致性7级评分（作者称7-point Likert）
+86,86-E1,86-E1-C5,评价维度或二级指标未映射,Efficient,Efficient,感性工学自编语义一致性7级评分（作者称7-point Likert）
+86,86-E2,86-E2-C1,评价维度或二级指标未映射,Efficient,Efficient,沿用7级感性语义评分
+86,86-E2,86-E2-C3,评价维度或二级指标未映射,Grand,Grand,沿用7级感性语义评分
+87,87-E1,87-E1-C1,评价维度或二级指标未映射,Creativity Support Index,CSI total,Creativity Support Index (Cherry & Latulipe 2014)，改编语境
+87,87-E1,87-E1-C7,评价维度或二级指标未映射,Results Worth Effort,Results Worth Effort,CSI Results Worth Effort分量表
+91,091-E1,091-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,Comprehensive Evaluation Scale: Establish an evaluation set stratified into six lev-
+97,097-E1,097-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,an ethnographic approach to explore how product designers are currently integrating AIGC
+97,097-E4,097-E4-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,(3) Integrating human designers’ expertise and creative processes
+97,097-E5,097-E5-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,GeneratingdiﬀerentCMFimagewithAIGC.
+103,103-E1,103-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"ingforpositiverewards.Thus,weconsidergeneratingasequence"
+108,108-E1,108-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"made emotionally, such as when something is deemed lovely, and then demonstrating"
+109,109-E1,109-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,to effectively control the texture and shape of fashion items for generating fashion items with
+113,113-E1,113-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"The input to our pipeline is a greyscale bitmap sketch, containing a"
+115,115-E3,115-E3-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,and liking a product can be measured separately and demonstrating the usefulness
+120,120-E1,120-E1-C1,评价维度或二级指标未映射；效果主张仅为占位描述或缺失,UNMAPPED,UNMAPPED,"from the colorized image 𝐼𝑐1 , which results in generating a sketch"

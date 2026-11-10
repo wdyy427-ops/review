@@ -1,0 +1,12 @@
+{
+  "papers": 125,
+  "papers_with_human_subjective_evaluation": 94,
+  "evaluations": 158,
+  "chains": 490,
+  "strict_evaluations": 13,
+  "association_eligible_evaluations": 59,
+  "association_analysis_chains": 256,
+  "association_analysis_papers": 35,
+  "manual_reviewed_papers": 12,
+  "hybrid_reviewed_papers": 113
+}

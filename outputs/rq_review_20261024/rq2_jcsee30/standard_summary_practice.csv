@@ -1,0 +1,31 @@
+﻿standard,standard_name,n_units,S,P,NR,C,NA,UJ,support_pct
+A1,Justified Conclusions and Decisions,426,383,0,0,43,0,0,89.90610328638498
+A2,Valid Information,426,31,384,11,0,0,0,52.347417840375584
+A3,Reliable Information,426,188,5,233,0,0,0,44.71830985915493
+A4,Explicit Program and Context Descriptions,426,30,361,35,0,0,0,49.413145539906104
+A5,Information Management,426,0,6,420,0,0,0,0.7042253521126761
+A6,Sound Designs and Analyses,426,154,18,248,6,0,0,38.26291079812207
+A7,Explicit Evaluation Reasoning,426,170,2,248,6,0,0,40.140845070422536
+A8,Communication and Reporting,426,395,27,4,0,0,0,95.89201877934272
+E1,Evaluation Documentation,426,108,310,8,0,0,0,61.737089201877936
+E2,Internal Metaevaluation,426,18,105,303,0,0,0,16.549295774647888
+E3,External Metaevaluation,426,0,0,426,0,0,0,0.0
+F1,Project Management,426,1,65,360,0,0,0,7.863849765258216
+F2,Practical Procedures,426,307,102,17,0,0,0,84.03755868544602
+F3,Contextual Viability,426,10,113,303,0,0,0,15.610328638497654
+F4,Resource Use,426,382,44,0,0,0,0,94.83568075117371
+P1,Responsive and Inclusive Orientation,426,190,223,13,0,0,0,70.77464788732394
+P2,Formal Agreements,426,0,144,282,0,0,0,16.901408450704224
+P3,Human Rights and Respect,426,120,178,128,0,0,0,49.06103286384976
+P4,Clarity and Fairness,426,194,162,70,0,0,0,64.55399061032864
+P5,Transparency and Disclosure,426,293,132,1,0,0,0,84.27230046948357
+P6,Conflicts of Interests,426,19,0,407,0,0,0,4.460093896713615
+P7,Fiscal Responsibility,426,0,0,0,0,0,426,
+U1,Evaluator Credibility,426,0,57,369,0,0,0,6.690140845070422
+U2,Attention to Stakeholders,426,0,133,293,0,0,0,15.610328638497654
+U3,Negotiated Purposes,426,25,164,237,0,0,0,25.11737089201878
+U4,Explicit Values,426,224,202,0,0,0,0,76.29107981220658
+U5,Relevant Information,426,418,0,8,0,0,0,98.12206572769952
+U6,Meaningful Processes and Products,426,0,24,402,0,0,0,2.8169014084507045
+U7,Timely and Appropriate Communicating and Reporting,426,8,0,418,0,0,0,1.8779342723004695
+U8,Concern for Consequences and Influence,426,5,90,331,0,0,0,11.737089201877934

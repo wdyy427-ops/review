@@ -1,0 +1,100 @@
+[
+  {
+    "unit": "证据链",
+    "field": "item_quote",
+    "missing_n": 14,
+    "n": 95,
+    "missing_proportion": 0.14736842105263157
+  },
+  {
+    "unit": "证据链",
+    "field": "construct_raw",
+    "missing_n": 0,
+    "n": 95,
+    "missing_proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "field": "instrument_raw",
+    "missing_n": 0,
+    "n": 95,
+    "missing_proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "field": "response_scoring",
+    "missing_n": 0,
+    "n": 95,
+    "missing_proportion": 0.0
+  },
+  {
+    "unit": "证据链",
+    "field": "validity_evidence",
+    "missing_n": 6,
+    "n": 95,
+    "missing_proportion": 0.06315789473684211
+  },
+  {
+    "unit": "证据链",
+    "field": "reliability_evidence",
+    "missing_n": 12,
+    "n": 95,
+    "missing_proportion": 0.12631578947368421
+  },
+  {
+    "unit": "证据链",
+    "field": "result_quote",
+    "missing_n": 0,
+    "n": 95,
+    "missing_proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "field": "sample_n",
+    "missing_n": 2,
+    "n": 31,
+    "missing_proportion": 0.06451612903225806
+  },
+  {
+    "unit": "评价案例",
+    "field": "recruitment",
+    "missing_n": 16,
+    "n": 31,
+    "missing_proportion": 0.5161290322580645
+  },
+  {
+    "unit": "评价案例",
+    "field": "procedure",
+    "missing_n": 6,
+    "n": 31,
+    "missing_proportion": 0.1935483870967742
+  },
+  {
+    "unit": "评价案例",
+    "field": "analysis",
+    "missing_n": 0,
+    "n": 31,
+    "missing_proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "field": "actual_results",
+    "missing_n": 0,
+    "n": 31,
+    "missing_proportion": 0.0
+  },
+  {
+    "unit": "评价案例",
+    "field": "ethics",
+    "missing_n": 22,
+    "n": 31,
+    "missing_proportion": 0.7096774193548387
+  },
+  {
+    "unit": "评价案例",
+    "field": "constraints_raw",
+    "missing_n": 26,
+    "n": 31,
+    "missing_proportion": 0.8387096774193549
+  }
+]

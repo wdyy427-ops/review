@@ -1,0 +1,40 @@
+{
+  "paper_id": 1,
+  "eval_id": "020-E3",
+  "decision": "include",
+  "reason": "包含人类主观评价链，通过Kansei语义词评估用户情感",
+  "chains": [
+    {
+      "claim_quote": "Through literature collection and expert evaluation, the Kansei semantic words of 12 NEV steering wheels were initially obtained.",
+      "claim_summary": "通过文献收集和专家评估获得NEV转向盘的Kansei语义词",
+      "construct_raw": "Kansei语义词",
+      "indicator_raw": "Kansei语义词",
+      "instrument_raw": "5步李克特量表",
+      "response_scoring": "5步李克特量表（5代表非常一致；3代表一致；1代表不一致）",
+      "result_quote": "We invited 90 users... to participate in emotional assessments.",
+      "pages": [
+        4
+      ]
+    }
+  ],
+  "reviewed_pages": [
+    3,
+    4,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    22,
+    25
+  ],
+  "usage": {
+    "completion_tokens": 173,
+    "prompt_tokens": 7137,
+    "total_tokens": 7310,
+    "prompt_tokens_details": {
+      "cached_tokens": 414
+    }
+  }
+}

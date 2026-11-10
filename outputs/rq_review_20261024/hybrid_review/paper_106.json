@@ -1,0 +1,249 @@
+{
+  "paper_id": 106,
+  "title": "Designing dual ontological products for human factors: a machine learning and harmonistic knowledge-based computational support tool",
+  "doi": "10.1080/09544828.2023.2248801",
+  "year": 2023,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    10,
+    11,
+    12,
+    14,
+    15,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U4",
+    "U5",
+    "U6"
+  ],
+  "context_summary": "The paper presents a computational tool for designing dual ontological products, focusing on human factors. It includes a framework for integrating ergonomic, aesthetic, and persona aspects, using machine learning and harmonistic knowledge-based systems.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [
+    "The paper discusses the use of machine learning and harmonistic knowledge-based systems but does not explicitly mention the collection of human subjective data in the context of the study."
+  ],
+  "evaluations": [
+    {
+      "eval_id": "106-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H3",
+        "H6"
+      ],
+      "setting_code": "NR",
+      "design_code": "G1",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K4",
+        "K5",
+        "K6"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 28,
+      "sample_description": "All the respondents (N = 28 or 100%) stated that they were guided and supported to find a harmonised solution.",
+      "recruitment": "",
+      "task": "The Inference Engine (IE) component has multiple tasks within DESMO-APP.T h eML -based",
+      "comparator": "",
+      "procedure": "“DHM Based Test Procedure Concept",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "obtained formal approval from the University Research Ethics Committee (UREC) before the",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 23,
+          "quote": "All the respondents (N = 28 or 100%) stated that they were guided and supported to find a harmonised solution."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "As illustrated in Figure 13 (Q5), this statement was the second most impor- tant (M = 4.6 and SD = 0.6) according to the participants, with 71.4% strongly agreeing and 21.4% agreeing. ‘The concurrent design for aspects such as ergonomics and aesthetics is important as these usually tend to oppose each other.",
+          "claim_summary": "As illustrated in Figure 13 (Q5), this statement was the second most impor- tant (M = 4.6 and SD = 0.6) according to the participants, with 71.4% strongly agreeing and 21.4% agreeing. ‘The concurrent design for aspects such as ergonomics and aesthetics is important as these usually tend to oppose ea",
+          "claim_type": "C1",
+          "construct_raw": "aestheti",
+          "indicator_raw": "aestheti",
+          "item_quote": "As illustrated in Figure 13 (Q5), this statement was the second most impor- tant (M = 4.6 and SD = 0.6) according to the participants, with 71.4% strongly agreeing and 21.4% agreeing. ‘The concurrent design for aspects such as ergonomics and aesthetics is important as these usually tend to oppose each other.",
+          "dimension_code": "A",
+          "indicator_code": "A2",
+          "instrument_raw": "Following the demonstration, a semi-structured interview was carried out with par- ticipants, where a Likert type 5-point-scale response was utilised to quantit；Following the demonstration, a semi-structured interview was carried out with par- ticipants, where a Likert type 5-point-scale response was utilised to quantit；Following the demonstration, a semi-structured interview was carried out with par- ticipants, where a Likert type 5-point-scale response was utilised to quantit",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "As illustrated in Figure 13 (Q5), this statement was the second most impor- tant (M = 4.6 and SD = 0.6) according to the participants, with 71.4% strongly agreeing and 21.4% agreeing. ‘The concurrent design for aspects such as ergonomics and aesthetics is important as these usually tend to oppose each other.",
+          "validity_evidence": "Evaluation aim An evaluation was carried out in order to establish the validity and effectiveness of the pro- posed support computer-based tool with respect to the reality situation.",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            23
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": "tionary Algorithm.T h eNSGA-II algorithm is an evolutionary-based algorithms in generating"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": "the computational-based tool, the participants were also given the opportunity to directly"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "quote": "tionary Algorithm.T h eNSGA-II algorithm is an evolutionary-based algorithms in generating"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\106.pdf"
+}

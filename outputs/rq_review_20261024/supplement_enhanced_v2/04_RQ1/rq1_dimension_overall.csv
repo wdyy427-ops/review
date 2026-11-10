@@ -1,0 +1,6 @@
+﻿unit,code,label,n,denominator,percent
+evidence_chain,A,设计成果质量,144,460,0.3130434782608696
+evidence_chain,B,设计过程质量,43,460,0.09347826086956522
+evidence_chain,C,设计者认知、情感与能力,110,460,0.2391304347826087
+evidence_chain,D,人机交互体验,97,460,0.2108695652173913
+evidence_chain,E,社会情境价值,66,460,0.14347826086956522

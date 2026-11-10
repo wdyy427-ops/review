@@ -1,0 +1,250 @@
+{
+  "paper_id": 58,
+  "title": "An evaluation study of AiLoupe: An AI driven design tool to source and select textile materials",
+  "doi": "10.1080/14606925.2025.2579120",
+  "year": 2025,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    5,
+    9,
+    10,
+    12,
+    13,
+    14,
+    15,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2",
+    "D3"
+  ],
+  "stage_codes": [
+    "S1",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U5",
+    "U1"
+  ],
+  "context_summary": "Study evaluates AI-driven design tool AiLoupe for textile material sourcing, involving 22 designers to assess its impact on workflow, sustainability, and collaboration.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "058-E1",
+      "purpose_codes": [
+        "P2",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V2",
+        "V5"
+      ],
+      "source_codes": [
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K3",
+        "K4",
+        "K6",
+        "K7"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 22,
+      "sample_description": "AiLoupe would also ease material suitability challenges as the MDCs provide early alignment between material properties and the creative intent of the designer.",
+      "recruitment": "We recruited 22 participants, all from the same disciplinary background",
+      "task": "The participants were asked to complete individual partici -",
+      "comparator": "",
+      "procedure": "The participants were asked to complete individual partici -",
+      "analysis": "using thematic analysis (Braun and Clarke 2012), each participant’s MSJ was",
+      "actual_results": "",
+      "limitations": "or physical shops and expos, and to identify any limitations with their",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 15,
+          "quote": "AiLoupe would also ease material suitability challenges as the MDCs provide early alignment between material properties and the creative intent of the designer."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "AiLoupe would also ease material suitability challenges as the MDCs provide early alignment between material properties and the creative intent of the designer.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "AiLoupe would also ease material suitability challenges as the MDCs provide early alignment between material properties and the creative intent of the designer.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "closing the loop between research and procurement, integrating sourcing",
+          "tool_family_codes": [
+            "M4"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            12
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "In order to get participants to evaluate the MDC’s utility in their sourcing"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "closing the loop between research and procurement, integrating sourcing"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "After completing their consent forms, participants were initially split into"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "using thematic analysis (Braun and Clarke 2012), each participant’s MSJ was"
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "closing the loop between research and procurement, integrating sourcing"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\58.pdf"
+}

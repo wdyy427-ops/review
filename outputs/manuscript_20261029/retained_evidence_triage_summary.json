@@ -1,0 +1,18 @@
+{
+  "A2": {
+    "apparently_relevant_pending_source_check": 21,
+    "insufficient_quote": 12,
+    "clear_concern": 11,
+    "clear_concern_papers": 3,
+    "clear_concern_main_records": 9,
+    "clear_concern_expanded_records": 11
+  },
+  "A3": {
+    "apparently_relevant_pending_source_check": 74,
+    "clear_concern": 74,
+    "insufficient_quote": 57,
+    "clear_concern_papers": 11,
+    "clear_concern_main_records": 7,
+    "clear_concern_expanded_records": 7
+  }
+}

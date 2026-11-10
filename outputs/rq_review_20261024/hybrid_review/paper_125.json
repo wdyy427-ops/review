@@ -1,0 +1,44 @@
+{
+  "paper_id": 125,
+  "title": "Identification of similar design principles of passenger cars using deep neural networks",
+  "doi": "10.1504/JDR.2022.10051661",
+  "year": 2022,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    13,
+    16,
+    17,
+    21,
+    22
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [],
+  "target_user_codes": [],
+  "context_summary": "The paper uses deep neural networks to identify similar design principles across car brands. It discusses the methodology, results, and applications of the model in identifying design similarities and patent infringements.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": "No human evaluations found.",
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\125.pdf"
+}

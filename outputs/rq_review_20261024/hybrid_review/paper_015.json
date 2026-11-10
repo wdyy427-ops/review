@@ -1,0 +1,58 @@
+{
+  "paper_id": 15,
+  "title": "Functional requirements mining for mass personalisation: a heterogeneous data-driven knowledge graph approach to enable product rapid design",
+  "doi": "10.1080/09544828.2026.2700685",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    12,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    28,
+    29,
+    32,
+    33,
+    34,
+    35,
+    37,
+    39
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U6",
+    "U1"
+  ],
+  "context_summary": "The paper proposes a heterogeneous data-driven knowledge graph (HDDKG) approach for mining functional requirements (FRs) in mass personalisation. It integrates customer requirements (CRs), technology-driven requirements (TDRs), and FRs into a unified multi-domain representation. The study uses online reviews, patent documents, and product instructions to extract CRs and TDRs, and employs models like QCECM and TDREM for requirement extraction and mapping. The HDDKG is validated through case studies and performance comparisons with baseline methods.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\15.pdf"
+}

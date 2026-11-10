@@ -1,0 +1,224 @@
+{
+  "paper_id": 109,
+  "title": "Toward Intelligent Fashion Design: A Texture and Shape Disentangled Generative Adversarial Network",
+  "doi": "10.1145/3567596",
+  "year": 2023,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    8,
+    9,
+    10,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    20,
+    21
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1",
+    "D3"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F3",
+    "F4"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U4",
+    "U1"
+  ],
+  "context_summary": "This paper proposes TSD-GAN, a texture and shape disentangled GAN for intelligent fashion design. It aims to disentangle texture and shape features of fashion items to generate new designs. The model uses a shared fashion attribute encoder, texture and shape mapping networks, and a multi-factor-based generator to synthesize mixed-style fashion items.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "109-E1",
+      "purpose_codes": [
+        "P2",
+        "P1"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [],
+      "source_codes": [
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G1",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [],
+      "sample_n": 1,
+      "sample_description": "Designing remarkable masterpieces based on different textures and shapes requires the accumulation of a wealth of experience and great skills that are commonly beyond the capabilities of average users.",
+      "recruitment": "",
+      "task": "To fulfill such an intelligent task, the key challenges lie in the following aspects: (1) whether",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "process.Thesemethods,however,sufferfromtwomajorlimitations.First,fordesigners,thesetra-",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 2,
+          "quote": "Designing remarkable masterpieces based on different textures and shapes requires the accumulation of a wealth of experience and great skills that are commonly beyond the capabilities of average users."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Designing remarkable masterpieces based on different textures and shapes requires the accumulation of a wealth of experience and great skills that are commonly beyond the capabilities of average users.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "Designing remarkable masterpieces based on different textures and shapes requires the accumulation of a wealth of experience and great skills that are commonly beyond the capabilities of average users.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "to effectively control the texture and shape of fashion items for generating fashion items with",
+          "tool_family_codes": [
+            "UNMAPPED"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            1
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "quote": "aims to learn how to disentangle the features of texture and shape of different fashion items in an unsuper-"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "quote": "to effectively control the texture and shape of fashion items for generating fashion items with"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "quote": "to effectively control the texture and shape of fashion items for generating fashion items with"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\109.pdf"
+}

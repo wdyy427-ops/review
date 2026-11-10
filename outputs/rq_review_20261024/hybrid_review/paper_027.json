@@ -1,0 +1,53 @@
+{
+  "paper_id": 27,
+  "title": "AutoPCM – An automated LLM-based approach to identify potentials for circular design in automotive electronics",
+  "doi": "10.1080/09544828.2026.2622886",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    5,
+    8,
+    9,
+    10,
+    14,
+    15,
+    17,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    29
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "The paper introduces AutoPCM, an automated LLM-based approach to identify circular design potentials in automotive electronics. It uses LLMs to analyze manufacturing documents, generate product architecture decompositions, and evaluate circular strategies. The approach is validated on two automotive case studies.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": "No human evaluations were found in the paper.",
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\27.pdf"
+}

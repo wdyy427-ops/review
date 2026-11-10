@@ -1,0 +1,26 @@
+﻿unit,year,year_convention,code,label,n,denominator,percent
+measure_instance,2022,Crossref published,M1,Named scales,0,14,0.0
+measure_instance,2022,Crossref published,M2,Bespoke structured ratings,6,14,0.42857142857142855
+measure_instance,2022,Crossref published,M3,Qualitative verbal elicitation,2,14,0.14285714285714285
+measure_instance,2022,Crossref published,M4,Non-scale structured judgments,5,14,0.35714285714285715
+measure_instance,2022,Crossref published,M5,Analysis of existing perceptual material,1,14,0.07142857142857142
+measure_instance,2023,Crossref published,M1,Named scales,6,10,0.6
+measure_instance,2023,Crossref published,M2,Bespoke structured ratings,3,10,0.3
+measure_instance,2023,Crossref published,M3,Qualitative verbal elicitation,1,10,0.1
+measure_instance,2023,Crossref published,M4,Non-scale structured judgments,0,10,0.0
+measure_instance,2023,Crossref published,M5,Analysis of existing perceptual material,0,10,0.0
+measure_instance,2024,Crossref published,M1,Named scales,33,151,0.2185430463576159
+measure_instance,2024,Crossref published,M2,Bespoke structured ratings,32,151,0.2119205298013245
+measure_instance,2024,Crossref published,M3,Qualitative verbal elicitation,43,151,0.2847682119205298
+measure_instance,2024,Crossref published,M4,Non-scale structured judgments,20,151,0.13245033112582782
+measure_instance,2024,Crossref published,M5,Analysis of existing perceptual material,23,151,0.152317880794702
+measure_instance,2025,Crossref published,M1,Named scales,12,121,0.09917355371900827
+measure_instance,2025,Crossref published,M2,Bespoke structured ratings,33,121,0.2727272727272727
+measure_instance,2025,Crossref published,M3,Qualitative verbal elicitation,27,121,0.2231404958677686
+measure_instance,2025,Crossref published,M4,Non-scale structured judgments,38,121,0.3140495867768595
+measure_instance,2025,Crossref published,M5,Analysis of existing perceptual material,11,121,0.09090909090909091
+measure_instance,2026,Crossref published,M1,Named scales,46,312,0.14743589743589744
+measure_instance,2026,Crossref published,M2,Bespoke structured ratings,119,312,0.3814102564102564
+measure_instance,2026,Crossref published,M3,Qualitative verbal elicitation,65,312,0.20833333333333334
+measure_instance,2026,Crossref published,M4,Non-scale structured judgments,52,312,0.16666666666666666
+measure_instance,2026,Crossref published,M5,Analysis of existing perceptual material,30,312,0.09615384615384616

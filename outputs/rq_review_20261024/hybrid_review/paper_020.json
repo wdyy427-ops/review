@@ -1,0 +1,576 @@
+{
+  "paper_id": 20,
+  "title": "Kansei analysis for interior design of new energy vehicles: combining rough set theory, eye tracking, and improved gated recurrent unit",
+  "doi": "10.1080/09544828.2026.2683730",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    20,
+    21,
+    22,
+    24,
+    25,
+    29,
+    32,
+    34,
+    37,
+    38
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2",
+    "D3"
+  ],
+  "stage_codes": [],
+  "ai_function_codes": [
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U1"
+  ],
+  "context_summary": "The paper proposes a framework for NEV interior design that integrates rough set theory, eye tracking, and deep learning to capture users' emotional needs (Kansei). It includes user studies with 90 participants to evaluate steering wheel designs.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "020-E1",
+      "purpose_codes": [
+        "P1",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O3",
+        "O6"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2",
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3"
+      ],
+      "setting_code": "NR",
+      "design_code": "G7",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K4",
+        "K5",
+        "K7"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 90,
+      "sample_description": "We invited 90 users (Male: 52; Female: 38. Age: M = 25, SD = 8) with more than five years of driving experience to participate in emotional assessments.",
+      "recruitment": "base for NEV, the recruitment focused on participants primarily from China, specifically",
+      "task": "The subjects were asked to objectively evaluate their feelings",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "It tests the",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 15,
+          "quote": "We invited 90 users (Male: 52; Female: 38. Age: M = 25, SD = 8) with more than five years of driving experience to participate in emotional assessments."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "NR",
+          "claim_summary": "主观感知评价存在，但固定指标映射需人工复核",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "In this study, a 5-step Likert scale (5 represents",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "In this study, a 5-step Likert scale (5 represents",
+          "tool_family_codes": [
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T4",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            14
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "This study aims to develop NEV interior designs that satisfy users’ Kansei needs."
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "verted to greyscale using Photoshop to eliminate colour interference."
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "resents a synthesis of physical reliability and emotional intimacy."
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "Establish the steering wheel sample database of NEV"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "It tests the"
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "quote": "verted to greyscale using Photoshop to eliminate colour interference."
+        }
+      ]
+    },
+    {
+      "eval_id": "020-E2",
+      "purpose_codes": [
+        "P1",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O7"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V5"
+      ],
+      "source_codes": [
+        "H1",
+        "H2"
+      ],
+      "setting_code": "L1",
+      "design_code": "G7",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K4",
+        "K6"
+      ],
+      "constraint_codes": [],
+      "sample_n": 20,
+      "sample_description": "To obtain the visual sequence for user perception assessment, we recruited 20 users ((Male: 9; Female: 11. Age: M = 24, SD = 5) with experience in driving NEV for the ET experiment.",
+      "recruitment": "To obtain the visual sequence for user perception assessment, we recruited 20 users ((Male:",
+      "task": "",
+      "comparator": "",
+      "procedure": "(4) Experimental Procedure",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "complement each other, avoiding the limitations of a single metric and providing a more",
+      "ethics": "The experiment followed the ethical standards set by the Institutional Review Board (IRB)",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 22,
+          "quote": "To obtain the visual sequence for user perception assessment, we recruited 20 users ((Male: 9; Female: 11. Age: M = 24, SD = 5) with experience in driving NEV for the ET experiment."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "To obtain the visual sequence for user perception assessment, we recruited 20 users ((Male: 9; Female: 11. Age: M = 24, SD = 5) with experience in driving NEV for the ET experiment.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "To obtain the visual sequence for user perception assessment, we recruited 20 users ((Male: 9; Female: 11. Age: M = 24, SD = 5) with experience in driving NEV for the ET experiment.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "evaluations used a 5-point Likert scale, as shown in Table 9, the complete dataset can be",
+          "tool_family_codes": [
+            "M1"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "evaluations used a 5-point Likert scale, as shown in Table 9, the complete dataset can be",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            22
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "quote": "evaluations used a 5-point Likert scale, as shown in Table 9, the complete dataset can be"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "quote": "rated their comprehensive satisfaction with 60 experimental steering wheel samples."
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "quote": "evaluations used a 5-point Likert scale, as shown in Table 9, the complete dataset can be"
+        }
+      ]
+    },
+    {
+      "eval_id": "020-E3",
+      "purpose_codes": [
+        "P1",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O6",
+        "O7"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2",
+        "V3"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3"
+      ],
+      "setting_code": "NR",
+      "design_code": "G7",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K4",
+        "K5",
+        "K7"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 90,
+      "sample_description": "Through literature collection and expert evaluation, the Kansei semantic words of 12 NEV steering wheels were initially obtained.",
+      "recruitment": "base for NEV, the recruitment focused on participants primarily from China, specifically",
+      "task": "The subjects were asked to objectively evaluate their feelings",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "It tests the",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 14,
+          "quote": "Through literature collection and expert evaluation, the Kansei semantic words of 12 NEV steering wheels were initially obtained."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "NR",
+          "claim_summary": "主观感知评价存在，但固定指标映射需人工复核",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "In this study, a 5-step Likert scale (5 represents",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "In this study, a 5-step Likert scale (5 represents",
+          "tool_family_codes": [
+            "M1",
+            "M4"
+          ],
+          "tool_origin_code": "T4",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            14
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "This study aims to develop NEV interior designs that satisfy users’ Kansei needs."
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "verted to greyscale using Photoshop to eliminate colour interference."
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "Establish the steering wheel sample database of NEV"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "It tests the"
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "verted to greyscale using Photoshop to eliminate colour interference."
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\20.pdf"
+}

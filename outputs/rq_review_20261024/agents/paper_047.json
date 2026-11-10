@@ -1,0 +1,568 @@
+{
+  "paper_id": 47,
+  "title_match": true,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "scope_note": "全文31页核查。808是匿名线上sessions并非确定独立人数；场研究仅行为/时间/模拟性能，不建主观链。旧两个评价编号实际同一n12实验、不同问卷模块，合并一个评价案例。主观多样性不同于新颖性，满意度组合时间/信任/容易程度，不硬塞D2使用意愿。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S2",
+    "S3"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U2",
+    "U3"
+  ],
+  "context_summary": "二维车辆进化设计，通过建议画廊、手工编辑和模拟测试改良方案。",
+  "context_evidence": [
+    {
+      "page": 5,
+      "quote": "design a simple car to travel as far as possible"
+    },
+    {
+      "page": 17,
+      "quote": "a small-scale lab study was designed"
+    }
+  ],
+  "evaluations": [
+    {
+      "eval_id": "47-R1",
+      "legacy_eval_ids": [
+        "47-评价1",
+        "47-评价2"
+      ],
+      "purpose_codes": [
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V2"
+      ],
+      "source_codes": [
+        "H1",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G2",
+      "evaluation_stage_codes": [
+        "S2"
+      ],
+      "sample_n": 12,
+      "sample_description": "12工程专业学生，8研究生4本科；8男3女1非二元；20–28岁，均24；未用过系统",
+      "recruitment": "Swansea学生招募，£20",
+      "task": "构造二维汽车以在固定时限跑得最远，40代后评价建议画廊",
+      "task_codes": [
+        "K2",
+        "K4",
+        "K5",
+        "K6"
+      ],
+      "constraint_codes": [
+        "Q1"
+      ],
+      "constraints_raw": "p17小样本将画廊限为两个，使研究更适于小样本A/B比较；p5招募困难影响整体研究设计。",
+      "comparator": "MAP-Elites Geometry Insights与随机历史画廊，二者同会话可用",
+      "procedure": "固定赛道/自由度/种子；双盲随机Insights1/2；前测态度、任务、12选择题及5开放题",
+      "analysis": "逐题卡方适合度；主观分组；质性内容分析独立双编码及共识",
+      "actual_results": "12题均未拒绝等频假设p<.1；58%觉得易用，75%不挫折，75%信任；与行为选择不总一致",
+      "limitations": "n12工程学生非专业；两个画廊互相影响；快速更新UI影响体验",
+      "ethics": "Swansea伦理SU-Ethics-Student-140323/6255；任务前同意",
+      "evidence": [
+        {
+          "field": "sample",
+          "page": 19,
+          "quote": "A total of 12 participants were recruited"
+        },
+        {
+          "field": "comparison",
+          "page": 21,
+          "quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question."
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "S",
+          "facts": "研究画廊算法如何影响使用者体验，包含主观系统属性和体验问题",
+          "reason": "测量与问题直接对应",
+          "pages": [
+            17,
+            19,
+            20
+          ],
+          "quote": "to evaluate the subjective system aspects"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "推荐系统框架引导四属性+开放问题，所有题目给出；satisfaction混合时间/信任/易用",
+          "reason": "适用框架有来源但当前适配工具的构念解释支持不完整",
+          "pages": [
+            17,
+            20
+          ],
+          "quote": "based on a framework proposed, and validated, by Knijnenburg"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "比较选择题未报告重测/稳定性等；方法、结果、讨论均核查。开放问题另有独立双人编码",
+          "reason": "定量偏好测量可靠性无法判断；质性链另覆写S",
+          "pages": [
+            17,
+            19,
+            20,
+            24
+          ],
+          "quote": "Both then coded the data independently"
+        },
+        {
+          "standard": "A4",
+          "status": "S",
+          "facts": "12工程学生、身份年龄、£20、实验室、固定任务种子/40代、双盲标签、全部问题明确",
+          "reason": "对象、任务及条件充分可理解",
+          "pages": [
+            17,
+            18,
+            19,
+            20
+          ],
+          "quote": "galleries were randomly labeled in a double-blind fashion"
+        },
+        {
+          "standard": "A6",
+          "status": "P",
+          "facts": "被试内随机双盲标签和固定种子；n12每题3类使用chi-square goodness-of-fit",
+          "reason": "选择题每格期望4，未说明精确/模拟校正；两画廊同时使用也有依赖，作者承认",
+          "pages": [
+            20,
+            21,
+            28
+          ],
+          "quote": "we used a Chi-Square Goodness of Fit Test for each question"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "未显著结果明确报告，主观与行为不一致细分个案、引文",
+          "reason": "未把无显著误称等效，结论强调情境与意见混合",
+          "pages": [
+            21,
+            22,
+            25,
+            27
+          ],
+          "quote": "participants had overall mixed subjective opinions"
+        },
+        {
+          "standard": "E1",
+          "status": "S",
+          "facts": "完整12选择题/5开放题，逐人回答、代码本、逐人编码公开",
+          "reason": "主观部分可逐项复核",
+          "pages": [
+            20,
+            22,
+            24,
+            25
+          ],
+          "quote": "Participant Responses for the Post-Task Comparison Questions"
+        }
+      ],
+      "chains": [
+        {
+          "legacy_rows": [
+            242
+          ],
+          "claim_quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+          "claim_summary": "MAP-Elites与随机画廊的主观比较意见混合",
+          "claim_type": "C2",
+          "construct_raw": "Subjective Accuracy",
+          "indicator_raw": "Subjective Accuracy",
+          "item_quote": "Which presented better solutions? Which allowed you to select more optimal recommendations? Which showed too many poor recommendations?",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "基于Knijnenburg等推荐系统评价框架的条件偏好选择题",
+          "tool_family_codes": [
+            "M3"
+          ],
+          "tool_origin_code": "T2",
+          "adaptation": "NR",
+          "response_scoring": "12个题分别选择Insights1/Insights2/neither；揭盲转MAP-Elites/control/neither",
+          "validity_evidence": "采用用户中心推荐系统框架；题项公开但转为二选一/无偏好后无当前构念效度验证",
+          "reliability_evidence": "未报告",
+          "result_quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+          "effect_direction": "无明确差异",
+          "pages": [
+            17,
+            19,
+            20,
+            21,
+            22
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            243
+          ],
+          "claim_quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+          "claim_summary": "MAP-Elites与随机画廊的主观比较意见混合",
+          "claim_type": "C2",
+          "construct_raw": "Subjective Diversity",
+          "indicator_raw": "Subjective Diversity",
+          "item_quote": "Which presented a variety of choices? Which showed a bigger difference in recommendations?",
+          "dimension_code": "A",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "基于Knijnenburg等推荐系统评价框架的条件偏好选择题",
+          "tool_family_codes": [
+            "M3"
+          ],
+          "tool_origin_code": "T2",
+          "adaptation": "NR",
+          "response_scoring": "12个题分别选择Insights1/Insights2/neither；揭盲转MAP-Elites/control/neither",
+          "validity_evidence": "采用用户中心推荐系统框架；题项公开但转为二选一/无偏好后无当前构念效度验证",
+          "reliability_evidence": "未报告",
+          "result_quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+          "effect_direction": "无明确差异",
+          "pages": [
+            17,
+            19,
+            20,
+            21,
+            22
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            244
+          ],
+          "claim_quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+          "claim_summary": "MAP-Elites与随机画廊的主观比较意见混合",
+          "claim_type": "C2",
+          "construct_raw": "Subjective Satisfaction",
+          "indicator_raw": "Subjective Satisfaction",
+          "item_quote": "Which list was more valuable with respect to your time? Which had more satisfying recommendations? Which would you trust more to provide you with recommendations? Which made finding a new solution easier?",
+          "dimension_code": "D",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "基于Knijnenburg等推荐系统评价框架的条件偏好选择题",
+          "tool_family_codes": [
+            "M3"
+          ],
+          "tool_origin_code": "T2",
+          "adaptation": "NR",
+          "response_scoring": "12个题分别选择Insights1/Insights2/neither；揭盲转MAP-Elites/control/neither",
+          "validity_evidence": "采用用户中心推荐系统框架；题项公开但转为二选一/无偏好后无当前构念效度验证",
+          "reliability_evidence": "未报告",
+          "result_quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+          "effect_direction": "无明确差异",
+          "pages": [
+            17,
+            19,
+            20,
+            21,
+            22
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            245
+          ],
+          "claim_quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+          "claim_summary": "MAP-Elites与随机画廊的主观比较意见混合",
+          "claim_type": "C2",
+          "construct_raw": "Subjective Novelty",
+          "indicator_raw": "Subjective Novelty",
+          "item_quote": "Which gave you more recommendations you would not expect? Which gave you recommendations you would not have thought of yourself? Which allowed you to explore new ideas better?",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "基于Knijnenburg等推荐系统评价框架的条件偏好选择题",
+          "tool_family_codes": [
+            "M3"
+          ],
+          "tool_origin_code": "T2",
+          "adaptation": "NR",
+          "response_scoring": "12个题分别选择Insights1/Insights2/neither；揭盲转MAP-Elites/control/neither",
+          "validity_evidence": "采用用户中心推荐系统框架；题项公开但转为二选一/无偏好后无当前构念效度验证",
+          "reliability_evidence": "未报告",
+          "result_quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+          "effect_direction": "无明确差异",
+          "pages": [
+            17,
+            19,
+            20,
+            21,
+            22
+          ],
+          "audit_overrides": []
+        },
+        {
+          "legacy_rows": [
+            246
+          ],
+          "claim_quote": "Most (58%) participants found the genetic car designer easy to use",
+          "claim_summary": "实验后开放回答中的使用体验",
+          "claim_type": "C1",
+          "construct_raw": "ease of use",
+          "indicator_raw": "ease of use",
+          "item_quote": "How easy or difficult was the car designer to use?",
+          "dimension_code": "D",
+          "indicator_code": "D1",
+          "instrument_raw": "实验后开放回答+演绎式质性内容分析",
+          "tool_family_codes": [
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "adaptation": "NR",
+          "response_scoring": "公开代码本及逐人逐题编码表；按主题报告人数",
+          "validity_evidence": "基于Knijnenburg等框架；操作性主题定义和原文案例公开",
+          "reliability_evidence": "两研究者独立初始编码、协商代码本、再次独立编码、讨论分歧直至共识",
+          "result_quote": "Most (58%) participants found the genetic car designer easy to use",
+          "effect_direction": "多数正向/个别困难",
+          "pages": [
+            20,
+            23,
+            24,
+            25,
+            26
+          ],
+          "audit_overrides": [
+            {
+              "standard": "A3",
+              "status": "S",
+              "facts": "独立双人内容编码及共识，公开逐人代码",
+              "reason": "对质性归纳有明确一致性程序",
+              "pages": [
+                24
+              ],
+              "quote": "Both then coded the data independently, resolving discrepancies through discussion until full consensus was reached"
+            }
+          ]
+        },
+        {
+          "legacy_rows": [
+            247
+          ],
+          "claim_quote": "The scoring system helped make the decisions much easier.",
+          "claim_summary": "实验后开放回答中的使用体验",
+          "claim_type": "C1",
+          "construct_raw": "decision difficulty",
+          "indicator_raw": "decision difficulty",
+          "item_quote": "How easy or difficult was it to make a decision from the lists?",
+          "dimension_code": "B",
+          "indicator_code": "B4",
+          "instrument_raw": "实验后开放回答+演绎式质性内容分析",
+          "tool_family_codes": [
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "adaptation": "NR",
+          "response_scoring": "公开代码本及逐人逐题编码表；按主题报告人数",
+          "validity_evidence": "基于Knijnenburg等框架；操作性主题定义和原文案例公开",
+          "reliability_evidence": "两研究者独立初始编码、协商代码本、再次独立编码、讨论分歧直至共识",
+          "result_quote": "The scoring system helped make the decisions much easier.",
+          "effect_direction": "混合",
+          "pages": [
+            20,
+            23,
+            24,
+            25,
+            26
+          ],
+          "audit_overrides": [
+            {
+              "standard": "A3",
+              "status": "S",
+              "facts": "独立双人内容编码及共识，公开逐人代码",
+              "reason": "对质性归纳有明确一致性程序",
+              "pages": [
+                24
+              ],
+              "quote": "Both then coded the data independently, resolving discrepancies through discussion until full consensus was reached"
+            }
+          ]
+        },
+        {
+          "legacy_rows": [
+            248
+          ],
+          "claim_quote": "The majority (75%) of participants reported that the decision process was not made frustrating by the insights.",
+          "claim_summary": "实验后开放回答中的使用体验",
+          "claim_type": "C1",
+          "construct_raw": "frustration and effort",
+          "indicator_raw": "frustration and effort",
+          "item_quote": "Was the decision process frustrating for insights 1 or 2? How much effort did you need to invest while using insights 1 and 2?",
+          "dimension_code": "B",
+          "indicator_code": "B2",
+          "instrument_raw": "实验后开放回答+演绎式质性内容分析",
+          "tool_family_codes": [
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "adaptation": "NR",
+          "response_scoring": "公开代码本及逐人逐题编码表；按主题报告人数",
+          "validity_evidence": "基于Knijnenburg等框架；操作性主题定义和原文案例公开",
+          "reliability_evidence": "两研究者独立初始编码、协商代码本、再次独立编码、讨论分歧直至共识",
+          "result_quote": "The majority (75%) of participants reported that the decision process was not made frustrating by the insights.",
+          "effect_direction": "多数低负担/个别负向",
+          "pages": [
+            20,
+            23,
+            24,
+            25,
+            26
+          ],
+          "audit_overrides": [
+            {
+              "standard": "A3",
+              "status": "S",
+              "facts": "独立双人内容编码及共识，公开逐人代码",
+              "reason": "对质性归纳有明确一致性程序",
+              "pages": [
+                24
+              ],
+              "quote": "Both then coded the data independently, resolving discrepancies through discussion until full consensus was reached"
+            }
+          ]
+        },
+        {
+          "legacy_rows": [
+            249
+          ],
+          "claim_quote": "Most (75%) of the participants reported that they trusted the results from the car designer.",
+          "claim_summary": "实验后开放回答中的使用体验",
+          "claim_type": "C1",
+          "construct_raw": "trust",
+          "indicator_raw": "trust",
+          "item_quote": "Do you trust the results from the car designer?",
+          "dimension_code": "D",
+          "indicator_code": "D5",
+          "instrument_raw": "实验后开放回答+演绎式质性内容分析",
+          "tool_family_codes": [
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "adaptation": "NR",
+          "response_scoring": "公开代码本及逐人逐题编码表；按主题报告人数",
+          "validity_evidence": "基于Knijnenburg等框架；操作性主题定义和原文案例公开",
+          "reliability_evidence": "两研究者独立初始编码、协商代码本、再次独立编码、讨论分歧直至共识",
+          "result_quote": "Most (75%) of the participants reported that they trusted the results from the car designer.",
+          "effect_direction": "多数正向",
+          "pages": [
+            20,
+            23,
+            24,
+            25,
+            26
+          ],
+          "audit_overrides": [
+            {
+              "standard": "A3",
+              "status": "S",
+              "facts": "独立双人内容编码及共识，公开逐人代码",
+              "reason": "对质性归纳有明确一致性程序",
+              "pages": [
+                24
+              ],
+              "quote": "Both then coded the data independently, resolving discrepancies through discussion until full consensus was reached"
+            }
+          ]
+        },
+        {
+          "legacy_rows": [],
+          "claim_quote": "it wasn’t obvious what insights 1 and 2 represented.",
+          "claim_summary": "实验后开放回答中的使用体验",
+          "claim_type": "C1",
+          "construct_raw": "understanding the insights",
+          "indicator_raw": "understanding the insights",
+          "item_quote": "NR",
+          "dimension_code": "D",
+          "indicator_code": "D4",
+          "instrument_raw": "实验后开放回答+演绎式质性内容分析",
+          "tool_family_codes": [
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "adaptation": "NR",
+          "response_scoring": "公开代码本及逐人逐题编码表；按主题报告人数",
+          "validity_evidence": "基于Knijnenburg等框架；操作性主题定义和原文案例公开",
+          "reliability_evidence": "两研究者独立初始编码、协商代码本、再次独立编码、讨论分歧直至共识",
+          "result_quote": "it wasn’t obvious what insights 1 and 2 represented.",
+          "effect_direction": "负向/混合",
+          "pages": [
+            20,
+            23,
+            24,
+            25,
+            26
+          ],
+          "audit_overrides": [
+            {
+              "standard": "A3",
+              "status": "S",
+              "facts": "独立双人内容编码及共识，公开逐人代码",
+              "reason": "对质性归纳有明确一致性程序",
+              "pages": [
+                24
+              ],
+              "quote": "Both then coded the data independently, resolving discrepancies through discussion until full consensus was reached"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "excluded_legacy_rows": [],
+  "added_evidence_notes": "全文31页核查。808是匿名线上sessions并非确定独立人数；场研究仅行为/时间/模拟性能，不建主观链。旧两个评价编号实际同一n12实验、不同问卷模块，合并一个评价案例。主观多样性不同于新颖性，满意度组合时间/信任/容易程度，不硬塞D2使用意愿。",
+  "category_gaps": [
+    "Subjective Diversity无精确既定A指标；Subjective Satisfaction为多构念组合，D下无对应，均UNMAPPED。"
+  ],
+  "metadata_corrections": {}
+}

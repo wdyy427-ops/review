@@ -1,0 +1,255 @@
+{
+  "paper_id": 32,
+  "title": "Human-machine collaboration processes for AI-enabled product design with expert intervention: an example from research vessel design",
+  "doi": "10.1080/09544828.2026.2620967",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    9,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    23,
+    24,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2",
+    "D3"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2"
+  ],
+  "ai_function_codes": [
+    "F2",
+    "F3",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U4",
+    "U6",
+    "U1"
+  ],
+  "context_summary": "This study explores human-machine collaboration in AI-enabled product design, focusing on research vessel design. It proposes an AIPD paradigm grounded in designers' tacit knowledge and outlines four phases: design preparation, large language model training, collaborative design, and knowledge base establishment. The study emphasizes the role of designers in leveraging AI for creative tasks while addressing challenges in AI's understanding of tacit knowledge.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "032-E1",
+      "purpose_codes": [
+        "P1",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [],
+      "source_codes": [
+        "H6"
+      ],
+      "setting_code": "NR",
+      "design_code": "G1",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K3",
+        "K6",
+        "K7"
+      ],
+      "constraint_codes": [],
+      "sample_n": 21,
+      "sample_description": "uationsV ={V1,V2,V3,V4,V5},correspondingtofiveratings:excellent,good,average,poor,",
+      "recruitment": "",
+      "task": "They were asked to evaluate the final ship design proposals based",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "factorset P ={P1,P2,P3,P4,P5...",
+      "actual_results": "Linedrawingsandschematicdiagramsgeneratedbasedonhandcrafted.(a)physicalmod- els;(b)wireframes;(c)schemediagramgeneratedbyStableDiﬀusion. process and the unclear division of roles between humans and AI significantly impede human-machine collaboration efficiency.",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 24,
+          "quote": "uationsV ={V1,V2,V3,V4,V5},correspondingtofiveratings:excellent,good,average,poor,"
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Linedrawingsandschematicdiagramsgeneratedbasedonhandcrafted.(a)physicalmod- els;(b)wireframes;(c)schemediagramgeneratedbyStableDiﬀusion. process and the unclear division of roles between humans and AI significantly impede human-machine collaboration efficiency.",
+          "claim_summary": "Linedrawingsandschematicdiagramsgeneratedbasedonhandcrafted.(a)physicalmod- els;(b)wireframes;(c)schemediagramgeneratedbyStableDiﬀusion. process and the unclear division of roles between humans and AI significantly impede human-machine collaboration efficiency.",
+          "claim_type": "C1",
+          "construct_raw": "role",
+          "indicator_raw": "role",
+          "item_quote": "Linedrawingsandschematicdiagramsgeneratedbasedonhandcrafted.(a)physicalmod- els;(b)wireframes;(c)schemediagramgeneratedbyStableDiﬀusion. process and the unclear division of roles between humans and AI significantly impede human-machine collaboration efficiency.",
+          "dimension_code": "D",
+          "indicator_code": "D7",
+          "instrument_raw": "Subsequently, we generated additional perspectives of this research vessel, including rending Figure14(a), side-rear overhead view Figure14(b), side view Figure；After determining the weight of each evaluation indicator, the correspond- ing weight vector W for each indicator is combined with its fuzzy evaluation matrix T",
+          "tool_family_codes": [
+            "M5",
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Linedrawingsandschematicdiagramsgeneratedbasedonhandcrafted.(a)physicalmod- els;(b)wireframes;(c)schemediagramgeneratedbyStableDiﬀusion. process and the unclear division of roles between humans and AI significantly impede human-machine collaboration efficiency.",
+          "effect_direction": "NR",
+          "pages": [
+            25
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Linedrawingsandschematicdiagramsgeneratedbasedonhandcrafted.(a)physicalmod- els;(b)wireframes;(c)schemediagramgeneratedbyStableDiﬀusion. process and the unclear division of roles between humans and AI significantly impede human-machine collaboration efficiency.",
+          "claim_summary": "Linedrawingsandschematicdiagramsgeneratedbasedonhandcrafted.(a)physicalmod- els;(b)wireframes;(c)schemediagramgeneratedbyStableDiﬀusion. process and the unclear division of roles between humans and AI significantly impede human-machine collaboration efficiency.",
+          "claim_type": "C1",
+          "construct_raw": "collaborat",
+          "indicator_raw": "collaborat",
+          "item_quote": "Linedrawingsandschematicdiagramsgeneratedbasedonhandcrafted.(a)physicalmod- els;(b)wireframes;(c)schemediagramgeneratedbyStableDiﬀusion. process and the unclear division of roles between humans and AI significantly impede human-machine collaboration efficiency.",
+          "dimension_code": "D",
+          "indicator_code": "D8",
+          "instrument_raw": "Subsequently, we generated additional perspectives of this research vessel, including rending Figure14(a), side-rear overhead view Figure14(b), side view Figure；After determining the weight of each evaluation indicator, the correspond- ing weight vector W for each indicator is combined with its fuzzy evaluation matrix T",
+          "tool_family_codes": [
+            "M5",
+            "M6"
+          ],
+          "tool_origin_code": "T3",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Linedrawingsandschematicdiagramsgeneratedbasedonhandcrafted.(a)physicalmod- els;(b)wireframes;(c)schemediagramgeneratedbyStableDiﬀusion. process and the unclear division of roles between humans and AI significantly impede human-machine collaboration efficiency.",
+          "effect_direction": "NR",
+          "pages": [
+            25
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "They were asked to evaluate the final ship design proposals based"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "workflowisasfollows:First,thedesignerconstructsasmall-scalephysicalprototypeusing"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "NR",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "that44.9%ofrespondentsratedthedesignproposalasexcellent,29.08%rateditasgood,"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "factorset P ={P1,P2,P3,P4,P5..."
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "Linedrawingsandschematicdiagramsgeneratedbasedonhandcrafted.(a)physicalmod- els;(b)wireframes;(c)schemediagramgeneratedbyStableDiﬀusion. process and the unclear division of roles between humans and AI significantly impede human-machine collaboration efficiency."
+        },
+        {
+          "standard": "E1",
+          "status": "P",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "quote": "workflowisasfollows:First,thedesignerconstructsasmall-scalephysicalprototypeusing"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\32.pdf"
+}

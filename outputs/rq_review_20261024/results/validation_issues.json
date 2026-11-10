@@ -1,0 +1,47 @@
+[
+  {
+    "paper_id": 1,
+    "type": "category_gap",
+    "detail": "Effectiveness of FEA and ergonomics integration无法等同过程连续性；Novelty and Safety Balance、Design and Functionality Balance不能等同全面性或适用性，编码UNMAPPED。"
+  },
+  {
+    "paper_id": 2,
+    "type": "category_gap",
+    "detail": "原始感性意象（technological/sporty）按E2目标意象匹配编码；不把technological一词本身当作客观技术质量。"
+  },
+  {
+    "paper_id": 3,
+    "type": "category_gap",
+    "detail": "专家对需求创新价值及五指标重要性不等于设计成果新颖性，也不是直接的用户需求适配评分，二级类型保留UNMAPPED。"
+  },
+  {
+    "paper_id": 43,
+    "type": "category_gap",
+    "detail": "H4 User Comprehensibility组合设计意图理解与期待匹配，既定A类无准确单一指标；H1和H5也为混合构念。"
+  },
+  {
+    "paper_id": 45,
+    "type": "category_gap",
+    "detail": "B3迭代效率包含细化支持但本文未测迭代效率；保留原指标归类并明确边界。"
+  },
+  {
+    "paper_id": 46,
+    "type": "category_gap",
+    "detail": "室外景观/公共空间不属既定六设计领域，UNMAPPED。"
+  },
+  {
+    "paper_id": 47,
+    "type": "category_gap",
+    "detail": "Subjective Diversity无精确既定A指标；Subjective Satisfaction为多构念组合，D下无对应，均UNMAPPED。"
+  },
+  {
+    "paper_id": 86,
+    "type": "category_gap",
+    "detail": "Science-fiction、Humanistic、Grand、Efficient为列车外形感性意象，不等同新颖性/实际效率/用户需求适配；现有指标类别不能准确容纳，保留UNMAPPED。Exquisite按外观精致美观归A2。"
+  },
+  {
+    "paper_id": 87,
+    "type": "category_gap",
+    "detail": "CSI整体为多维综合指标，不能等同单一能力扩展；Results Worth Effort的成本价值/满意度亦无法准确纳入既定二级，保留UNMAPPED。"
+  }
+]

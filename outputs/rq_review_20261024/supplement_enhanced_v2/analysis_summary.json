@@ -1,0 +1,23 @@
+{
+  "baseline": {
+    "papers": 125,
+    "evaluation_cases": 158,
+    "evidence_chains": 490,
+    "mapped_dimension_chains": 432,
+    "complete_modelable_chains": 426,
+    "measure_instances": 600
+  },
+  "revised": {
+    "papers": 125,
+    "evaluation_cases": 159,
+    "evidence_chains": 514,
+    "mapped_dimension_chains": 460,
+    "complete_modelable_chains": 454,
+    "measure_instances": 624,
+    "main_normative_chains": 63,
+    "extended_normative_chains": 183
+  },
+  "change_log_rows": 35,
+  "new_or_replaced_chain_rows": 28,
+  "distribution_max_abs_delta_pp": 0.9215032444123972
+}

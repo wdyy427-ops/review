@@ -1,0 +1,430 @@
+{
+  "paper_id": 101,
+  "title": "PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows",
+  "doi": "10.1145/3643834.3661613",
+  "year": 2024,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D6"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S3"
+  ],
+  "ai_function_codes": [
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U5",
+    "U1"
+  ],
+  "context_summary": "This paper introduces PromptInfuser, a Figma plugin that enables designers to connect UI elements to LLM prompts, creating semi-functional mockups. The study compares PromptInfuser with traditional workflows, showing it improves communication, efficiency, and anticipation of issues.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "101-E1",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V3",
+        "V5"
+      ],
+      "source_codes": [
+        "H1",
+        "H3",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G2",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K2",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 14,
+      "sample_description": "and machine translation, to futuristic applications like generating",
+      "recruitment": "We recruited 14 professional designers at a large technology com-",
+      "task": "AI functionalities, from traditional ML tasks like summarization",
+      "comparator": "In a within-subjects user study with 14 professional designers,",
+      "procedure": "5.1 Procedure",
+      "analysis": "eight paired sample Wilcoxon tests with full Bonferroni correction,",
+      "actual_results": "We found that PromptInfuser was perceived to be signifcantly more useful for communicating a product idea (Z = 0, p = .002), scoring on average 6.21 (std = 0.94), while the baseline scored 4.64 (0.97).",
+      "limitations": "uncertainty surrounding AI’s capabilities and limitations, AI’s out-",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 1,
+          "quote": "and machine translation, to futuristic applications like generating"
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "PromptIn- fuser enables users to create medium-f prototypes, which include both (1) fexible and easy UI authoring, like its LoFi counterparts, as well as (2) fexible AI authoring, which make these prototypes semi-functional, similar to HiFi prototypes (illustrated further in Figure 2).",
+          "claim_summary": "PromptIn- fuser enables users to create medium-f prototypes, which include both (1) fexible and easy UI authoring, like its LoFi counterparts, as well as (2) fexible AI authoring, which make these prototypes semi-functional, similar to HiFi prototypes (illustrated further in Figure 2).",
+          "claim_type": "C1",
+          "construct_raw": "functional",
+          "indicator_raw": "functional",
+          "item_quote": "PromptIn- fuser enables users to create medium-f prototypes, which include both (1) fexible and easy UI authoring, like its LoFi counterparts, as well as (2) fexible AI authoring, which make these prototypes semi-functional, similar to HiFi prototypes (illustrated further in Figure 2).",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "Finally, we also in- clude the mental demand measure from the NASA-TLX survey to compare mental efort required by each workfow [12].；PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Measure Statem；Condition order was counter- balanced, with application assignment per condition also balanced. (3) After mocking these two applications, participants completed",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "response_scoring": "PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Measure Statement (7-point Likert scale) Communicate Idea Q1.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "We found that PromptInfuser was perceived to be signifcantly more useful for communicating a product idea (Z = 0, p = .002), scoring on average 6.21 (std = 0.94), while the baseline scored 4.64 (0.97).",
+          "effect_direction": "NR",
+          "pages": [
+            6,
+            8
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Finally, no signifcant diferences were found between the two conditions for feasibility (Z = 12.5, p = 0.11), less typical inputs (Z = 10.5, p = .07), and mental demand (Z = 17, p = .27).",
+          "claim_summary": "Finally, no signifcant diferences were found between the two conditions for feasibility (Z = 12.5, p = 0.11), less typical inputs (Z = 10.5, p = .07), and mental demand (Z = 17, p = .27).",
+          "claim_type": "C1",
+          "construct_raw": "feasib",
+          "indicator_raw": "feasib",
+          "item_quote": "Finally, no signifcant diferences were found between the two conditions for feasibility (Z = 12.5, p = 0.11), less typical inputs (Z = 10.5, p = .07), and mental demand (Z = 17, p = .27).",
+          "dimension_code": "A",
+          "indicator_code": "A4",
+          "instrument_raw": "Finally, we also in- clude the mental demand measure from the NASA-TLX survey to compare mental efort required by each workfow [12].；PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Measure Statem；Condition order was counter- balanced, with application assignment per condition also balanced. (3) After mocking these two applications, participants completed",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "response_scoring": "PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Measure Statement (7-point Likert scale) Communicate Idea Q1.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Finally, no signifcant diferences were found between the two conditions for feasibility (Z = 12.5, p = 0.11), less typical inputs (Z = 10.5, p = .07), and mental demand (Z = 17, p = .27).",
+          "effect_direction": "NR",
+          "pages": [
+            8
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Finally, we also in- clude the mental demand measure from the NASA-TLX survey to compare mental efort required by each workfow [12].",
+          "claim_summary": "Finally, we also in- clude the mental demand measure from the NASA-TLX survey to compare mental efort required by each workfow [12].",
+          "claim_type": "C1",
+          "construct_raw": "mental demand",
+          "indicator_raw": "mental demand",
+          "item_quote": "Finally, we also in- clude the mental demand measure from the NASA-TLX survey to compare mental efort required by each workfow [12].",
+          "dimension_code": "B",
+          "indicator_code": "B2",
+          "instrument_raw": "Finally, we also in- clude the mental demand measure from the NASA-TLX survey to compare mental efort required by each workfow [12].；PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Measure Statem；Condition order was counter- balanced, with application assignment per condition also balanced. (3) After mocking these two applications, participants completed",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "response_scoring": "PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Measure Statement (7-point Likert scale) Communicate Idea Q1.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Finally, no signifcant diferences were found between the two conditions for feasibility (Z = 12.5, p = 0.11), less typical inputs (Z = 10.5, p = .07), and mental demand (Z = 17, p = .27).",
+          "effect_direction": "NR",
+          "pages": [
+            8
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Figure 3: Summary of how UI elements can connect to the inputs and outputs of an LLM prompt in PromptInfuser.",
+          "claim_summary": "PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Figure 3: Summary of how UI elements can connect to the inputs and outputs of an LLM prompt in PromptInfuser.",
+          "claim_type": "C1",
+          "construct_raw": "flow",
+          "indicator_raw": "flow",
+          "item_quote": "PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Measure Statement (7-point Likert scale) Communicate Idea Q1.",
+          "dimension_code": "B",
+          "indicator_code": "B5",
+          "instrument_raw": "Finally, we also in- clude the mental demand measure from the NASA-TLX survey to compare mental efort required by each workfow [12].；PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Measure Statem；Condition order was counter- balanced, with application assignment per condition also balanced. (3) After mocking these two applications, participants completed",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "response_scoring": "PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Measure Statement (7-point Likert scale) Communicate Idea Q1.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3,
+            7
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "We include these fundamental aspects of prototypes to compare the outputs of the two workfows.",
+          "claim_summary": "We include these fundamental aspects of prototypes to compare the outputs of the two workfows.",
+          "claim_type": "C1",
+          "construct_raw": "fun",
+          "indicator_raw": "fun",
+          "item_quote": "PromptIn- fuser enables users to create medium-f prototypes, which include both (1) fexible and easy UI authoring, like its LoFi counterparts, as well as (2) fexible AI authoring, which make these prototypes semi-functional, similar to HiFi prototypes (illustrated further in Figure 2).",
+          "dimension_code": "C",
+          "indicator_code": "C5",
+          "instrument_raw": "Finally, we also in- clude the mental demand measure from the NASA-TLX survey to compare mental efort required by each workfow [12].；PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Measure Statem；Condition order was counter- balanced, with application assignment per condition also balanced. (3) After mocking these two applications, participants completed",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "response_scoring": "PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Measure Statement (7-point Likert scale) Communicate Idea Q1.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            6,
+            8
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Participants felt that being able to have collaborators enter real inputs and see results would greatly improve communication (see Section 6.4).",
+          "claim_summary": "Participants felt that being able to have collaborators enter real inputs and see results would greatly improve communication (see Section 6.4).",
+          "claim_type": "C1",
+          "construct_raw": "collaborat",
+          "indicator_raw": "collaborat",
+          "item_quote": "Participants felt that being able to have collaborators enter real inputs and see results would greatly improve communication (see Section 6.4).",
+          "dimension_code": "D",
+          "indicator_code": "D8",
+          "instrument_raw": "Finally, we also in- clude the mental demand measure from the NASA-TLX survey to compare mental efort required by each workfow [12].；PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Measure Statem；Condition order was counter- balanced, with application assignment per condition also balanced. (3) After mocking these two applications, participants completed",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "response_scoring": "PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers’ Workflows DIS ’24, July 01–05, 2024, IT University of Copenhagen, Denmark Measure Statement (7-point Likert scale) Communicate Idea Q1.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Participants felt that being able to have collaborators enter real inputs and see results would greatly improve communication (see Section 6.4).",
+          "effect_direction": "正向",
+          "pages": [
+            8
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": "We investigate how coupling prompt"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": "and machine translation, to futuristic applications like generating"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": "ers, participants perceived PromptInfuser to be signifcantly"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": "eight paired sample Wilcoxon tests with full Bonferroni correction,"
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": "We found that PromptInfuser was perceived to be signifcantly more useful for communicating a product idea (Z = 0, p = .002), scoring on average 6.21 (std = 0.94), while the baseline scored 4.64 (0.97)."
+        },
+        {
+          "standard": "E1",
+          "status": "S",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "quote": "and machine translation, to futuristic applications like generating"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\101.pdf"
+}

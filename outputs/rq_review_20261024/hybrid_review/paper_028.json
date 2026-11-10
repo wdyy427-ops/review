@@ -1,0 +1,1232 @@
+{
+  "paper_id": 28,
+  "title": "CarvGPT: a multi-agent collaborative framework for cultural translation and digital innovation in traditional craft design",
+  "doi": "10.1080/09544828.2026.2719218",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    7,
+    9,
+    13,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    29,
+    30,
+    32
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U2",
+    "U1"
+  ],
+  "context_summary": "The paper proposes CarvGPT, a multi-agent framework for cultural translation and digital innovation in traditional craft design. It integrates requirement analysis, cultural parsing, and visual generation to support designers in translating cultural connotations into design concepts.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "028-E1",
+      "purpose_codes": [
+        "P2",
+        "P1"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G2",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 21,
+      "sample_description": "constructed a baseline reflecting a common GenAI-assisted design workflow: participants",
+      "recruitment": "A total of 21 participants were recruited, including 16 novice designers (P1–P16) and five",
+      "task": "task objectives, data dependencies, interaction patterns, and reproducibility.",
+      "comparator": "sion, we adopted a within-subject design comparing CarvGPT with a practice-based base-",
+      "procedure": "Tasks and study procedure",
+      "analysis": "the Wilcoxon signed-rank test.",
+      "actual_results": "Several participants reported that the staged guidance provided by CarvGPT helped them establish logical connections among cultural meanings, functional positioning, formal expression, and craftsmanship implementation, making the ideation process more systematic and coherent.",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 20,
+          "quote": "constructed a baseline reflecting a common GenAI-assisted design workflow: participants"
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "H2: CarvGPT more effectively supports the creative deepening and expansion of cultural connotations during conceptual ideation.",
+          "claim_summary": "H2: CarvGPT more effectively supports the creative deepening and expansion of cultural connotations during conceptual ideation.",
+          "claim_type": "C1",
+          "construct_raw": "creative",
+          "indicator_raw": "creative",
+          "item_quote": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            19,
+            20
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Formal Language considered the expressiveness and coherence of visual ele- ments such as posture, costume, and style, whereas Visual Attractiveness measured the overall aesthetic impact and visual appeal.",
+          "claim_summary": "Formal Language considered the expressiveness and coherence of visual ele- ments such as posture, costume, and style, whereas Visual Attractiveness measured the overall aesthetic impact and visual appeal.",
+          "claim_type": "C1",
+          "construct_raw": "Aestheti",
+          "indicator_raw": "Aestheti",
+          "item_quote": "The framework comprised three dimensions, each represented by two indicators: Cultural Expression (Cultural Significance and Novelty), Traditional Craft Value (Design Feasibility and Material Fidelity), and Aesthetic Appeal (Formal Language and Visual Attractiveness).",
+          "dimension_code": "A",
+          "indicator_code": "A2",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            21
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Several participants reported that the staged guidance provided by CarvGPT helped them establish logical connections among cultural meanings, functional positioning, formal expression, and craftsmanship implementation, making the ideation process more systematic and coherent.",
+          "claim_summary": "Several participants reported that the staged guidance provided by CarvGPT helped them establish logical connections among cultural meanings, functional positioning, formal expression, and craftsmanship implementation, making the ideation process more systematic and coherent.",
+          "claim_type": "C1",
+          "construct_raw": "functional",
+          "indicator_raw": "functional",
+          "item_quote": "Several participants reported that the staged guidance provided by CarvGPT helped them establish logical connections among cultural meanings, functional positioning, formal expression, and craftsmanship implementation, making the ideation process more systematic and coherent.",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Several participants reported that the staged guidance provided by CarvGPT helped them establish logical connections among cultural meanings, functional positioning, formal expression, and craftsmanship implementation, making the ideation process more systematic and coherent.",
+          "effect_direction": "NR",
+          "pages": [
+            22
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Design Feasibility examined whether the con- cept was practical and achievable through real boxwood carving techniques, and Material Fidelity evaluated how accurately the material texture and craftsmanship of boxwood were represented.",
+          "claim_summary": "Design Feasibility examined whether the con- cept was practical and achievable through real boxwood carving techniques, and Material Fidelity evaluated how accurately the material texture and craftsmanship of boxwood were represented.",
+          "claim_type": "C1",
+          "construct_raw": "Feasib",
+          "indicator_raw": "Feasib",
+          "item_quote": "The framework comprised three dimensions, each represented by two indicators: Cultural Expression (Cultural Significance and Novelty), Traditional Craft Value (Design Feasibility and Material Fidelity), and Aesthetic Appeal (Formal Language and Visual Attractiveness).",
+          "dimension_code": "A",
+          "indicator_code": "A4",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            21
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Design Feasibility examined whether the con- cept was practical and achievable through real boxwood carving techniques, and Material Fidelity evaluated how accurately the material texture and craftsmanship of boxwood were represented.",
+          "claim_summary": "Design Feasibility examined whether the con- cept was practical and achievable through real boxwood carving techniques, and Material Fidelity evaluated how accurately the material texture and craftsmanship of boxwood were represented.",
+          "claim_type": "C1",
+          "construct_raw": "Fidelity",
+          "indicator_raw": "Fidelity",
+          "item_quote": "The framework comprised three dimensions, each represented by two indicators: Cultural Expression (Cultural Significance and Novelty), Traditional Craft Value (Design Feasibility and Material Fidelity), and Aesthetic Appeal (Formal Language and Visual Attractiveness).",
+          "dimension_code": "A",
+          "indicator_code": "A5",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            21
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "claim_summary": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10",
+          "claim_type": "C1",
+          "construct_raw": "Effort",
+          "indicator_raw": "Effort",
+          "item_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "dimension_code": "B",
+          "indicator_code": "B2",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "effect_direction": "NR",
+          "pages": [
+            22
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "claim_summary": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track an",
+          "claim_type": "C4",
+          "construct_raw": "Think Through",
+          "indicator_raw": "Think Through",
+          "item_quote": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "dimension_code": "B",
+          "indicator_code": "B4",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "effect_direction": "NR",
+          "pages": [
+            20,
+            22
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Evaluation indicators To evaluate the effectiveness of integrating cultural translation into the CarvGPT design workflow, participants completed a post-experiment questionnaire.",
+          "claim_summary": "Evaluation indicators To evaluate the effectiveness of integrating cultural translation into the CarvGPT design workflow, participants completed a post-experiment questionnaire.",
+          "claim_type": "C1",
+          "construct_raw": "flow",
+          "indicator_raw": "flow",
+          "item_quote": "We therefore constructed a baseline reflecting a common GenAI-assisted design workflow: participants independently developed or revised design concepts and prompts using an LLM, and then generated visual outputs through a text-to-image model (L.",
+          "dimension_code": "B",
+          "indicator_code": "B5",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            19,
+            20
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "claim_summary": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track an",
+          "claim_type": "C4",
+          "construct_raw": "inspir",
+          "indicator_raw": "inspir",
+          "item_quote": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "dimension_code": "C",
+          "indicator_code": "C1",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            20
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "claim_summary": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10",
+          "claim_type": "C1",
+          "construct_raw": "Immersion",
+          "indicator_raw": "Immersion",
+          "item_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "dimension_code": "C",
+          "indicator_code": "C4",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "effect_direction": "NR",
+          "pages": [
+            22
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "claim_summary": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10",
+          "claim_type": "C1",
+          "construct_raw": "Enjoy",
+          "indicator_raw": "Enjoy",
+          "item_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "dimension_code": "C",
+          "indicator_code": "C5",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "effect_direction": "NR",
+          "pages": [
+            22
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "We therefore constructed a baseline reflecting a common GenAI-assisted design workflow: participants independently developed or revised design concepts and prompts using an LLM, and then generated visual outputs through a text-to-image model (L.",
+          "claim_summary": "We therefore constructed a baseline reflecting a common GenAI-assisted design workflow: participants independently developed or revised design concepts and prompts using an LLM, and then generated visual outputs through a text-to-image model (L.",
+          "claim_type": "C1",
+          "construct_raw": "reflect",
+          "indicator_raw": "reflect",
+          "item_quote": "We therefore constructed a baseline reflecting a common GenAI-assisted design workflow: participants independently developed or revised design concepts and prompts using an LLM, and then generated visual outputs through a text-to-image model (L.",
+          "dimension_code": "C",
+          "indicator_code": "C6",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            19
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "quote": "To evaluate how the cultural translation mechanism supports ideation and cultural expres-"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "quote": "After completing both sessions, they completed questionnaires and participated in"
+        },
+        {
+          "standard": "A3",
+          "status": "NR",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "quote": "constructed a baseline reflecting a common GenAI-assisted design workflow: participants"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "quote": "the Wilcoxon signed-rank test."
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "quote": "Several participants reported that the staged guidance provided by CarvGPT helped them establish logical connections among cultural meanings, functional positioning, formal expression, and craftsmanship implementation, making the ideation process more systematic and coherent."
+        },
+        {
+          "standard": "E1",
+          "status": "S",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "quote": "After completing both sessions, they completed questionnaires and participated in"
+        }
+      ]
+    },
+    {
+      "eval_id": "028-E2",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H3"
+      ],
+      "setting_code": "L1",
+      "design_code": "G2",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 21,
+      "sample_description": "Qualitative feedback from the user interviews was further analysed.",
+      "recruitment": "A total of 21 participants were recruited, including 16 novice designers (P1–P16) and five",
+      "task": "task objectives, data dependencies, interaction patterns, and reproducibility.",
+      "comparator": "sion, we adopted a within-subject design comparing CarvGPT with a practice-based base-",
+      "procedure": "Tasks and study procedure",
+      "analysis": "the Wilcoxon signed-rank test.",
+      "actual_results": "Several participants reported that the staged guidance provided by CarvGPT helped them establish logical connections among cultural meanings, functional positioning, formal expression, and craftsmanship implementation, making the ideation process more systematic and coherent.",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 21,
+          "quote": "Qualitative feedback from the user interviews was further analysed."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "H2: CarvGPT more effectively supports the creative deepening and expansion of cultural connotations during conceptual ideation.",
+          "claim_summary": "H2: CarvGPT more effectively supports the creative deepening and expansion of cultural connotations during conceptual ideation.",
+          "claim_type": "C1",
+          "construct_raw": "creative",
+          "indicator_raw": "creative",
+          "item_quote": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            19,
+            20
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Formal Language considered the expressiveness and coherence of visual ele- ments such as posture, costume, and style, whereas Visual Attractiveness measured the overall aesthetic impact and visual appeal.",
+          "claim_summary": "Formal Language considered the expressiveness and coherence of visual ele- ments such as posture, costume, and style, whereas Visual Attractiveness measured the overall aesthetic impact and visual appeal.",
+          "claim_type": "C1",
+          "construct_raw": "Aestheti",
+          "indicator_raw": "Aestheti",
+          "item_quote": "The framework comprised three dimensions, each represented by two indicators: Cultural Expression (Cultural Significance and Novelty), Traditional Craft Value (Design Feasibility and Material Fidelity), and Aesthetic Appeal (Formal Language and Visual Attractiveness).",
+          "dimension_code": "A",
+          "indicator_code": "A2",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            21
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Several participants reported that the staged guidance provided by CarvGPT helped them establish logical connections among cultural meanings, functional positioning, formal expression, and craftsmanship implementation, making the ideation process more systematic and coherent.",
+          "claim_summary": "Several participants reported that the staged guidance provided by CarvGPT helped them establish logical connections among cultural meanings, functional positioning, formal expression, and craftsmanship implementation, making the ideation process more systematic and coherent.",
+          "claim_type": "C1",
+          "construct_raw": "functional",
+          "indicator_raw": "functional",
+          "item_quote": "Several participants reported that the staged guidance provided by CarvGPT helped them establish logical connections among cultural meanings, functional positioning, formal expression, and craftsmanship implementation, making the ideation process more systematic and coherent.",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Several participants reported that the staged guidance provided by CarvGPT helped them establish logical connections among cultural meanings, functional positioning, formal expression, and craftsmanship implementation, making the ideation process more systematic and coherent.",
+          "effect_direction": "NR",
+          "pages": [
+            22
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Design Feasibility examined whether the con- cept was practical and achievable through real boxwood carving techniques, and Material Fidelity evaluated how accurately the material texture and craftsmanship of boxwood were represented.",
+          "claim_summary": "Design Feasibility examined whether the con- cept was practical and achievable through real boxwood carving techniques, and Material Fidelity evaluated how accurately the material texture and craftsmanship of boxwood were represented.",
+          "claim_type": "C1",
+          "construct_raw": "Feasib",
+          "indicator_raw": "Feasib",
+          "item_quote": "The framework comprised three dimensions, each represented by two indicators: Cultural Expression (Cultural Significance and Novelty), Traditional Craft Value (Design Feasibility and Material Fidelity), and Aesthetic Appeal (Formal Language and Visual Attractiveness).",
+          "dimension_code": "A",
+          "indicator_code": "A4",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            21
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Design Feasibility examined whether the con- cept was practical and achievable through real boxwood carving techniques, and Material Fidelity evaluated how accurately the material texture and craftsmanship of boxwood were represented.",
+          "claim_summary": "Design Feasibility examined whether the con- cept was practical and achievable through real boxwood carving techniques, and Material Fidelity evaluated how accurately the material texture and craftsmanship of boxwood were represented.",
+          "claim_type": "C1",
+          "construct_raw": "Fidelity",
+          "indicator_raw": "Fidelity",
+          "item_quote": "The framework comprised three dimensions, each represented by two indicators: Cultural Expression (Cultural Significance and Novelty), Traditional Craft Value (Design Feasibility and Material Fidelity), and Aesthetic Appeal (Formal Language and Visual Attractiveness).",
+          "dimension_code": "A",
+          "indicator_code": "A5",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            21
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "claim_summary": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10",
+          "claim_type": "C1",
+          "construct_raw": "Effort",
+          "indicator_raw": "Effort",
+          "item_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "dimension_code": "B",
+          "indicator_code": "B2",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "effect_direction": "NR",
+          "pages": [
+            22
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "claim_summary": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track an",
+          "claim_type": "C4",
+          "construct_raw": "Think Through",
+          "indicator_raw": "Think Through",
+          "item_quote": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "dimension_code": "B",
+          "indicator_code": "B4",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "effect_direction": "NR",
+          "pages": [
+            20,
+            22
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Evaluation indicators To evaluate the effectiveness of integrating cultural translation into the CarvGPT design workflow, participants completed a post-experiment questionnaire.",
+          "claim_summary": "Evaluation indicators To evaluate the effectiveness of integrating cultural translation into the CarvGPT design workflow, participants completed a post-experiment questionnaire.",
+          "claim_type": "C1",
+          "construct_raw": "flow",
+          "indicator_raw": "flow",
+          "item_quote": "We therefore constructed a baseline reflecting a common GenAI-assisted design workflow: participants independently developed or revised design concepts and prompts using an LLM, and then generated visual outputs through a text-to-image model (L.",
+          "dimension_code": "B",
+          "indicator_code": "B5",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            19,
+            20
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "claim_summary": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track an",
+          "claim_type": "C4",
+          "construct_raw": "inspir",
+          "indicator_raw": "inspir",
+          "item_quote": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "dimension_code": "C",
+          "indicator_code": "C1",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            20
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "claim_summary": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10",
+          "claim_type": "C1",
+          "construct_raw": "Immersion",
+          "indicator_raw": "Immersion",
+          "item_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "dimension_code": "C",
+          "indicator_code": "C4",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "effect_direction": "NR",
+          "pages": [
+            22
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "claim_summary": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10",
+          "claim_type": "C1",
+          "construct_raw": "Enjoy",
+          "indicator_raw": "Enjoy",
+          "item_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "dimension_code": "C",
+          "indicator_code": "C5",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "Baseline CarvGPT Indicator Mean SD Mean SD r p Think Through 4.7619 1.2209 5.9524 0.6690 0.7136 0.0011 Transparent 4.2857 1.0071 6.2857 0.7171 0.7920 0.0003 Cultural Significance 4.9524 1.3220 6.0000 0.8367 0.6503 0.0029 Collaboration 21.8571 8.3563 26.3810 11.3511 0.8191 0.0002 Enjoyment 28.4286 10.8976 29.7619 10.7977 0.2509 0.2503 Exploration 55.4762 11.1518 59.9048 15.2411 0.4243 0.0519 Expressiveness 43.5238 10.5148 49.6667 13.6687 0.7003 0.0013 Immersion 7.1429 10.0314 7.1905 9.0090 0.0185 0.9324 Results Worth Effort 51.2857 15.3725 57.0476 18.5026 0.7285 0.0008 CSI 69.2380 5.7466 76.6509 6.0346 0.8533 0.0001 ∗: p < 0.05; ∗∗: p < 0.01; ∗∗∗: p < 0.001 5.3.1.",
+          "effect_direction": "NR",
+          "pages": [
+            22
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "We therefore constructed a baseline reflecting a common GenAI-assisted design workflow: participants independently developed or revised design concepts and prompts using an LLM, and then generated visual outputs through a text-to-image model (L.",
+          "claim_summary": "We therefore constructed a baseline reflecting a common GenAI-assisted design workflow: participants independently developed or revised design concepts and prompts using an LLM, and then generated visual outputs through a text-to-image model (L.",
+          "claim_type": "C1",
+          "construct_raw": "reflect",
+          "indicator_raw": "reflect",
+          "item_quote": "We therefore constructed a baseline reflecting a common GenAI-assisted design workflow: participants independently developed or revised design concepts and prompts using an LLM, and then generated visual outputs through a text-to-image model (L.",
+          "dimension_code": "C",
+          "indicator_code": "C6",
+          "instrument_raw": "Additionally, the Creativity Support Index (CSI) (Cherry and Latulipe 2014) (0–10 scale) was employed to evaluate the usability of the system’s creative support；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.；After completing both sessions, they completed questionnaires and participated in a semi-structured interview.",
+          "tool_family_codes": [
+            "M2",
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Each item was rated on a 7-point Likert scale ranging from 1 (strongly disagree) to 7 (strongly agree): (1) Think Through, which assessed whether the system effectively guided participants’ ideation and inspired creative think- ing; (2) Transparent, which measured whether participants could track and understand the cultural translation process and the underlying reasoning behind the outputs; (3) Cultural Significance, which examined whether participants perceived cultural elements and deeper cultural values in their design results.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            19
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "To evaluate how the cultural translation mechanism supports ideation and cultural expres-"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "After completing both sessions, they completed questionnaires and participated in"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "The ICC values for all dimensions exceeded"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "constructed a baseline reflecting a common GenAI-assisted design workflow: participants"
+        },
+        {
+          "standard": "A6",
+          "status": "S",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "the Wilcoxon signed-rank test."
+        },
+        {
+          "standard": "A7",
+          "status": "S",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "Several participants reported that the staged guidance provided by CarvGPT helped them establish logical connections among cultural meanings, functional positioning, formal expression, and craftsmanship implementation, making the ideation process more systematic and coherent."
+        },
+        {
+          "standard": "E1",
+          "status": "S",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "After completing both sessions, they completed questionnaires and participated in"
+        }
+      ]
+    },
+    {
+      "eval_id": "028-E3",
+      "purpose_codes": [
+        "P1",
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2",
+        "V3"
+      ],
+      "source_codes": [
+        "H2",
+        "H3"
+      ],
+      "setting_code": "NR",
+      "design_code": "G7",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "constraint_codes": [
+        "Q2",
+        "Q3"
+      ],
+      "sample_n": 5,
+      "sample_description": "Expert evaluations further indicated improvements across multiple design dimensions.",
+      "recruitment": "",
+      "task": "large effect sizes were found in both tasks: Task 1 (p < 0.01, dz = 0.8316); Task 2 (p < 0.001,",
+      "comparator": "Comparison of Design Goals and Creativity Support Index between the Baseline and CarvGPT",
+      "procedure": "",
+      "analysis": "For Collaboration, CarvGPT significantly outperformed the baseline (p < 0.001, r =",
+      "actual_results": "",
+      "limitations": "CarvGPT nevertheless has several limitations.",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 29,
+          "quote": "Expert evaluations further indicated improvements across multiple design dimensions."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Expert evaluations further indicated improvements across multiple design dimensions.",
+          "claim_summary": "全文确认存在人类主观评价，但固定指标映射证据不足",
+          "claim_type": "C1",
+          "construct_raw": "UNMAPPED",
+          "indicator_raw": "UNMAPPED",
+          "item_quote": "Expert evaluations further indicated improvements across multiple design dimensions.",
+          "dimension_code": "UNMAPPED",
+          "indicator_code": "UNMAPPED",
+          "instrument_raw": "r = 0.4243), interview feedback suggests that the system still supported creative diver-",
+          "tool_family_codes": [
+            "M4"
+          ],
+          "tool_origin_code": "NR",
+          "adaptation": "NR",
+          "response_scoring": "NR",
+          "validity_evidence": "NR",
+          "reliability_evidence": "NR",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            26
+          ]
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "quote": "r = 0.4243), interview feedback suggests that the system still supported creative diver-"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "quote": "The ICC values for all dimensions exceeded"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "quote": "Conditions for Novice and Expert Participants."
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "quote": "For Collaboration, CarvGPT significantly outperformed the baseline (p < 0.001, r ="
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "quote": "r = 0.4243), interview feedback suggests that the system still supported creative diver-"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\28.pdf"
+}

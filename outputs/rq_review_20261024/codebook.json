@@ -1,0 +1,200 @@
+{
+  "labels": {
+    "domain": {
+      "D1": "视觉传播设计",
+      "D2": "工业／产品设计",
+      "D3": "时装设计",
+      "D4": "室内设计",
+      "D5": "服务设计",
+      "D6": "UI/UX设计"
+    },
+    "stage": {
+      "S1": "研究",
+      "S2": "构思",
+      "S3": "原型制作与测试",
+      "S4": "实施"
+    },
+    "ai_function": {
+      "F1": "识别需求",
+      "F2": "知识检索",
+      "F3": "方案生成",
+      "F4": "原型实现",
+      "F5": "评估反馈",
+      "F6": "迭代优化"
+    },
+    "ai_role": {
+      "R1": "跟随式生成AI",
+      "R2": "顾问式AI",
+      "R3": "即兴式AI"
+    },
+    "dimension": {
+      "A": "设计成果质量",
+      "B": "设计过程质量",
+      "C": "设计者认知、情感与能力",
+      "D": "人机交互体验",
+      "E": "社会情境价值"
+    },
+    "purpose": {
+      "P1": "价值引出与标准建构",
+      "P2": "模型监督、校准与代理目标",
+      "P3": "形成性反馈与迭代引导",
+      "P4": "总结性验证与比较"
+    },
+    "object": {
+      "O1": "设计成果",
+      "O2": "设计过程／工作流",
+      "O3": "AI系统及界面",
+      "O4": "人机协作关系",
+      "O5": "设计者状态与能力",
+      "O6": "设计成果使用／社会后果",
+      "O7": "需求偏好与价值标准"
+    },
+    "evaluator": {
+      "V1": "专业设计师／领域专家",
+      "V2": "设计学生／新手",
+      "V3": "目标终端用户",
+      "V4": "一般公众／众包",
+      "V5": "客户／组织利益相关者",
+      "V6": "研究者自评"
+    },
+    "target_user": {
+      "U1": "专业设计师",
+      "U2": "设计学生／新手",
+      "U3": "非专业创作者",
+      "U4": "组织／团队",
+      "U5": "其他专业人员",
+      "U6": "设计成果终端用户"
+    },
+    "source": {
+      "H1": "参与者自陈",
+      "H2": "第三方人工评价",
+      "H3": "访谈／开放回答／思维口述",
+      "H4": "既有评论／社交文本",
+      "H5": "行为／任务日志",
+      "H6": "自动计算代理"
+    },
+    "setting": {
+      "L1": "控制环境／实验室",
+      "L2": "线上远程研究",
+      "L3": "实际工作／现场",
+      "L4": "混合",
+      "L5": "档案／二手资料"
+    },
+    "design": {
+      "G1": "单条件描述性评价",
+      "G2": "被试内比较",
+      "G3": "被试间比较",
+      "G4": "混合比较",
+      "G5": "质性探索",
+      "G6": "档案观察",
+      "G7": "偏好／权重引出",
+      "G8": "监督标签／模型验证"
+    },
+    "tool_family": {
+      "M1": "自编数值等级／语义差异评分",
+      "M2": "具名量表",
+      "M3": "成对比较／排序／偏好选择",
+      "M4": "访谈／焦点小组",
+      "M5": "开放文本／观察／思维口述",
+      "M6": "多准则赋权／感性工学评价",
+      "M7": "既有文本感知分析"
+    },
+    "tool_origin": {
+      "T1": "原量表直接使用",
+      "T2": "改编／翻译既有工具",
+      "T3": "自编工具",
+      "T4": "质性研究方案",
+      "T5": "二手感知数据"
+    },
+    "claim_type": {
+      "C1": "描述性状态",
+      "C2": "组间／条件比较",
+      "C3": "明确因果主张",
+      "C4": "探索／需求引出"
+    },
+    "audit_status": {
+      "S": "报告提供充分支持",
+      "P": "提供部分支持",
+      "C": "发现明确问题",
+      "NR": "未报告／无法判断",
+      "NA": "不适用"
+    },
+    "indicator": {
+      "A1": "新颖性",
+      "A2": "美观性",
+      "A3": "适用性",
+      "A4": "可行性",
+      "A5": "保真度",
+      "A6": "全面性",
+      "B1": "时间效率",
+      "B2": "工作负荷",
+      "B3": "迭代效率",
+      "B4": "决策支持",
+      "B5": "过程连续性",
+      "B6": "交接效率",
+      "C1": "灵感刺激",
+      "C2": "知识获得",
+      "C3": "自我效能",
+      "C4": "参与沉浸",
+      "C5": "愉悦",
+      "C6": "反思",
+      "C7": "固着依赖",
+      "C8": "能力扩展",
+      "D1": "易用性",
+      "D2": "使用意愿",
+      "D3": "控制感",
+      "D4": "可解释性",
+      "D5": "信任感",
+      "D6": "主体性",
+      "D7": "角色、分工与贡献公平",
+      "D8": "沟通、协调、冲突与共同理解",
+      "E1": "终端用户体验与接受",
+      "E2": "用户需求、情境与人群适配",
+      "E3": "专业与组织工作适配",
+      "E4": "文化、社会与公共价值",
+      "E5": "伦理、公平、偏见与包容",
+      "E6": "环境与可持续价值",
+      "E7": "商业、品牌与市场价值",
+      "E8": "长期使用、治理与责任"
+    }
+  },
+  "field_names": {
+    "domain": "设计领域",
+    "stage": "设计活动阶段",
+    "ai_function": "AI功能",
+    "ai_role": "AI介入角色",
+    "dimension": "评价维度",
+    "purpose": "评价目的",
+    "object": "评价对象",
+    "evaluator": "评价主体",
+    "target_user": "AI辅助目标用户",
+    "source": "实际证据来源",
+    "setting": "评价环境",
+    "design": "研究设计",
+    "tool_family": "测量工具族",
+    "tool_origin": "工具来源",
+    "claim_type": "效果主张类型",
+    "indicator": "主观指标类型",
+    "audit_status": "审查状态"
+  },
+  "standards": {
+    "U5": "信息与评价目的相关",
+    "A2": "测量解释的效度依据",
+    "A3": "信息的可靠性依据",
+    "A4": "对象与情境描述",
+    "A6": "研究设计与分析适切性",
+    "A7": "评价推理可追溯性",
+    "E1": "评价记录充分性"
+  },
+  "sources": {
+    "JCSEE": "https://evaluationstandards.org/program/",
+    "JCSEE_checklist": "https://wmich.edu/sites/default/files/attachments/u350/2021/program-eval-standards-jc.pdf",
+    "ICoD_domain": "https://www.theicod.org/en/professional-design/what-is-a-designer/design-disciplines",
+    "ICoD_stage": "https://www.theicod.org/en/professional-design/design-ing/design-ing",
+    "CDC": "https://www.cdc.gov/evaluation/php/evaluation-framework-action-guide/step-4-gather-credible-evidence.html",
+    "GroupedCV": "https://scikit-learn.org/stable/modules/cross_validation.html",
+    "NestedCV": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_nested_cross_validation_iris.html",
+    "TabPFN": "https://www.nature.com/articles/s41586-024-08328-6",
+    "Model_selection_bias": "https://jmlr.org/papers/v11/cawley10a.html"
+  }
+}

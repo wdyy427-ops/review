@@ -1,0 +1,7 @@
+tier,target,n,papers,classes,folds,status
+main,perceived_effect_dimension,61,21,4,5,estimated
+main,subjective_indicator,13,8,2,0,insufficient_support
+main,tool_class,66,22,4,4,estimated
+expanded,perceived_effect_dimension,183,43,5,5,estimated
+expanded,subjective_indicator,124,31,13,4,estimated
+expanded,tool_class,210,43,5,5,estimated

@@ -1,0 +1,826 @@
+{
+  "paper_id": 13,
+  "title": "Exploring LLMs for Generating Communicational Actions of External Interfaces on Autonomous Vehicles",
+  "doi": "10.1145/3810200",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    12,
+    13,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [
+    "S3",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U6",
+    "U1"
+  ],
+  "context_summary": "The paper explores using LLMs to generate communicative actions for eHMIs on autonomous vehicles. It includes a field study with 26 participants to evaluate communication effectiveness based on participant reactions and understandability.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "013-E1",
+      "purpose_codes": [
+        "P2",
+        "P1"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V2",
+        "V4"
+      ],
+      "source_codes": [
+        "H1",
+        "H3",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G2",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K1",
+        "K3",
+        "K4",
+        "K5"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 26,
+      "sample_description": "Participants’ subjective ratings is on a 5-point Likert scale, including confidence in their answers (Human:M=3.98, SD=1.00; GPT-03-mini:M=4.10, SD=0.96).",
+      "recruitment": "We then recruited 26 participants for a between-subjects study to compare the",
+      "task": "The key task for eHMIs is translating",
+      "comparator": "We then recruited 26 participants for a between-subjects study to compare the",
+      "procedure": "For the second layer (a task planning agent), although use the general procedure (decompose high-level tasks",
+      "analysis": "An unpaired t-test confirmed no significant difference in message",
+      "actual_results": "",
+      "limitations": "strengths in reasoning, language, and generation [10], can overcome the limitations of both manual and data-",
+      "ethics": "received approval from the university’s Ethics Committee.",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 13,
+          "quote": "Participants’ subjective ratings is on a 5-point Likert scale, including confidence in their answers (Human:M=3.98, SD=1.00; GPT-03-mini:M=4.10, SD=0.96)."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "2.2 Motivation for Integrating LLMs into eHMI Design The eHMI system’s core task is to plan appropriate action responses that clearly convey an intended message to a specific communication partner, using shared sensing data from the vehicle [2, 45, 73].",
+          "claim_summary": "2.2 Motivation for Integrating LLMs into eHMI Design The eHMI system’s core task is to plan appropriate action responses that clearly convey an intended message to a specific communication partner, using shared sensing data from the vehicle [2, 45, 73].",
+          "claim_type": "C1",
+          "construct_raw": "appropriat",
+          "indicator_raw": "appropriat",
+          "item_quote": "2.2 Motivation for Integrating LLMs into eHMI Design The eHMI system’s core task is to plan appropriate action responses that clearly convey an intended message to a specific communication partner, using shared sensing data from the vehicle [2, 45, 73].",
+          "dimension_code": "A",
+          "indicator_code": "A3",
+          "instrument_raw": "Survey on eHMI concepts: The effect of text, color, and perspective.；The interviewee pointed out that the message conveyed by the vehicle’s eye-based eHMI was ambiguous, and that the brief interaction period caused confusion afte；To answer RQ1, we first identified seven representative scenarios from literature and observational studies, each requiring different types of messages.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Third, the instructor then asked participants to describe theirinterpretation and reactionof the eHMI“What message do you think the delivery robot with eHMI is trying to convey?”and“What do you plan to do next?”Participants were then asked to respond to the following questions on a 5-point scale:Q1) Howconfidentwere you in your understanding of the eHMI’s actions?, andQ2) How much did youtrustthe autonomous system with eHMI communication?We then revealed the ground truth of the scenario and asked,Q3) Howconsistentdid you think that the eHMI movements were with the intended message?The instructor repeated this process across all seven scenarios.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "We then conducted an iterative test with a toy car to determine the prompt structures necessary for the LLM to reliably control the eHMI system’s actions.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            4
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "In this research, we investigate the physical feasibility of LLM-generated eHMI actions and how humans evaluate and perceive them in real-world scenarios.",
+          "claim_summary": "In this research, we investigate the physical feasibility of LLM-generated eHMI actions and how humans evaluate and perceive them in real-world scenarios.",
+          "claim_type": "C1",
+          "construct_raw": "feasib",
+          "indicator_raw": "feasib",
+          "item_quote": "In this research, we investigate the physical feasibility of LLM-generated eHMI actions and how humans evaluate and perceive them in real-world scenarios.",
+          "dimension_code": "A",
+          "indicator_code": "A4",
+          "instrument_raw": "Survey on eHMI concepts: The effect of text, color, and perspective.；The interviewee pointed out that the message conveyed by the vehicle’s eye-based eHMI was ambiguous, and that the brief interaction period caused confusion afte；To answer RQ1, we first identified seven representative scenarios from literature and observational studies, each requiring different types of messages.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Third, the instructor then asked participants to describe theirinterpretation and reactionof the eHMI“What message do you think the delivery robot with eHMI is trying to convey?”and“What do you plan to do next?”Participants were then asked to respond to the following questions on a 5-point scale:Q1) Howconfidentwere you in your understanding of the eHMI’s actions?, andQ2) How much did youtrustthe autonomous system with eHMI communication?We then revealed the ground truth of the scenario and asked,Q3) Howconsistentdid you think that the eHMI movements were with the intended message?The instructor repeated this process across all seven scenarios.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "We then conducted an iterative test with a toy car to determine the prompt structures necessary for the LLM to reliably control the eHMI system’s actions.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Third, the instructor then asked participants to describe theirinterpretation and reactionof the eHMI“What message do you think the delivery robot with eHMI is trying to convey?”and“What do you plan to do next?”Participants were then asked to respond to the following questions on a 5-point scale:Q1) Howconfidentwere you in your understanding of the eHMI’s actions?, andQ2) How much did youtrustthe autonomous system with eHMI communication?We then revealed the ground truth of the scenario and asked,Q3) Howconsistentdid you think that the eHMI movements were with the intended message?The instructor repeated this process across all seven scenarios.",
+          "claim_summary": "Third, the instructor then asked participants to describe theirinterpretation and reactionof the eHMI“What message do you think the delivery robot with eHMI is trying to convey?”and“What do you plan to do next?”Participants were then asked to respond to the following questions on a 5-point scale:Q1)",
+          "claim_type": "C4",
+          "construct_raw": "understanding",
+          "indicator_raw": "understanding",
+          "item_quote": "Third, the instructor then asked participants to describe theirinterpretation and reactionof the eHMI“What message do you think the delivery robot with eHMI is trying to convey?”and“What do you plan to do next?”Participants were then asked to respond to the following questions on a 5-point scale:Q1) Howconfidentwere you in your understanding of the eHMI’s actions?, andQ2) How much did youtrustthe autonomous system with eHMI communication?We then revealed the ground truth of the scenario and asked,Q3) Howconsistentdid you think that the eHMI movements were with the intended message?The instructor repeated this process across all seven scenarios.",
+          "dimension_code": "C",
+          "indicator_code": "C2",
+          "instrument_raw": "Survey on eHMI concepts: The effect of text, color, and perspective.；The interviewee pointed out that the message conveyed by the vehicle’s eye-based eHMI was ambiguous, and that the brief interaction period caused confusion afte；To answer RQ1, we first identified seven representative scenarios from literature and observational studies, each requiring different types of messages.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Third, the instructor then asked participants to describe theirinterpretation and reactionof the eHMI“What message do you think the delivery robot with eHMI is trying to convey?”and“What do you plan to do next?”Participants were then asked to respond to the following questions on a 5-point scale:Q1) Howconfidentwere you in your understanding of the eHMI’s actions?, andQ2) How much did youtrustthe autonomous system with eHMI communication?We then revealed the ground truth of the scenario and asked,Q3) Howconsistentdid you think that the eHMI movements were with the intended message?The instructor repeated this process across all seven scenarios.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "We then conducted an iterative test with a toy car to determine the prompt structures necessary for the LLM to reliably control the eHMI system’s actions.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            12
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Given that the primary function of eHMIs is communication rather than vehicle control, we propose integrating Large Language Models (LLMs) to serve as the system’s “brain. ” We hypothesize that LLMs, with their proven Proc.",
+          "claim_summary": "Given that the primary function of eHMIs is communication rather than vehicle control, we propose integrating Large Language Models (LLMs) to serve as the system’s “brain. ” We hypothesize that LLMs, with their proven Proc.",
+          "claim_type": "C1",
+          "construct_raw": "fun",
+          "indicator_raw": "fun",
+          "item_quote": "Given that the primary function of eHMIs is communication rather than vehicle control, we propose integrating Large Language Models (LLMs) to serve as the system’s “brain. ” We hypothesize that LLMs, with their proven Proc.",
+          "dimension_code": "C",
+          "indicator_code": "C5",
+          "instrument_raw": "Survey on eHMI concepts: The effect of text, color, and perspective.；The interviewee pointed out that the message conveyed by the vehicle’s eye-based eHMI was ambiguous, and that the brief interaction period caused confusion afte；To answer RQ1, we first identified seven representative scenarios from literature and observational studies, each requiring different types of messages.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Third, the instructor then asked participants to describe theirinterpretation and reactionof the eHMI“What message do you think the delivery robot with eHMI is trying to convey?”and“What do you plan to do next?”Participants were then asked to respond to the following questions on a 5-point scale:Q1) Howconfidentwere you in your understanding of the eHMI’s actions?, andQ2) How much did youtrustthe autonomous system with eHMI communication?We then revealed the ground truth of the scenario and asked,Q3) Howconsistentdid you think that the eHMI movements were with the intended message?The instructor repeated this process across all seven scenarios.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "We then conducted an iterative test with a toy car to determine the prompt structures necessary for the LLM to reliably control the eHMI system’s actions.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            2
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Empowering llms with logical reasoning: A comprehensive survey.arXiv preprint arXiv:2502.15652(2025).",
+          "claim_summary": "Empowering llms with logical reasoning: A comprehensive survey.arXiv preprint arXiv:2502.15652(2025).",
+          "claim_type": "C1",
+          "construct_raw": "Empower",
+          "indicator_raw": "Empower",
+          "item_quote": "Empowering llms with logical reasoning: A comprehensive survey.arXiv preprint arXiv:2502.15652(2025).",
+          "dimension_code": "C",
+          "indicator_code": "C8",
+          "instrument_raw": "Survey on eHMI concepts: The effect of text, color, and perspective.；The interviewee pointed out that the message conveyed by the vehicle’s eye-based eHMI was ambiguous, and that the brief interaction period caused confusion afte；To answer RQ1, we first identified seven representative scenarios from literature and observational studies, each requiring different types of messages.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Third, the instructor then asked participants to describe theirinterpretation and reactionof the eHMI“What message do you think the delivery robot with eHMI is trying to convey?”and“What do you plan to do next?”Participants were then asked to respond to the following questions on a 5-point scale:Q1) Howconfidentwere you in your understanding of the eHMI’s actions?, andQ2) How much did youtrustthe autonomous system with eHMI communication?We then revealed the ground truth of the scenario and asked,Q3) Howconsistentdid you think that the eHMI movements were with the intended message?The instructor repeated this process across all seven scenarios.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "We then conducted an iterative test with a toy car to determine the prompt structures necessary for the LLM to reliably control the eHMI system’s actions.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            21
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Contribution Statement[82] • Physical Pipeline: We developed an end-to-end pipeline that translates an intent-to-convey message into an LLM output, which is then converted into a Raspberry Pi command to control the physical eHMI system. • Field Study: We conducted a field study evaluating the communicational effectiveness of LLM-generated eHMI actions with real participants. • Comparison Analysis: We provide a comparative analysis of eHMI actions designed by humans versus those generated by LLMs, highlighting differences in their underlying logic of action planning.",
+          "claim_summary": "Contribution Statement[82] • Physical Pipeline: We developed an end-to-end pipeline that translates an intent-to-convey message into an LLM output, which is then converted into a Raspberry Pi command to control the physical eHMI system. • Field Study: We conducted a field study evaluating the commun",
+          "claim_type": "C2",
+          "construct_raw": "control",
+          "indicator_raw": "control",
+          "item_quote": "Given that the primary function of eHMIs is communication rather than vehicle control, we propose integrating Large Language Models (LLMs) to serve as the system’s “brain. ” We hypothesize that LLMs, with their proven Proc.",
+          "dimension_code": "D",
+          "indicator_code": "D3",
+          "instrument_raw": "Survey on eHMI concepts: The effect of text, color, and perspective.；The interviewee pointed out that the message conveyed by the vehicle’s eye-based eHMI was ambiguous, and that the brief interaction period caused confusion afte；To answer RQ1, we first identified seven representative scenarios from literature and observational studies, each requiring different types of messages.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Third, the instructor then asked participants to describe theirinterpretation and reactionof the eHMI“What message do you think the delivery robot with eHMI is trying to convey?”and“What do you plan to do next?”Participants were then asked to respond to the following questions on a 5-point scale:Q1) Howconfidentwere you in your understanding of the eHMI’s actions?, andQ2) How much did youtrustthe autonomous system with eHMI communication?We then revealed the ground truth of the scenario and asked,Q3) Howconsistentdid you think that the eHMI movements were with the intended message?The instructor repeated this process across all seven scenarios.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "We then conducted an iterative test with a toy car to determine the prompt structures necessary for the LLM to reliably control the eHMI system’s actions.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            2,
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Third, the instructor then asked participants to describe theirinterpretation and reactionof the eHMI“What message do you think the delivery robot with eHMI is trying to convey?”and“What do you plan to do next?”Participants were then asked to respond to the following questions on a 5-point scale:Q1) Howconfidentwere you in your understanding of the eHMI’s actions?, andQ2) How much did youtrustthe autonomous system with eHMI communication?We then revealed the ground truth of the scenario and asked,Q3) Howconsistentdid you think that the eHMI movements were with the intended message?The instructor repeated this process across all seven scenarios.",
+          "claim_summary": "Third, the instructor then asked participants to describe theirinterpretation and reactionof the eHMI“What message do you think the delivery robot with eHMI is trying to convey?”and“What do you plan to do next?”Participants were then asked to respond to the following questions on a 5-point scale:Q1)",
+          "claim_type": "C4",
+          "construct_raw": "trust",
+          "indicator_raw": "trust",
+          "item_quote": "Third, the instructor then asked participants to describe theirinterpretation and reactionof the eHMI“What message do you think the delivery robot with eHMI is trying to convey?”and“What do you plan to do next?”Participants were then asked to respond to the following questions on a 5-point scale:Q1) Howconfidentwere you in your understanding of the eHMI’s actions?, andQ2) How much did youtrustthe autonomous system with eHMI communication?We then revealed the ground truth of the scenario and asked,Q3) Howconsistentdid you think that the eHMI movements were with the intended message?The instructor repeated this process across all seven scenarios.",
+          "dimension_code": "D",
+          "indicator_code": "D5",
+          "instrument_raw": "Survey on eHMI concepts: The effect of text, color, and perspective.；The interviewee pointed out that the message conveyed by the vehicle’s eye-based eHMI was ambiguous, and that the brief interaction period caused confusion afte；To answer RQ1, we first identified seven representative scenarios from literature and observational studies, each requiring different types of messages.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Third, the instructor then asked participants to describe theirinterpretation and reactionof the eHMI“What message do you think the delivery robot with eHMI is trying to convey?”and“What do you plan to do next?”Participants were then asked to respond to the following questions on a 5-point scale:Q1) Howconfidentwere you in your understanding of the eHMI’s actions?, andQ2) How much did youtrustthe autonomous system with eHMI communication?We then revealed the ground truth of the scenario and asked,Q3) Howconsistentdid you think that the eHMI movements were with the intended message?The instructor repeated this process across all seven scenarios.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "We then conducted an iterative test with a toy car to determine the prompt structures necessary for the LLM to reliably control the eHMI system’s actions.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            12
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Contribution Statement[82] • Physical Pipeline: We developed an end-to-end pipeline that translates an intent-to-convey message into an LLM output, which is then converted into a Raspberry Pi command to control the physical eHMI system. • Field Study: We conducted a field study evaluating the communicational effectiveness of LLM-generated eHMI actions with real participants. • Comparison Analysis: We provide a comparative analysis of eHMI actions designed by humans versus those generated by LLMs, highlighting differences in their underlying logic of action planning.",
+          "claim_summary": "Contribution Statement[82] • Physical Pipeline: We developed an end-to-end pipeline that translates an intent-to-convey message into an LLM output, which is then converted into a Raspberry Pi command to control the physical eHMI system. • Field Study: We conducted a field study evaluating the commun",
+          "claim_type": "C2",
+          "construct_raw": "Contribution",
+          "indicator_raw": "Contribution",
+          "item_quote": "Contribution Statement[82] • Physical Pipeline: We developed an end-to-end pipeline that translates an intent-to-convey message into an LLM output, which is then converted into a Raspberry Pi command to control the physical eHMI system. • Field Study: We conducted a field study evaluating the communicational effectiveness of LLM-generated eHMI actions with real participants. • Comparison Analysis: We provide a comparative analysis of eHMI actions designed by humans versus those generated by LLMs, highlighting differences in their underlying logic of action planning.",
+          "dimension_code": "D",
+          "indicator_code": "D7",
+          "instrument_raw": "Survey on eHMI concepts: The effect of text, color, and perspective.；The interviewee pointed out that the message conveyed by the vehicle’s eye-based eHMI was ambiguous, and that the brief interaction period caused confusion afte；To answer RQ1, we first identified seven representative scenarios from literature and observational studies, each requiring different types of messages.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Third, the instructor then asked participants to describe theirinterpretation and reactionof the eHMI“What message do you think the delivery robot with eHMI is trying to convey?”and“What do you plan to do next?”Participants were then asked to respond to the following questions on a 5-point scale:Q1) Howconfidentwere you in your understanding of the eHMI’s actions?, andQ2) How much did youtrustthe autonomous system with eHMI communication?We then revealed the ground truth of the scenario and asked,Q3) Howconsistentdid you think that the eHMI movements were with the intended message?The instructor repeated this process across all seven scenarios.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "We then conducted an iterative test with a toy car to determine the prompt structures necessary for the LLM to reliably control the eHMI system’s actions.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            3
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "We investigated two research questions: 1) How does a pre-trained LLM translate intended commu- nicative messages into corresponding eHMI actions? and 2) How communication-efficient are these generated actions to humans?",
+          "claim_summary": "We investigated two research questions: 1) How does a pre-trained LLM translate intended commu- nicative messages into corresponding eHMI actions? and 2) How communication-efficient are these generated actions to humans?",
+          "claim_type": "C1",
+          "construct_raw": "communication",
+          "indicator_raw": "communication",
+          "item_quote": "To address this, we explore LLM-driven eHMIs, a new approach that lever- ages the human-like reasoning and communication abilities of Large Language Models (LLMs) for generating expressive communicative actions.",
+          "dimension_code": "D",
+          "indicator_code": "D8",
+          "instrument_raw": "Survey on eHMI concepts: The effect of text, color, and perspective.；The interviewee pointed out that the message conveyed by the vehicle’s eye-based eHMI was ambiguous, and that the brief interaction period caused confusion afte；To answer RQ1, we first identified seven representative scenarios from literature and observational studies, each requiring different types of messages.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Third, the instructor then asked participants to describe theirinterpretation and reactionof the eHMI“What message do you think the delivery robot with eHMI is trying to convey?”and“What do you plan to do next?”Participants were then asked to respond to the following questions on a 5-point scale:Q1) Howconfidentwere you in your understanding of the eHMI’s actions?, andQ2) How much did youtrustthe autonomous system with eHMI communication?We then revealed the ground truth of the scenario and asked,Q3) Howconsistentdid you think that the eHMI movements were with the intended message?The instructor repeated this process across all seven scenarios.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "We then conducted an iterative test with a toy car to determine the prompt structures necessary for the LLM to reliably control the eHMI system’s actions.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            2
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "In cognitive linguistics, studies [70] have shown that conscious bodily gestures are typically gen- erated after linguistic organization in the brain, serving to illustrate, emphasize, or complement verbal messages.",
+          "claim_summary": "In cognitive linguistics, studies [70] have shown that conscious bodily gestures are typically gen- erated after linguistic organization in the brain, serving to illustrate, emphasize, or complement verbal messages.",
+          "claim_type": "C1",
+          "construct_raw": "organization",
+          "indicator_raw": "organization",
+          "item_quote": "In cognitive linguistics, studies [70] have shown that conscious bodily gestures are typically gen- erated after linguistic organization in the brain, serving to illustrate, emphasize, or complement verbal messages.",
+          "dimension_code": "E",
+          "indicator_code": "E3",
+          "instrument_raw": "Survey on eHMI concepts: The effect of text, color, and perspective.；The interviewee pointed out that the message conveyed by the vehicle’s eye-based eHMI was ambiguous, and that the brief interaction period caused confusion afte；To answer RQ1, we first identified seven representative scenarios from literature and observational studies, each requiring different types of messages.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Third, the instructor then asked participants to describe theirinterpretation and reactionof the eHMI“What message do you think the delivery robot with eHMI is trying to convey?”and“What do you plan to do next?”Participants were then asked to respond to the following questions on a 5-point scale:Q1) Howconfidentwere you in your understanding of the eHMI’s actions?, andQ2) How much did youtrustthe autonomous system with eHMI communication?We then revealed the ground truth of the scenario and asked,Q3) Howconsistentdid you think that the eHMI movements were with the intended message?The instructor repeated this process across all seven scenarios.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "We then conducted an iterative test with a toy car to determine the prompt structures necessary for the LLM to reliably control the eHMI system’s actions.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            5
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "in the real world with physical prototype to evaluate the system’s communication effectiveness, based on participant reactions"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "Exploring LLMs for Generating Communicational Actions of External"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "prompt structures necessary for the LLM to reliably control the eHMI system’s actions."
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "On the right, we describe a field study conducted with 26 participants"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "An unpaired t-test confirmed no significant difference in message"
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "Exploring LLMs for Generating Communicational Actions of External"
+        }
+      ]
+    },
+    {
+      "eval_id": "013-E2",
+      "purpose_codes": [
+        "P2",
+        "P1"
+      ],
+      "object_codes": [
+        "O1",
+        "O3",
+        "O6"
+      ],
+      "evaluator_codes": [
+        "V2",
+        "V4"
+      ],
+      "source_codes": [
+        "H1",
+        "H3",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G2",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K4",
+        "K5",
+        "K6",
+        "K7"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 434,
+      "sample_description": "Participants identified their most preferred and least preferred eHMI motions along two dimensions: 1) the extent to which the eHMI motion enabled accurate pedestrian reactions and 2) the clarity with which the eHMI motion conveyed the vehicle’s intention.",
+      "recruitment": "of Human-Like Characteristics in Sampling-Based Motion Planning on the Legibility of Robot Arm Motions.ACM Transactions on",
+      "task": "Recent trends in task and motion planning for robotics: A",
+      "comparator": "Condition 1 (Baseline; used in the field study).There is no role or persona specification, with the prompt",
+      "procedure": "This procedure was repeated for all 7 scenarios.",
+      "analysis": "to participate in interviews and conducted a thematic analysis, through which six key findings and five new",
+      "actual_results": "",
+      "limitations": "a key limitation: the action plan primarily relies on prompts.",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 17,
+          "quote": "Participants identified their most preferred and least preferred eHMI motions along two dimensions: 1) the extent to which the eHMI motion enabled accurate pedestrian reactions and 2) the clarity with which the eHMI motion conveyed the vehicle’s intention."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Empowering llms with logical reasoning: A comprehensive survey.arXiv preprint arXiv:2502.15652(2025).",
+          "claim_summary": "Empowering llms with logical reasoning: A comprehensive survey.arXiv preprint arXiv:2502.15652(2025).",
+          "claim_type": "C1",
+          "construct_raw": "Empower",
+          "indicator_raw": "Empower",
+          "item_quote": "Empowering llms with logical reasoning: A comprehensive survey.arXiv preprint arXiv:2502.15652(2025).",
+          "dimension_code": "C",
+          "indicator_code": "C8",
+          "instrument_raw": "Survey on eHMI concepts: The effect of text, color, and perspective.；The interviewee pointed out that the message conveyed by the vehicle’s eye-based eHMI was ambiguous, and that the brief interaction period caused confusion afte；To answer RQ1, we first identified seven representative scenarios from literature and observational studies, each requiring different types of messages.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Third, the instructor then asked participants to describe theirinterpretation and reactionof the eHMI“What message do you think the delivery robot with eHMI is trying to convey?”and“What do you plan to do next?”Participants were then asked to respond to the following questions on a 5-point scale:Q1) Howconfidentwere you in your understanding of the eHMI’s actions?, andQ2) How much did youtrustthe autonomous system with eHMI communication?We then revealed the ground truth of the scenario and asked,Q3) Howconsistentdid you think that the eHMI movements were with the intended message?The instructor repeated this process across all seven scenarios.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "We then conducted an iterative test with a toy car to determine the prompt structures necessary for the LLM to reliably control the eHMI system’s actions.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            21
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "impressions, which play an important role in integrating autonomous systems smoothly and harmoniously into"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "interpretation and reaction, indicating stable and reliable performance with minimal incorrect cases."
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "Participants sometimes reacted correctly without fully understanding the eHMI message, or vice versa."
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "to participate in interviews and conducted a thematic analysis, through which six key findings and five new"
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "impressions, which play an important role in integrating autonomous systems smoothly and harmoniously into"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\13.pdf"
+}

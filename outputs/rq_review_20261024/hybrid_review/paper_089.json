@@ -1,0 +1,578 @@
+{
+  "paper_id": 89,
+  "title": "StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI",
+  "doi": "10.1145/3687054",
+  "year": 2024,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    8,
+    11,
+    17,
+    18,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    28,
+    30
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D1",
+    "D3"
+  ],
+  "stage_codes": [
+    "S1",
+    "S2",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F4",
+    "F5"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U6",
+    "U1"
+  ],
+  "context_summary": "This paper introduces StyleWe, a federated generative AI system for fashion design that enables collaborative style fusion while protecting data privacy. It includes user studies and technical evaluations.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [
+    {
+      "eval_id": "089-E2",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2",
+        "V4"
+      ],
+      "source_codes": [
+        "H1"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K3",
+        "K4",
+        "K5",
+        "K6"
+      ],
+      "constraint_codes": [
+        "Q3",
+        "Q6"
+      ],
+      "sample_n": 20,
+      "sample_description": "The novice group required significantly more time than the expert group.",
+      "recruitment": "With Experiment 4, we recruited 50 participants to evaluate the quality of generated sketches using",
+      "task": "tasks.",
+      "comparator": "Comparing StyleWe with several baseline",
+      "procedure": "Procedure.",
+      "analysis": "the two groups was observed (p>0.05).",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 22,
+          "quote": "The novice group required significantly more time than the expert group."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "I can browse a vast array of images for inspiration, generate sketches with my personal style based on selected pictures, and then explore additional design directions through collaborative features with anonymous designers. \" Regarding the quality of sketch generation, E1 added, \"We frequently use fashion templates to swiftly create illustrations, making this feature highly practical. \" During usage, E1 also noted that \"I wish the central sketch panel could be larger, \" suggesting a potential area for improvement of the UI.",
+          "claim_summary": "I can browse a vast array of images for inspiration, generate sketches with my personal style based on selected pictures, and then explore additional design directions through collaborative features with anonymous designers. \" Regarding the quality of sketch generation, E1 added, \"We frequently use ",
+          "claim_type": "C4",
+          "construct_raw": "inspir",
+          "indicator_raw": "inspir",
+          "item_quote": "Even learning one style may be limited by personal observations and choices, with subjective preferences impacting learning outcomes. \" However, they also noted that traditional learning methods have a clearer purpose, stating, \"Because it targets a specific style, compared to the system generating random results. \" E2 proposed a suggestion,\"I would like to see the introduction of mixed styles specific to certain clothing details, incorporating fabric and fashion styles in the design would be even better, providing more inspiration during the design process. \" Additionally, designers have raised concerns that an over-reliance on AI and collaboration could potentially limit the enhancement of",
+          "dimension_code": "C",
+          "indicator_code": "C1",
+          "instrument_raw": "Hani and Badariah [3] surveyed 51 crowdsourcing software platforms, analyzed the legal documents of the platforms, examined intellectual property challenges fac；3 Group Interview and System Overview 3.1 Group Interview To gain a comprehensive understanding of the fashion design practice, we conducted a focus group inter；This observation is further validated by Table 2, where StyleWe𝑜 demonstrates lower FID and LPIPS values for the third and fourth designers compared to StyleWe.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "response_scoring": "Each participant was asked to provide an answer using a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To collect a more expansive and comprehensive test result and thereby bolster the reliability of our conclusions, 50 participants with backgrounds in design (26 males and 24 females, averaging 23.08 years old) were recruited for online testing via a questionnaire.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            24
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Even learning one style may be limited by personal observations and choices, with subjective preferences impacting learning outcomes. \" However, they also noted that traditional learning methods have a clearer purpose, stating, \"Because it targets a specific style, compared to the system generating random results. \" E2 proposed a suggestion,\"I would like to see the introduction of mixed styles specific to certain clothing details, incorporating fabric and fashion styles in the design would be even better, providing more inspiration during the design process. \" Additionally, designers have raised concerns that an over-reliance on AI and collaboration could potentially limit the enhancement of",
+          "claim_summary": "Even learning one style may be limited by personal observations and choices, with subjective preferences impacting learning outcomes. \" However, they also noted that traditional learning methods have a clearer purpose, stating, \"Because it targets a specific style, compared to the system generating ",
+          "claim_type": "C2",
+          "construct_raw": "over-reliance",
+          "indicator_raw": "over-reliance",
+          "item_quote": "Even learning one style may be limited by personal observations and choices, with subjective preferences impacting learning outcomes. \" However, they also noted that traditional learning methods have a clearer purpose, stating, \"Because it targets a specific style, compared to the system generating random results. \" E2 proposed a suggestion,\"I would like to see the introduction of mixed styles specific to certain clothing details, incorporating fabric and fashion styles in the design would be even better, providing more inspiration during the design process. \" Additionally, designers have raised concerns that an over-reliance on AI and collaboration could potentially limit the enhancement of",
+          "dimension_code": "C",
+          "indicator_code": "C7",
+          "instrument_raw": "Hani and Badariah [3] surveyed 51 crowdsourcing software platforms, analyzed the legal documents of the platforms, examined intellectual property challenges fac；3 Group Interview and System Overview 3.1 Group Interview To gain a comprehensive understanding of the fashion design practice, we conducted a focus group inter；This observation is further validated by Table 2, where StyleWe𝑜 demonstrates lower FID and LPIPS values for the third and fourth designers compared to StyleWe.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "response_scoring": "Each participant was asked to provide an answer using a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To collect a more expansive and comprehensive test result and thereby bolster the reliability of our conclusions, 50 participants with backgrounds in design (26 males and 24 females, averaging 23.08 years old) were recruited for online testing via a questionnaire.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            24
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Even learning one style may be limited by personal observations and choices, with subjective preferences impacting learning outcomes. \" However, they also noted that traditional learning methods have a clearer purpose, stating, \"Because it targets a specific style, compared to the system generating random results. \" E2 proposed a suggestion,\"I would like to see the introduction of mixed styles specific to certain clothing details, incorporating fabric and fashion styles in the design would be even better, providing more inspiration during the design process. \" Additionally, designers have raised concerns that an over-reliance on AI and collaboration could potentially limit the enhancement of",
+          "claim_summary": "Even learning one style may be limited by personal observations and choices, with subjective preferences impacting learning outcomes. \" However, they also noted that traditional learning methods have a clearer purpose, stating, \"Because it targets a specific style, compared to the system generating ",
+          "claim_type": "C2",
+          "construct_raw": "reliance",
+          "indicator_raw": "reliance",
+          "item_quote": "Even learning one style may be limited by personal observations and choices, with subjective preferences impacting learning outcomes. \" However, they also noted that traditional learning methods have a clearer purpose, stating, \"Because it targets a specific style, compared to the system generating random results. \" E2 proposed a suggestion,\"I would like to see the introduction of mixed styles specific to certain clothing details, incorporating fabric and fashion styles in the design would be even better, providing more inspiration during the design process. \" Additionally, designers have raised concerns that an over-reliance on AI and collaboration could potentially limit the enhancement of",
+          "dimension_code": "D",
+          "indicator_code": "D5",
+          "instrument_raw": "Hani and Badariah [3] surveyed 51 crowdsourcing software platforms, analyzed the legal documents of the platforms, examined intellectual property challenges fac；3 Group Interview and System Overview 3.1 Group Interview To gain a comprehensive understanding of the fashion design practice, we conducted a focus group inter；This observation is further validated by Table 2, where StyleWe𝑜 demonstrates lower FID and LPIPS values for the third and fourth designers compared to StyleWe.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "response_scoring": "Each participant was asked to provide an answer using a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To collect a more expansive and comprehensive test result and thereby bolster the reliability of our conclusions, 50 participants with backgrounds in design (26 males and 24 females, averaging 23.08 years old) were recruited for online testing via a questionnaire.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            24
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "In addition, we invited participants to generate design sketches using StyleWe𝑜 and StyleWe, using a five-point scale to compare the performance of the two models in terms of image quality and overall user experience(response time, generation efficiency, smoothness, etc.).",
+          "claim_summary": "In addition, we invited participants to generate design sketches using StyleWe𝑜 and StyleWe, using a five-point scale to compare the performance of the two models in terms of image quality and overall user experience(response time, generation efficiency, smoothness, etc.).",
+          "claim_type": "C1",
+          "construct_raw": "satisfaction",
+          "indicator_raw": "satisfaction",
+          "item_quote": "With Experiment 4, we recruited 50 participants to evaluate the quality of generated sketches using satisfaction metrics, thereby gauging the effectiveness and satisfaction of the system generation outcome.",
+          "dimension_code": "E",
+          "indicator_code": "E1",
+          "instrument_raw": "Hani and Badariah [3] surveyed 51 crowdsourcing software platforms, analyzed the legal documents of the platforms, examined intellectual property challenges fac；3 Group Interview and System Overview 3.1 Group Interview To gain a comprehensive understanding of the fashion design practice, we conducted a focus group inter；This observation is further validated by Table 2, where StyleWe𝑜 demonstrates lower FID and LPIPS values for the third and fourth designers compared to StyleWe.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "response_scoring": "Each participant was asked to provide an answer using a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To collect a more expansive and comprehensive test result and thereby bolster the reliability of our conclusions, 50 participants with backgrounds in design (26 males and 24 females, averaging 23.08 years old) were recruited for online testing via a questionnaire.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            20,
+            22
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "With Experiment 4, we recruited 50 participants to evaluate the quality of generated sketches using"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "asked to provide an answer using a 5-point Likert scale."
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "reliability of our conclusions, 50 participants with backgrounds in design (26 males and 24 females,"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "Each participant was"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "the two groups was observed (p>0.05)."
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "asked to provide an answer using a 5-point Likert scale."
+        }
+      ]
+    },
+    {
+      "eval_id": "089-E3",
+      "purpose_codes": [
+        "P1",
+        "P3"
+      ],
+      "object_codes": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "evaluator_codes": [
+        "V1",
+        "V2",
+        "V4"
+      ],
+      "source_codes": [
+        "H1"
+      ],
+      "setting_code": "L1",
+      "design_code": "G5",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K3",
+        "K4",
+        "K5",
+        "K6"
+      ],
+      "constraint_codes": [
+        "Q3",
+        "Q6"
+      ],
+      "sample_n": 6,
+      "sample_description": "With Experiment 4, we recruited 50 participants to evaluate the quality of generated sketches using",
+      "recruitment": "With Experiment 4, we recruited 50 participants to evaluate the quality of generated sketches using",
+      "task": "All participants were asked to complete the design task both",
+      "comparator": "",
+      "procedure": "Procedure.",
+      "analysis": "the two groups was observed (p>0.05).",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 23,
+          "quote": "With Experiment 4, we recruited 50 participants to evaluate the quality of generated sketches using"
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "I can browse a vast array of images for inspiration, generate sketches with my personal style based on selected pictures, and then explore additional design directions through collaborative features with anonymous designers. \" Regarding the quality of sketch generation, E1 added, \"We frequently use fashion templates to swiftly create illustrations, making this feature highly practical. \" During usage, E1 also noted that \"I wish the central sketch panel could be larger, \" suggesting a potential area for improvement of the UI.",
+          "claim_summary": "I can browse a vast array of images for inspiration, generate sketches with my personal style based on selected pictures, and then explore additional design directions through collaborative features with anonymous designers. \" Regarding the quality of sketch generation, E1 added, \"We frequently use ",
+          "claim_type": "C4",
+          "construct_raw": "inspir",
+          "indicator_raw": "inspir",
+          "item_quote": "Even learning one style may be limited by personal observations and choices, with subjective preferences impacting learning outcomes. \" However, they also noted that traditional learning methods have a clearer purpose, stating, \"Because it targets a specific style, compared to the system generating random results. \" E2 proposed a suggestion,\"I would like to see the introduction of mixed styles specific to certain clothing details, incorporating fabric and fashion styles in the design would be even better, providing more inspiration during the design process. \" Additionally, designers have raised concerns that an over-reliance on AI and collaboration could potentially limit the enhancement of",
+          "dimension_code": "C",
+          "indicator_code": "C1",
+          "instrument_raw": "Hani and Badariah [3] surveyed 51 crowdsourcing software platforms, analyzed the legal documents of the platforms, examined intellectual property challenges fac；3 Group Interview and System Overview 3.1 Group Interview To gain a comprehensive understanding of the fashion design practice, we conducted a focus group inter；This observation is further validated by Table 2, where StyleWe𝑜 demonstrates lower FID and LPIPS values for the third and fourth designers compared to StyleWe.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "response_scoring": "Each participant was asked to provide an answer using a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To collect a more expansive and comprehensive test result and thereby bolster the reliability of our conclusions, 50 participants with backgrounds in design (26 males and 24 females, averaging 23.08 years old) were recruited for online testing via a questionnaire.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            24
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Even learning one style may be limited by personal observations and choices, with subjective preferences impacting learning outcomes. \" However, they also noted that traditional learning methods have a clearer purpose, stating, \"Because it targets a specific style, compared to the system generating random results. \" E2 proposed a suggestion,\"I would like to see the introduction of mixed styles specific to certain clothing details, incorporating fabric and fashion styles in the design would be even better, providing more inspiration during the design process. \" Additionally, designers have raised concerns that an over-reliance on AI and collaboration could potentially limit the enhancement of",
+          "claim_summary": "Even learning one style may be limited by personal observations and choices, with subjective preferences impacting learning outcomes. \" However, they also noted that traditional learning methods have a clearer purpose, stating, \"Because it targets a specific style, compared to the system generating ",
+          "claim_type": "C2",
+          "construct_raw": "over-reliance",
+          "indicator_raw": "over-reliance",
+          "item_quote": "Even learning one style may be limited by personal observations and choices, with subjective preferences impacting learning outcomes. \" However, they also noted that traditional learning methods have a clearer purpose, stating, \"Because it targets a specific style, compared to the system generating random results. \" E2 proposed a suggestion,\"I would like to see the introduction of mixed styles specific to certain clothing details, incorporating fabric and fashion styles in the design would be even better, providing more inspiration during the design process. \" Additionally, designers have raised concerns that an over-reliance on AI and collaboration could potentially limit the enhancement of",
+          "dimension_code": "C",
+          "indicator_code": "C7",
+          "instrument_raw": "Hani and Badariah [3] surveyed 51 crowdsourcing software platforms, analyzed the legal documents of the platforms, examined intellectual property challenges fac；3 Group Interview and System Overview 3.1 Group Interview To gain a comprehensive understanding of the fashion design practice, we conducted a focus group inter；This observation is further validated by Table 2, where StyleWe𝑜 demonstrates lower FID and LPIPS values for the third and fourth designers compared to StyleWe.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "response_scoring": "Each participant was asked to provide an answer using a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To collect a more expansive and comprehensive test result and thereby bolster the reliability of our conclusions, 50 participants with backgrounds in design (26 males and 24 females, averaging 23.08 years old) were recruited for online testing via a questionnaire.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            24
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "Even learning one style may be limited by personal observations and choices, with subjective preferences impacting learning outcomes. \" However, they also noted that traditional learning methods have a clearer purpose, stating, \"Because it targets a specific style, compared to the system generating random results. \" E2 proposed a suggestion,\"I would like to see the introduction of mixed styles specific to certain clothing details, incorporating fabric and fashion styles in the design would be even better, providing more inspiration during the design process. \" Additionally, designers have raised concerns that an over-reliance on AI and collaboration could potentially limit the enhancement of",
+          "claim_summary": "Even learning one style may be limited by personal observations and choices, with subjective preferences impacting learning outcomes. \" However, they also noted that traditional learning methods have a clearer purpose, stating, \"Because it targets a specific style, compared to the system generating ",
+          "claim_type": "C2",
+          "construct_raw": "reliance",
+          "indicator_raw": "reliance",
+          "item_quote": "Even learning one style may be limited by personal observations and choices, with subjective preferences impacting learning outcomes. \" However, they also noted that traditional learning methods have a clearer purpose, stating, \"Because it targets a specific style, compared to the system generating random results. \" E2 proposed a suggestion,\"I would like to see the introduction of mixed styles specific to certain clothing details, incorporating fabric and fashion styles in the design would be even better, providing more inspiration during the design process. \" Additionally, designers have raised concerns that an over-reliance on AI and collaboration could potentially limit the enhancement of",
+          "dimension_code": "D",
+          "indicator_code": "D5",
+          "instrument_raw": "Hani and Badariah [3] surveyed 51 crowdsourcing software platforms, analyzed the legal documents of the platforms, examined intellectual property challenges fac；3 Group Interview and System Overview 3.1 Group Interview To gain a comprehensive understanding of the fashion design practice, we conducted a focus group inter；This observation is further validated by Table 2, where StyleWe𝑜 demonstrates lower FID and LPIPS values for the third and fourth designers compared to StyleWe.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "response_scoring": "Each participant was asked to provide an answer using a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To collect a more expansive and comprehensive test result and thereby bolster the reliability of our conclusions, 50 participants with backgrounds in design (26 males and 24 females, averaging 23.08 years old) were recruited for online testing via a questionnaire.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            24
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "In addition, we invited participants to generate design sketches using StyleWe𝑜 and StyleWe, using a five-point scale to compare the performance of the two models in terms of image quality and overall user experience(response time, generation efficiency, smoothness, etc.).",
+          "claim_summary": "In addition, we invited participants to generate design sketches using StyleWe𝑜 and StyleWe, using a five-point scale to compare the performance of the two models in terms of image quality and overall user experience(response time, generation efficiency, smoothness, etc.).",
+          "claim_type": "C1",
+          "construct_raw": "satisfaction",
+          "indicator_raw": "satisfaction",
+          "item_quote": "With Experiment 4, we recruited 50 participants to evaluate the quality of generated sketches using satisfaction metrics, thereby gauging the effectiveness and satisfaction of the system generation outcome.",
+          "dimension_code": "E",
+          "indicator_code": "E1",
+          "instrument_raw": "Hani and Badariah [3] surveyed 51 crowdsourcing software platforms, analyzed the legal documents of the platforms, examined intellectual property challenges fac；3 Group Interview and System Overview 3.1 Group Interview To gain a comprehensive understanding of the fashion design practice, we conducted a focus group inter；This observation is further validated by Table 2, where StyleWe𝑜 demonstrates lower FID and LPIPS values for the third and fourth designers compared to StyleWe.",
+          "tool_family_codes": [
+            "M1",
+            "M4",
+            "M5"
+          ],
+          "tool_origin_code": "T4",
+          "response_scoring": "Each participant was asked to provide an answer using a 5-point Likert scale.",
+          "validity_evidence": "NR",
+          "reliability_evidence": "To collect a more expansive and comprehensive test result and thereby bolster the reliability of our conclusions, 50 participants with backgrounds in design (26 males and 24 females, averaging 23.08 years old) were recruited for online testing via a questionnaire.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            20,
+            22
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "With Experiment 4, we recruited 50 participants to evaluate the quality of generated sketches using"
+        },
+        {
+          "standard": "A2",
+          "status": "P",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "To evaluate the performance of StyleWe in generating style fusion sketches that gather visual"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "reliability of our conclusions, 50 participants with backgrounds in design (26 males and 24 females,"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "With Experiment 4, we recruited 50 participants to evaluate the quality of generated sketches using"
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "the two groups was observed (p>0.05)."
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "quote": "To evaluate the performance of StyleWe in generating style fusion sketches that gather visual"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\89.pdf"
+}

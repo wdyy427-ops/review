@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="514.368pt" height="351.456328pt" viewBox="0 0 514.368 351.456328" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-29T23:09:49.114020</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 351.456328 
+L 514.368 351.456328 
+L 514.368 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 15.81696 109.881928 
+L 156.6144 109.881928 
+Q 160.637184 109.881928 160.637184 107.232328 
+L 160.637184 40.992328 
+Q 160.637184 38.342728 156.6144 38.342728 
+L 15.81696 38.342728 
+Q 11.794176 38.342728 11.794176 40.992328 
+L 11.794176 107.232328 
+Q 11.794176 109.881928 15.81696 109.881928 
+z
+" clip-path="url(#p1fb2377e98)" style="fill: #ffffff; stroke: #4477aa; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 186.78528 109.881928 
+L 327.58272 109.881928 
+Q 331.605504 109.881928 331.605504 107.232328 
+L 331.605504 40.992328 
+Q 331.605504 38.342728 327.58272 38.342728 
+L 186.78528 38.342728 
+Q 182.762496 38.342728 182.762496 40.992328 
+L 182.762496 107.232328 
+Q 182.762496 109.881928 186.78528 109.881928 
+z
+" clip-path="url(#p1fb2377e98)" style="fill: #ffffff; stroke: #4477aa; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 357.7536 109.881928 
+L 498.55104 109.881928 
+Q 502.573824 109.881928 502.573824 107.232328 
+L 502.573824 40.992328 
+Q 502.573824 38.342728 498.55104 38.342728 
+L 357.7536 38.342728 
+Q 353.730816 38.342728 353.730816 40.992328 
+L 353.730816 107.232328 
+Q 353.730816 109.881928 357.7536 109.881928 
+z
+" clip-path="url(#p1fb2377e98)" style="fill: #ffffff; stroke: #4477aa; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 158.612411 74.112328 
+Q 169.185882 74.112328 178.864926 74.112328 
+" clip-path="url(#p1fb2377e98)" style="fill: none; stroke: #777777; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 175.264926 72.312328 
+L 178.864926 74.112328 
+L 175.264926 75.912328 
+z
+" clip-path="url(#p1fb2377e98)" style="fill: #777777; stroke: #777777; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 329.580731 74.112328 
+Q 340.154202 74.112328 349.833246 74.112328 
+" clip-path="url(#p1fb2377e98)" style="fill: none; stroke: #777777; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 346.233246 72.312328 
+L 349.833246 74.112328 
+L 346.233246 75.912328 
+z
+" clip-path="url(#p1fb2377e98)" style="fill: #777777; stroke: #777777; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 15.81696 298.665928 
+L 156.6144 298.665928 
+Q 160.637184 298.665928 160.637184 296.016328 
+L 160.637184 223.152328 
+Q 160.637184 220.502728 156.6144 220.502728 
+L 15.81696 220.502728 
+Q 11.794176 220.502728 11.794176 223.152328 
+L 11.794176 296.016328 
+Q 11.794176 298.665928 15.81696 298.665928 
+z
+" clip-path="url(#p1fb2377e98)" style="fill: #ffffff; stroke: #4477aa; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 186.78528 298.665928 
+L 327.58272 298.665928 
+Q 331.605504 298.665928 331.605504 296.016328 
+L 331.605504 223.152328 
+Q 331.605504 220.502728 327.58272 220.502728 
+L 186.78528 220.502728 
+Q 182.762496 220.502728 182.762496 223.152328 
+L 182.762496 296.016328 
+Q 182.762496 298.665928 186.78528 298.665928 
+z
+" clip-path="url(#p1fb2377e98)" style="fill: #ffffff; stroke: #228833; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 357.7536 298.665928 
+L 498.55104 298.665928 
+Q 502.573824 298.665928 502.573824 296.016328 
+L 502.573824 223.152328 
+Q 502.573824 220.502728 498.55104 220.502728 
+L 357.7536 220.502728 
+Q 353.730816 220.502728 353.730816 223.152328 
+L 353.730816 296.016328 
+Q 353.730816 298.665928 357.7536 298.665928 
+z
+" clip-path="url(#p1fb2377e98)" style="fill: #ffffff; stroke: #aa4499; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 158.612411 259.584328 
+Q 169.185882 259.584328 178.864926 259.584328 
+" clip-path="url(#p1fb2377e98)" style="fill: none; stroke: #777777; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 175.264926 257.784328 
+L 178.864926 259.584328 
+L 175.264926 261.384328 
+z
+" clip-path="url(#p1fb2377e98)" style="fill: #777777; stroke: #777777; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Arial'; text-anchor: start; fill: #222222" x="5.76" y="14.496328" transform="rotate(-0 5.76 14.496328)">a</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'Arial'; text-anchor: start; fill: #222222" x="23.35968" y="14.496328" transform="rotate(-0 23.35968 14.496328)">Evidence architecture</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 9.3px; font-family: 'Arial'; text-anchor: start; fill: #4477aa" x="24.868224" y="56.705382" transform="rotate(-0 24.868224 56.705382)">Paper level</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8.5px; font-family: 'Arial'; fill: #222222" transform="translate(24.868224 72.963864)">125 papers</text>
+    <text style="font-size: 8.5px; font-family: 'Arial'; fill: #222222" transform="translate(24.868224 84.069313)">Publication and design context</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 9.3px; font-family: 'Arial'; text-anchor: start; fill: #4477aa" x="195.836544" y="56.705382" transform="rotate(-0 195.836544 56.705382)">Evaluation-case level</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8.5px; font-family: 'Arial'; fill: #222222" transform="translate(195.836544 73.756754)">159 evaluation cases</text>
+    <text style="font-size: 8.5px; font-family: 'Arial'; fill: #222222" transform="translate(195.836544 84.119118)">Purpose, people and procedure</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 9.3px; font-family: 'Arial'; text-anchor: start; fill: #4477aa" x="366.804864" y="56.705382" transform="rotate(-0 366.804864 56.705382)">Evidence-record level</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8.5px; font-family: 'Arial'; fill: #222222" transform="translate(366.804864 73.756754)">514 candidate records</text>
+    <text style="font-size: 8.5px; font-family: 'Arial'; fill: #222222" transform="translate(366.804864 84.413961)">Claim, indicator and tool</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial'; text-anchor: start; fill: #222222" x="15.81696" y="133.728328" transform="rotate(-0 15.81696 133.728328)">Context factors</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9px; font-family: 'Arial'; fill: #222222" transform="translate(15.81696 156.484424)">G1 Purpose     G2 Domain     G3 Stage     G4 Evaluation object</text>
+    <text style="font-size: 9px; font-family: 'Arial'; fill: #222222" transform="translate(15.81696 170.843115)">G5 Evaluator     G6 Target user     G7 AI function</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Arial'; text-anchor: start; fill: #222222" x="5.76" y="196.656328" transform="rotate(-0 5.76 196.656328)">b</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'Arial'; text-anchor: start; fill: #222222" x="23.35968" y="196.656328" transform="rotate(-0 23.35968 196.656328)">Analysis populations</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 9.3px; font-family: 'Arial'; text-anchor: start; fill: #4477aa" x="24.868224" y="238.865382" transform="rotate(-0 24.868224 238.865382)">Perceived-effect dimensions</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.5px; font-family: 'Arial'; fill: #222222" transform="translate(24.868224 255.123864)">460 mapped records</text>
+    <text style="font-size: 8.5px; font-family: 'Arial'; fill: #222222" transform="translate(24.868224 266.279118)">54 unmapped records</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 9.3px; font-family: 'Arial'; text-anchor: start; fill: #228833" x="195.836544" y="238.865382" transform="rotate(-0 195.836544 238.865382)">Subjective indicators</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.5px; font-family: 'Arial'; fill: #222222" transform="translate(195.836544 255.111246)">454 mapped records</text>
+    <text style="font-size: 8.5px; font-family: 'Arial'; fill: #222222" transform="translate(195.836544 266.24193)">6 additional indicator gaps</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 9.3px; font-family: 'Arial'; text-anchor: start; fill: #aa4499" x="366.804864" y="238.865382" transform="rotate(-0 366.804864 238.865382)">Measurement tools</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.5px; font-family: 'Arial'; fill: #222222" transform="translate(366.804864 255.916754)">624 tool instances</text>
+    <text style="font-size: 8.5px; font-family: 'Arial'; fill: #222222" transform="translate(366.804864 266.330914)">608 classified; 16 unmapped</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8.2px; font-family: 'Arial'; fill: #222222" transform="translate(15.81696 322.563629)">One record may use multiple tools. Context labels may be multiple.</text>
+    <text style="font-size: 8.2px; font-family: 'Arial'; fill: #222222" transform="translate(15.81696 334.104328)">The 514 records form the screening population; denominators depend on the evidence layer.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1fb2377e98">
+   <rect x="5.76" y="14.496328" width="502.848" height="331.2"/>
+  </clipPath>
+ </defs>
+</svg>

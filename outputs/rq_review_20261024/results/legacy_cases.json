@@ -1,0 +1,5833 @@
+[
+  {
+    "paper_id": 1,
+    "legacy_eval_id": "1-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A",
+      "B"
+    ],
+    "indicator_codes": [
+      "A1",
+      "B5",
+      "A6"
+    ],
+    "row_count": 4,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 1,
+    "legacy_eval_id": "1-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A4",
+      "A3"
+    ],
+    "row_count": 5,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 1,
+    "legacy_eval_id": "1-评价3",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E",
+      "A"
+    ],
+    "indicator_codes": [
+      "E1",
+      "E7",
+      "A2"
+    ],
+    "row_count": 5,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 2,
+    "legacy_eval_id": "2-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P1",
+      "P3"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "row_count": 1,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 3,
+    "legacy_eval_id": "3-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P1",
+      "P2"
+    ],
+    "dimension_codes": [
+      "A",
+      "E"
+    ],
+    "indicator_codes": [
+      "A1",
+      "E2"
+    ],
+    "row_count": 2,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 4,
+    "legacy_eval_id": "4-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P2"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A4",
+      "A3"
+    ],
+    "row_count": 2,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 5,
+    "legacy_eval_id": "5-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E",
+      "D",
+      "B"
+    ],
+    "indicator_codes": [
+      "E2",
+      "D6",
+      "B4",
+      "D4",
+      "D3",
+      "D8"
+    ],
+    "row_count": 6,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 5,
+    "legacy_eval_id": "5-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 5,
+    "legacy_eval_id": "5-评价3",
+    "year": 2026,
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E",
+      "A"
+    ],
+    "indicator_codes": [
+      "E2",
+      "A4",
+      "A3",
+      "E1"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 5,
+    "legacy_eval_id": "5-评价4",
+    "year": 2026,
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E1"
+    ],
+    "row_count": 8,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 5,
+    "legacy_eval_id": "5-评价5",
+    "year": 2026,
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2",
+      "E4"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 6,
+    "legacy_eval_id": "6-缺失说明",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F5"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 7,
+    "legacy_eval_id": "7-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P2",
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A3"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 8,
+    "legacy_eval_id": "8-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A1",
+      "A4",
+      "A3"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 8,
+    "legacy_eval_id": "8-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A1",
+      "A3",
+      "A6"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 8,
+    "legacy_eval_id": "8-评价3",
+    "year": 2026,
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "B",
+      "C"
+    ],
+    "indicator_codes": [
+      "B2",
+      "C1",
+      "C4"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 9,
+    "legacy_eval_id": "9-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P2"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A2",
+      "A1"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 9,
+    "legacy_eval_id": "9-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A6",
+      "A5",
+      "A2",
+      "A1"
+    ],
+    "row_count": 5,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 10,
+    "legacy_eval_id": "10-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S1"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A6",
+      "A3",
+      "A5"
+    ],
+    "row_count": 6,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 10,
+    "legacy_eval_id": "10-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S1"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 11,
+    "legacy_eval_id": "11-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P2"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A2"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 12,
+    "legacy_eval_id": "12-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P1"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 12,
+    "legacy_eval_id": "12-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E1"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 13,
+    "legacy_eval_id": "13-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3",
+      "S4"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E",
+      "A"
+    ],
+    "indicator_codes": [
+      "E1",
+      "A5"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 13,
+    "legacy_eval_id": "13-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3",
+      "S4"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A",
+      "E"
+    ],
+    "indicator_codes": [
+      "A3",
+      "E1"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 14,
+    "legacy_eval_id": "14-缺失说明",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F4"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 15,
+    "legacy_eval_id": "15-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2"
+    ],
+    "purpose_codes": [
+      "P1"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 16,
+    "legacy_eval_id": "16-缺失说明",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F4"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 17,
+    "legacy_eval_id": "17-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P1",
+      "P4"
+    ],
+    "dimension_codes": [
+      "D",
+      "E"
+    ],
+    "indicator_codes": [
+      "D8",
+      "E3"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 17,
+    "legacy_eval_id": "17-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P1"
+    ],
+    "dimension_codes": [
+      "D",
+      "E"
+    ],
+    "indicator_codes": [
+      "D8",
+      "E3"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 18,
+    "legacy_eval_id": "18-缺失说明",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 19,
+    "legacy_eval_id": "19-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P2"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 19,
+    "legacy_eval_id": "19-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E",
+      "A"
+    ],
+    "indicator_codes": [
+      "E4",
+      "A2",
+      "A4",
+      "A1",
+      "A3"
+    ],
+    "row_count": 6,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 20,
+    "legacy_eval_id": "20-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P2"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 20,
+    "legacy_eval_id": "20-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P2"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E1"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 21,
+    "legacy_eval_id": "21-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A",
+      "E"
+    ],
+    "indicator_codes": [
+      "A2",
+      "A3",
+      "A1",
+      "E2"
+    ],
+    "row_count": 5,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 21,
+    "legacy_eval_id": "21-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P1"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E1"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 22,
+    "legacy_eval_id": "22-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P2"
+    ],
+    "dimension_codes": [
+      "E",
+      "A"
+    ],
+    "indicator_codes": [
+      "E4",
+      "A4"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 23,
+    "legacy_eval_id": "23-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P1",
+      "P2"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 24,
+    "legacy_eval_id": "24-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D1",
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E1"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 24,
+    "legacy_eval_id": "24-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D1",
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P1",
+      "P3"
+    ],
+    "dimension_codes": [
+      "D",
+      "E",
+      "B"
+    ],
+    "indicator_codes": [
+      "D8",
+      "E4",
+      "B4"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 25,
+    "legacy_eval_id": "25-缺失说明",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 26,
+    "legacy_eval_id": "26-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "B"
+    ],
+    "indicator_codes": [
+      "B2"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 26,
+    "legacy_eval_id": "26-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "indicator_codes": [
+      "A6",
+      "B4",
+      "D4",
+      "D3",
+      "D8",
+      "A3",
+      "D5",
+      "C1",
+      "B1",
+      "D1"
+    ],
+    "row_count": 10,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 26,
+    "legacy_eval_id": "26-评价3",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A6",
+      "A3"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 27,
+    "legacy_eval_id": "27-缺失说明",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 28,
+    "legacy_eval_id": "28-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D1",
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "B",
+      "D",
+      "E"
+    ],
+    "indicator_codes": [
+      "B4",
+      "D4",
+      "E4"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 28,
+    "legacy_eval_id": "28-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D1",
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "C"
+    ],
+    "indicator_codes": [
+      "C8"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 28,
+    "legacy_eval_id": "28-评价3",
+    "year": 2026,
+    "domain_codes": [
+      "D1",
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E",
+      "A"
+    ],
+    "indicator_codes": [
+      "E4",
+      "A1",
+      "A4",
+      "A5",
+      "A2"
+    ],
+    "row_count": 6,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 29,
+    "legacy_eval_id": "29-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A",
+      "E"
+    ],
+    "indicator_codes": [
+      "A6",
+      "A3",
+      "E2"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 29,
+    "legacy_eval_id": "29-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E",
+      "D"
+    ],
+    "indicator_codes": [
+      "E3",
+      "D2"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 30,
+    "legacy_eval_id": "30-缺失说明",
+    "year": 2026,
+    "domain_codes": [
+      "D2",
+      "D3"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 31,
+    "legacy_eval_id": "31-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D5"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E",
+      "A"
+    ],
+    "indicator_codes": [
+      "E2",
+      "A4",
+      "A1",
+      "E4"
+    ],
+    "row_count": 5,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 32,
+    "legacy_eval_id": "32-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A2",
+      "A3",
+      "A4"
+    ],
+    "row_count": 12,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 33,
+    "legacy_eval_id": "33-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A1",
+      "A4"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 33,
+    "legacy_eval_id": "33-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "C",
+      "B",
+      "D"
+    ],
+    "indicator_codes": [
+      "C1",
+      "B5",
+      "D8"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 34,
+    "legacy_eval_id": "34-缺失说明",
+    "year": null,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 35,
+    "legacy_eval_id": "35-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A5"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 36,
+    "legacy_eval_id": "36-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "indicator_codes": [
+      "D8",
+      "C5",
+      "D2",
+      "D3",
+      "D4",
+      "B4",
+      "A3",
+      "A6",
+      "C1"
+    ],
+    "row_count": 15,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 36,
+    "legacy_eval_id": "36-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A4",
+      "A6",
+      "A1"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 37,
+    "legacy_eval_id": "37-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "C"
+    ],
+    "indicator_codes": [
+      "C3"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 37,
+    "legacy_eval_id": "37-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "C"
+    ],
+    "indicator_codes": [
+      "C1",
+      "C8",
+      "C2",
+      "C4",
+      "C5"
+    ],
+    "row_count": 8,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 37,
+    "legacy_eval_id": "37-评价3",
+    "year": 2026,
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A1"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 37,
+    "legacy_eval_id": "37-评价4",
+    "year": 2026,
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A3"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 37,
+    "legacy_eval_id": "37-评价5",
+    "year": 2026,
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A1"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 38,
+    "legacy_eval_id": "38-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P1",
+      "P2"
+    ],
+    "dimension_codes": [
+      "A",
+      "E"
+    ],
+    "indicator_codes": [
+      "A2",
+      "E2"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 39,
+    "legacy_eval_id": "39-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A",
+      "D"
+    ],
+    "indicator_codes": [
+      "A3",
+      "D2",
+      "D3",
+      "D8"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 40,
+    "legacy_eval_id": "40-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D1",
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A3",
+      "A2"
+    ],
+    "row_count": 5,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 41,
+    "legacy_eval_id": "41-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 41,
+    "legacy_eval_id": "41-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P1",
+      "P2"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 42,
+    "legacy_eval_id": "42-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D1",
+      "D4"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D",
+      "B"
+    ],
+    "indicator_codes": [
+      "D8",
+      "B4"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 42,
+    "legacy_eval_id": "42-评价2",
+    "year": 2025,
+    "domain_codes": [
+      "D1",
+      "D4"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D"
+    ],
+    "indicator_codes": [
+      "D4",
+      "D1",
+      "D3"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 42,
+    "legacy_eval_id": "42-评价3",
+    "year": 2025,
+    "domain_codes": [
+      "D1",
+      "D4"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "B",
+      "D",
+      "C"
+    ],
+    "indicator_codes": [
+      "B2",
+      "D6",
+      "C1"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 43,
+    "legacy_eval_id": "43-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A6",
+      "A3",
+      "A1",
+      "A2"
+    ],
+    "row_count": 5,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 44,
+    "legacy_eval_id": "44-缺失说明",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 45,
+    "legacy_eval_id": "45-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A",
+      "E"
+    ],
+    "indicator_codes": [
+      "A1",
+      "A4",
+      "A3",
+      "A6",
+      "E2"
+    ],
+    "row_count": 5,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 45,
+    "legacy_eval_id": "45-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "C",
+      "B",
+      "D"
+    ],
+    "indicator_codes": [
+      "C2",
+      "B4",
+      "B3",
+      "D1"
+    ],
+    "row_count": 4,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 46,
+    "legacy_eval_id": "46-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D4"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P1",
+      "P3"
+    ],
+    "dimension_codes": [
+      "D",
+      "E",
+      "C"
+    ],
+    "indicator_codes": [
+      "D8",
+      "E4",
+      "C2",
+      "D2",
+      "E5"
+    ],
+    "row_count": 5,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 47,
+    "legacy_eval_id": "47-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A3",
+      "A6",
+      "A1"
+    ],
+    "row_count": 4,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 47,
+    "legacy_eval_id": "47-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D",
+      "B"
+    ],
+    "indicator_codes": [
+      "D1",
+      "B4",
+      "B2",
+      "D5"
+    ],
+    "row_count": 4,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 48,
+    "legacy_eval_id": "48-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "B",
+      "C",
+      "A"
+    ],
+    "indicator_codes": [
+      "B1",
+      "C2",
+      "B5",
+      "A3"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 49,
+    "legacy_eval_id": "49-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D1",
+      "D6"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A",
+      "E"
+    ],
+    "indicator_codes": [
+      "A6",
+      "E2",
+      "A3"
+    ],
+    "row_count": 6,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 49,
+    "legacy_eval_id": "49-评价2",
+    "year": 2025,
+    "domain_codes": [
+      "D1",
+      "D6"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D",
+      "E"
+    ],
+    "indicator_codes": [
+      "D2",
+      "E2",
+      "D8",
+      "D5"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 50,
+    "legacy_eval_id": "50-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P2"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "row_count": 6,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 51,
+    "legacy_eval_id": "51-缺失说明",
+    "year": 2025,
+    "domain_codes": [
+      "D1",
+      "D3"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 52,
+    "legacy_eval_id": "52-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P1",
+      "P4"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E1"
+    ],
+    "row_count": 6,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 53,
+    "legacy_eval_id": "53-缺失说明",
+    "year": 2026,
+    "domain_codes": [
+      "D2",
+      "D3"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3",
+      "S4"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 54,
+    "legacy_eval_id": "54-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E",
+      "A"
+    ],
+    "indicator_codes": [
+      "E2",
+      "A4",
+      "A1"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 55,
+    "legacy_eval_id": "55-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A4"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 56,
+    "legacy_eval_id": "56-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P1",
+      "P2"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 56,
+    "legacy_eval_id": "56-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 57,
+    "legacy_eval_id": "57-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A",
+      "E"
+    ],
+    "indicator_codes": [
+      "A3",
+      "E2"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 58,
+    "legacy_eval_id": "58-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D2",
+      "D3"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P3",
+      "P4"
+    ],
+    "dimension_codes": [
+      "C",
+      "B",
+      "D"
+    ],
+    "indicator_codes": [
+      "C2",
+      "B4",
+      "D8",
+      "C7"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 59,
+    "legacy_eval_id": "59-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P2"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 59,
+    "legacy_eval_id": "59-评价2",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E",
+      "D"
+    ],
+    "indicator_codes": [
+      "E2",
+      "D1",
+      "D8",
+      "D3"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 60,
+    "legacy_eval_id": "60-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A4",
+      "A1"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 60,
+    "legacy_eval_id": "60-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A",
+      "E"
+    ],
+    "indicator_codes": [
+      "A3",
+      "E2",
+      "A1",
+      "A4"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 61,
+    "legacy_eval_id": "61-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A3"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 61,
+    "legacy_eval_id": "61-评价2",
+    "year": 2025,
+    "domain_codes": [
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E",
+      "A"
+    ],
+    "indicator_codes": [
+      "E2",
+      "A4",
+      "A1"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 62,
+    "legacy_eval_id": "62-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A3",
+      "A6",
+      "A5"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 63,
+    "legacy_eval_id": "63-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "B",
+      "D"
+    ],
+    "indicator_codes": [
+      "B4",
+      "D6",
+      "D1"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 63,
+    "legacy_eval_id": "63-评价2",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "B",
+      "E",
+      "A",
+      "C"
+    ],
+    "indicator_codes": [
+      "B1",
+      "E2",
+      "A6",
+      "A1",
+      "C1"
+    ],
+    "row_count": 6,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 63,
+    "legacy_eval_id": "63-评价3",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A1",
+      "A4",
+      "A3",
+      "A6"
+    ],
+    "row_count": 5,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 64,
+    "legacy_eval_id": "64-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A1",
+      "A6"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 64,
+    "legacy_eval_id": "64-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A",
+      "C",
+      "D"
+    ],
+    "indicator_codes": [
+      "A5",
+      "C1",
+      "D1",
+      "C3"
+    ],
+    "row_count": 5,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 65,
+    "legacy_eval_id": "65-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E",
+      "D"
+    ],
+    "indicator_codes": [
+      "E2",
+      "D2"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 65,
+    "legacy_eval_id": "65-评价2",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P1",
+      "P2"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 66,
+    "legacy_eval_id": "66-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D"
+    ],
+    "indicator_codes": [
+      "D1"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 66,
+    "legacy_eval_id": "66-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "C"
+    ],
+    "indicator_codes": [
+      "C8"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 66,
+    "legacy_eval_id": "66-评价3",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A1",
+      "A3",
+      "A6"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 66,
+    "legacy_eval_id": "66-评价4",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "C"
+    ],
+    "indicator_codes": [
+      "C1"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 67,
+    "legacy_eval_id": "67-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A5",
+      "A2",
+      "A1"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 67,
+    "legacy_eval_id": "67-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "C"
+    ],
+    "indicator_codes": [
+      "C1"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 68,
+    "legacy_eval_id": "68-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A2",
+      "A3"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 69,
+    "legacy_eval_id": "69-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A2"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 70,
+    "legacy_eval_id": "70-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D"
+    ],
+    "indicator_codes": [
+      "D1"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 70,
+    "legacy_eval_id": "70-评价2",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A4",
+      "A1",
+      "A2"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 70,
+    "legacy_eval_id": "70-评价3",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A4",
+      "A1",
+      "A2"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 71,
+    "legacy_eval_id": "71-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A",
+      "C"
+    ],
+    "indicator_codes": [
+      "A5",
+      "C2",
+      "C8"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 72,
+    "legacy_eval_id": "72-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F5"
+    ],
+    "purpose_codes": [
+      "P2",
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A5"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 72,
+    "legacy_eval_id": "72-缺失说明",
+    "year": 2026,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F5"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 73,
+    "legacy_eval_id": "73-评价1",
+    "year": 2026,
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A5",
+      "A2"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 73,
+    "legacy_eval_id": "73-评价2",
+    "year": 2026,
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E",
+      "D",
+      "A"
+    ],
+    "indicator_codes": [
+      "E2",
+      "D3",
+      "D8",
+      "D4",
+      "A5"
+    ],
+    "row_count": 5,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 74,
+    "legacy_eval_id": "74-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3",
+      "S4"
+    ],
+    "ai_function_codes": [
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "B",
+      "D",
+      "C",
+      "E"
+    ],
+    "indicator_codes": [
+      "B4",
+      "D3",
+      "C7",
+      "D5",
+      "E3"
+    ],
+    "row_count": 5,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 75,
+    "legacy_eval_id": "75-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A",
+      "E"
+    ],
+    "indicator_codes": [
+      "A1",
+      "A2",
+      "E2"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 76,
+    "legacy_eval_id": "76-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D2",
+      "D5"
+    ],
+    "stage_codes": [
+      "S1",
+      "S4"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "B",
+      "E"
+    ],
+    "indicator_codes": [
+      "B1",
+      "E2",
+      "B5"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 77,
+    "legacy_eval_id": "77-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D2",
+      "D3"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A1",
+      "A6"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 78,
+    "legacy_eval_id": "78-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D4"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D",
+      "A",
+      "C"
+    ],
+    "indicator_codes": [
+      "D8",
+      "A5",
+      "D4",
+      "D3",
+      "D2",
+      "C1"
+    ],
+    "row_count": 6,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 79,
+    "legacy_eval_id": "79-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A1",
+      "A4",
+      "A6"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 79,
+    "legacy_eval_id": "79-评价2",
+    "year": 2024,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "C"
+    ],
+    "indicator_codes": [
+      "C5"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 79,
+    "legacy_eval_id": "79-评价3",
+    "year": 2024,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "C"
+    ],
+    "indicator_codes": [
+      "C1"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 80,
+    "legacy_eval_id": "80-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E1"
+    ],
+    "row_count": 8,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 81,
+    "legacy_eval_id": "81-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D2",
+      "D3"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "C",
+      "B"
+    ],
+    "indicator_codes": [
+      "C1",
+      "B3",
+      "C4"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 81,
+    "legacy_eval_id": "81-评价2",
+    "year": 2025,
+    "domain_codes": [
+      "D2",
+      "D3"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A1",
+      "A5",
+      "A6",
+      "A4",
+      "A3",
+      "A2"
+    ],
+    "row_count": 7,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 82,
+    "legacy_eval_id": "82-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3",
+      "S4"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P1"
+    ],
+    "dimension_codes": [
+      "D",
+      "E",
+      "C"
+    ],
+    "indicator_codes": [
+      "D8",
+      "E3",
+      "D7",
+      "D5",
+      "C2"
+    ],
+    "row_count": 5,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 83,
+    "legacy_eval_id": "83-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D4"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P3",
+      "P4"
+    ],
+    "dimension_codes": [
+      "D",
+      "B",
+      "E"
+    ],
+    "indicator_codes": [
+      "D8",
+      "B1",
+      "E5",
+      "D7"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 84,
+    "legacy_eval_id": "84-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P2"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E1"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 85,
+    "legacy_eval_id": "85-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D2",
+      "D4"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D",
+      "C"
+    ],
+    "indicator_codes": [
+      "D1",
+      "D8",
+      "C8"
+    ],
+    "row_count": 4,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 85,
+    "legacy_eval_id": "85-评价2",
+    "year": 2024,
+    "domain_codes": [
+      "D2",
+      "D4"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A5"
+    ],
+    "row_count": 1,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 86,
+    "legacy_eval_id": "86-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P1",
+      "P2"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2"
+    ],
+    "row_count": 5,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 87,
+    "legacy_eval_id": "87-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "C"
+    ],
+    "indicator_codes": [
+      "C8"
+    ],
+    "row_count": 1,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 87,
+    "legacy_eval_id": "87-评价2",
+    "year": 2024,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D"
+    ],
+    "indicator_codes": [
+      "D8",
+      "D6",
+      "D1"
+    ],
+    "row_count": 3,
+    "review_status": "PDF全文复核完成"
+  },
+  {
+    "paper_id": 88,
+    "legacy_eval_id": "88-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D1",
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "C"
+    ],
+    "indicator_codes": [
+      "C1"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 88,
+    "legacy_eval_id": "88-评价2",
+    "year": 2024,
+    "domain_codes": [
+      "D1",
+      "D2",
+      "D6"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A1"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 89,
+    "legacy_eval_id": "89-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A5",
+      "A2"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 90,
+    "legacy_eval_id": "90-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A",
+      "E",
+      "D"
+    ],
+    "indicator_codes": [
+      "A5",
+      "A6",
+      "E2",
+      "D2"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 90,
+    "legacy_eval_id": "90-评价2",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A1"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 91,
+    "legacy_eval_id": "91-缺失说明",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 92,
+    "legacy_eval_id": "92-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A1",
+      "A6"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 92,
+    "legacy_eval_id": "92-评价2",
+    "year": 2024,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "B"
+    ],
+    "indicator_codes": [
+      "B2"
+    ],
+    "row_count": 6,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 93,
+    "legacy_eval_id": "93-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D",
+      "C"
+    ],
+    "indicator_codes": [
+      "D8",
+      "C5",
+      "C1",
+      "C8",
+      "C4",
+      "C3"
+    ],
+    "row_count": 7,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 93,
+    "legacy_eval_id": "93-评价2",
+    "year": 2024,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A3",
+      "A1",
+      "A4"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 93,
+    "legacy_eval_id": "93-评价3",
+    "year": 2024,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D",
+      "B"
+    ],
+    "indicator_codes": [
+      "D8",
+      "B5",
+      "D1"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 94,
+    "legacy_eval_id": "94-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "C"
+    ],
+    "indicator_codes": [
+      "C8"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 94,
+    "legacy_eval_id": "94-评价2",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "C"
+    ],
+    "indicator_codes": [
+      "C1"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 95,
+    "legacy_eval_id": "95-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D"
+    ],
+    "indicator_codes": [
+      "D1",
+      "D8"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 95,
+    "legacy_eval_id": "95-评价2",
+    "year": 2024,
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A6"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 96,
+    "legacy_eval_id": "96-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A5"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 97,
+    "legacy_eval_id": "97-评价1",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D",
+      "E"
+    ],
+    "indicator_codes": [
+      "D7",
+      "D8",
+      "E3",
+      "D1"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 98,
+    "legacy_eval_id": "98-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D",
+      "C"
+    ],
+    "indicator_codes": [
+      "D1",
+      "C1",
+      "C8"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 98,
+    "legacy_eval_id": "98-评价2",
+    "year": 2024,
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A6"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 99,
+    "legacy_eval_id": "99-缺失说明",
+    "year": 2025,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 100,
+    "legacy_eval_id": "100-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A1",
+      "A5",
+      "A6",
+      "A4"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 100,
+    "legacy_eval_id": "100-评价2",
+    "year": 2024,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "B",
+      "D"
+    ],
+    "indicator_codes": [
+      "B5",
+      "D1",
+      "B1"
+    ],
+    "row_count": 6,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 101,
+    "legacy_eval_id": "101-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F4",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "indicator_codes": [
+      "D8",
+      "C2",
+      "A5",
+      "B4",
+      "B1"
+    ],
+    "row_count": 5,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 101,
+    "legacy_eval_id": "101-评价2",
+    "year": 2024,
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F4",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "B"
+    ],
+    "indicator_codes": [
+      "B2"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 102,
+    "legacy_eval_id": "102-评价1",
+    "year": 2023,
+    "domain_codes": [
+      "D4"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A",
+      "E"
+    ],
+    "indicator_codes": [
+      "A3",
+      "E1"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 103,
+    "legacy_eval_id": "103-评价1",
+    "year": 2024,
+    "domain_codes": [
+      "D4"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A",
+      "E"
+    ],
+    "indicator_codes": [
+      "A3",
+      "E1"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 104,
+    "legacy_eval_id": "104-评价1",
+    "year": 2023,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "C",
+      "B"
+    ],
+    "indicator_codes": [
+      "C1",
+      "B4"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 105,
+    "legacy_eval_id": "105-评价1",
+    "year": 2023,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P2"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A2"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 106,
+    "legacy_eval_id": "106-评价1",
+    "year": 2023,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "B",
+      "D",
+      "E"
+    ],
+    "indicator_codes": [
+      "B4",
+      "D2",
+      "E3"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 106,
+    "legacy_eval_id": "106-评价2",
+    "year": 2023,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F2",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P1",
+      "P2"
+    ],
+    "dimension_codes": [
+      "E",
+      "A"
+    ],
+    "indicator_codes": [
+      "E1",
+      "A2"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 107,
+    "legacy_eval_id": "107-缺失说明",
+    "year": 2023,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F5"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 108,
+    "legacy_eval_id": "108-缺失说明",
+    "year": 2023,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F5"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 109,
+    "legacy_eval_id": "109-缺失说明",
+    "year": 2023,
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 110,
+    "legacy_eval_id": "110-评价1",
+    "year": 2023,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D",
+      "C"
+    ],
+    "indicator_codes": [
+      "D8",
+      "C5",
+      "C1",
+      "C8",
+      "C4",
+      "C3",
+      "D1"
+    ],
+    "row_count": 8,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 110,
+    "legacy_eval_id": "110-评价2",
+    "year": 2023,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D"
+    ],
+    "indicator_codes": [
+      "D4",
+      "D8",
+      "D3"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 111,
+    "legacy_eval_id": "111-缺失说明",
+    "year": 2023,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 112,
+    "legacy_eval_id": "112-缺失说明",
+    "year": 2024,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 113,
+    "legacy_eval_id": "113-评价1",
+    "year": 2023,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A5"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 113,
+    "legacy_eval_id": "113-评价2",
+    "year": 2023,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A5"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 113,
+    "legacy_eval_id": "113-评价3",
+    "year": 2023,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A5"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 114,
+    "legacy_eval_id": "114-缺失说明",
+    "year": 2023,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 115,
+    "legacy_eval_id": "115-评价1",
+    "year": 2022,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P2"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E6",
+      "E1"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 115,
+    "legacy_eval_id": "115-评价2",
+    "year": 2022,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E",
+      "A"
+    ],
+    "indicator_codes": [
+      "E6",
+      "A6"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 116,
+    "legacy_eval_id": "116-缺失说明",
+    "year": 2022,
+    "domain_codes": [
+      "D1",
+      "D6"
+    ],
+    "stage_codes": [
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F3"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 117,
+    "legacy_eval_id": "117-评价1",
+    "year": 2022,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3",
+      "S4"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D",
+      "E"
+    ],
+    "indicator_codes": [
+      "D2",
+      "E3"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 118,
+    "legacy_eval_id": "118-评价1",
+    "year": 2022,
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S1",
+      "S2"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F3"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "E",
+      "A",
+      "C",
+      "D"
+    ],
+    "indicator_codes": [
+      "E2",
+      "A6",
+      "C1",
+      "D5"
+    ],
+    "row_count": 4,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 119,
+    "legacy_eval_id": "119-评价1",
+    "year": 2022,
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F2",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "D",
+      "B"
+    ],
+    "indicator_codes": [
+      "D4",
+      "B4"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 120,
+    "legacy_eval_id": "120-评价1",
+    "year": 2022,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A5"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 120,
+    "legacy_eval_id": "120-评价2",
+    "year": 2022,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A5"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 121,
+    "legacy_eval_id": "121-缺失说明",
+    "year": 2022,
+    "domain_codes": [
+      "D3"
+    ],
+    "stage_codes": [
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F4"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 122,
+    "legacy_eval_id": "122-评价1",
+    "year": 2022,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A5"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 122,
+    "legacy_eval_id": "122-评价2",
+    "year": 2022,
+    "domain_codes": [
+      "D1"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F3",
+      "F4",
+      "F6"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A5"
+    ],
+    "row_count": 3,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 123,
+    "legacy_eval_id": "123-评价1",
+    "year": 2022,
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S3",
+      "S4"
+    ],
+    "ai_function_codes": [
+      "F4"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A",
+      "E"
+    ],
+    "indicator_codes": [
+      "A3",
+      "E3"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 123,
+    "legacy_eval_id": "123-评价2",
+    "year": 2022,
+    "domain_codes": [
+      "D6"
+    ],
+    "stage_codes": [
+      "S3",
+      "S4"
+    ],
+    "ai_function_codes": [
+      "F4"
+    ],
+    "purpose_codes": [
+      "P3",
+      "P4"
+    ],
+    "dimension_codes": [
+      "E"
+    ],
+    "indicator_codes": [
+      "E2",
+      "E3"
+    ],
+    "row_count": 2,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 124,
+    "legacy_eval_id": "124-缺失说明",
+    "year": 2022,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S2",
+      "S3"
+    ],
+    "ai_function_codes": [
+      "F5",
+      "F6"
+    ],
+    "purpose_codes": [
+      "NR"
+    ],
+    "dimension_codes": [
+      "NR"
+    ],
+    "indicator_codes": [
+      "NR"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  },
+  {
+    "paper_id": 125,
+    "legacy_eval_id": "125-评价1",
+    "year": 2022,
+    "domain_codes": [
+      "D2"
+    ],
+    "stage_codes": [
+      "S1"
+    ],
+    "ai_function_codes": [
+      "F1",
+      "F5"
+    ],
+    "purpose_codes": [
+      "P4"
+    ],
+    "dimension_codes": [
+      "A"
+    ],
+    "indicator_codes": [
+      "A5"
+    ],
+    "row_count": 1,
+    "review_status": "仅旧表首轮编码；待全文复核"
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "corpus_papers": 12,
+  "papers_with_perceived_evidence": 11,
+  "papers_without_perceived_evidence": 1,
+  "evaluations": 31,
+  "chains": 95,
+  "pdf_pages": 404,
+  "unmapped_indicator_chains": 16,
+  "unmapped_domain_papers": 1,
+  "quality_subsets": [
+    {
+      "subset": "all",
+      "label": "全部实际感知证据",
+      "chains_n": 95,
+      "papers_with_eligible_chain": 11,
+      "cases_with_eligible_chain": 31,
+      "all_chains_eligible_cases": 31,
+      "papers_with_whole_eligible_case": 11
+    },
+    {
+      "subset": "sensitivity",
+      "label": "报告支持较充分（敏感性）",
+      "chains_n": 80,
+      "papers_with_eligible_chain": 10,
+      "cases_with_eligible_chain": 28,
+      "all_chains_eligible_cases": 28,
+      "papers_with_whole_eligible_case": 10
+    },
+    {
+      "subset": "strict",
+      "label": "主要规范性证据子集",
+      "chains_n": 0,
+      "papers_with_eligible_chain": 0,
+      "cases_with_eligible_chain": 0,
+      "all_chains_eligible_cases": 0,
+      "papers_with_whole_eligible_case": 0
+    }
+  ],
+  "sources": {
+    "JCSEE": "https://evaluationstandards.org/program/",
+    "JCSEE_checklist": "https://wmich.edu/sites/default/files/attachments/u350/2021/program-eval-standards-jc.pdf",
+    "ICoD_domain": "https://www.theicod.org/en/professional-design/what-is-a-designer/design-disciplines",
+    "ICoD_stage": "https://www.theicod.org/en/professional-design/design-ing/design-ing",
+    "CDC": "https://www.cdc.gov/evaluation/php/evaluation-framework-action-guide/step-4-gather-credible-evidence.html",
+    "GroupedCV": "https://scikit-learn.org/stable/modules/cross_validation.html",
+    "NestedCV": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_nested_cross_validation_iris.html",
+    "TabPFN": "https://www.nature.com/articles/s41586-024-08328-6",
+    "Model_selection_bias": "https://jmlr.org/papers/v11/cawley10a.html"
+  }
+}

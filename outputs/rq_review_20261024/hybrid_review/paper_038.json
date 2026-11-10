@@ -1,0 +1,48 @@
+{
+  "paper_id": 38,
+  "title": "The research on the aesthetic Metric Entropy Evaluation Model (MEM) and verification for Intelligent screening of automotive design schemes",
+  "doi": "10.1080/09544828.2026.2639930",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    20,
+    35,
+    36,
+    40,
+    42,
+    43
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2"
+  ],
+  "stage_codes": [],
+  "ai_function_codes": [
+    "F5",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [
+    "U6",
+    "U1"
+  ],
+  "context_summary": "The paper proposes an aesthetic metric entropy evaluation model (MEM) for intelligent screening of automotive design schemes. It integrates aesthetic measurement theory and information entropy theory to quantify aesthetic quality and train a convolutional neural network (CNN) for intelligent screening.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [],
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\38.pdf"
+}

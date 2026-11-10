@@ -1,0 +1,43 @@
+{
+  "paper_id": 114,
+  "title": "An Interactive Framework for Visually Realistic 3D Motion Synthesis using Evolutionarily-trained Spiking Neural Networks",
+  "doi": "10.1145/3585509",
+  "year": 2023,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D3"
+  ],
+  "stage_codes": [
+    "S1",
+    "S4"
+  ],
+  "ai_function_codes": [
+    "F3",
+    "F6"
+  ],
+  "ai_role_codes": [
+    "R2"
+  ],
+  "target_user_codes": [],
+  "context_summary": "The paper presents a method for synthesizing visually realistic 3D motion using spiking neural networks (SNNs) trained through evolution. It includes an interactive framework for modifying motion dynamics and real-time visualization.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": "No human evaluations found.",
+  "evaluations": [],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\114.pdf"
+}

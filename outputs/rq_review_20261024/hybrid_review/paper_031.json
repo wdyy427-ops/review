@@ -1,0 +1,259 @@
+{
+  "paper_id": 31,
+  "title": "From diagnosis to design: a hybrid human–LLM framework integrating fsQCA and TRIZ for cultural service innovation",
+  "doi": "10.1080/09544828.2026.2714470",
+  "year": 2026,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    6,
+    7,
+    12,
+    13,
+    14,
+    16,
+    17,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    26,
+    29,
+    30
+  ],
+  "scope_note": "全文逐页规则筛查＋高相关证据页语义清点；证据链仅保留PDF原句定位，未使用旧表内容。",
+  "domain_codes": [
+    "D2",
+    "D5"
+  ],
+  "stage_codes": [],
+  "ai_function_codes": [
+    "F5"
+  ],
+  "ai_role_codes": [
+    "R2",
+    "R3"
+  ],
+  "target_user_codes": [
+    "U4",
+    "U6",
+    "U1"
+  ],
+  "context_summary": "The paper proposes a hybrid human–LLM framework integrating fsQCA and TRIZ for cultural service innovation. It aims to convert configurational insights into service innovation concepts for digital museum exhibitions through a four-stage process involving fsQCA, LLM-assisted reasoning, TRIZ concept generation, and expert validation.",
+  "context_evidence": [],
+  "category_gaps": [],
+  "exclusion_facts": [
+    "The study uses a reutilised dataset of N = 100 user responses, which is not directly collected from participants in the human evaluations.",
+    "The human evaluations are based on a structured Human-in-the-Loop validation protocol, not on direct subjective perception or judgment from participants."
+  ],
+  "evaluations": [
+    {
+      "eval_id": "031-E1",
+      "purpose_codes": [
+        "P4"
+      ],
+      "object_codes": [
+        "O1",
+        "O3",
+        "O6"
+      ],
+      "evaluator_codes": [
+        "V1"
+      ],
+      "source_codes": [
+        "H1",
+        "H2",
+        "H6"
+      ],
+      "setting_code": "L1",
+      "design_code": "G1",
+      "evaluation_stage_codes": [],
+      "task_codes": [
+        "K2",
+        "K4",
+        "K6"
+      ],
+      "constraint_codes": [
+        "Q3"
+      ],
+      "sample_n": 6,
+      "sample_description": "A purposive expert sampling strategy was employed (Etikan 2016). Six domain experts (N = 6) participated in a survey.",
+      "recruitment": "Sampling",
+      "task": "Your task is to help innovate digital museum services.",
+      "comparator": "",
+      "procedure": "",
+      "analysis": "",
+      "actual_results": "",
+      "limitations": "",
+      "ethics": "",
+      "evidence": [
+        {
+          "field": "study_inventory",
+          "page": 14,
+          "quote": "A purposive expert sampling strategy was employed (Etikan 2016). Six domain experts (N = 6) participated in a survey."
+        }
+      ],
+      "chains": [
+        {
+          "claim_quote": "Evaluation dimensions include: • Configurational Relevance • Novelty • Feasibility • Cultural Authenticity • Public Value",
+          "claim_summary": "Evaluation dimensions include: • Configurational Relevance • Novelty • Feasibility • Cultural Authenticity • Public Value",
+          "claim_type": "C1",
+          "construct_raw": "Novelty",
+          "indicator_raw": "Novelty",
+          "item_quote": "Evaluation dimensions include: • Configurational Relevance • Novelty • Feasibility • Cultural Authenticity • Public Value",
+          "dimension_code": "A",
+          "indicator_code": "A1",
+          "instrument_raw": "Reutilisation of data This study reutilised data from prior survey research on the Shaanxi History Museum’s vir- tual exhibition (Gilani et al.；Feasibility ranked highest (M = 4.67, SD = 0.52), followed by CR and CA (both M = 4.33, SD = 0.52), confirming alignment with the fsQCA pathway ( ∼ TECH ∗ USER ；Process: A purposive panel of domain experts (e.g. museum curators, digital service designers, innovation scholars, and public policy experts) evaluates the con",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M6",
+            "M7"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Criterion M SD Cronbach’s α ICC (2,1) Configurational relevance 4.33 0.52 Feasibility 4.67 0.52 Novelty 3.83 0.41 Cultural authenticity 4.33 0.52 Public value 4.17 0.41 Overall composite 4.27 0.37 0.84 0.24 Note: Scores based on 5-point Likert scale (1 = Very Low; 5 = Very High).",
+          "validity_evidence": "Prior TRIZ adaptations in service contexts have similarly reinterpreted physical parameters into cognitive or experiential constructs, supporting the validity of this mapping.",
+          "reliability_evidence": "Configurational paths to digital service quality outcomes Moving beyond necessity, we employed truth table analysis to identify sufficient configu- rations, combinations of conditions that reliably produce each outcome.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            13
+          ],
+          "adaptation": "NR"
+        },
+        {
+          "claim_quote": "The four TRIZ-derived concepts were assessed via an online expert survey to evaluate conceptual robustness, configurational fidelity, feasibility, and public value under structured scrutiny.",
+          "claim_summary": "The four TRIZ-derived concepts were assessed via an online expert survey to evaluate conceptual robustness, configurational fidelity, feasibility, and public value under structured scrutiny.",
+          "claim_type": "C1",
+          "construct_raw": "fidelity",
+          "indicator_raw": "fidelity",
+          "item_quote": "The four TRIZ-derived concepts were assessed via an online expert survey to evaluate conceptual robustness, configurational fidelity, feasibility, and public value under structured scrutiny.",
+          "dimension_code": "A",
+          "indicator_code": "A5",
+          "instrument_raw": "Reutilisation of data This study reutilised data from prior survey research on the Shaanxi History Museum’s vir- tual exhibition (Gilani et al.；Feasibility ranked highest (M = 4.67, SD = 0.52), followed by CR and CA (both M = 4.33, SD = 0.52), confirming alignment with the fsQCA pathway ( ∼ TECH ∗ USER ；Process: A purposive panel of domain experts (e.g. museum curators, digital service designers, innovation scholars, and public policy experts) evaluates the con",
+          "tool_family_codes": [
+            "M1",
+            "M3",
+            "M6",
+            "M7"
+          ],
+          "tool_origin_code": "T2",
+          "response_scoring": "Criterion M SD Cronbach’s α ICC (2,1) Configurational relevance 4.33 0.52 Feasibility 4.67 0.52 Novelty 3.83 0.41 Cultural authenticity 4.33 0.52 Public value 4.17 0.41 Overall composite 4.27 0.37 0.84 0.24 Note: Scores based on 5-point Likert scale (1 = Very Low; 5 = Very High).",
+          "validity_evidence": "Prior TRIZ adaptations in service contexts have similarly reinterpreted physical parameters into cognitive or experiential constructs, supporting the validity of this mapping.",
+          "reliability_evidence": "Configurational paths to digital service quality outcomes Moving beyond necessity, we employed truth table analysis to identify sufficient configu- rations, combinations of conditions that reliably produce each outcome.",
+          "result_quote": "NR",
+          "effect_direction": "NR",
+          "pages": [
+            14
+          ],
+          "adaptation": "NR"
+        }
+      ],
+      "audit": [
+        {
+          "standard": "U5",
+          "status": "P",
+          "facts": "评价问题／目的与实际主观证据的对应",
+          "reason": "目的与证据均明确为充分；仅证据明确为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "To evaluate concept robustness, a structured Human-in-the-Loop validation pro-"
+        },
+        {
+          "standard": "A2",
+          "status": "S",
+          "facts": "构念、题项、工具来源或效度依据",
+          "reason": "报告效度依据为充分；仅报告工具／题项为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "concepts were assessed via an online expert survey to evaluate conceptual robustness,"
+        },
+        {
+          "standard": "A3",
+          "status": "S",
+          "facts": "可靠性或评分一致性依据",
+          "reason": "找到可靠性／一致性依据为充分；未找到记NR。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "2018), with Cronbach’s alpha assessing internal consistency (Izah, Sylva,"
+        },
+        {
+          "standard": "A4",
+          "status": "P",
+          "facts": "样本、任务与实施情境描述",
+          "reason": "三项均明确为充分，两项明确为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "Experts were recruited via professional networks."
+        },
+        {
+          "standard": "A6",
+          "status": "NR",
+          "facts": "研究设计、比较条件与分析",
+          "reason": "分析与结果均明确为充分；无比较／分析却作效果主张为明确问题。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "A7",
+          "status": "NR",
+          "facts": "结果到效果主张的可追溯性",
+          "reason": "结果和分析均可定位为充分；只有结果为部分；推断越界为明确问题。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": ""
+        },
+        {
+          "standard": "E1",
+          "status": "NR",
+          "facts": "样本、计分、结果与工具记录",
+          "reason": "样本、计分和结果均可定位为充分；部分可定位为部分。",
+          "pages": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "quote": "concepts were assessed via an online expert survey to evaluate conceptual robustness,"
+        }
+      ]
+    }
+  ],
+  "coding_source": "hybrid_fulltext_rules_plus_semantic_inventory",
+  "pdf_path": "C:\\Users\\Administrator\\Desktop\\review\\最终\\全文-重新排序 - 副本\\31.pdf"
+}

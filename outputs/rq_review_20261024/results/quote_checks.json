@@ -1,0 +1,6492 @@
+[
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      15,
+      16
+    ],
+    "quote": "The primary purpose was to explore the consumers’ or end-users’ subjective evaluations and acceptance intentions",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "using assessment criteria such as aesthetic appeal, novelty, functionality, and feasibility (Han et al. 2021)",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "A 7-point likert scale was employed",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      15,
+      16,
+      17
+    ],
+    "quote": "the survey yielded 87 valid responses",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      11,
+      16,
+      17
+    ],
+    "quote": "Table 2. Quantitative survey results summary table ( N = 87).",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      17,
+      18
+    ],
+    "quote": "Most participants agreed that the AI-designed seats demonstrated comparable or even superior structural integrity and ergonomic comfort to conventional designs.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Based on these two key dimensions, 13 measurement items were developed",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C01",
+    "field": "claim_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "participants awarded high ratings to both overall innovativeness and breakthrough aspects in the chair’s structure",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C01",
+    "field": "item_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Overall Novelty Evaluation; Structural Breakthrough",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C01",
+    "field": "result_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "1 Overall Novelty Evaluation 5.3 1.18; 2 Structural Breakthrough 5.1 1.35",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C02",
+    "field": "claim_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "the innovative elements of the design were markedly well recognized",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C02",
+    "field": "item_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Effectiveness of FEA and Ergonomics Integration",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C02",
+    "field": "result_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Effectiveness of FEA and Ergonomics Integration 5.6 1.02",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C03",
+    "field": "claim_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "the innovative elements of the design were markedly well recognized",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C03",
+    "field": "item_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Novelty and Safety Balance",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C03",
+    "field": "result_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Novelty and Safety Balance 5.0 1.24",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C04",
+    "field": "claim_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "manufacturing feasibility and material cost evaluations were relatively neutral",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C04",
+    "field": "item_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Manufacturing Process Feasibility; Material and Cost Consideration; Production Feasibility",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C04",
+    "field": "result_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Manufacturing Process Feasibility 4.4 1.37; Material and Cost Consideration 4.2 1.41; Production Feasibility 4.7 1.11",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C05",
+    "field": "claim_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "participants perceived the optimized structural design as offering enhanced safety and robustness",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C05",
+    "field": "item_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Structural Stability",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C05",
+    "field": "result_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Structural Stability 5.1 1.17",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C06",
+    "field": "claim_quote",
+    "pages": [
+      17
+    ],
+    "quote": "participants held a generally balanced view of the AI-generated chair’s overall performance",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C06",
+    "field": "item_quote",
+    "pages": [
+      17
+    ],
+    "quote": "Design and Functionality Balance",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C06",
+    "field": "result_quote",
+    "pages": [
+      17
+    ],
+    "quote": "Design and Functionality Balance 4.8 1.20",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C07",
+    "field": "claim_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "The analysis of consumer acceptance (items 9–12) shows a rather reserved attitude of the participants.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C07",
+    "field": "item_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Purchase Intention; Usage Experience Expectation; Overall Satisfaction",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C07",
+    "field": "result_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Purchase Intention 3.9 1.53; Usage Experience Expectation 4.6 1.33; Overall Satisfaction 4.7 1.29",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C08",
+    "field": "claim_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "the purchase intention and price sensitivity scores were slightly lower than the rest",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C08",
+    "field": "item_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Price Sensitivity",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C08",
+    "field": "result_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Price Sensitivity 3.7 1.65",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C09",
+    "field": "claim_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "the ratings for aesthetic appeal and the expected user experience were relatively high",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C09",
+    "field": "item_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Aesthetic Approval",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 1,
+    "eval_id": "001-E1",
+    "chain_id": "001-E1-C09",
+    "field": "result_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Aesthetic Approval 4.4 1.48",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E1",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      15
+    ],
+    "quote": "Does this imagery adjective represent your affective expectations for an electric motorcycle?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E1",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      15
+    ],
+    "quote": "Does this imagery adjective represent your affective expectations for an electric motorcycle?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E1",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      15
+    ],
+    "quote": "Does this imagery adjective represent your affective expectations for an electric motorcycle?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E1",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      15
+    ],
+    "quote": "Does this imagery adjective represent your affective expectations for an electric motorcycle?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E1",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      15
+    ],
+    "quote": "Technological 0.85; Sporty 0.83; Modern 0.82; Retro 0.80",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E1",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      15
+    ],
+    "quote": "Technological 0.85; Sporty 0.83; Modern 0.82; Retro 0.80",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E1",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      15
+    ],
+    "quote": "Does this imagery adjective represent your affective expectations for an electric motorcycle?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E1",
+    "chain_id": "002-E1-C01",
+    "field": "claim_quote",
+    "pages": [
+      15
+    ],
+    "quote": "Technological 0.85; Sporty 0.83; Modern 0.82; Retro 0.80",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E1",
+    "chain_id": "002-E1-C01",
+    "field": "item_quote",
+    "pages": [
+      15
+    ],
+    "quote": "Does this imagery adjective represent your affective expectations for an electric motorcycle?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E1",
+    "chain_id": "002-E1-C01",
+    "field": "result_quote",
+    "pages": [
+      15
+    ],
+    "quote": "Technological 0.85; Sporty 0.83; Modern 0.82; Retro 0.80",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E2",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      16
+    ],
+    "quote": "Does this shape match your expectations for a technological electric motorcycle?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E2",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      16
+    ],
+    "quote": "Does this shape match your expectations for a technological electric motorcycle?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E2",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      16
+    ],
+    "quote": "Cronbach’s α exceeded 0.7, indicating acceptable reliability.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E2",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      16
+    ],
+    "quote": "Does this shape match your expectations for a technological electric motorcycle?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E2",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      16
+    ],
+    "quote": "TShape_9 0.823; TShape_17 0.799; TShape_16 0.786",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E2",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      16
+    ],
+    "quote": "TShape_9 0.823; TShape_17 0.799; TShape_16 0.786",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E2",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      16
+    ],
+    "quote": "Does this shape match your expectations for a technological electric motorcycle?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E2",
+    "chain_id": "002-E2-C01",
+    "field": "claim_quote",
+    "pages": [
+      16
+    ],
+    "quote": "TShape_9 0.823; TShape_17 0.799; TShape_16 0.786",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E2",
+    "chain_id": "002-E2-C01",
+    "field": "item_quote",
+    "pages": [
+      16
+    ],
+    "quote": "Does this shape match your expectations for a technological electric motorcycle?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E2",
+    "chain_id": "002-E2-C01",
+    "field": "result_quote",
+    "pages": [
+      16
+    ],
+    "quote": "TShape_9 0.823; TShape_17 0.799; TShape_16 0.786",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Does the shape exhibit a technological aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "002-E3-C01",
+    "field": "claim_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "002-E3-C01",
+    "field": "item_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Does the shape exhibit a technological aesthetic?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "002-E3-C01",
+    "field": "result_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "002-E3-C02",
+    "field": "claim_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "002-E3-C02",
+    "field": "item_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Does the shape possess aesthetic appeal?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "002-E3-C02",
+    "field": "result_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "002-E3-C03",
+    "field": "claim_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "002-E3-C03",
+    "field": "item_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Is the seating ergonomically designed?; Are the dimensions reasonable?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "002-E3-C03",
+    "field": "result_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "002-E3-C04",
+    "field": "claim_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "002-E3-C04",
+    "field": "item_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E3",
+    "chain_id": "002-E3-C04",
+    "field": "result_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "The top four – TShape_16, TShape_13, TShape_9, and TShape_17 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E4",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      16,
+      18
+    ],
+    "quote": "Relative to each pair, which element contributes more to a technological aesthetic?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E4",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      16,
+      18
+    ],
+    "quote": "Relative to each pair, which element contributes more to a technological aesthetic?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E4",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      16,
+      18
+    ],
+    "quote": "With a consistency ratio (C.R.) below 0.1, the judgments were acceptable.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E4",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      16,
+      18
+    ],
+    "quote": "Relative to each pair, which element contributes more to a technological aesthetic?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E4",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      16,
+      18
+    ],
+    "quote": "F > H > L > R > W; λmax = 5.015, C.R. = 0.0036 < 0.1",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E4",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      16,
+      18
+    ],
+    "quote": "F > H > L > R > W; λmax = 5.015, C.R. = 0.0036 < 0.1",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E4",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      16,
+      18
+    ],
+    "quote": "Relative to each pair, which element contributes more to a technological aesthetic?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E4",
+    "chain_id": "002-E4-C01",
+    "field": "claim_quote",
+    "pages": [
+      16,
+      18
+    ],
+    "quote": "F > H > L > R > W; λmax = 5.015, C.R. = 0.0036 < 0.1",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E4",
+    "chain_id": "002-E4-C01",
+    "field": "item_quote",
+    "pages": [
+      16,
+      18
+    ],
+    "quote": "Relative to each pair, which element contributes more to a technological aesthetic?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E4",
+    "chain_id": "002-E4-C01",
+    "field": "result_quote",
+    "pages": [
+      16,
+      18
+    ],
+    "quote": "F > H > L > R > W; λmax = 5.015, C.R. = 0.0036 < 0.1",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E5",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      17,
+      18
+    ],
+    "quote": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E5",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      17,
+      18
+    ],
+    "quote": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E5",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      17,
+      18
+    ],
+    "quote": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E5",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      17,
+      18
+    ],
+    "quote": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E5",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      17,
+      18
+    ],
+    "quote": "Table 7: normalised fuzzy memberships; Front fairing Type_1 0.269, Type_2 0.237, Type_3 0.232, Type_4 0.262",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E5",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      17,
+      18
+    ],
+    "quote": "Table 7: normalised fuzzy memberships; Front fairing Type_1 0.269, Type_2 0.237, Type_3 0.232, Type_4 0.262",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E5",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      17,
+      18
+    ],
+    "quote": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E5",
+    "chain_id": "002-E5-C01",
+    "field": "claim_quote",
+    "pages": [
+      17,
+      18
+    ],
+    "quote": "Table 7: normalised fuzzy memberships; Front fairing Type_1 0.269, Type_2 0.237, Type_3 0.232, Type_4 0.262",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E5",
+    "chain_id": "002-E5-C01",
+    "field": "item_quote",
+    "pages": [
+      17,
+      18
+    ],
+    "quote": "NR；仅说明Kansei questionnaire to estimate the fuzzy membership of each type",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E5",
+    "chain_id": "002-E5-C01",
+    "field": "result_quote",
+    "pages": [
+      17,
+      18
+    ],
+    "quote": "Table 7: normalised fuzzy memberships; Front fairing Type_1 0.269, Type_2 0.237, Type_3 0.232, Type_4 0.262",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E6",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      20
+    ],
+    "quote": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E6",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      20
+    ],
+    "quote": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E6",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      20
+    ],
+    "quote": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E6",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      20
+    ],
+    "quote": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E6",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      20
+    ],
+    "quote": "Table 8: Alternative_1 69.3; Alternative_2 65.7; Alternative_3 59.2; Alternative_4 52.9",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E6",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      20
+    ],
+    "quote": "Table 8: Alternative_1 69.3; Alternative_2 65.7; Alternative_3 59.2; Alternative_4 52.9",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E6",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      20
+    ],
+    "quote": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E6",
+    "chain_id": "002-E6-C01",
+    "field": "claim_quote",
+    "pages": [
+      20
+    ],
+    "quote": "Table 8: Alternative_1 69.3; Alternative_2 65.7; Alternative_3 59.2; Alternative_4 52.9",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E6",
+    "chain_id": "002-E6-C01",
+    "field": "item_quote",
+    "pages": [
+      20
+    ],
+    "quote": "NR；rated the four alternatives on a 0–1 scale based on their subjective impressions",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E6",
+    "chain_id": "002-E6-C01",
+    "field": "result_quote",
+    "pages": [
+      20
+    ],
+    "quote": "Table 8: Alternative_1 69.3; Alternative_2 65.7; Alternative_3 59.2; Alternative_4 52.9",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E7",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "NR；rated the eight color schemes on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E7",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "NR；rated the eight color schemes on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E7",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "NR；rated the eight color schemes on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E7",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "NR；rated the eight color schemes on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E7",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "TColor_4 81.4; TColor_3 77.5; TColor_8 72.3",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E7",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "TColor_4 81.4; TColor_3 77.5; TColor_8 72.3",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E7",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "NR；rated the eight color schemes on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E7",
+    "chain_id": "002-E7-C01",
+    "field": "claim_quote",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "TColor_4 81.4; TColor_3 77.5; TColor_8 72.3",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E7",
+    "chain_id": "002-E7-C01",
+    "field": "item_quote",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "NR；rated the eight color schemes on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E7",
+    "chain_id": "002-E7-C01",
+    "field": "result_quote",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "TColor_4 81.4; TColor_3 77.5; TColor_8 72.3",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E8",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E8",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E8",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "with C.R. < 0.1, the results are acceptable.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E8",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E8",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "TColor_4 > TColor_3 > TColor_8; C.R. = 0.001",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E8",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "TColor_4 > TColor_3 > TColor_8; C.R. = 0.001",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E8",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E8",
+    "chain_id": "002-E8-C01",
+    "field": "claim_quote",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "TColor_4 > TColor_3 > TColor_8; C.R. = 0.001",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E8",
+    "chain_id": "002-E8-C01",
+    "field": "item_quote",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "Compared with color scheme A and color scheme B, which conveys a stronger technological aesthetic?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E8",
+    "chain_id": "002-E8-C01",
+    "field": "result_quote",
+    "pages": [
+      20,
+      22
+    ],
+    "quote": "TColor_4 > TColor_3 > TColor_8; C.R. = 0.001",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E9",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      22,
+      23
+    ],
+    "quote": "Does this shape match your expectations for a sporty electric motorcycle?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E9",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      22,
+      23
+    ],
+    "quote": "Does this shape match your expectations for a sporty electric motorcycle?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E9",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      22,
+      23
+    ],
+    "quote": "Cronbach’s α exceeded 0.7, indicating acceptable reliability.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E9",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      22,
+      23
+    ],
+    "quote": "Does this shape match your expectations for a sporty electric motorcycle?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E9",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      22,
+      23
+    ],
+    "quote": "SShape_15 0.824; SShape_19 0.803; SShape_17 0.793",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E9",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      22,
+      23
+    ],
+    "quote": "SShape_15 0.824; SShape_19 0.803; SShape_17 0.793",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E9",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      22,
+      23
+    ],
+    "quote": "Does this shape match your expectations for a sporty electric motorcycle?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E9",
+    "chain_id": "002-E9-C01",
+    "field": "claim_quote",
+    "pages": [
+      22,
+      23
+    ],
+    "quote": "SShape_15 0.824; SShape_19 0.803; SShape_17 0.793",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E9",
+    "chain_id": "002-E9-C01",
+    "field": "item_quote",
+    "pages": [
+      22,
+      23
+    ],
+    "quote": "Does this shape match your expectations for a sporty electric motorcycle?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E9",
+    "chain_id": "002-E9-C01",
+    "field": "result_quote",
+    "pages": [
+      22,
+      23
+    ],
+    "quote": "SShape_15 0.824; SShape_19 0.803; SShape_17 0.793",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "Does the shape exhibit a sporty aesthetic?; Does the shape possess aesthetic appeal?; Is the seating ergonomically designed?; Are the dimensions reasonable?; Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "002-E10-C01",
+    "field": "claim_quote",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "002-E10-C01",
+    "field": "item_quote",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "Does the shape exhibit a sporty aesthetic?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "002-E10-C01",
+    "field": "result_quote",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "002-E10-C02",
+    "field": "claim_quote",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "002-E10-C02",
+    "field": "item_quote",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "Does the shape possess aesthetic appeal?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "002-E10-C02",
+    "field": "result_quote",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "002-E10-C03",
+    "field": "claim_quote",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "002-E10-C03",
+    "field": "item_quote",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "Is the seating ergonomically designed?; Are the dimensions reasonable?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "002-E10-C03",
+    "field": "result_quote",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "002-E10-C04",
+    "field": "claim_quote",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "002-E10-C04",
+    "field": "item_quote",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "Is the shape conducive to manufacturing and processing?; Are the shape components easily replaceable?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E10",
+    "chain_id": "002-E10-C04",
+    "field": "result_quote",
+    "pages": [
+      23,
+      24
+    ],
+    "quote": "The top four – SShape_17, SShape_18, SShape_19, and SShape_3 – were selected as representative shapes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E11",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      25
+    ],
+    "quote": "NR；completed a Kansei questionnaire to obtain the fuzzy membership",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E11",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      25
+    ],
+    "quote": "NR；completed a Kansei questionnaire to obtain the fuzzy membership",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E11",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      25
+    ],
+    "quote": "NR；completed a Kansei questionnaire to obtain the fuzzy membership",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E11",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      25
+    ],
+    "quote": "NR；completed a Kansei questionnaire to obtain the fuzzy membership",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E11",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      25
+    ],
+    "quote": "Table 13: Front fairing Type_1 0.268; Type_2 0.231; Type_3 0.239; Type_4 0.262",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E11",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      25
+    ],
+    "quote": "Table 13: Front fairing Type_1 0.268; Type_2 0.231; Type_3 0.239; Type_4 0.262",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E11",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      25
+    ],
+    "quote": "NR；completed a Kansei questionnaire to obtain the fuzzy membership",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E11",
+    "chain_id": "002-E11-C01",
+    "field": "claim_quote",
+    "pages": [
+      25
+    ],
+    "quote": "Table 13: Front fairing Type_1 0.268; Type_2 0.231; Type_3 0.239; Type_4 0.262",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E11",
+    "chain_id": "002-E11-C01",
+    "field": "item_quote",
+    "pages": [
+      25
+    ],
+    "quote": "NR；completed a Kansei questionnaire to obtain the fuzzy membership",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E11",
+    "chain_id": "002-E11-C01",
+    "field": "result_quote",
+    "pages": [
+      25
+    ],
+    "quote": "Table 13: Front fairing Type_1 0.268; Type_2 0.231; Type_3 0.239; Type_4 0.262",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E12",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      26
+    ],
+    "quote": "NR；rated the four alternatives on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E12",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      26
+    ],
+    "quote": "NR；rated the four alternatives on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E12",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      26
+    ],
+    "quote": "NR；rated the four alternatives on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E12",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      26
+    ],
+    "quote": "NR；rated the four alternatives on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E12",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      26
+    ],
+    "quote": "Table 14: Alternative_1 64.9; Alternative_2 62.4; Alternative_3 57.2; Alternative_4 55.8",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E12",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      26
+    ],
+    "quote": "Table 14: Alternative_1 64.9; Alternative_2 62.4; Alternative_3 57.2; Alternative_4 55.8",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E12",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      26
+    ],
+    "quote": "NR；rated the four alternatives on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E12",
+    "chain_id": "002-E12-C01",
+    "field": "claim_quote",
+    "pages": [
+      26
+    ],
+    "quote": "Table 14: Alternative_1 64.9; Alternative_2 62.4; Alternative_3 57.2; Alternative_4 55.8",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E12",
+    "chain_id": "002-E12-C01",
+    "field": "item_quote",
+    "pages": [
+      26
+    ],
+    "quote": "NR；rated the four alternatives on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E12",
+    "chain_id": "002-E12-C01",
+    "field": "result_quote",
+    "pages": [
+      26
+    ],
+    "quote": "Table 14: Alternative_1 64.9; Alternative_2 62.4; Alternative_3 57.2; Alternative_4 55.8",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E13",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      28
+    ],
+    "quote": "NR；rated the eight color schemes on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E13",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      28
+    ],
+    "quote": "NR；rated the eight color schemes on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E13",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      28
+    ],
+    "quote": "NR；rated the eight color schemes on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E13",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      28
+    ],
+    "quote": "NR；rated the eight color schemes on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E13",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      28
+    ],
+    "quote": "SColor_3 74.5; SColor_4 72.7; SColor_2 71.4",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E13",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      28
+    ],
+    "quote": "SColor_3 74.5; SColor_4 72.7; SColor_2 71.4",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E13",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      28
+    ],
+    "quote": "NR；rated the eight color schemes on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E13",
+    "chain_id": "002-E13-C01",
+    "field": "claim_quote",
+    "pages": [
+      28
+    ],
+    "quote": "SColor_3 74.5; SColor_4 72.7; SColor_2 71.4",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E13",
+    "chain_id": "002-E13-C01",
+    "field": "item_quote",
+    "pages": [
+      28
+    ],
+    "quote": "NR；rated the eight color schemes on a 0–1 scale",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E13",
+    "chain_id": "002-E13-C01",
+    "field": "result_quote",
+    "pages": [
+      28
+    ],
+    "quote": "SColor_3 74.5; SColor_4 72.7; SColor_2 71.4",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E14",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      28
+    ],
+    "quote": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E14",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      28
+    ],
+    "quote": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E14",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      28
+    ],
+    "quote": "with C.R. < 0.1, the judgments were acceptably consistent.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E14",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      28
+    ],
+    "quote": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E14",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      28
+    ],
+    "quote": "SColor_3 > SColor_2 > SColor_4; C.R. = 0.0005",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E14",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      28
+    ],
+    "quote": "SColor_3 > SColor_2 > SColor_4; C.R. = 0.0005",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E14",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      28
+    ],
+    "quote": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E14",
+    "chain_id": "002-E14-C01",
+    "field": "claim_quote",
+    "pages": [
+      28
+    ],
+    "quote": "SColor_3 > SColor_2 > SColor_4; C.R. = 0.0005",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E14",
+    "chain_id": "002-E14-C01",
+    "field": "item_quote",
+    "pages": [
+      28
+    ],
+    "quote": "Between color scheme A and color scheme B, which conveys a stronger sporty aesthetic?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 2,
+    "eval_id": "002-E14",
+    "chain_id": "002-E14-C01",
+    "field": "result_quote",
+    "pages": [
+      28
+    ],
+    "quote": "SColor_3 > SColor_2 > SColor_4; C.R. = 0.0005",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E1",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      15,
+      18
+    ],
+    "quote": "The Emotional Intensity indicator Iv measures emotional shifts in demand, calculated as the difference between the proportion of positive comments and the proportion of negative comments.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E1",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      15,
+      18
+    ],
+    "quote": "The Emotional Intensity indicator Iv measures emotional shifts in demand, calculated as the difference between the proportion of positive comments and the proportion of negative comments.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E1",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      9,
+      18,
+      19,
+      24
+    ],
+    "quote": "The Kappa coefficient obtained from the consistency test was 0.81",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E1",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      18
+    ],
+    "quote": "A total of 48,623 user review data points for the iPhone 16 series were collected between September 2024 and October 2025.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E1",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      15,
+      23,
+      24
+    ],
+    "quote": "The Emotional Intensity indicator Iv measures emotional shifts in demand, calculated as the difference between the proportion of positive comments and the proportion of negative comments.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E1",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      23
+    ],
+    "quote": "indicating this hardware defect was resolved through the system update.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E1",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      10,
+      15,
+      18,
+      24
+    ],
+    "quote": "The Emotional Intensity indicator Iv measures emotional shifts in demand, calculated as the difference between the proportion of positive comments and the proportion of negative comments.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E1",
+    "chain_id": "003-E1-C01",
+    "field": "claim_quote",
+    "pages": [
+      15,
+      18,
+      23,
+      24
+    ],
+    "quote": "The Emotional Intensity indicator Iv measures emotional shifts in demand, calculated as the difference between the proportion of positive comments and the proportion of negative comments.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E1",
+    "chain_id": "003-E1-C01",
+    "field": "item_quote",
+    "pages": [
+      15,
+      18,
+      23,
+      24
+    ],
+    "quote": "NR；既有用户评论，无研究者施测题项",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E1",
+    "chain_id": "003-E1-C01",
+    "field": "result_quote",
+    "pages": [
+      15,
+      18,
+      23,
+      24
+    ],
+    "quote": "Battery Life −0.61; AI Photography 0.82; Screen Eye Protection −0.68; Housing Material 0.89",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E2",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      16,
+      24
+    ],
+    "quote": "The experts were asked to pair-wise compare the five indicators using a standard 1–9 point scale.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E2",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      9,
+      16
+    ],
+    "quote": "The experts were asked to pair-wise compare the five indicators using a standard 1–9 point scale.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E2",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      24
+    ],
+    "quote": "The consistency ratio (CR) was calculated as 0.072",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E2",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      9,
+      16
+    ],
+    "quote": "The experts were asked to pair-wise compare the five indicators using a standard 1–9 point scale.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E2",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      16,
+      24
+    ],
+    "quote": "The experts were asked to pair-wise compare the five indicators using a standard 1–9 point scale.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E2",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      16,
+      24
+    ],
+    "quote": "ωH = 0.1, ωP = 0.25, ωN = 0.2, ωS = 0.3 and ωI = 0.15; CR = 0.072",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E2",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      16,
+      24
+    ],
+    "quote": "The experts were asked to pair-wise compare the five indicators using a standard 1–9 point scale.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E2",
+    "chain_id": "003-E2-C01",
+    "field": "claim_quote",
+    "pages": [
+      16,
+      24
+    ],
+    "quote": "The experts were asked to pair-wise compare the five indicators using a standard 1–9 point scale.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E2",
+    "chain_id": "003-E2-C01",
+    "field": "item_quote",
+    "pages": [
+      16,
+      24
+    ],
+    "quote": "NR；只报告五指标成对比较任务",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E2",
+    "chain_id": "003-E2-C01",
+    "field": "result_quote",
+    "pages": [
+      16,
+      24
+    ],
+    "quote": "ωH = 0.1, ωP = 0.25, ωN = 0.2, ωS = 0.3 and ωI = 0.15; CR = 0.072",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E3",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      16
+    ],
+    "quote": "the same panel of experts is invited to score the innovation value of each sample, taking into account the individual indicators and the relationships between them.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E3",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      9,
+      16
+    ],
+    "quote": "the same panel of experts is invited to score the innovation value of each sample, taking into account the individual indicators and the relationships between them.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E3",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      16,
+      18,
+      24
+    ],
+    "quote": "the same panel of experts is invited to score the innovation value of each sample, taking into account the individual indicators and the relationships between them.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E3",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      9,
+      16
+    ],
+    "quote": "the same panel of experts is invited to score the innovation value of each sample, taking into account the individual indicators and the relationships between them.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E3",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      16,
+      24
+    ],
+    "quote": "three rounds of 5-fold cross-validation were conducted, yielding an RMSE of 0.042 and a standard deviation of 0.006.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E3",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      16,
+      24
+    ],
+    "quote": "three rounds of 5-fold cross-validation were conducted, yielding an RMSE of 0.042 and a standard deviation of 0.006.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E3",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      16,
+      24
+    ],
+    "quote": "the same panel of experts is invited to score the innovation value of each sample, taking into account the individual indicators and the relationships between them.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E3",
+    "chain_id": "003-E3-C01",
+    "field": "claim_quote",
+    "pages": [
+      16,
+      24
+    ],
+    "quote": "the same panel of experts is invited to score the innovation value of each sample, taking into account the individual indicators and the relationships between them.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E3",
+    "chain_id": "003-E3-C01",
+    "field": "item_quote",
+    "pages": [
+      16,
+      24
+    ],
+    "quote": "NR；无原始评分题干或锚点",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 3,
+    "eval_id": "003-E3",
+    "chain_id": "003-E3-C01",
+    "field": "result_quote",
+    "pages": [
+      16,
+      24
+    ],
+    "quote": "专家原始分数NR；模型校准RMSE0.042±0.006，不是感知均值",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 4,
+    "eval_id": "004-E1",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      19,
+      20
+    ],
+    "quote": "Experts provided pairwise comparisons using triangular fuzzy numbers, which effectively capture the imprecise nature of human judgment.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 4,
+    "eval_id": "004-E1",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      20
+    ],
+    "quote": "Material compatibility measures the degree of fitness between the physical and chemical properties of different component specification materials.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 4,
+    "eval_id": "004-E1",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      20,
+      34
+    ],
+    "quote": "The high correlation coefficient ρ = 0.81 between the inferred dynamic rewards and ground-truth expert scores",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 4,
+    "eval_id": "004-E1",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      20,
+      22,
+      24,
+      25
+    ],
+    "quote": "Experts provided pairwise comparisons using triangular fuzzy numbers, which effectively capture the imprecise nature of human judgment.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 4,
+    "eval_id": "004-E1",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      20
+    ],
+    "quote": "A final, crisp score was then obtained through a defuzzification process",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 4,
+    "eval_id": "004-E1",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      19,
+      20,
+      37
+    ],
+    "quote": "the specific scores for material compatibility and operational condition synergy are shown in Tables 5 and 6.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 4,
+    "eval_id": "004-E1",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      20,
+      22,
+      43,
+      44
+    ],
+    "quote": "Due to the proprietary nature of this industrial data, a simplified axle box bearing example is provided in Appendix 2",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 4,
+    "eval_id": "004-E1",
+    "chain_id": "004-E1-C01",
+    "field": "claim_quote",
+    "pages": [
+      20,
+      34
+    ],
+    "quote": "Experts provided pairwise comparisons using triangular fuzzy numbers, which effectively capture the imprecise nature of human judgment.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 4,
+    "eval_id": "004-E1",
+    "chain_id": "004-E1-C01",
+    "field": "item_quote",
+    "pages": [
+      20,
+      34
+    ],
+    "quote": "The component materials are clearly compatible with each other. / There is no known conflict between the two component materials. / There are some risks that need attention. / Two component materials are contraindicated as they may undergo chemical reactions or fail rapidly.",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 4,
+    "eval_id": "004-E1",
+    "chain_id": "004-E1-C01",
+    "field": "result_quote",
+    "pages": [
+      20,
+      34
+    ],
+    "quote": "Table 5: scores 3, 1, −1, −3",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 4,
+    "eval_id": "004-E1",
+    "chain_id": "004-E1-C02",
+    "field": "claim_quote",
+    "pages": [
+      20,
+      34
+    ],
+    "quote": "Experts provided pairwise comparisons using triangular fuzzy numbers, which effectively capture the imprecise nature of human judgment.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 4,
+    "eval_id": "004-E1",
+    "chain_id": "004-E1-C02",
+    "field": "item_quote",
+    "pages": [
+      20,
+      34
+    ],
+    "quote": "The applicable working conditions among the component specifications are highly the same. / There is some overlap among the component specifications, or they can complement each other. / There are obvious differences among the component specifications, and one component specification cannot adapt to the working conditions applicable to another component. / The applicable working conditions among the component specifications are completely opposite.",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 4,
+    "eval_id": "004-E1",
+    "chain_id": "004-E1-C02",
+    "field": "result_quote",
+    "pages": [
+      20,
+      34
+    ],
+    "quote": "Table 6: scores 3, 1, −1, −3",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      22,
+      23
+    ],
+    "quote": "To further validate the effectiveness and feasibility of the proposed method in design practice",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      23
+    ],
+    "quote": "five subjective evaluation dimensions were further refined into three specific sub-indicators",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      23
+    ],
+    "quote": "Cronbach’s alpha coefficient was 0.87",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      18,
+      22,
+      23
+    ],
+    "quote": "a total of 20 evaluators with backgrounds in industrial design",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      21,
+      23,
+      25
+    ],
+    "quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      23
+    ],
+    "quote": "the average satisfaction of participants with the overall generation effect is 6.2, i.e. more than 88% of respondents believe",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "quote": "a seven-point Likert scale (1 = very poor, 7 = very good)",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C01",
+    "field": "claim_quote",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C01",
+    "field": "item_quote",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "quote": "H1.1 Is the image sufficiently clear? H1.2 Does the image contain rich and detailed visual elements? H1.3 Is the composition harmonious and aesthetically pleasing?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C01",
+    "field": "result_quote",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C02",
+    "field": "claim_quote",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C02",
+    "field": "item_quote",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "quote": "H2.1 Does the image accurately reflect the functional requirements described in the text? H2.2 Is the function appropriately presented? H2.3 Is the usage scenario conveyed?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C02",
+    "field": "result_quote",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C03",
+    "field": "claim_quote",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C03",
+    "field": "item_quote",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "quote": "H3.1 Is the appearance novel and distinctive? H3.2 Is the functional design unique? H3.3 Does the design demonstrate breakthrough creativity?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C03",
+    "field": "result_quote",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C04",
+    "field": "claim_quote",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C04",
+    "field": "item_quote",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "quote": "H4.1 Is the design intent communicated through the image? H4.2 Is the design purpose easy to understand? H4.3 Does the design meet user expectations?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C04",
+    "field": "result_quote",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C05",
+    "field": "claim_quote",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C05",
+    "field": "item_quote",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "quote": "H5.1 Are the color and style visually attractive? H5.2 Does the image evoke positive emotional resonance? H5.3 Is the design memorable or distinctive?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 43,
+    "eval_id": "43-R1",
+    "chain_id": "43-R1-C05",
+    "field": "result_quote",
+    "pages": [
+      22,
+      23,
+      25
+    ],
+    "quote": "Experiment 3 scored significantly higher on all dimensions than Experiment 1 and Experiment 2",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      8,
+      9,
+      13,
+      14
+    ],
+    "quote": "Design experts assessed solution creativity and feasibility",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      13,
+      14
+    ],
+    "quote": "They were instructed to disregard sketch quality, focusing exclusively on functional aspects",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      15
+    ],
+    "quote": "Mean expert ratings were used as the final metric",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      10,
+      12,
+      13
+    ],
+    "quote": "Each participant completed two sequential design development processes: first, the traditional process",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      12,
+      14,
+      15,
+      28
+    ],
+    "quote": "direct causal inferences should be avoided",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      15,
+      17,
+      18
+    ],
+    "quote": "significantly higher scores for AI-assisted design outputs versus traditional outputs across all evaluated dimensions",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      14,
+      15,
+      31
+    ],
+    "quote": "Full solutions are available upon request.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C01",
+    "field": "claim_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "quote": "the difference was not significant (p = 0.226, r = 0.217).",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C01",
+    "field": "item_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "quote": "The novelty of this solution relative to current technologies/designs, or technologies/designs that solve similar problems.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C01",
+    "field": "result_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "quote": "the difference was not significant (p = 0.226, r = 0.217).",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C02",
+    "field": "claim_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "quote": "the score of the AI-assisted process on the feasibility dimension was lower than that of the traditional process, but the difference was not significant (p = 0.077, r = 0.317).",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C02",
+    "field": "item_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "quote": "The extent to which this solution is achievable and socially/legally/politically/morally acceptable.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C02",
+    "field": "result_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "quote": "the score of the AI-assisted process on the feasibility dimension was lower than that of the traditional process, but the difference was not significant (p = 0.077, r = 0.317).",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C03",
+    "field": "claim_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "quote": "AI-assisted processes were associated with higher effectiveness (p = 0.001, r = 0.578)",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C03",
+    "field": "item_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "quote": "This solution can increase the level of positive emotions of target users.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C03",
+    "field": "result_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "quote": "AI-assisted processes were associated with higher effectiveness (p = 0.001, r = 0.578)",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C04",
+    "field": "claim_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "quote": "greater integrity in design outcomes, with a medium effect size (r = 0.448).",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C04",
+    "field": "item_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "quote": "The extent to which this solution covers the core processes of BAT.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C04",
+    "field": "result_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "quote": "greater integrity in design outcomes, with a medium effect size (r = 0.448).",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C05",
+    "field": "claim_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "quote": "higher applicability in design outcomes, with a medium effect size (r = 0.448).",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C05",
+    "field": "item_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "quote": "This solution is tailored to the degree of the student suffering from anxiety/depression.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R1",
+    "chain_id": "45-R1-C05",
+    "field": "result_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19
+    ],
+    "quote": "higher applicability in design outcomes, with a medium effect size (r = 0.448).",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      14
+    ],
+    "quote": "How does the AI design develop process experience compare",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      14,
+      19,
+      20
+    ],
+    "quote": "The researchers analyzed and coded the participants’ responses",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      19
+    ],
+    "quote": "the two researchers agreed on the coding content",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      10,
+      12,
+      13
+    ],
+    "quote": "completed an open-ended questionnaire",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      19,
+      20,
+      21,
+      22
+    ],
+    "quote": "Most participants also believed AI experts saved design time",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      21,
+      22,
+      28
+    ],
+    "quote": "The impact of AI dialogue type on design represents an exploratory conclusion",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      14,
+      20,
+      31
+    ],
+    "quote": "Data will be made available on request.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C01",
+    "field": "claim_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Its strong reasoning and well-supported arguments compensate for my gaps in behavioral activation knowledge.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C01",
+    "field": "item_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C01",
+    "field": "result_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Its strong reasoning and well-supported arguments compensate for my gaps in behavioral activation knowledge.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C02",
+    "field": "claim_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "AI experts lacked aesthetic sensibility (P14) and could not support designers in making high-quality decisions (P12, P13, P17, P30)",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C02",
+    "field": "item_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C02",
+    "field": "result_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "AI experts lacked aesthetic sensibility (P14) and could not support designers in making high-quality decisions (P12, P13, P17, P30)",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C03",
+    "field": "claim_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "they primarily served to integrate information, optimize details, and provide directional guidance.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C03",
+    "field": "item_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C03",
+    "field": "result_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "they primarily served to integrate information, optimize details, and provide directional guidance.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C04",
+    "field": "claim_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Overuse of technical jargon was the primary issue reported",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C04",
+    "field": "item_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C04",
+    "field": "result_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Overuse of technical jargon was the primary issue reported",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C05",
+    "field": "claim_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Most participants also believed AI experts saved design time",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C05",
+    "field": "item_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C05",
+    "field": "result_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Most participants also believed AI experts saved design time",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C06",
+    "field": "claim_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "It encourages more divergent thinking and generates novel ideas",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C06",
+    "field": "item_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C06",
+    "field": "result_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "It encourages more divergent thinking and generates novel ideas",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C07",
+    "field": "claim_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Just don’t over-rely on AI―use it moderately",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C07",
+    "field": "item_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C07",
+    "field": "result_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Just don’t over-rely on AI―use it moderately",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C08",
+    "field": "claim_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "designers retaining responsibility for decision-making and creative direction",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C08",
+    "field": "item_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C08",
+    "field": "result_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "designers retaining responsibility for decision-making and creative direction",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C09",
+    "field": "claim_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "This approach expanded designers’ perspectives and enhanced their design and interdisciplinary capabilities.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C09",
+    "field": "item_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C09",
+    "field": "result_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "This approach expanded designers’ perspectives and enhanced their design and interdisciplinary capabilities.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C10",
+    "field": "claim_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Felt overly clinical, with uncomfortably sharp questioning",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C10",
+    "field": "item_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Q1 What is your attitude towards using AI in design? Q2 Would you be willing to use AI experts in future interdisciplinary design? Why? Q3 Do you think AI experts are professional or unprofessional in interdisciplinary design? Why? Q4 How does the AI design develop process experience compare to the traditional design develop process? Why? Q5 What do you think AI experts need to optimize?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 45,
+    "eval_id": "45-R2",
+    "chain_id": "45-R2-C10",
+    "field": "result_quote",
+    "pages": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "quote": "Felt overly clinical, with uncomfortably sharp questioning",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      2,
+      8
+    ],
+    "quote": "How can IGAI support participatory processes",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      8,
+      9,
+      10,
+      15,
+      16
+    ],
+    "quote": "Fake Perfects",
+    "verification": "found_other_page"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      8,
+      9
+    ],
+    "quote": "a combination of affinity diagrams",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      7,
+      8,
+      9,
+      33
+    ],
+    "quote": "Each interview was done in English and lasted approximately 60 minutes.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      8,
+      13,
+      14,
+      24
+    ],
+    "quote": "are constrained by the context",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      10,
+      15,
+      16,
+      24
+    ],
+    "quote": "the success of IGAI as a boundary object between the designer and stakeholders is subject to the designers’ capabilities",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      5,
+      8,
+      11,
+      15,
+      31,
+      32,
+      33
+    ],
+    "quote": "Interview Structure",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C01",
+    "field": "claim_quote",
+    "pages": [
+      8,
+      9,
+      12,
+      13
+    ],
+    "quote": "This allows richer conversations and their voices to be heard.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C01",
+    "field": "item_quote",
+    "pages": [
+      8,
+      9,
+      12,
+      13
+    ],
+    "quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C01",
+    "field": "result_quote",
+    "pages": [
+      8,
+      9,
+      12,
+      13
+    ],
+    "quote": "This allows richer conversations and their voices to be heard.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C02",
+    "field": "claim_quote",
+    "pages": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "quote": "I do remember my mom talking a lot about murals back where she is from",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C02",
+    "field": "item_quote",
+    "pages": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C02",
+    "field": "result_quote",
+    "pages": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "quote": "I do remember my mom talking a lot about murals back where she is from",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C03",
+    "field": "claim_quote",
+    "pages": [
+      8,
+      9,
+      15,
+      16
+    ],
+    "quote": "It was exactly like this one",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C03",
+    "field": "item_quote",
+    "pages": [
+      8,
+      9,
+      15,
+      16
+    ],
+    "quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C03",
+    "field": "result_quote",
+    "pages": [
+      8,
+      9,
+      15,
+      16
+    ],
+    "quote": "It was exactly like this one",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C04",
+    "field": "claim_quote",
+    "pages": [
+      8,
+      9,
+      17
+    ],
+    "quote": "Images without a starting point seem idealized and US-looking.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C04",
+    "field": "item_quote",
+    "pages": [
+      8,
+      9,
+      17
+    ],
+    "quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C04",
+    "field": "result_quote",
+    "pages": [
+      8,
+      9,
+      17
+    ],
+    "quote": "Images without a starting point seem idealized and US-looking.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C05",
+    "field": "claim_quote",
+    "pages": [
+      8,
+      9,
+      12
+    ],
+    "quote": "Whimsical unrealistic images can be generative in helping participants to think more creatively",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C05",
+    "field": "item_quote",
+    "pages": [
+      8,
+      9,
+      12
+    ],
+    "quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C05",
+    "field": "result_quote",
+    "pages": [
+      8,
+      9,
+      12
+    ],
+    "quote": "Whimsical unrealistic images can be generative in helping participants to think more creatively",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C06",
+    "field": "claim_quote",
+    "pages": [
+      8,
+      9,
+      14
+    ],
+    "quote": "It helped the interviewees to engage with the questions and reduced resistance",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C06",
+    "field": "item_quote",
+    "pages": [
+      8,
+      9,
+      14
+    ],
+    "quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C06",
+    "field": "result_quote",
+    "pages": [
+      8,
+      9,
+      14
+    ],
+    "quote": "It helped the interviewees to engage with the questions and reduced resistance",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C07",
+    "field": "claim_quote",
+    "pages": [
+      8,
+      9,
+      14
+    ],
+    "quote": "engagement with the participants increased since they could feel ownership of what we were thinking and designing",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C07",
+    "field": "item_quote",
+    "pages": [
+      8,
+      9,
+      14
+    ],
+    "quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C07",
+    "field": "result_quote",
+    "pages": [
+      8,
+      9,
+      14
+    ],
+    "quote": "engagement with the participants increased since they could feel ownership of what we were thinking and designing",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C08",
+    "field": "claim_quote",
+    "pages": [
+      8,
+      9,
+      17
+    ],
+    "quote": "We don’t know if the AI is driving too much",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C08",
+    "field": "item_quote",
+    "pages": [
+      8,
+      9,
+      17
+    ],
+    "quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C08",
+    "field": "result_quote",
+    "pages": [
+      8,
+      9,
+      17
+    ],
+    "quote": "We don’t know if the AI is driving too much",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C09",
+    "field": "claim_quote",
+    "pages": [
+      8,
+      9,
+      17
+    ],
+    "quote": "The use of partial arrangements on a chosen reference image perhaps limited the possibilities to unveil imaginaries",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C09",
+    "field": "item_quote",
+    "pages": [
+      8,
+      9,
+      17
+    ],
+    "quote": "访谈结构为记忆、理想公共空间、River Garden Park改造；原题项逐字版NR",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 46,
+    "eval_id": "46-R1",
+    "chain_id": "46-R1-C09",
+    "field": "result_quote",
+    "pages": [
+      8,
+      9,
+      17
+    ],
+    "quote": "The use of partial arrangements on a chosen reference image perhaps limited the possibilities to unveil imaginaries",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      17,
+      19,
+      20
+    ],
+    "quote": "to evaluate the subjective system aspects",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      17,
+      20
+    ],
+    "quote": "based on a framework proposed, and validated, by Knijnenburg",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      17,
+      19,
+      20,
+      24
+    ],
+    "quote": "Both then coded the data independently",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "quote": "galleries were randomly labeled in a double-blind fashion",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      20,
+      21,
+      28
+    ],
+    "quote": "we used a Chi-Square Goodness of Fit Test for each question",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      21,
+      22,
+      25,
+      27
+    ],
+    "quote": "participants had overall mixed subjective opinions",
+    "verification": "found_other_page"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      20,
+      22,
+      24,
+      25
+    ],
+    "quote": "Participant Responses for the Post-Task Comparison Questions",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C01",
+    "field": "claim_quote",
+    "pages": [
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C01",
+    "field": "item_quote",
+    "pages": [
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "quote": "Which presented better solutions? Which allowed you to select more optimal recommendations? Which showed too many poor recommendations?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C01",
+    "field": "result_quote",
+    "pages": [
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C02",
+    "field": "claim_quote",
+    "pages": [
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C02",
+    "field": "item_quote",
+    "pages": [
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "quote": "Which presented a variety of choices? Which showed a bigger difference in recommendations?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C02",
+    "field": "result_quote",
+    "pages": [
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C03",
+    "field": "claim_quote",
+    "pages": [
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C03",
+    "field": "item_quote",
+    "pages": [
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "quote": "Which list was more valuable with respect to your time? Which had more satisfying recommendations? Which would you trust more to provide you with recommendations? Which made finding a new solution easier?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C03",
+    "field": "result_quote",
+    "pages": [
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C04",
+    "field": "claim_quote",
+    "pages": [
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C04",
+    "field": "item_quote",
+    "pages": [
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "quote": "Which gave you more recommendations you would not expect? Which gave you recommendations you would not have thought of yourself? Which allowed you to explore new ideas better?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C04",
+    "field": "result_quote",
+    "pages": [
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "quote": "we were unable to reject the null hypothesis at (p < 0.1) for any question.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C05",
+    "field": "claim_quote",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "quote": "Most (58%) participants found the genetic car designer easy to use",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C05",
+    "field": "item_quote",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "quote": "How easy or difficult was the car designer to use?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C05",
+    "field": "result_quote",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "quote": "Most (58%) participants found the genetic car designer easy to use",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C06",
+    "field": "claim_quote",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "quote": "The scoring system helped make the decisions much easier.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C06",
+    "field": "item_quote",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "quote": "How easy or difficult was it to make a decision from the lists?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C06",
+    "field": "result_quote",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "quote": "The scoring system helped make the decisions much easier.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C07",
+    "field": "claim_quote",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "quote": "The majority (75%) of participants reported that the decision process was not made frustrating by the insights.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C07",
+    "field": "item_quote",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "quote": "Was the decision process frustrating for insights 1 or 2? How much effort did you need to invest while using insights 1 and 2?",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C07",
+    "field": "result_quote",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "quote": "The majority (75%) of participants reported that the decision process was not made frustrating by the insights.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C08",
+    "field": "claim_quote",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "quote": "Most (75%) of the participants reported that they trusted the results from the car designer.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C08",
+    "field": "item_quote",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "quote": "Do you trust the results from the car designer?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C08",
+    "field": "result_quote",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "quote": "Most (75%) of the participants reported that they trusted the results from the car designer.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C09",
+    "field": "claim_quote",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "quote": "it wasn’t obvious what insights 1 and 2 represented.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C09",
+    "field": "item_quote",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "quote": "NR",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 47,
+    "eval_id": "47-R1",
+    "chain_id": "47-R1-C09",
+    "field": "result_quote",
+    "pages": [
+      20,
+      23,
+      24,
+      25,
+      26
+    ],
+    "quote": "it wasn’t obvious what insights 1 and 2 represented.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "How the three types of image modifiers could help feedback providers visualize the textual comments for 3D design?",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      17,
+      18
+    ],
+    "quote": "the reference images helped me discover more potential design problems and new ideas.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      18,
+      38,
+      41
+    ],
+    "quote": "We first read the transcripts independently and identified repeating ideas",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      16,
+      17,
+      28,
+      36,
+      37
+    ],
+    "quote": "our current evaluation was based on a monolithic browser-based application in a controlled laboratory setting.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      17,
+      18,
+      19
+    ],
+    "quote": "To prevent the sequencing effects, we counterbalanced the order of interface conditions.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      19,
+      21,
+      22,
+      28
+    ],
+    "quote": "some participants commented on the necessity of being able to see multiple inference results",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      17,
+      18,
+      19,
+      41
+    ],
+    "quote": "After each task, participants were invited to rate their agreement of four Questions (Q1–Q4) in a 5-point Likert scale",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "85-E1-C01",
+    "field": "claim_quote",
+    "pages": [
+      17,
+      18,
+      19
+    ],
+    "quote": "Most participants found our viewpoint suggestion features useful (RQ1) and the image modifiers easy to use to visualize textual comments (RQ2).",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "85-E1-C01",
+    "field": "item_quote",
+    "pages": [
+      17,
+      18,
+      19
+    ],
+    "quote": "it was easy to locate the viewpoint and/or target objects while creating feedback. | it was easy to create reference images with the image modifiers for my textual comments.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "85-E1-C01",
+    "field": "result_quote",
+    "pages": [
+      17,
+      18,
+      19
+    ],
+    "quote": "More participants positively believed that it was easy to locate the viewpoints and target objects with MemoVis, compared to the baseline (13 vs. 4, Figure9(a)).",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "85-E1-C02",
+    "field": "claim_quote",
+    "pages": [
+      17,
+      19,
+      21,
+      22,
+      18
+    ],
+    "quote": "Most participants also believed the reference images created with MemoVis could easily and explicitly convey the gist of 3D design feedback.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "85-E1-C02",
+    "field": "item_quote",
+    "pages": [
+      17,
+      19,
+      21,
+      22,
+      18
+    ],
+    "quote": "the reference images easily and explicitly conveyed the gist of my design comments.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "85-E1-C02",
+    "field": "result_quote",
+    "pages": [
+      17,
+      19,
+      21,
+      22,
+      18
+    ],
+    "quote": "explicitness of the images (10 vs. 4 for Q3)",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "85-E1-C03",
+    "field": "claim_quote",
+    "pages": [
+      17,
+      19,
+      20
+    ],
+    "quote": "Most participants recognized the benefits of MemoVis for inspiring new ideas",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "85-E1-C03",
+    "field": "item_quote",
+    "pages": [
+      17,
+      19,
+      20
+    ],
+    "quote": "the reference images helped me discover more potential design problems and new ideas.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E1",
+    "chain_id": "85-E1-C03",
+    "field": "result_quote",
+    "pages": [
+      17,
+      19,
+      20
+    ],
+    "quote": "creativity support (13 vs. 3 for Q4)",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E2",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      22
+    ],
+    "quote": "how the reference images created by MemoVis could convey the gist of the 3D design feedback",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E2",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      22
+    ],
+    "quote": "how well the reference image can convey the gist of the textual comment",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E2",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      22,
+      37,
+      41
+    ],
+    "quote": "the Likert-scale score for each reference image rated by one designer participants.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E2",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      22,
+      37
+    ],
+    "quote": "from an institutional 3D design & eXtended Reality student society.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E2",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      22,
+      23
+    ],
+    "quote": "we randomly shuffled all design feedback, which were then divided into eight groups.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E2",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      22,
+      24,
+      28
+    ],
+    "quote": "around66.67% of the reference images created by MemoVis were rated positively, versus only around38.64%",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E2",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      22,
+      23,
+      41
+    ],
+    "quote": "Each questionnaire takes approximately10–15 min to complete.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E2",
+    "chain_id": "85-E2-C01",
+    "field": "claim_quote",
+    "pages": [
+      22,
+      23,
+      24
+    ],
+    "quote": "participants liked the explicitness of the generated reference images",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E2",
+    "chain_id": "85-E2-C01",
+    "field": "item_quote",
+    "pages": [
+      22,
+      23,
+      24
+    ],
+    "quote": "NR（文中给出测量内容：how well the reference image can convey the gist of the textual comment）",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 85,
+    "eval_id": "85-E2",
+    "chain_id": "85-E2-C01",
+    "field": "result_quote",
+    "pages": [
+      22,
+      23,
+      24
+    ],
+    "quote": "around66.67% of the reference images created by MemoVis were rated positively, versus only around38.64%",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      14,
+      15
+    ],
+    "quote": "the affective image score is taken as the output.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "quote": "The Cronbach α coefficients ... are all greater than 0.85, and the Kaiser-Meyer-Olkin (KMO) are both greater than 0.75",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      14,
+      15
+    ],
+    "quote": "both groups of questionnaires have reliable reliability and validity.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      14
+    ],
+    "quote": "50 participants and 50 train samples were randomly divided into 2 groups",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      5,
+      14,
+      15
+    ],
+    "quote": "calculate the subjective score mean matrix",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      5,
+      15
+    ],
+    "quote": "To eliminate the influence of individual differences among the participants",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      14,
+      15
+    ],
+    "quote": "The evaluation score is converted into a range of 1-7.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C01",
+    "field": "claim_quote",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "quote": "Record the subjective ratings of k participants on i samples in j affective image dimensions",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C01",
+    "field": "item_quote",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "quote": "Science-fiction",
+    "verification": "found_other_page"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C01",
+    "field": "result_quote",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "quote": "the evaluation scores of the 5-dimensional affective image of each subway train form sample",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C02",
+    "field": "claim_quote",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "quote": "Record the subjective ratings of k participants on i samples in j affective image dimensions",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C02",
+    "field": "item_quote",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "quote": "Humanistic",
+    "verification": "found_other_page"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C02",
+    "field": "result_quote",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "quote": "the evaluation scores of the 5-dimensional affective image of each subway train form sample",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C03",
+    "field": "claim_quote",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "quote": "Record the subjective ratings of k participants on i samples in j affective image dimensions",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C03",
+    "field": "item_quote",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "quote": "Exquisite",
+    "verification": "found_other_page"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C03",
+    "field": "result_quote",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "quote": "the evaluation scores of the 5-dimensional affective image of each subway train form sample",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C04",
+    "field": "claim_quote",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "quote": "Record the subjective ratings of k participants on i samples in j affective image dimensions",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C04",
+    "field": "item_quote",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "quote": "Grand",
+    "verification": "found_other_page"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C04",
+    "field": "result_quote",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "quote": "the evaluation scores of the 5-dimensional affective image of each subway train form sample",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C05",
+    "field": "claim_quote",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "quote": "Record the subjective ratings of k participants on i samples in j affective image dimensions",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C05",
+    "field": "item_quote",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "quote": "Efficient",
+    "verification": "found_other_page"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E1",
+    "chain_id": "86-E1-C05",
+    "field": "result_quote",
+    "pages": [
+      5,
+      11,
+      12,
+      14,
+      15
+    ],
+    "quote": "the evaluation scores of the 5-dimensional affective image of each subway train form sample",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      20
+    ],
+    "quote": "In order to verify the form optimization results of the proposed method",
+    "verification": "found_other_page"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      20,
+      21
+    ],
+    "quote": "rate the train line sketch in Figure 7(b)",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      20,
+      21
+    ],
+    "quote": "we re-invited 16 participants who had previously participated",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      20
+    ],
+    "quote": "16 participants who had previously participated in the train affective image evaluation experiment",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      20,
+      21
+    ],
+    "quote": "basically on par with samples mean",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      20,
+      23
+    ],
+    "quote": "improving the success rate of product development.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      20,
+      21
+    ],
+    "quote": "Evaluation results of optimized design scheme",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "86-E2-C01",
+    "field": "claim_quote",
+    "pages": [
+      20,
+      21,
+      23
+    ],
+    "quote": "In the two affective image dimensions of ‘efficient’ and ‘exquisite’, there have been varying degrees of optimization and improvement",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "86-E2-C01",
+    "field": "item_quote",
+    "pages": [
+      20,
+      21,
+      23
+    ],
+    "quote": "Efficient",
+    "verification": "found_other_page"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "86-E2-C01",
+    "field": "result_quote",
+    "pages": [
+      20,
+      21,
+      23
+    ],
+    "quote": "图8数值（人工核对页图）：Efficient 4.7/4.4; Exquisite 4.6/4.2; Grand 4.3/4.3",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "86-E2-C02",
+    "field": "claim_quote",
+    "pages": [
+      20,
+      21,
+      23
+    ],
+    "quote": "In the two affective image dimensions of ‘efficient’ and ‘exquisite’, there have been varying degrees of optimization and improvement",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "86-E2-C02",
+    "field": "item_quote",
+    "pages": [
+      20,
+      21,
+      23
+    ],
+    "quote": "Exquisite",
+    "verification": "found_other_page"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "86-E2-C02",
+    "field": "result_quote",
+    "pages": [
+      20,
+      21,
+      23
+    ],
+    "quote": "图8数值（人工核对页图）：Efficient 4.7/4.4; Exquisite 4.6/4.2; Grand 4.3/4.3",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "86-E2-C03",
+    "field": "claim_quote",
+    "pages": [
+      20,
+      21,
+      23
+    ],
+    "quote": "In the two affective image dimensions of ‘efficient’ and ‘exquisite’, there have been varying degrees of optimization and improvement",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "86-E2-C03",
+    "field": "item_quote",
+    "pages": [
+      20,
+      21,
+      23
+    ],
+    "quote": "Grand",
+    "verification": "found_other_page"
+  },
+  {
+    "paper_id": 86,
+    "eval_id": "86-E2",
+    "chain_id": "86-E2-C03",
+    "field": "result_quote",
+    "pages": [
+      20,
+      21,
+      23
+    ],
+    "quote": "图8数值（人工核对页图）：Efficient 4.7/4.4; Exquisite 4.6/4.2; Grand 4.3/4.3",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      13,
+      14
+    ],
+    "quote": "complete a Creativity Support Index (CSI) survey",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      14,
+      23,
+      28
+    ],
+    "quote": "the perception that the tool supports collaboration may be speculative.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      16
+    ],
+    "quote": "The Cronbach’s alpha of each CSI factor was greater than 0.7",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      12,
+      13,
+      14
+    ],
+    "quote": "the order of task 1 ... and task 2 ... was counterbalanced by randomization.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      12,
+      13,
+      16
+    ],
+    "quote": "Due to the non-normal distribution of differences between data pairs, we used the Wilcoxon signed-rank test",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      3,
+      16,
+      17
+    ],
+    "quote": "We did not statistically test each factor score. Instead, we compare them directly",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      14,
+      16,
+      17,
+      28
+    ],
+    "quote": "The answer for each item is \"High Disagree\" (0) to \"High Agree\" (10).",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C01",
+    "field": "claim_quote",
+    "pages": [
+      13,
+      14,
+      16,
+      17,
+      28
+    ],
+    "quote": "the CSI score for the Sketchar condition is significantly higher than that under the control baseline condition",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C01",
+    "field": "item_quote",
+    "pages": [
+      13,
+      14,
+      16,
+      17,
+      28
+    ],
+    "quote": "12项包括Collaboration, Enjoyment, Exploration, Expressiveness, Immersion, Results Worth Effort；原题见分链。",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C01",
+    "field": "result_quote",
+    "pages": [
+      13,
+      14,
+      16,
+      17,
+      28
+    ],
+    "quote": "p = .028",
+    "verification": "found_other_page"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C02",
+    "field": "claim_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "Sketchar scored higher than baseline control, especially in the Collaboration dimension.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C02",
+    "field": "item_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "The system or tool allowed other people to work with me easily. | It was really easy to share ideas and designs with other people inside this system or tool.",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C02",
+    "field": "result_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "Sketchar scored higher than baseline control, especially in the Collaboration dimension.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C03",
+    "field": "claim_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "On all dimensions except enjoyment, Sketchar scored higher than baseline control",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C03",
+    "field": "item_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "I would be happy to use this system or tool on a regular basis. | I enjoyed using the system or tool.",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C03",
+    "field": "result_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "On all dimensions except enjoyment, Sketchar scored higher than baseline control",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C04",
+    "field": "claim_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "The Exploration and Result-Worth-Effort subscores in the CSI results exceeded scores in the baseline control.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C04",
+    "field": "item_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "It was easy for me to explore many different ideas, options, designs, or outcomes, using this system or tool. | The system or tool was helpful in allowing me to track different ideas, outcomes, or possibilities.",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C04",
+    "field": "result_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "The Exploration and Result-Worth-Effort subscores in the CSI results exceeded scores in the baseline control.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C05",
+    "field": "claim_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "Large differences in factor scores were observed, particularly in the dimensions of Expressiveness and Results Worth Effort.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C05",
+    "field": "item_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "I was able to be very creative while doing the activity inside this system or tool. | The system or tool allowed me to be very expressive.",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C05",
+    "field": "result_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "Large differences in factor scores were observed, particularly in the dimensions of Expressiveness and Results Worth Effort.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C06",
+    "field": "claim_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "On all dimensions except enjoyment, Sketchar scored higher than baseline control",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C06",
+    "field": "item_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "My attention was fully tuned to the activity, and I forgot about the system or tool that I was using. | I became so absorbed in the activity that I forgot about the system or tool that I was using.",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C06",
+    "field": "result_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "On all dimensions except enjoyment, Sketchar scored higher than baseline control",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C07",
+    "field": "claim_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "The Exploration and Result-Worth-Effort subscores in the CSI results exceeded scores in the baseline control.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C07",
+    "field": "item_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "I was satisfied with what I got out of the system or tool. | What I was able to produce was worth the effort I had to exert to produce it.",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E1",
+    "chain_id": "87-E1-C07",
+    "field": "result_quote",
+    "pages": [
+      14,
+      16,
+      17,
+      20,
+      23,
+      28
+    ],
+    "quote": "The Exploration and Result-Worth-Effort subscores in the CSI results exceeded scores in the baseline control.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      11,
+      13
+    ],
+    "quote": "what challenges and adaptations they encountered",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "quote": "Drawing upon observation records and semi-structured interview data",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      14
+    ],
+    "quote": "through collaborative discussion by all three researchers, we reached a consensus",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      11,
+      12,
+      13
+    ],
+    "quote": "The experiment lasted approximately 60 minutes and was conducted online via the Kook platform.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      14,
+      15
+    ],
+    "quote": "participants with artistic skills ... exhibited a propensity towards discontentment",
+    "verification": "needs_check"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      15,
+      16,
+      23
+    ],
+    "quote": "This does not capture the actual collaboration",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      13,
+      14,
+      28
+    ],
+    "quote": "A Appendix: The outline of the in-depth interview with character designers",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "87-E2-C01",
+    "field": "claim_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      16,
+      23
+    ],
+    "quote": "The generated reference images provided assistance in visually expressing design requirements.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "87-E2-C01",
+    "field": "item_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      16,
+      23
+    ],
+    "quote": "NR（后测访谈具体逐字题干未给）",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "87-E2-C01",
+    "field": "result_quote",
+    "pages": [
+      13,
+      14,
+      15,
+      16,
+      23
+    ],
+    "quote": "I can inform the illustrator that I desire the face and hairstyle depicted in this picture",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "87-E2-C02",
+    "field": "claim_quote",
+    "pages": [
+      15
+    ],
+    "quote": "Classifying and expanding character design concepts through GenAI assists game designers in expressing creative ideas, fostering refinement of design details.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "87-E2-C02",
+    "field": "item_quote",
+    "pages": [
+      15
+    ],
+    "quote": "NR",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "87-E2-C02",
+    "field": "result_quote",
+    "pages": [
+      15
+    ],
+    "quote": "the expanded generation of the character’s worldview by this tool can also inspire me to think about the whole character’s setting",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "87-E2-C03",
+    "field": "claim_quote",
+    "pages": [
+      14,
+      15
+    ],
+    "quote": "Artistic participant backgrounds lead to a higher demand for details of game character design.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "87-E2-C03",
+    "field": "item_quote",
+    "pages": [
+      14,
+      15
+    ],
+    "quote": "NR",
+    "verification": "not_quoted"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E2",
+    "chain_id": "87-E2-C03",
+    "field": "result_quote",
+    "pages": [
+      14,
+      15
+    ],
+    "quote": "is hard to utilize in pragmatic workflows",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E3",
+    "chain_id": "",
+    "field": "U5",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "assessing the applicability of Sketchar’s outputs as conceptual references",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E3",
+    "chain_id": "",
+    "field": "A2",
+    "pages": [
+      17
+    ],
+    "quote": "useful for further character development in your workflow.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E3",
+    "chain_id": "",
+    "field": "A3",
+    "pages": [
+      16,
+      17,
+      28
+    ],
+    "quote": "five illustrators from the preliminary study as expert evaluators.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E3",
+    "chain_id": "",
+    "field": "A4",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "five distinct prompts ... ten reference images each",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E3",
+    "chain_id": "",
+    "field": "A6",
+    "pages": [
+      17
+    ],
+    "quote": "an average of 6.84 images per set (ten)",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E3",
+    "chain_id": "",
+    "field": "A7",
+    "pages": [
+      17
+    ],
+    "quote": "would contribute to real-world workflow",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E3",
+    "chain_id": "",
+    "field": "E1",
+    "pages": [
+      17,
+      18
+    ],
+    "quote": "ranked the quality of images based on their practical utility",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E3",
+    "chain_id": "87-E3-C01",
+    "field": "claim_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "The experts identified an average of 6.84 images per set (ten) as relevant valuable references for game character artists.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E3",
+    "chain_id": "87-E3-C01",
+    "field": "item_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "useful for further character development in your workflow.",
+    "verification": "exact_normalized"
+  },
+  {
+    "paper_id": 87,
+    "eval_id": "87-E3",
+    "chain_id": "87-E3-C01",
+    "field": "result_quote",
+    "pages": [
+      16,
+      17
+    ],
+    "quote": "an average of 6.84 images per set (ten)",
+    "verification": "exact_normalized"
+  }
+]
